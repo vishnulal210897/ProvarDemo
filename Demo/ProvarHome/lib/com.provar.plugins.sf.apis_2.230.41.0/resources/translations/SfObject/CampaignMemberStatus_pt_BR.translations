@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CampaignMemberStatus.CampaignId" type="SfFieldLabel" value="Da campanha"/>
+  <translation key="CampaignMemberStatus.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="CampaignMemberStatus.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="CampaignMemberStatus.HasResponded" type="SfFieldLabel" value="Respondido"/>
+  <translation key="CampaignMemberStatus.Id" type="SfFieldLabel" value="ID do status do membro da campanha"/>
+  <translation key="CampaignMemberStatus.IsDefault" type="SfFieldLabel" value="Padrão"/>
+  <translation key="CampaignMemberStatus.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="CampaignMemberStatus.Label" type="SfFieldLabel" value="Status do membro"/>
+  <translation key="CampaignMemberStatus.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="CampaignMemberStatus.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="CampaignMemberStatus.SortOrder" type="SfFieldLabel" value="Ordem de classificação"/>
+  <translation key="CampaignMemberStatus.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Attachment.Body" type="SfFieldLabel" value="Brödtext"/>
+  <translation key="Attachment.ConnectionReceivedId" type="SfFieldLabel" value="Mottaget kopplings"/>
+  <translation key="Attachment.ConnectionSentId" type="SfFieldLabel" value="Skickat kopplings"/>
+  <translation key="Attachment.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="Attachment.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="Attachment.Description" type="SfFieldLabel" value="Beskrivning"/>
+  <translation key="Attachment.Id" type="SfFieldLabel" value="Bifogad fil-ID"/>
+  <translation key="Attachment.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="Attachment.IsPrivate" type="SfFieldLabel" value="Privat"/>
+  <translation key="Attachment.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="Attachment.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Attachment.Name" type="SfFieldLabel" value="Filnamn"/>
+  <translation key="Attachment.Owner" type="SfFieldLabel" value="Ägarens"/>
+  <translation key="Attachment.ParentId" type="SfFieldLabel" value="Överordnat"/>
+  <translation key="Attachment.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowInterviewLogEntry.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="FlowInterviewLogEntry.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="FlowInterviewLogEntry.Id" type="SfFieldLabel" value="Post-ID för flödesintervjulogg"/>
+  <translation key="FlowInterviewLogEntry.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="FlowInterviewLogEntry.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="FlowInterviewLogEntry.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="FlowInterviewLogEntry.Name" type="SfFieldLabel" value="Namn"/>
+  <translation key="FlowInterviewLogEntry.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

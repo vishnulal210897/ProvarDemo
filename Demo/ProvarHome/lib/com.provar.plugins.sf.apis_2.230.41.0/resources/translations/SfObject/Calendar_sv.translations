@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Calendar.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="Calendar.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="Calendar.Id" type="SfFieldLabel" value="Kalender-ID"/>
+  <translation key="Calendar.IsActive" type="SfFieldLabel" value="Aktiv"/>
+  <translation key="Calendar.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="Calendar.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Calendar.Name" type="SfFieldLabel" value="Kalendernamn"/>
+  <translation key="Calendar.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+  <translation key="Calendar.Type" type="SfFieldLabel" value="Kalendertyp"/>
+</translations>

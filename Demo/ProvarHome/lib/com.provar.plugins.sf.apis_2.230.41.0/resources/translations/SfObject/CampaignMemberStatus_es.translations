@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CampaignMemberStatus.CampaignId" type="SfFieldLabel" value="{Campaign}.{SfObject.Label}"/>
+  <translation key="CampaignMemberStatus.Id" type="SfFieldLabel" value="Id. de estado de los miembros de la campaña"/>
+  <translation key="CampaignMemberStatus.SortOrder" type="SfFieldLabel" value="Orden de clasificación"/>
+</translations>

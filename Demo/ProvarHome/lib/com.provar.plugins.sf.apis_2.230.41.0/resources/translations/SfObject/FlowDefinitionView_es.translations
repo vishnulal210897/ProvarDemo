@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowDefinitionView.ApiName" type="SfFieldLabel" value="Nombre de API del flujo"/>
+  <translation key="FlowDefinitionView.Description" type="SfFieldLabel" value="Descripción de flujo"/>
+  <translation key="FlowDefinitionView.Id" type="SfFieldLabel" value="Id. de Vista de definición de flujo"/>
+  <translation key="FlowDefinitionView.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="FlowDefinitionView.Label" type="SfFieldLabel" value="Etiqueta del flujo"/>
+  <translation key="FlowDefinitionView.LastModifiedDate" type="SfFieldLabel" value="Fecha de última modificación"/>
+  <translation key="FlowDefinitionView.NamespacePrefix" type="SfFieldLabel" value="Espacio de nombres de flujo"/>
+</translations>

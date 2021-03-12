@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PromptVersionLocalization.CreatedById" type="SfFieldLabel" value="Creado por"/>
+  <translation key="PromptVersionLocalization.CreatedDate" type="SfFieldLabel" value="Fecha de creación"/>
+  <translation key="PromptVersionLocalization.Id" type="SfFieldLabel" value="Id. de traducción"/>
+  <translation key="PromptVersionLocalization.Language" type="SfFieldLabel" value="Idioma"/>
+  <translation key="PromptVersionLocalization.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="PromptVersionLocalization.LastModifiedDate" type="SfFieldLabel" value="Fecha de la última modificación"/>
+  <translation key="PromptVersionLocalization.NamespacePrefix" type="SfFieldLabel" value="Prefijo de espacio de nombres"/>
+  <translation key="PromptVersionLocalization.ParentId" type="SfFieldLabel" value="Id. principal"/>
+  <translation key="PromptVersionLocalization.SystemModstamp" type="SfFieldLabel" value="Modstamp del sistema"/>
+  <translation key="PromptVersionLocalization.Value" type="SfFieldLabel" value="Texto de traducción"/>
+</translations>

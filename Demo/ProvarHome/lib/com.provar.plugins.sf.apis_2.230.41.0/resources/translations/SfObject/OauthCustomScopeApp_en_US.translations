@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OauthCustomScopeApp.Id" type="SfFieldLabel" value="Oauth Custom Scope App ID"/>
+</translations>

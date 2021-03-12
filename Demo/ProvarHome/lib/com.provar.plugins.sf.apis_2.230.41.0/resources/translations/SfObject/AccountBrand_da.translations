@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AccountBrand.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="AccountBrand.Address" type="SfFieldLabel" value="Adres"/>
+  <translation key="AccountBrand.CreatedById" type="SfFieldLabel" value="Gemaakt door"/>
+  <translation key="AccountBrand.CreatedDate" type="SfFieldLabel" value="Aanmaakdatum"/>
+  <translation key="AccountBrand.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="AccountBrand.Email" type="SfFieldLabel" value="E-mail"/>
+  <translation key="AccountBrand.Id" type="SfFieldLabel" value="Account-&quot;branding&quot;-ID"/>
+  <translation key="AccountBrand.IsDeleted" type="SfFieldLabel" value="Verwijderd"/>
+  <translation key="AccountBrand.LastModifiedById" type="SfFieldLabel" value="Laatste wijziging door"/>
+  <translation key="AccountBrand.LastReferencedDate" type="SfFieldLabel" value="Laatste datum waarnaar is verwezen"/>
+  <translation key="AccountBrand.LastViewedDate" type="SfFieldLabel" value="Datum laatst weergegeven"/>
+  <translation key="AccountBrand.Name" type="SfFieldLabel" value="Navn"/>
+  <translation key="AccountBrand.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="AccountBrand.Phone" type="SfFieldLabel" value="Telefoon"/>
+  <translation key="AccountBrand.SystemModstamp" type="SfFieldLabel" value="Systeemwijzigingsstempel"/>
+  <translation key="AccountBrand.UserRecordAccessId" type="SfFieldLabel" value="Objecttoegangsniveau"/>
+</translations>

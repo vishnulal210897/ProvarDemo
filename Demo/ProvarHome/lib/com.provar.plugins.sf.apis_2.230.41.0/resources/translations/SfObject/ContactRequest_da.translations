@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactRequest.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="ContactRequest.Id" type="SfFieldLabel" value="Id for kontaktanmodning"/>
+  <translation key="ContactRequest.Name" type="SfFieldLabel" value="Nummer for kontaktanmodning"/>
+  <translation key="ContactRequest.Status" type="SfFieldLabel" value="Anmodningsstatus"/>
+</translations>

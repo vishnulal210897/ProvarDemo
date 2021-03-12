@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrderStatus.Id" type="SfFieldLabel" value="Id. de Valor de estado de pedido"/>
+  <translation key="OrderStatus.SortOrder" type="SfFieldLabel" value="Orden de clasificación"/>
+  <translation key="OrderStatus.StatusCode" type="SfFieldLabel" value="Código de estado"/>
+</translations>

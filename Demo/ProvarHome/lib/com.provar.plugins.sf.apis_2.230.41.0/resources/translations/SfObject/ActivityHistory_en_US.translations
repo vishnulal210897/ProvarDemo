@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ActivityHistory.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="ActivityHistory.Description" type="SfFieldLabel" value="Comments"/>
+  <translation key="ActivityHistory.Id" type="SfFieldLabel" value="Activity ID"/>
+  <translation key="ActivityHistory.IsTask" type="SfFieldLabel" value="{Task}.{SfObject.Label}"/>
+  <translation key="ActivityHistory.Owner" type="SfFieldLabel" value="Assigned To"/>
+  <translation key="ActivityHistory.WhoId" type="SfFieldLabel" value="Name"/>
+</translations>

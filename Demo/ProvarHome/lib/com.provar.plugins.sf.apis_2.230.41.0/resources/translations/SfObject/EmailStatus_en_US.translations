@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EmailStatus.CreatedDate" type="SfFieldLabel" value="Date Sent"/>
+  <translation key="EmailStatus.Id" type="SfFieldLabel" value="Email Status ID"/>
+  <translation key="EmailStatus.WhoId" type="SfFieldLabel" value="Name"/>
+</translations>

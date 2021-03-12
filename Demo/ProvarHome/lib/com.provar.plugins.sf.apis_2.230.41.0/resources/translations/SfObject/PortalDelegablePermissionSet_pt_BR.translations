@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PortalDelegablePermissionSet.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="PortalDelegablePermissionSet.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="PortalDelegablePermissionSet.Id" type="SfFieldLabel" value="ID do conjunto de permissões delegáveis do portal"/>
+  <translation key="PortalDelegablePermissionSet.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="PortalDelegablePermissionSet.Language" type="SfFieldLabel" value="Idioma mestre"/>
+  <translation key="PortalDelegablePermissionSet.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="PortalDelegablePermissionSet.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="PortalDelegablePermissionSet.MasterLabel" type="SfFieldLabel" value="Rótulo"/>
+  <translation key="PortalDelegablePermissionSet.PermissionSetId" type="SfFieldLabel" value="PermissionSet"/>
+  <translation key="PortalDelegablePermissionSet.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

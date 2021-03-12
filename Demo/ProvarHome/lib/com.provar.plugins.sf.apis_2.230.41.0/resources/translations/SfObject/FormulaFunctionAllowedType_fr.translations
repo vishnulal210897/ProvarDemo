@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FormulaFunctionAllowedType.DurableId" type="SfFieldLabel" value="Durable de type Fonction de formule autorisée"/>
+  <translation key="FormulaFunctionAllowedType.Id" type="SfFieldLabel" value="ID de type Fonction de formule autorisée"/>
+  <translation key="FormulaFunctionAllowedType.Type" type="SfFieldLabel" value="Type"/>
+</translations>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Lead.Address" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="Lead.CampaignId" type="SfFieldLabel" value="{Campaign}.{SfObject.Label}"/>
+  <translation key="Lead.CurrencyIsoCode" type="SfFieldLabel" value="Lead Currency"/>
+  <translation key="Lead.Id" type="SfFieldLabel" value="Lead ID"/>
+  <translation key="Lead.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="Lead.Mobile" type="SfFieldLabel" value="Mobile"/>
+  <translation key="Lead.NoOfEmployees" type="SfFieldLabel" value="No. of Employees"/>
+  <translation internalLabel="Owner ID" key="Lead.Owner" type="SfFieldLabel" value="Lead Owner"/>
+  <translation key="Lead.RecordType" type="SfFieldLabel" value="Lead Record Type"/>
+  <translation key="Lead.Source" type="SfFieldLabel" value="Lead Source"/>
+  <translation key="Lead.Status" type="SfFieldLabel" value="Lead Status"/>
+</translations>

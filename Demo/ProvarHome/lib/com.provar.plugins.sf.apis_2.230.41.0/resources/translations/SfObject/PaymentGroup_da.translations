@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentGroup.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="PaymentGroup.Id" type="SfFieldLabel" value="Id for betalingsgruppe"/>
+  <translation key="PaymentGroup.PaymentGroupNumber" type="SfFieldLabel" value="Nummer på betalingsgruppe"/>
+</translations>

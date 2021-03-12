@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CampaignMember.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="CampaignMember.CurrencyIsoCode" type="SfFieldLabel" value="Kampagnemedlemsvaluta"/>
+  <translation key="CampaignMember.Id" type="SfFieldLabel" value="Kampagnemedlems-id"/>
+  <translation key="CampaignMember.IsPrimary" type="SfFieldLabel" value="Er primær"/>
+  <translation key="CampaignMember.LeadSource" type="SfFieldLabel" value="Emnekilde"/>
+  <translation key="CampaignMember.Name" type="SfFieldLabel" value="Navn"/>
+  <translation key="CampaignMember.LastModifiedDate" relatedListLabel="Medlemsstatus opdateret" type="SfFieldLabel" value="Medlemsstatus opdateret"/>
+  <translation key="*.*.Campaign Member Information" type="SfLayoutSectionLabel" value="Oplysninger om kampagnemedlem"/>
+</translations>

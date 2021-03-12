@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingTemplate.Id" type="SfFieldLabel" value="Id. de Plantilla de Mensajería"/>
+  <translation key="MessagingTemplate.Language" type="SfFieldLabel" value="Idioma principal"/>
+  <translation key="MessagingTemplate.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="MessagingTemplate.MasterLabel" type="SfFieldLabel" value="Nombre de la plantilla"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="KnowledgeArticleVersion.IsDeleted" type="SfFieldLabel" value="Is Deleted"/>
+  <translation key="KnowledgeArticleVersion.Owner" type="SfFieldLabel" value="Owner"/>
+  <translation key="KnowledgeArticleVersion.PublishStatus" type="SfFieldLabel" value="Publication Status"/>
+</translations>

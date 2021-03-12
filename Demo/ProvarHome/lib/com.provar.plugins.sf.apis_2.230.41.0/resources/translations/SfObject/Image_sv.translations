@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Image.Id" type="SfFieldLabel" value="Bild-ID"/>
+  <translation key="Image.ImageAlternateText" type="SfFieldLabel" value="Bild för alternativ text"/>
+  <translation key="Image.ImageClass" type="SfFieldLabel" value="Bildklass"/>
+  <translation key="Image.ImageClassObjectType" type="SfFieldLabel" value="Objekttyp för bildklass"/>
+  <translation key="Image.ImageTitle" type="SfFieldLabel" value="Bildtitel"/>
+  <translation key="Image.ImageUrl" type="SfFieldLabel" value="Bild-URL"/>
+  <translation key="Image.ImageViewType" type="SfFieldLabel" value="Typ av bildvy"/>
+</translations>

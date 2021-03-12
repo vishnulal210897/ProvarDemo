@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceReport.Document" type="SfFieldLabel" value="{Document}.{SfObject.Label}"/>
+  <translation key="ServiceReport.DocumentName" type="SfFieldLabel" value="Dokumentnavn"/>
+  <translation key="ServiceReport.DocumentVersion" type="SfFieldLabel" value="Servicerapportdokumentversion"/>
+  <translation key="ServiceReport.Id" type="SfFieldLabel" value="Id for servicerapport"/>
+  <translation key="ServiceReport.ParentId" type="SfFieldLabel" value="Overordnet"/>
+  <translation key="ServiceReport.ServiceReportLanguage" type="SfFieldLabel" value="Servicerapportsprog"/>
+  <translation key="ServiceReport.ServiceReportNumber" type="SfFieldLabel" value="Servicerapportnavn"/>
+  <translation key="ServiceReport.Template" type="SfFieldLabel" value="Servicerapportskabelon"/>
+</translations>

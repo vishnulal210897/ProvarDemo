@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PortalDelegablePermissionSet.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="PortalDelegablePermissionSet.Id" type="SfFieldLabel" value="ID des delegierbaren Portal-Berechtigungssatzes"/>
+  <translation key="PortalDelegablePermissionSet.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+</translations>

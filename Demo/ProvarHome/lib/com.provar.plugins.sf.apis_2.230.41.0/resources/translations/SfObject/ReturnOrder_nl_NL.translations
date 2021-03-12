@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ReturnOrder.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="ReturnOrder.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="ReturnOrder.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="ReturnOrder.Id" type="SfFieldLabel" value="Retourorder-ID"/>
+  <translation key="ReturnOrder.OrderId" type="SfFieldLabel" value="{Order}.{SfObject.Label}"/>
+  <translation key="ReturnOrder.Owner" type="SfFieldLabel" value="Eigenaar"/>
+  <translation key="ReturnOrder.ProductRequestId" type="SfFieldLabel" value="Productaanvraag"/>
+  <translation key="ReturnOrder.ShipFromStreet" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ReturnOrder.ShipmentType" type="SfFieldLabel" value="Type verzending"/>
+</translations>

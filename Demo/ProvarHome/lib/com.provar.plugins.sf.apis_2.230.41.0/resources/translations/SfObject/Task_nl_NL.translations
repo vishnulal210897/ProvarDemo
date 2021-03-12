@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Task.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Task.ActivityDate" type="SfFieldLabel" value="Vervaldatum"/>
+  <translation key="Task.Comments" type="SfFieldLabel" value="Opmerkingen"/>
+  <translation key="Task.CurrencyIsoCode" type="SfFieldLabel" value="Activiteitvaluta"/>
+  <translation key="Task.Description" type="SfFieldLabel" value="Opmerkingen"/>
+  <translation key="Task.Id" type="SfFieldLabel" value="Activiteit-id"/>
+  <translation key="Task.IsArchived" type="SfFieldLabel" value="Gearchiveerd"/>
+  <translation key="Task.IsRecurrence" type="SfFieldLabel" value="Terugkerende reeks van taken maken"/>
+  <translation key="Task.IsVisibleInSelfService" type="SfFieldLabel" value="Openbaar"/>
+  <translation key="Task.Owner" type="SfFieldLabel" value="Toegewezen aan"/>
+  <translation key="Task.RecurrenceRegeneratedType" type="SfFieldLabel" value="Deze taak herhalen"/>
+  <translation key="Task.TaskSubtype" type="SfFieldLabel" value="Subtype taak"/>
+  <translation key="Task.WhoId" type="SfFieldLabel" value="Naam"/>
+</translations>

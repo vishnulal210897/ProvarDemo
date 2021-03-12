@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TaskStatus.Id" type="SfFieldLabel" value="Id. del valor del estado de la tarea"/>
+  <translation key="TaskStatus.IsClosed" type="SfFieldLabel" value="Está cerrado"/>
+  <translation key="TaskStatus.SortOrder" type="SfFieldLabel" value="Orden de clasificación"/>
+</translations>

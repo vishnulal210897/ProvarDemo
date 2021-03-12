@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Individual.Id" type="SfFieldLabel" value="Id for enkeltperson"/>
+  <translation key="Individual.MasterRecordId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="Individual.Name" type="SfFieldLabel" value="Navn"/>
+  <translation key="Individual.Owner" type="SfFieldLabel" value="Individuel ejer"/>
+</translations>

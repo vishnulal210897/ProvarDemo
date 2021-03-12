@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseContactRole.CasesId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="CaseContactRole.ContactId" relatedListLabel="{Contact}.{ContactName}" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="CaseContactRole.Id" type="SfFieldLabel" value="Función del contacto para"/>
+  <translation key="CaseContactRole.IsPrimary" type="SfFieldLabel" value="Primario"/>
+</translations>

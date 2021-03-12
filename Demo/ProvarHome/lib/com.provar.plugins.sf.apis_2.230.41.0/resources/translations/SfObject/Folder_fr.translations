@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Folder.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Folder.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="Folder.DeveloperName" type="SfFieldLabel" value="Nom unique de dossier"/>
+  <translation key="Folder.Id" type="SfFieldLabel" value="ID du dossier"/>
+  <translation key="Folder.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Folder.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="Folder.Name" type="SfFieldLabel" value="Nom"/>
+  <translation key="Folder.NamespacePrefix" type="SfFieldLabel" value="Préfixe d'espace de noms"/>
+  <translation key="Folder.ParentId" type="SfFieldLabel" value="Du dossier"/>
+  <translation key="Folder.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="Folder.Type" type="SfFieldLabel" value="Type"/>
+</translations>

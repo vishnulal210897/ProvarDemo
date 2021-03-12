@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="User.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="User.Address" type="SfFieldLabel" value="Adres"/>
+  <translation key="User.BannerPhotoId" type="SfFieldLabel" value="Bannerfoto"/>
+  <translation key="User.BannerPhotoUrl" type="SfFieldLabel" value="URL voor bannerfoto"/>
+  <translation key="User.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="User.CreatedDate" type="SfFieldLabel" value="Aanmaakdatum"/>
+  <translation key="User.CurrencyIsoCode" type="SfFieldLabel" value="Gegevensvaluta"/>
+  <translation key="User.Email" type="SfFieldLabel" value="E-mail"/>
+  <translation key="User.FullPhotoUrl" type="SfFieldLabel" value="URL voor foto op ware grootte"/>
+  <translation key="User.Id" type="SfFieldLabel" value="Gebruikers-ID"/>
+  <translation key="User.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="User.IsActive" type="SfFieldLabel" value="Actief"/>
+  <translation key="User.LastModifiedById" type="SfFieldLabel" value="Laatste wijziging door"/>
+  <translation key="User.LastReferencedDate" type="SfFieldLabel" value="Laatste datum waarnaar is verwezen"/>
+  <translation key="User.LastViewedDate" type="SfFieldLabel" value="Datum laatst weergegeven"/>
+  <translation key="User.MediumPhotoUrl" type="SfFieldLabel" value="URL voor mediumprofielfoto"/>
+  <translation key="User.MobilePhone" type="SfFieldLabel" value="Mobiel"/>
+  <translation key="User.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="User.Phone" type="SfFieldLabel" value="Telefoon"/>
+  <translation key="User.ProfileId" type="SfFieldLabel" value="Profiel"/>
+  <translation key="User.SystemModstamp" type="SfFieldLabel" value="Systeemwijzigingsstempel"/>
+  <translation key="User.Title" type="SfFieldLabel" value="Functie"/>
+  <translation key="User.UserPermissionsInteractionUser" type="SfFieldLabel" value="Flow-bruger"/>
+  <translation key="User.UserPermissionsJigsawProspectingUser" type="SfFieldLabel" value="Data.com-bruger"/>
+  <translation key="User.UserPermissionsKnowledgeUser" type="SfFieldLabel" value="Knowledge-bruger"/>
+  <translation key="User.UserPermissionsMarketingUser" type="SfFieldLabel" value="Marketingbruger"/>
+  <translation key="User.UserPermissionsMobileUser" type="SfFieldLabel" value="Apex Mobile-bruger"/>
+  <translation key="User.UserPermissionsOfflineUser" type="SfFieldLabel" value="Offlinebruger"/>
+  <translation key="User.UserPermissionsSFContentUser" type="SfFieldLabel" value="Salesforce CRM Content-bruger"/>
+  <translation key="User.UserPermissionsSiteforceContributorUser" type="SfFieldLabel" value="Site.com Contributor-bruger"/>
+  <translation key="User.UserPermissionsSiteforcePublisherUser" type="SfFieldLabel" value="Site.com Publisher-bruger"/>
+  <translation key="User.UserPermissionsSupportUser" type="SfFieldLabel" value="Service Cloud-bruger"/>
+  <translation key="User.UserPermissionsWorkDotComUserFeature" type="SfFieldLabel" value="Work.com-bruger"/>
+</translations>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductConsumed.Id" type="SfFieldLabel" value="ID för använd produkt"/>
+  <translation key="ProductConsumed.ProductConsumedNumber" type="SfFieldLabel" value="Nummer för använd produkt"/>
+</translations>

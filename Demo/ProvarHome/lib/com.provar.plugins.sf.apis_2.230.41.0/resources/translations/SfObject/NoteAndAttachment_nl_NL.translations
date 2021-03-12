@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="NoteAndAttachment.Id" type="SfFieldLabel" value="Notitie- of bijlage-ID"/>
+  <translation key="NoteAndAttachment.Owner" type="SfFieldLabel" value="Eigenaar"/>
+  <translation key="NoteAndAttachment.ParentId" type="SfFieldLabel" value="Bovenliggende element"/>
+</translations>

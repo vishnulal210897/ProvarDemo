@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="User.BadgeText" type="SfFieldLabel" value="Emblemöverlägg med text för användarens foto"/>
+  <translation key="User.UserPermissionsInteractionUser" type="SfFieldLabel" value="Flödesanvändare"/>
+  <translation key="User.UserPermissionsJigsawProspectingUser" type="SfFieldLabel" value="Data.com användare"/>
+  <translation key="User.UserPermissionsKnowledgeUser" type="SfFieldLabel" value="Kunskapsanvändare"/>
+  <translation key="User.UserPermissionsMarketingUser" type="SfFieldLabel" value="Användare av marknadsfunktioner"/>
+  <translation key="User.UserPermissionsMobileUser" type="SfFieldLabel" value="Apex Mobile-användare"/>
+  <translation key="User.UserPermissionsOfflineUser" type="SfFieldLabel" value="Offline-användare"/>
+  <translation key="User.UserPermissionsSFContentUser" type="SfFieldLabel" value="Salesforce CRM Content-användare"/>
+  <translation key="User.UserPermissionsSiteforceContributorUser" type="SfFieldLabel" value="Site.com Contributor-användare"/>
+  <translation key="User.UserPermissionsSiteforcePublisherUser" type="SfFieldLabel" value="Site.com Publisher-användare"/>
+  <translation key="User.UserPermissionsSupportUser" type="SfFieldLabel" value="Service Cloud-användare"/>
+  <translation key="User.UserPermissionsWorkDotComUserFeature" type="SfFieldLabel" value="Work.com-användare"/>
+</translations>

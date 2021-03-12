@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Attachment.Body" type="SfFieldLabel" value="Corps"/>
+  <translation key="Attachment.ConnectionReceivedId" type="SfFieldLabel" value="De connexion reçue"/>
+  <translation key="Attachment.ConnectionSentId" type="SfFieldLabel" value="De connexion envoyée"/>
+  <translation key="Attachment.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Attachment.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="Attachment.Description" type="SfFieldLabel" value="Description"/>
+  <translation key="Attachment.Id" type="SfFieldLabel" value="ID de la pièce jointe"/>
+  <translation key="Attachment.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="Attachment.IsPrivate" type="SfFieldLabel" value="Privé"/>
+  <translation key="Attachment.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Attachment.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="Attachment.Name" type="SfFieldLabel" value="Nom du fichier"/>
+  <translation key="Attachment.Owner" type="SfFieldLabel" value="Du propriétaire"/>
+  <translation key="Attachment.ParentId" type="SfFieldLabel" value="Parent"/>
+  <translation key="Attachment.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

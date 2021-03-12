@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpportunityPartner.AccountToId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="OpportunityPartner.Id" type="SfFieldLabel" value="Opportunity Partner ID"/>
+  <translation key="OpportunityPartner.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+</translations>

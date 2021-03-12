@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkCapacityLimit.Id" type="SfFieldLabel" value="Id. de Límite de capacidad de trabajo"/>
+  <translation key="WorkCapacityLimit.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="WorkCapacityLimit.Owner" type="SfFieldLabel" value="Propietario"/>
+  <translation key="WorkCapacityLimit.WorkCapacityLimitNumber" type="SfFieldLabel" value="Número de límite de capacidad de trabajo"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AccountBrand.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="AccountBrand.Id" type="SfFieldLabel" value="Accountmarke – ID"/>
+  <translation key="AccountBrand.Owner" type="SfFieldLabel" value="Inhabername"/>
+</translations>

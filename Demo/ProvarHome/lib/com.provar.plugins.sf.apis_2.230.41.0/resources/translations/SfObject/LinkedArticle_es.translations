@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LinkedArticle.Id" type="SfFieldLabel" value="ID articolo collegato"/>
+  <translation key="LinkedArticle.KnowledgeArticleId" type="SfFieldLabel" value="Articolo"/>
+  <translation key="LinkedArticle.Name" type="SfFieldLabel" value="Titolo articolo collegato"/>
+  <translation key="LinkedArticle.Type" type="SfFieldLabel" value="Tipo oggetto collegato"/>
+</translations>

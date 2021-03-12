@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Event.EventSubtype" type="SfFieldLabel" value="Händelseundertyp"/>
+  <translation key="Event.GroupEventType" type="SfFieldLabel" value="Grupphändelsetyp"/>
+  <translation key="Event.IsAllDayEvent" type="SfFieldLabel" value="Hela dagen händelse"/>
+  <translation key="Event.IsGroupEvent" type="SfFieldLabel" value="Är händelse för grupp"/>
+  <translation key="Event.IsRecurrence" type="SfFieldLabel" value="Skapar återkommande serie för Händelser"/>
+  <translation key="Event.IsRecurrence2Exclusion" type="SfFieldLabel" value="Historisk händelse, inte återkommande"/>
+  <translation key="Event.Owner" type="SfFieldLabel" value="Tilldelad till"/>
+</translations>

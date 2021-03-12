@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingChannel.Id" type="SfFieldLabel" value="ID messaging channel"/>
+  <translation key="MessagingChannel.Language" type="SfFieldLabel" value="Lingua principale"/>
+  <translation key="MessagingChannel.LastModifiedDate" type="SfFieldLabel" value="Modificato il"/>
+  <translation key="MessagingChannel.MasterLabel" type="SfFieldLabel" value="Nome canale"/>
+</translations>

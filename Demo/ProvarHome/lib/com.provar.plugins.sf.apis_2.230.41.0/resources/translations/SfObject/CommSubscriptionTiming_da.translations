@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CommSubscriptionTiming.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="CommSubscriptionTiming.Id" type="SfFieldLabel" value="Id for timing for kommunikationsabonnement"/>
+  <translation key="CommSubscriptionTiming.Name" type="SfFieldLabel" value="Navn"/>
+</translations>

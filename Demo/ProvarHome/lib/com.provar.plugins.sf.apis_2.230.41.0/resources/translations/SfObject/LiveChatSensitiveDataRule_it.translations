@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LiveChatSensitiveDataRule.ActionType" type="SfFieldLabel" value="Azione"/>
+  <translation key="LiveChatSensitiveDataRule.Id" type="SfFieldLabel" value="ID regola sui dati sensibili"/>
+  <translation key="LiveChatSensitiveDataRule.Language" type="SfFieldLabel" value="Lingua principale"/>
+  <translation key="LiveChatSensitiveDataRule.MasterLabel" type="SfFieldLabel" value="Nome regola sui dati sensibili"/>
+</translations>

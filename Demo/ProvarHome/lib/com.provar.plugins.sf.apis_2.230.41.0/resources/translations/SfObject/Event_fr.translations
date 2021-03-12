@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Event.EventSubtype" type="SfFieldLabel" value="Sous-type d'événement"/>
+  <translation key="Event.GroupEventType" type="SfFieldLabel" value="Type d'événement de groupe"/>
+  <translation key="Event.IsGroupEvent" type="SfFieldLabel" value="Est un événement de groupe"/>
+  <translation key="Event.IsRecurrence" type="SfFieldLabel" value="Créer une série récurrente d'événements"/>
+  <translation key="Event.IsRecurrence2Exclusion" type="SfFieldLabel" value="Événementhistorique, ne suivant pas la récurrence"/>
+  <translation key="Event.CurrencyIsoCode" type="SfFieldLabel" value="Devise de l'activité"/>
+  <translation key="Event.Owner" type="SfFieldLabel" value="Attribué à"/>
+  <translation key="Event.StartDateTime" type="SfFieldLabel" value="Début"/>
+  <translation key="Event.EndDateTime" type="SfFieldLabel" value="Fin"/>
+  <translation key="Event.WhatId" type="SfFieldLabel" value="Associé à"/>  
+  <translation key="Event.WhoId" type="SfFieldLabel" value="Nom"/>
+</translations>

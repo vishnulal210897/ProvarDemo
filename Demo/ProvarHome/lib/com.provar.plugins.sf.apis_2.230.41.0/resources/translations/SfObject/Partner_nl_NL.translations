@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Partner.AccountFromId" type="SfFieldLabel" value="Account van"/>
+  <translation key="Partner.AccountToId" type="SfFieldLabel" value="Account aan"/>
+  <translation key="Partner.Id" type="SfFieldLabel" value="Partner-id"/>
+  <translation key="Partner.OpportunityId" type="SfFieldLabel" value="Opportunity-id"/>
+</translations>

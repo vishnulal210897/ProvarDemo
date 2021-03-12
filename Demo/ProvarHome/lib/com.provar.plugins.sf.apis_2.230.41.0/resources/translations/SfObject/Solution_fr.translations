@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Solution.Id" type="SfFieldLabel" value="ID de la solution"/>
+  <translation key="Solution.SolutionNumber" type="SfFieldLabel" value="Numéro de la solution"/>
+  <translation key="*.*.Solution Information" type="SfLayoutSectionLabel" value="Informations sur la solution"/>
+</translations>

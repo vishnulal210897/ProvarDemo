@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrgMetric.Id" type="SfFieldLabel" value="Id. de Medición de organización"/>
+  <translation key="OrgMetric.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="OrgMetric.Name" type="SfFieldLabel" value="Medición de organización"/>
+</translations>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EmailTemplate.Body" type="SfFieldLabel" value="Corpo do email"/>
+  <translation key="EmailTemplate.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="EmailTemplate.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="EmailTemplate.Description" type="SfFieldLabel" value="Descrição"/>
+  <translation key="EmailTemplate.DeveloperName" type="SfFieldLabel" value="Nome exclusivo do modelo"/>
+  <translation key="EmailTemplate.Id" type="SfFieldLabel" value="ID do modelo de email"/>
+  <translation key="EmailTemplate.IsActive" type="SfFieldLabel" value="Disponível para uso"/>
+  <translation key="EmailTemplate.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="EmailTemplate.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="EmailTemplate.Name" type="SfFieldLabel" value="Nome do modelo de email"/>
+  <translation key="EmailTemplate.NamespacePrefix" type="SfFieldLabel" value="Prefixo do namespace"/>
+  <translation key="EmailTemplate.Owner" type="SfFieldLabel" value="Do proprietário"/>
+  <translation key="EmailTemplate.Subject" type="SfFieldLabel" value="Assunto"/>
+  <translation key="EmailTemplate.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+  <translation key="EmailTemplate.TimesUsed" type="SfFieldLabel" value="Nº de vezes utilizado"/>
+</translations>

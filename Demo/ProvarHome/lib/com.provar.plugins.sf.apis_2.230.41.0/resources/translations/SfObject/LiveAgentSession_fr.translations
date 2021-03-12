@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LiveAgentSession.Id" type="SfFieldLabel" value="ID Session Live Agent"/>
+  <translation key="LiveAgentSession.Name" type="SfFieldLabel" value="Nom de la Session Live Agent"/>
+</translations>

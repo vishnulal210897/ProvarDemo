@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Campaign.ActualCost" type="SfFieldLabel" value="Actual Cost in Campaign"/>
+  <translation key="Campaign.AmountAllOpportunities" type="SfFieldLabel" value="Value Opportunities in Campaign"/>
+  <translation key="Campaign.AmountWonOpportunities" type="SfFieldLabel" value="Value Won Opportunities in Campaign"/>
+  <translation key="Campaign.BudgetedCost" type="SfFieldLabel" value="Budgeted Cost in Campaign"/>
+  <translation key="Campaign.CampaignImageId" type="SfFieldLabel" value="Campaign Image"/>
+  <translation key="Campaign.CampaignMemberRecordTypeId" type="SfFieldLabel" value="Campaign Member Type"/>
+  <translation key="Campaign.CurrencyIsoCode" type="SfFieldLabel" value="Campaign Currency"/>
+  <translation key="Campaign.ExpectedRevenue" type="SfFieldLabel" value="Expected Revenue in Campaign"/>
+  <translation key="Campaign.Id" type="SfFieldLabel" value="Campaign ID"/>
+  <translation key="Campaign.Name" type="SfFieldLabel" value="Campaign Name"/>
+  <translation key="Campaign.NumberOfContacts" type="SfFieldLabel" value="Contacts in Campaign"/>
+  <translation key="Campaign.NumberOfConvertedLeads" type="SfFieldLabel" value="Converted Leads in Campaign"/>
+  <translation key="Campaign.NumberOfLeads" type="SfFieldLabel" value="Leads in Campaign"/>
+  <translation key="Campaign.NumberOfOpportunities" type="SfFieldLabel" value="Opportunities in Campaign"/>
+  <translation key="Campaign.NumberOfResponses" type="SfFieldLabel" value="Responses in Campaign"/>
+  <translation key="Campaign.NumberOfWonOpportunities" type="SfFieldLabel" value="Won Opportunities in Campaign"/>
+  <translation key="Campaign.NumberSent" type="SfFieldLabel" value="Num Sent in Campaign"/>
+  <translation key="Campaign.Owner" type="SfFieldLabel" value="Campaign Owner"/>
+  <translation key="Campaign.ParentId" type="SfFieldLabel" value="Parent Campaign"/>
+</translations>

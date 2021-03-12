@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PromptLocalization.Id" type="SfFieldLabel" value="Oversættelses-id"/>
+  <translation key="PromptLocalization.NamespacePrefix" type="SfFieldLabel" value="Navneområdepræfiks"/>
+  <translation key="PromptLocalization.ParentId" type="SfFieldLabel" value="Overordnet id"/>
+  <translation key="PromptLocalization.Value" type="SfFieldLabel" value="Oversættelsestekst"/>
+</translations>

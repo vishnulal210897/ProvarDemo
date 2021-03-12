@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Site.AdminId" type="SfFieldLabel" value="Contactpersoon site"/>
+  <translation key="Site.Description" type="SfFieldLabel" value="Beschrijving site"/>
+  <translation key="Site.Id" type="SfFieldLabel" value="Site-ID"/>
+  <translation key="Site.MasterLabel" type="SfFieldLabel" value="Sitelabel"/>
+  <translation key="Site.Name" type="SfFieldLabel" value="Sitenaam"/>
+  <translation key="Site.OptionsBrowserXssProtection" type="SfFieldLabel" value="Bescherming in browser tegen cross-site scripting inschakelen"/>
+  <translation key="Site.SiteType" type="SfFieldLabel" value="Sitetype"/>
+  <translation key="Site.Status" type="SfFieldLabel" value="Sitestatus"/>
+  <translation key="Site.Subdomain" type="SfFieldLabel" value="Prefix subdomein van site"/>
+</translations>

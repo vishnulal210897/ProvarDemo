@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MilestoneType.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="MilestoneType.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="MilestoneType.Id" type="SfFieldLabel" value="ID de type de jalon"/>
+  <translation key="MilestoneType.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="MilestoneType.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="MilestoneType.Name" type="SfFieldLabel" value="Nom"/>
+  <translation key="MilestoneType.RecurrenceType" type="SfFieldLabel" value="Type de récurrence"/>
+  <translation key="MilestoneType.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

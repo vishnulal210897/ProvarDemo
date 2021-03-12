@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Campaign.Name" type="SfFieldLabel" value="Nom de la campagne"/>
+  <translation key="Campaign.ParentId" type="SfFieldLabel" value="Campagne principale"/>
+  <translation key="*.*.Planning" type="SfLayoutSectionLabel" value="Planning"/>
+  <translation key="*.*.Campaign Information" type="SfLayoutSectionLabel" value="Informations sur la campagne"/>
+</translations>

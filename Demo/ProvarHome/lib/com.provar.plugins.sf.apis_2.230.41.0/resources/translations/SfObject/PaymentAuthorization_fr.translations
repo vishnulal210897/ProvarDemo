@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentAuthorization.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="PaymentAuthorization.Amount" type="SfFieldLabel" value="Montant"/>
+  <translation key="PaymentAuthorization.Comments" type="SfFieldLabel" value="Commentaires"/>
+  <translation key="PaymentAuthorization.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="PaymentAuthorization.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="PaymentAuthorization.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="PaymentAuthorization.Email" type="SfFieldLabel" value="E-mail d'audit"/>
+  <translation key="PaymentAuthorization.GatewayDate" type="SfFieldLabel" value="Date de la passerelle"/>
+  <translation key="PaymentAuthorization.GatewayResultCode" type="SfFieldLabel" value="Code de résultat de la passerelle"/>
+  <translation key="PaymentAuthorization.GatewayResultCodeDescription" type="SfFieldLabel" value="Description du code de résultat de la passerelle"/>
+  <translation key="PaymentAuthorization.Id" type="SfFieldLabel" value="ID d'autorisation de paiement"/>
+  <translation key="PaymentAuthorization.IpAddress" type="SfFieldLabel" value="Adresse IP"/>
+  <translation key="PaymentAuthorization.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="PaymentAuthorization.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="PaymentAuthorization.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="PaymentAuthorization.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="PaymentAuthorization.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="PaymentAuthorization.MacAddress" type="SfFieldLabel" value="Adresse MAC"/>
+  <translation key="PaymentAuthorization.PaymentAuthorizationNumber" type="SfFieldLabel" value="Numéro d'autorisation de paiement"/>
+  <translation key="PaymentAuthorization.PaymentGatewayId" type="SfFieldLabel" value="Passerelle de paiement"/>
+  <translation key="PaymentAuthorization.Phone" type="SfFieldLabel" value="Téléphone"/>
+  <translation key="PaymentAuthorization.ProcessingMode" type="SfFieldLabel" value="Mode de traitement"/>
+  <translation key="PaymentAuthorization.SfResultCode" type="SfFieldLabel" value="Code de résultat Salesforce"/>
+  <translation key="PaymentAuthorization.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="PaymentAuthorization.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

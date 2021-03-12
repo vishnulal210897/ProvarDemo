@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EntityMilestone.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="EntityMilestone.Id" type="SfFieldLabel" value="Objectmijlpaal-ID"/>
+  <translation key="EntityMilestone.Name" type="SfFieldLabel" value="Naam van objectmijlpaal"/>
+</translations>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Individual.FirstName" type="SfFieldLabel" value="Primeiro Nome"/>
+  <translation key="Individual.Id" type="SfFieldLabel" value="ID persona"/>
+  <translation key="Individual.LastName" type="SfFieldLabel" value="Sobrenome"/>
+  <translation key="Individual.MasterRecordId" type="SfFieldLabel" value="Persona"/>
+  <translation key="Individual.Name" type="SfFieldLabel" value="Nome e cognome"/>
+  <translation key="Individual.Owner" type="SfFieldLabel" value="Titolare persona"/>
+  <translation key="Individual.Salutation" type="SfFieldLabel" value="Saudação"/>
+</translations>

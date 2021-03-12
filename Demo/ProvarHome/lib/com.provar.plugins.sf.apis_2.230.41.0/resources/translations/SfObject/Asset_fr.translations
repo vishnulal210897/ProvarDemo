@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Asset.Id" type="SfFieldLabel" value="ID de l'actif"/>
+  <translation key="Asset.IsCompetitorProduct" type="SfFieldLabel" value="Actif du concurrent"/>
+  <translation key="Asset.Name" type="SfFieldLabel" value="Nom de l'actif"/>
+  <translation key="Asset.ParentId" type="SfFieldLabel" value="ID d'actif parent"/>
+  <translation key="Asset.RootAssetId" type="SfFieldLabel" value="ID d'actif racine"/>
+  <translation key="*.*.Asset Information" type="SfLayoutSectionLabel" value="Informations sur l'actif"/>
+</translations>

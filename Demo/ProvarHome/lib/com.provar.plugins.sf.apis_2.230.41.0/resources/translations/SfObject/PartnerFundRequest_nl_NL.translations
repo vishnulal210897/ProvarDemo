@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerFundRequest.Id" type="SfFieldLabel" value="ID van partnerfondsverzoek"/>
+  <translation key="PartnerFundRequest.Title" type="SfFieldLabel" value="Naam van partnerfondsverzoek"/>
+</translations>

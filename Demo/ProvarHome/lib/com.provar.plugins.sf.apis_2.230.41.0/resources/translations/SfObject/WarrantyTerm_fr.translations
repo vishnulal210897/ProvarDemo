@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WarrantyTerm.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="WarrantyTerm.EffectiveStartDate" type="SfFieldLabel" value="Effective Start Date"/>
+  <translation key="WarrantyTerm.Id" type="SfFieldLabel" value="Warranty Term ID"/>
+  <translation key="WarrantyTerm.IsActive" type="SfFieldLabel" value="Active"/>
+  <translation key="WarrantyTerm.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

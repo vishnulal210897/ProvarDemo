@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Announcement.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Announcement.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="Announcement.Id" type="SfFieldLabel" value="ID d'annonce"/>
+  <translation key="Announcement.IsArchived" type="SfFieldLabel" value="Annonce archivée"/>
+  <translation key="Announcement.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="Announcement.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Announcement.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="Announcement.ParentId" type="SfFieldLabel" value="Du parent"/>
+  <translation key="Announcement.SendEmails" type="SfFieldLabel" value="Envoyer des e-mails d'annonce"/>
+  <translation key="Announcement.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

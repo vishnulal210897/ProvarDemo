@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="UserSetupEntityAccess.DeveloperName" type="SfFieldLabel" value="Nom du développeur"/>
+  <translation key="UserSetupEntityAccess.DurableId" type="SfFieldLabel" value="Clé d'accès à l'entité de configuration des utilisateurs"/>
+  <translation key="UserSetupEntityAccess.Id" type="SfFieldLabel" value="ID de UserSetupEntityAccess"/>
+  <translation key="UserSetupEntityAccess.NamespacePrefix" type="SfFieldLabel" value="Préfixe d'espace de noms"/>
+</translations>

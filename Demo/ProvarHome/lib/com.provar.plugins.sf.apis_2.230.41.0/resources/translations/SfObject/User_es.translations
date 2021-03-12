@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="User.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="User.BadgeText" type="SfFieldLabel" value="Superposición del texto de insignia de la foto del usuario"/>
+  <translation key="User.BannerPhotoId" type="SfFieldLabel" value="Fotografía de pancarta"/>
+  <translation key="User.BannerPhotoUrl" type="SfFieldLabel" value="URL para fotografía de pancarta"/>
+  <translation key="User.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="User.CurrencyIsoCode" type="SfFieldLabel" value="Divisa de información"/>
+  <translation key="User.Id" type="SfFieldLabel" value="Id. de usuario"/>
+  <translation key="User.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="User.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="User.IsBadged" type="SfFieldLabel" value="La foto del usuario tiene superpuesta una insignia"/>
+  <translation key="User.JigsawImportLimitOverride" type="SfFieldLabel" value="Límite de usuarios mensuales de Data.com"/>
+  <translation key="User.Name" type="SfFieldLabel" value="Nombre completo"/>
+  <translation key="User.Street" type="SfFieldLabel" value="Dirección"/>
+  <translation key="User.UserPermissionsInteractionUser" type="SfFieldLabel" value="Usuario de Flow"/>
+  <translation key="User.UserPermissionsJigsawProspectingUser" type="SfFieldLabel" value="Usuario de Data.com"/>
+  <translation key="User.UserPermissionsKnowledgeUser" type="SfFieldLabel" value="Usuario de Knowledge"/>
+  <translation key="User.UserPermissionsMarketingUser" type="SfFieldLabel" value="Usuario de marketing"/>
+  <translation key="User.UserPermissionsMobileUser" type="SfFieldLabel" value="Usuario de Apex Mobile"/>
+  <translation key="User.UserPermissionsOfflineUser" type="SfFieldLabel" value="Usuario de Offline"/>
+  <translation key="User.UserPermissionsSFContentUser" type="SfFieldLabel" value="Usuario de Salesforce CRM Content"/>
+  <translation key="User.UserPermissionsSiteforceContributorUser" type="SfFieldLabel" value="Usuario contribuyente de Site.com"/>
+  <translation key="User.UserPermissionsSiteforcePublisherUser" type="SfFieldLabel" value="Usuario publicador de Site.com"/>
+  <translation key="User.UserPermissionsSupportUser" type="SfFieldLabel" value="Usuario de Service Cloud"/>
+  <translation key="User.UserPermissionsWorkDotComUserFeature" type="SfFieldLabel" value="Usuario de Work.com"/>
+  <translation key="User.UserType" type="SfFieldLabel" value="Tipo de usuario"/>
+  <translation key="User.Username" type="SfFieldLabel" value="Nombre de usuario"/>
+</translations>

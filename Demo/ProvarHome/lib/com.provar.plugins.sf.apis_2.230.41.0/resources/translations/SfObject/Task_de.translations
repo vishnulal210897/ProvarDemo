@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Task.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Task.ActivityDate" type="SfFieldLabel" value="Fälligkeitsdatum"/>
+  <translation key="Task.CurrencyIsoCode" type="SfFieldLabel" value="Aktivitätswährung"/>
+  <translation key="Task.Description" type="SfFieldLabel" value="Kommentar"/>
+  <translation key="Task.Id" type="SfFieldLabel" value="Aktivitäts-ID"/>
+  <translation key="Task.IsArchived" type="SfFieldLabel" value="Archiviert"/>
+  <translation key="Task.IsRecurrence" type="SfFieldLabel" value="Serie wiederkehrender Aufgaben erstellen"/>
+  <translation key="Task.IsVisibleInSelfService" type="SfFieldLabel" value="Öffentlich"/>
+  <translation key="Task.Owner" type="SfFieldLabel" value="Zugeordnet zu"/>
+  <translation key="Task.RecurrenceRegeneratedType" type="SfFieldLabel" value="Diese Aufgabe wiederholen"/>
+  <translation key="Task.TaskSubtype" type="SfFieldLabel" value="Untertyp der Aufgabe"/>
+  <translation key="Task.WhoId" type="SfFieldLabel" value="Name"/>
+</translations>

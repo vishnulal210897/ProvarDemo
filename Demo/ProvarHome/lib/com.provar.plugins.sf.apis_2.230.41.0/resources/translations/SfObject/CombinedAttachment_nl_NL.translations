@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CombinedAttachment.ContentSize" type="SfFieldLabel" value="Grootte"/>
+  <translation key="CombinedAttachment.CreatedDate" type="SfFieldLabel" value="Gemaakt"/>
+  <translation key="CombinedAttachment.Id" type="SfFieldLabel" value="ID van gecombineerde bijlage"/>
+  <translation key="CombinedAttachment.ParentId" type="SfFieldLabel" value="Bovenliggende element"/>
+  <translation key="CombinedAttachment.RecordType" type="SfFieldLabel" value="Type"/>
+ </translations>

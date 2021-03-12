@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceTerritoryMember.Address" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ServiceTerritoryMember.Id" type="SfFieldLabel" value="Resource Territory ID"/>
+  <translation key="ServiceTerritoryMember.Street" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+</translations>

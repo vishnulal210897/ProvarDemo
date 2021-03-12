@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Knowledge__kav.Id" type="SfFieldLabel" value="ID de version de l'article Knowledge"/>
+  <translation key="Knowledge__kav.KnowledgeArticleId" type="SfFieldLabel" value="ID d'article Knowledge"/>
+</translations>

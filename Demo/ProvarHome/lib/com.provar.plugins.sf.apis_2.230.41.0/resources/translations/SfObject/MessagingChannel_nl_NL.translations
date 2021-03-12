@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingChannel.Id" type="SfFieldLabel" value="ID van messaging channel"/>
+  <translation key="MessagingChannel.Language" type="SfFieldLabel" value="Hoofdtaal"/>
+  <translation key="MessagingChannel.LastModifiedDate" type="SfFieldLabel" value="Gewijzigd op"/>
+  <translation key="MessagingChannel.MasterLabel" type="SfFieldLabel" value="Kanaalnaam"/>
+</translations>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseTeamMember.Id" type="SfFieldLabel" value="Id. de miembro de equipo"/>
+  <translation key="CaseTeamMember.LastModifiedById" type="SfFieldLabel" value="Modificado por"/>
+  <translation key="CaseTeamMember.MemberId" type="SfFieldLabel" value="Miembro del equipo"/>
+  <translation key="CaseTeamMember.ParentId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="CaseTeamMember.TeamRoleId" type="SfFieldLabel" value="Función de miembro"/>
+</translations>

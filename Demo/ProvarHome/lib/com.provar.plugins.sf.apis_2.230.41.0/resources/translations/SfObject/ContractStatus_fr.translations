@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContractStatus.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ContractStatus.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ContractStatus.Id" type="SfFieldLabel" value="ID de valeur de statut du contrat"/>
+  <translation key="ContractStatus.IsDefault" type="SfFieldLabel" value="Par défaut"/>
+  <translation key="ContractStatus.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ContractStatus.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ContractStatus.SortOrder" type="SfFieldLabel" value="Ordre de tri"/>
+  <translation key="ContractStatus.StatusCode" type="SfFieldLabel" value="Code de statut"/>
+  <translation key="ContractStatus.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

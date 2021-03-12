@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Entitlement.AssetId" type="SfFieldLabel" value="Asset Name"/>
+  <translation key="Entitlement.CurrencyIsoCode" type="SfFieldLabel" value="Currency"/>
+  <translation key="Entitlement.Id" type="SfFieldLabel" value="Entitlement ID"/>
+  <translation key="Entitlement.LocationId" type="SfFieldLabel" value="Location"/>
+  <translation key="Entitlement.Name" type="SfFieldLabel" value="Entitlement Name"/>
+  <translation key="Entitlement.Status" type="SfFieldLabel" value="Status"/>
+</translations>

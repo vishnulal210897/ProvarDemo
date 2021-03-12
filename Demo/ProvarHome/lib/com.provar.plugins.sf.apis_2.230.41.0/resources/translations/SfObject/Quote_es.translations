@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Quote.BillingAddress" type="SfFieldLabel" value="Factura para"/>
+  <translation key="Quote.BillingCountryCode" type="SfFieldLabel" value="Código de país para facturar"/>
+  <translation key="Quote.BillingGeocodeAccuracy" type="SfFieldLabel" value="Precisión de geocódigo de Facturar a"/>
+  <translation key="Quote.BillingState" type="SfFieldLabel" value="Estado/provincia de facturación"/>
+  <translation key="Quote.BillingStateCode" type="SfFieldLabel" value="Código de estado/provincia para facturar"/>
+  <translation key="Quote.ContractId" type="SfFieldLabel" value="{Contract}.{SfObject.Label}"/>
+  <translation key="Quote.CurrencyIsoCode" type="SfFieldLabel" value="Divisa de presupuesto"/>
+  <translation key="Quote.Id" type="SfFieldLabel" value="Id. de presupuesto"/>
+  <translation key="Quote.Name" type="SfFieldLabel" value="Nombre de presupuesto"/>
+  <translation key="Quote.Owner" type="SfFieldLabel" value="Nombre del propietario"/>
+  <translation key="Quote.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Quote.QuoteNumber" type="SfFieldLabel" value="Número de presupuesto"/>
+  <translation key="Quote.QuoteToAddress" type="SfFieldLabel" value="Presupuesto para"/>
+  <translation key="Quote.QuoteToCity" type="SfFieldLabel" value="Ciudad de presupuesto"/>
+  <translation key="Quote.QuoteToCountry" type="SfFieldLabel" value="País de presupuesto"/>
+  <translation key="Quote.QuoteToCountryCode" type="SfFieldLabel" value="Código de país para presupuesto"/>
+  <translation key="Quote.QuoteToGeocodeAccuracy" type="SfFieldLabel" value="Precisión de geocódigo de Presupuesto para"/>
+  <translation key="Quote.QuoteToLatitude" type="SfFieldLabel" value="Latitud de presupuesto"/>
+  <translation key="Quote.QuoteToLongitude" type="SfFieldLabel" value="Longitud de presupuesto"/>
+  <translation key="Quote.QuoteToPostalCode" type="SfFieldLabel" value="Código postal de presupuesto"/>
+  <translation key="Quote.QuoteToState" type="SfFieldLabel" value="Estado/provincia de presupuesto"/>
+  <translation key="Quote.QuoteToStateCode" type="SfFieldLabel" value="Código de estado/provincia para presupuesto"/>
+  <translation key="Quote.QuoteToStreet" type="SfFieldLabel" value="Calle de presupuesto"/>
+  <translation key="Quote.ShippingAddress" type="SfFieldLabel" value="Destinatario"/>
+  <translation key="Quote.ShippingCity" type="SfFieldLabel" value="Ciudad de destino"/>
+  <translation key="Quote.ShippingCountry" type="SfFieldLabel" value="País de destino"/>
+  <translation key="Quote.ShippingCountryCode" type="SfFieldLabel" value="Código de país para envío"/>
+  <translation key="Quote.ShippingGeocodeAccuracy" type="SfFieldLabel" value="Precisión de geocódigo de Enviar a"/>
+  <translation key="Quote.ShippingState" type="SfFieldLabel" value="Estado/provincia de destino"/>
+  <translation key="Quote.ShippingStateCode" type="SfFieldLabel" value="Código de estado/provincia para envío"/>
+  <translation key="Quote.ShippingStreet" type="SfFieldLabel" value="Calle de destino"/>
+  <translation key="Quote.ShippingZip" type="SfFieldLabel" value="Código postal de destino"/>
+</translations>

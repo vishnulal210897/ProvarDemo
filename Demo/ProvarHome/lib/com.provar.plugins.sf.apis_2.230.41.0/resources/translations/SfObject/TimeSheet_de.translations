@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TimeSheet.EndDate" type="SfFieldLabel" value="Arbeitszeitblatt-Enddatum"/>
+  <translation key="TimeSheet.Id" type="SfFieldLabel" value="Arbeitszeitblatt-ID"/>
+  <translation key="TimeSheet.Owner" type="SfFieldLabel" value="Inhaber"/>
+  <translation key="TimeSheet.StartDate" type="SfFieldLabel" value="Arbeitszeitblatt-Startdatum"/>
+  <translation key="TimeSheet.TimeSheetEntryCount" type="SfFieldLabel" value="Anzahl der Eingaben im Arbeitszeitblatt"/>
+</translations>

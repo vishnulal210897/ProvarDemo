@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DatasetExport.Id" type="SfFieldLabel" value="Id. de Exportación de conjunto de datos"/>
+  <translation key="DatasetExport.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="DatasetExport.Owner" type="SfFieldLabel" value="Propietario"/>
+</translations>

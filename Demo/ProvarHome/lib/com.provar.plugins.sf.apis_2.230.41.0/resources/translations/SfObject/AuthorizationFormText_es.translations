@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AuthorizationFormText.ContentDocumentId" type="SfFieldLabel" value="Documento de contenido"/>
+  <translation key="AuthorizationFormText.Id" type="SfFieldLabel" value="Id. de Texto del formulario de autorización"/>
+  <translation key="AuthorizationFormText.Name" type="SfFieldLabel" value="Nombre"/>
+  <translation key="AuthorizationFormText.SummaryAuthFormText" type="SfFieldLabel" value="Resumen de texto del formulario de autorización"/>
+</translations>

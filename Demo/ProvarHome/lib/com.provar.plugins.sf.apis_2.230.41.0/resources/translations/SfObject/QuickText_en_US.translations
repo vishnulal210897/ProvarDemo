@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="QuickText.Id" type="SfFieldLabel" value="Quick Text ID"/>
+  <translation key="QuickText.Name" type="SfFieldLabel" value="Quick Text Name"/>
+  <translation key="QuickText.Owner" type="SfFieldLabel" value="Owner"/>
+</translations>

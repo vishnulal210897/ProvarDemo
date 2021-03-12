@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrgMetric.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="OrgMetric.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="OrgMetric.Id" type="SfFieldLabel" value="ID de métrique d'organisation"/>
+  <translation key="OrgMetric.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="OrgMetric.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="OrgMetric.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="OrgMetric.LatestOrgMetricScanSummaryId" type="SfFieldLabel" value="D'analyse des métriques d'organisation"/>
+  <translation key="OrgMetric.Name" type="SfFieldLabel" value="Métrique d'organisation"/>
+  <translation key="OrgMetric.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

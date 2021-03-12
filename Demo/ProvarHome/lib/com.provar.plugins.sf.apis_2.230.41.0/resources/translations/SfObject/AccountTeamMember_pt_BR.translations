@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AccountTeamMember.AccountId" type="SfFieldLabel" value="Da conta"/>
+  <translation key="AccountTeamMember.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="AccountTeamMember.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="AccountTeamMember.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="AccountTeamMember.Id" type="SfFieldLabel" value="ID do membro da equipe de conta"/>
+  <translation key="AccountTeamMember.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="AccountTeamMember.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="AccountTeamMember.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="AccountTeamMember.PhotoUrl" type="SfFieldLabel" value="URL da foto dimensionada para miniatura"/>
+  <translation key="AccountTeamMember.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+  <translation key="AccountTeamMember.Title" type="SfFieldLabel" value="Cargo"/>
+</translations>

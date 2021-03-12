@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sfObjectInfo name="Folder" label="Folder">
+	<searchResultColumns>FOLDER.NAME, FOLDER.CREATEDBY, FOLDER.CREATEDON, FOLDER.LASTMODIFIEDBY, FOLDER.LASTMODIFIEDON</searchResultColumns>
+	<standardActions>
+    	<sfActionLink modes="Folders" n="favorite" t="Favorite" requiresRow="true"/>
+    	<sfActionLink modes="Folders" n="share" t="Share" requiresRow="true"/>
+    	<sfActionLink modes="Folders" n="rename" t="Rename" requiresRow="true"/>
+    	<sfActionLink modes="Folders" n="delete" t="Delete" requiresRow="true"/>
+  	</standardActions>
+</sfObjectInfo>

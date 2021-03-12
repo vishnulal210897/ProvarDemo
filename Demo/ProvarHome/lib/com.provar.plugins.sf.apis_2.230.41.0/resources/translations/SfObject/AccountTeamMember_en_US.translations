@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AccountTeamMember.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="AccountTeamMember.Id" type="SfFieldLabel" value="Team Member"/>
+  <translation key="AccountTeamMember.PhotoUrl" type="SfFieldLabel" value="Url for thumbnail sized photo"/>
+  <translation key="AccountTeamMember.TeamMemberRole" type="SfFieldLabel" value="Team Role"/>
+  <translation key="AccountTeamMember.Title" type="SfFieldLabel" value="Title"/>
+  <translation key="AccountTeamMember.UserId" type="SfFieldLabel" value="User"/>
+</translations>

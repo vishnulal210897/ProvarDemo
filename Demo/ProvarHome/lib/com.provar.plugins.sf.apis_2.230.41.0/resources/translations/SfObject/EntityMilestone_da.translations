@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EntityMilestone.CompletionDate" type="SfFieldLabel" value="Udførelsesdato"/>
+  <translation key="EntityMilestone.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="EntityMilestone.Id" type="SfFieldLabel" value="Id for objektmilepæl"/>
+  <translation key="EntityMilestone.Name" type="SfFieldLabel" value="Navn på objektmilepæl"/>
+</translations>

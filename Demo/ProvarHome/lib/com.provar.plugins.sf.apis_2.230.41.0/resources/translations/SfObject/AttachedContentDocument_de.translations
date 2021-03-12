@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AttachedContentDocument.ContentDocumentId" type="SfFieldLabel" value="ContentDocument"/>
+  <translation key="AttachedContentDocument.ContentSize" type="SfFieldLabel" value="Inhaltsgröße"/>
+  <translation key="AttachedContentDocument.CreatedDate" type="SfFieldLabel" value="Erstellt am"/>
+  <translation key="AttachedContentDocument.Id" type="SfFieldLabel" value="ID für Inhaltsdokument-Link"/>
+  <translation key="AttachedContentDocument.LastModifiedDate" type="SfFieldLabel" value="Inhalt geändert am"/>
+</translations>

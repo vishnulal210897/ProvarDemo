@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Calendar.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Calendar.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="Calendar.Id" type="SfFieldLabel" value="ID de calendrier"/>
+  <translation key="Calendar.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="Calendar.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Calendar.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="Calendar.Name" type="SfFieldLabel" value="Nom de calendrier"/>
+  <translation key="Calendar.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="Calendar.Type" type="SfFieldLabel" value="Type de calendrier"/>
+</translations>

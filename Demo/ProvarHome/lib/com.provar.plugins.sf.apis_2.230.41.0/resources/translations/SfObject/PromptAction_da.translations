@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PromptAction.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="PromptAction.Id" type="SfFieldLabel" value="Meddelelseshandlings-id"/>
+  <translation key="PromptAction.Name" type="SfFieldLabel" value="Navn"/>
+</translations>

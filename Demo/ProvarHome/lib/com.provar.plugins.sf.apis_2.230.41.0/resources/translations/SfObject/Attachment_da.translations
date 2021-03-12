@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Attachment.Id" type="SfFieldLabel" value="Id for vedhæftet fil"/>
+  <translation key="Attachment.Name" type="SfFieldLabel" value="Filnavn"/>
+  <translation key="Attachment.ParentId" type="SfFieldLabel" value="Overordnet"/>
+</translations>

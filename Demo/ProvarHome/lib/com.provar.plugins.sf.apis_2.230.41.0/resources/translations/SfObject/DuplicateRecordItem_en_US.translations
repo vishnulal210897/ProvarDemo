@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DuplicateRecordItem.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="DuplicateRecordItem.Id" type="SfFieldLabel" value="Duplicate Record Item ID"/>
+  <translation key="DuplicateRecordItem.Name" type="SfFieldLabel" value="Duplicate Record Item Name"/>
+</translations>

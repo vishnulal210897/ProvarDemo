@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceAppointmentCapacityUsage.Id" type="SfFieldLabel" value="Id. de Uso de capacidad de cita de servicio"/>
+  <translation key="ServiceAppointmentCapacityUsage.ServiceAppointmentCapacityUsageAutonumber" type="SfFieldLabel" value="Número de uso de capacidad de cita de servicio"/>
+  <translation key="ServiceAppointmentCapacityUsage.ServiceAppointmentId" type="SfFieldLabel" value="{ServiceAppointment}.{SfObject.Label}"/>
+</translations>

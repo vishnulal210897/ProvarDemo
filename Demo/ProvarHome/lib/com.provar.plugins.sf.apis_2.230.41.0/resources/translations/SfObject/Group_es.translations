@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Group.Id" type="SfFieldLabel" value="Id. de grupo"/>
+  <translation key="Group.Name" type="SfFieldLabel" value="Nombre"/>
+  <translation key="Group.Owner" type="SfFieldLabel" value="Lpropietario"/>
+</translations>

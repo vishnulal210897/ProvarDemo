@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ConferenceNumber.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="ConferenceNumber.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="ConferenceNumber.Id" type="SfFieldLabel" value="Conference Number ID"/>
+  <translation key="ConferenceNumber.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="ConferenceNumber.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="ConferenceNumber.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="ConferenceNumber.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="ConferenceNumber.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

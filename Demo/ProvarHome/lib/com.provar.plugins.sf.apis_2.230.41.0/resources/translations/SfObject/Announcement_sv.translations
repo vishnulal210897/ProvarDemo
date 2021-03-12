@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Announcement.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="Announcement.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="Announcement.Id" type="SfFieldLabel" value="Meddelande-ID"/>
+  <translation key="Announcement.IsArchived" type="SfFieldLabel" value="Är meddelande arkiverat"/>
+  <translation key="Announcement.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="Announcement.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="Announcement.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Announcement.ParentId" type="SfFieldLabel" value="Överordnad"/>
+  <translation key="Announcement.SendEmails" type="SfFieldLabel" value="Skicka e-post vid meddelande"/>
+  <translation key="Announcement.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

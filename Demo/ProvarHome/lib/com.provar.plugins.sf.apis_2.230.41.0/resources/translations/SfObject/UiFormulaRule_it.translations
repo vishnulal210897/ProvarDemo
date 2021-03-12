@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="UiFormulaRule.DeveloperName" type="SfFieldLabel" value="Nome"/>
+  <translation key="UiFormulaRule.Id" type="SfFieldLabel" value="ID regola formula ui"/>
+  <translation key="UiFormulaRule.Language" type="SfFieldLabel" value="Lingua principale"/>
+  <translation key="UiFormulaRule.MasterLabel" type="SfFieldLabel" value="Etichetta"/>
+</translations>

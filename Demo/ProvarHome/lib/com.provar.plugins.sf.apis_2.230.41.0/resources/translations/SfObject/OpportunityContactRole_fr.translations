@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpportunityContactRole.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="OpportunityContactRole.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+</translations>

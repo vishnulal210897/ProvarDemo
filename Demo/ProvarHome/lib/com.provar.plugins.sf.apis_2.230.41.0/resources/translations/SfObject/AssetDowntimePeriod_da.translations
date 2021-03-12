@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetDowntimePeriod.AssetDowntimePeriodNumber" type="SfFieldLabel" value="Nummer for nedetidsperiode for aktiv"/>
+  <translation key="AssetDowntimePeriod.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="AssetDowntimePeriod.Id" type="SfFieldLabel" value="Id for nedetidsperiode for aktiv"/>
+</translations>

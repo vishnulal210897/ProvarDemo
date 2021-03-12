@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingConfiguration.DeveloperName" type="SfFieldLabel" value="Nome"/>
+  <translation key="MessagingConfiguration.Id" type="SfFieldLabel" value="ID messagingconfiguration"/>
+  <translation key="MessagingConfiguration.Language" type="SfFieldLabel" value="Lingua principale"/>
+  <translation key="MessagingConfiguration.MasterLabel" type="SfFieldLabel" value="Etichetta"/>
+</translations>

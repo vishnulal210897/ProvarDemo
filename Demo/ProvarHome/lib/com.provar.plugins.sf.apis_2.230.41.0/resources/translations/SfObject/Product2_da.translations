@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Product2.CurrencyIsoCode" type="SfFieldLabel" value="Produktvaluta"/>
+  <translation key="Product2.Description" type="SfFieldLabel" value="Produktbeskrivelse"/>
+  <translation key="Product2.Family" type="SfFieldLabel" value="Produktfamilie"/>
+  <translation key="Product2.Id" type="SfFieldLabel" value="Produkt-id"/>
+  <translation key="Product2.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="Product2.IsArchived" type="SfFieldLabel" value="Arkiverede"/>
+  <translation key="Product2.Name" type="SfFieldLabel" value="Produktnavn"/>
+</translations>

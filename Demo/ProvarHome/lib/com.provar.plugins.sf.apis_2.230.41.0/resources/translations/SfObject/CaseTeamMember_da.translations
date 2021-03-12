@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseTeamMember.Id" type="SfFieldLabel" value="Id for teammedlem"/>
+  <translation key="CaseTeamMember.MemberId" type="SfFieldLabel" value="teammedlem"/>
+  <translation key="CaseTeamMember.ParentId" type="SfFieldLabel" value="Sags-id"/>
+</translations>

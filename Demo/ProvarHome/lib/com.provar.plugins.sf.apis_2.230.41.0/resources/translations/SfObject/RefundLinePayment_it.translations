@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RefundLinePayment.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="RefundLinePayment.EffectiveDate" type="SfFieldLabel" value="Effective Date"/>
+  <translation key="RefundLinePayment.Id" type="SfFieldLabel" value="Refund Line Payment ID"/>
+  <translation key="RefundLinePayment.ImpactAmount" type="SfFieldLabel" value="Impact Amount"/>
+</translations>

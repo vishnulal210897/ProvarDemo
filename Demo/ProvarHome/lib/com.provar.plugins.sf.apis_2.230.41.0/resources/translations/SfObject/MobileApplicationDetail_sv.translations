@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MobileApplicationDetail.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="MobileApplicationDetail.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="MobileApplicationDetail.Id" type="SfFieldLabel" value="ID mobilprogrammets information"/>
+  <translation key="MobileApplicationDetail.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="MobileApplicationDetail.Language" type="SfFieldLabel" value="Huvudspråk"/>
+  <translation key="MobileApplicationDetail.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="MobileApplicationDetail.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="MobileApplicationDetail.NamespacePrefix" type="SfFieldLabel" value="Namnutrymmesprefix"/>
+  <translation key="MobileApplicationDetail.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpportunityTeamMember.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="OpportunityTeamMember.Id" type="SfFieldLabel" value="Opportunityteamlid-id"/>
+  <translation key="OpportunityTeamMember.Name" type="SfFieldLabel" value="Naam van opportunityteamlid"/>
+  <translation key="OpportunityTeamMember.OpportunityId" type="SfFieldLabel" value="Opportunity-id"/>
+  <translation key="OpportunityTeamMember.PhotoUrl" type="SfFieldLabel" value="URL voor foto op miniatuurformaat"/>
+  <translation key="OpportunityTeamMember.Title" type="SfFieldLabel" value="Functie"/>
+</translations>

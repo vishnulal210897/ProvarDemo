@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TimeSheetEntry.DurationInMinutes" type="SfFieldLabel" value="Varighed (i minutter)"/>
+  <translation key="TimeSheetEntry.EndTime" type="SfFieldLabel" value="Sluttid"/>
+  <translation key="TimeSheetEntry.Id" type="SfFieldLabel" value="Id for timeseddeloplysning"/>
+  <translation key="TimeSheetEntry.StartTime" type="SfFieldLabel" value="Starttid"/>
+  <translation key="TimeSheetEntry.Subject" type="SfFieldLabel" value="{Lead}.{SfObject.Label}"/>
+  <translation key="TimeSheetEntry.WorkOrderId" type="SfFieldLabel" value="{WorkOrder}.{SfObject.Label}"/>
+  <translation key="TimeSheetEntry.WorkOrderLineItemId" type="SfFieldLabel" value="{WorkOrderLineItem}.{SfObject.Label}"/>
+</translations>

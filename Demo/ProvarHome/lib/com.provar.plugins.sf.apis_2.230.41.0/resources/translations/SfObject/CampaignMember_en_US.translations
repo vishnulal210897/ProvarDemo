@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CampaignMember.CampaignId" type="SfFieldLabel" value="{Campaign}.{SfObject.Label}"/>
+  <translation key="CampaignMember.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="CampaignMember.CurrencyIsoCode" type="SfFieldLabel" value="Campaign Member Currency"/>
+  <translation key="CampaignMember.Id" type="SfFieldLabel" value="Campaign Member ID"/>
+  <translation key="CampaignMember.IsPrimary" type="SfFieldLabel" value="IsPrimary"/>
+  <translation key="CampaignMember.LastModifiedDate" relatedListLabel="Member Status Updated" type="SfFieldLabel" value="Last Modified Date"/>
+  <translation key="CampaignMember.LeadId" type="SfFieldLabel" value="{Lead}.{SfObject.Label}"/>
+</translations>

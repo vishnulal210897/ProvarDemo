@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Recommendation.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="Recommendation.Id" type="SfFieldLabel" value="Aanbevelings-ID"/>
+  <translation key="Recommendation.Name" type="SfFieldLabel" value="Naam"/>
+</translations>

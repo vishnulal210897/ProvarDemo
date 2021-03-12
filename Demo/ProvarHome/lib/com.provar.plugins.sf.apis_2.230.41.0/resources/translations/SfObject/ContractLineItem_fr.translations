@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContractLineItem.AssetId" type="SfFieldLabel" value="Nom de l'actif"/>
+  <translation key="ContractLineItem.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ContractLineItem.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ContractLineItem.CurrencyIsoCode" type="SfFieldLabel" value="Devise"/>
+  <translation key="ContractLineItem.EndDate" type="SfFieldLabel" value="Date de fin"/>
+  <translation key="ContractLineItem.Id" type="SfFieldLabel" value="ID d'élément de ligne du contrat"/>
+  <translation key="ContractLineItem.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="ContractLineItem.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ContractLineItem.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ContractLineItem.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="ContractLineItem.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="ContractLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="ContractLineItem.ServiceContractId" type="SfFieldLabel" value="{ServiceContract}.{SfObject.Label}"/>
+  <translation key="ContractLineItem.StartDate" type="SfFieldLabel" value="Date de début"/>
+  <translation key="ContractLineItem.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="ContractLineItem.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

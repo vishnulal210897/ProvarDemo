@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseStatus.Id" type="SfFieldLabel" value="Id. del valor de estado del caso"/>
+  <translation key="CaseStatus.IsClosed" type="SfFieldLabel" value="Está cerrado"/>
+  <translation key="CaseStatus.SortOrder" type="SfFieldLabel" value="Orden de clasificación"/>
+</translations>

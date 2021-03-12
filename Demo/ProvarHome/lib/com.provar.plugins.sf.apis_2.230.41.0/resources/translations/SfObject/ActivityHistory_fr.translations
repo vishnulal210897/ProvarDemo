@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ActivityHistory.AccountId" type="SfFieldLabel" value="Du compte"/>
+  <translation key="ActivityHistory.ActivityDate" type="SfFieldLabel" value="Date"/>
+  <translation key="ActivityHistory.ActivityDateTime" type="SfFieldLabel" value="Heure"/>
+  <translation key="ActivityHistory.CallDisposition" type="SfFieldLabel" value="Résultat de l'appel"/>
+  <translation key="ActivityHistory.CallDurationInSeconds" type="SfFieldLabel" value="Durée de l'appel"/>
+  <translation key="ActivityHistory.CallObject" type="SfFieldLabel" value="Identificateur de l'objet de l'appel"/>
+  <translation key="ActivityHistory.CallType" type="SfFieldLabel" value="Type d'appel"/>
+  <translation key="ActivityHistory.ConnectionReceivedId" type="SfFieldLabel" value="De connexion du réseau partenaire"/>
+  <translation key="ActivityHistory.ConnectionSentId" type="SfFieldLabel" value="De connexion du réseau partenaire"/>
+  <translation key="ActivityHistory.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ActivityHistory.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ActivityHistory.Description" type="SfFieldLabel" value="Commentaires"/>
+  <translation key="ActivityHistory.DurationInMinutes" type="SfFieldLabel" value="Durée"/>
+  <translation key="ActivityHistory.EndDateTime" type="SfFieldLabel" value="Fin"/>
+  <translation key="ActivityHistory.Id" type="SfFieldLabel" value="ID de l'activité"/>
+  <translation key="ActivityHistory.IsAllDayEvent" type="SfFieldLabel" value="Événement toute la journée"/>
+  <translation key="ActivityHistory.IsClosed" type="SfFieldLabel" value="Fermée"/>
+  <translation key="ActivityHistory.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="ActivityHistory.IsHighPriority" type="SfFieldLabel" value="Priorité élevée"/>
+  <translation key="ActivityHistory.IsReminderSet" type="SfFieldLabel" value="Définition du rappel"/>
+  <translation key="ActivityHistory.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ActivityHistory.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ActivityHistory.Location" type="SfFieldLabel" value="Emplacement"/>
+  <translation key="ActivityHistory.Owner" type="SfFieldLabel" value="Attribué à l'ID"/>
+  <translation key="ActivityHistory.Priority" type="SfFieldLabel" value="Priorité"/>
+  <translation key="ActivityHistory.ReminderDateTime" type="SfFieldLabel" value="Date/heure de rappel"/>
+  <translation key="ActivityHistory.StartDateTime" type="SfFieldLabel" value="Début"/>
+  <translation key="ActivityHistory.Status" type="SfFieldLabel" value="Statut"/>
+  <translation key="ActivityHistory.Subject" type="SfFieldLabel" value="Objet"/>
+  <translation key="ActivityHistory.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="ActivityHistory.WhatId" type="SfFieldLabel" value="D'associé à"/>
+  <translation key="ActivityHistory.WhoId" type="SfFieldLabel" value="De nom"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CommSubscription.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="CommSubscription.Id" type="SfFieldLabel" value="Id for kommunikationsabonnement"/>
+  <translation key="CommSubscription.Name" type="SfFieldLabel" value="Navn"/>
+  <translation key="CommSubscription.Owner" type="SfFieldLabel" value="Ejers navn"/>
+</translations>

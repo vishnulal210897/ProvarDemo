@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BusinessHours.Id" type="SfFieldLabel" value="ID d'heures d'ouverture"/>
+  <translation key="BusinessHours.IsDefault" type="SfFieldLabel" value="Heures d'ouverture par défaut"/>
+  <translation key="BusinessHours.Name" type="SfFieldLabel" value="Nom d'heures d'ouverture"/>
+</translations>

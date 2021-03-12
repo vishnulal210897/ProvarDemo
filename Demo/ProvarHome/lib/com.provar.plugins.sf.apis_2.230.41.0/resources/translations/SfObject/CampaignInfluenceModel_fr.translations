@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CampaignInfluenceModel.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="CampaignInfluenceModel.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="CampaignInfluenceModel.DeveloperName" type="SfFieldLabel" value="Nom unique"/>
+  <translation key="CampaignInfluenceModel.Id" type="SfFieldLabel" value="ID de modèle d'influence de la campagne"/>
+  <translation key="CampaignInfluenceModel.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="CampaignInfluenceModel.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="CampaignInfluenceModel.Language" type="SfFieldLabel" value="Langue principale"/>
+  <translation key="CampaignInfluenceModel.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="CampaignInfluenceModel.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="CampaignInfluenceModel.MasterLabel" type="SfFieldLabel" value="Nom du modèle"/>
+  <translation key="CampaignInfluenceModel.NamespacePrefix" type="SfFieldLabel" value="Préfixe d'espace de noms"/>
+  <translation key="CampaignInfluenceModel.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

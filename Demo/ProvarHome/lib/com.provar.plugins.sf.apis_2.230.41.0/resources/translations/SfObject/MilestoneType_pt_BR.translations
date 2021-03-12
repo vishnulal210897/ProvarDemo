@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MilestoneType.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="MilestoneType.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="MilestoneType.Description" type="SfFieldLabel" value="Descrição"/>
+  <translation key="MilestoneType.Id" type="SfFieldLabel" value="ID de tipo do marco"/>
+  <translation key="MilestoneType.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="MilestoneType.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="MilestoneType.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="MilestoneType.RecurrenceType" type="SfFieldLabel" value="Tipo de repetição"/>
+  <translation key="MilestoneType.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

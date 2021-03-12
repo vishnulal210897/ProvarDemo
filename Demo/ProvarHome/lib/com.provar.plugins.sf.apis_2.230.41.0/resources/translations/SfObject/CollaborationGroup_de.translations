@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CollaborationGroup.GroupEmail" type="SfFieldLabel" value="Gruppen-E-Mail"/>
+  <translation key="CollaborationGroup.Id" type="SfFieldLabel" value="Gruppen-ID"/>
+  <translation key="CollaborationGroup.Owner" type="SfFieldLabel" value="Inhaber"/>
+</translations>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingLink.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="MessagingLink.EntityType" type="SfFieldLabel" value="Definitions-ID für benutzerdefiniertes Objekt"/>
+  <translation key="MessagingLink.Id" type="SfFieldLabel" value="ID des Messaging Link"/>
+  <translation key="MessagingLink.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="MessagingLink.RecordType" type="SfFieldLabel" value="Datensatztyp"/>
+</translations>

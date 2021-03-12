@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CalendarView.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="CalendarView.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="CalendarView.Id" type="SfFieldLabel" value="ID do calendário"/>
+  <translation key="CalendarView.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="CalendarView.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="CalendarView.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="CalendarView.Name" type="SfFieldLabel" value="Nome do calendário"/>
+  <translation key="CalendarView.Owner" type="SfFieldLabel" value="Do proprietário"/>
+  <translation key="CalendarView.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

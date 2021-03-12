@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Macro.Id" type="SfFieldLabel" value="ID macro"/>
+  <translation key="Macro.Name" type="SfFieldLabel" value="Nome macro"/>
+  <translation key="Macro.Owner" type="SfFieldLabel" value="Titolare"/>
+</translations>

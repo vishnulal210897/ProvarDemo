@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Account.AccountNumber" type="SfFieldLabel" value="Kontonummer"/>
+  <translation key="Account.CompareName" type="SfFieldLabel" value="Naam vergelijken"/>
+  <translation key="Account.CompareSite" type="SfFieldLabel" value="Site vergelijken"/>
+  <translation key="Account.ConnectionReceivedDate" type="SfFieldLabel" value="Verbinding ontvangen op datum"/>
+  <translation key="Account.ConnectionSentDate" type="SfFieldLabel" value="Verbinding verzonden op datum"/>
+  <translation key="Account.CreatedDate" type="SfFieldLabel" value="Aanmaakdatum"/>
+  <translation key="Account.Description" type="SfFieldLabel" value="Beskrivelse"/>
+  <translation key="Account.EmployeesAccount" type="SfFieldLabel" value="Antal medarbejdere"/>
+  <translation key="Account.CurrencyIsoCode" type="SfFieldLabel" value="Kontovaluta"/>
+  <translation key="Account.Id" type="SfFieldLabel" value="Account-id"/>
+  <translation key="Account.Industry" type="SfFieldLabel" value="Branche"/>
+  <translation key="Account.IsDeleted" type="SfFieldLabel" value="Verwijderd"/>
+  <translation key="Account.JigsawCompanyId" type="SfFieldLabel" value="Jigsaw-bedrijfs-ID"/>
+  <translation key="Account.LastActivityDate" type="SfFieldLabel" value="Laatste activiteit"/>
+  <translation key="Account.eigen" type="SfFieldLabel" value="Datum van laatste wijziging"/>
+  <translation key="Account.LastReferencedDate" type="SfFieldLabel" value="Laatste datum waarnaar is verwezen"/>
+  <translation key="Account.LastViewedDate" type="SfFieldLabel" value="Datum laatst weergegeven"/>
+  <translation key="Account.MasterRecordId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Account.NaicsCode" type="SfFieldLabel" value="NAICS-kode"/>
+  <translation key="Account.NaicsDesc" type="SfFieldLabel" value="NAICS-beskrivelse"/>
+  <translation key="Account.Name" type="SfFieldLabel" value="Kontonavn"/>
+  <translation key="Account.Owner" type="SfFieldLabel" value="Kontoejer"/>
+  <translation key="Account.OwnerAlias" type="SfFieldLabel" value="Alias van eigenaar"/>
+  <translation key="Account.Ownership" type="SfFieldLabel" value="Ejerskab"/>
+  <translation key="Account.Parent" type="SfFieldLabel" value="Overordnet konto"/>
+  <translation key="Account.Phone" type="SfFieldLabel" value="Telefon"/>
+  <translation key="Account.PhotoUrl" type="SfFieldLabel" value="URL voor foto"/>
+  <translation key="Account.Rating" type="SfFieldLabel" value="Vurdering"/>
+  <translation key="Account.Sic" type="SfFieldLabel" value="SIC-kode"/>
+  <translation key="Account.SicDesc" type="SfFieldLabel" value="SIC-beskrivelse"/>
+  <translation key="Account.SystemModstamp" type="SfFieldLabel" value="Systeemwijzigingsstempel"/>
+  <translation key="Account.TickerSymbol" type="SfFieldLabel" value="Ticker-symbol"/>
+  <translation key="Account.UserRecordAccessId" type="SfFieldLabel" value="Objecttoegangsniveau"/>
+  <translation key="*.*.Custom Links" type="SfLayoutSectionLabel" value="Custom Links"/>
+</translations>

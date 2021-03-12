@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Product2.CurrencyIsoCode" type="SfFieldLabel" value="Produktwährung"/>
+  <translation key="Product2.Description" type="SfFieldLabel" value="Produktbeschreibung"/>
+  <translation key="Product2.Family" type="SfFieldLabel" value="Produktfamilie"/>
+  <translation key="Product2.Id" type="SfFieldLabel" value="Produkt-ID"/>
+  <translation key="Product2.IsArchived" type="SfFieldLabel" value="Archiviert"/>
+  <translation key="Product2.Name" type="SfFieldLabel" value="Produktname"/>
+</translations>

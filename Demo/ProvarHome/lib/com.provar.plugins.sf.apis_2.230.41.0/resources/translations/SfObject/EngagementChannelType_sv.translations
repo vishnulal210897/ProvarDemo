@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EngagementChannelType.Id" type="SfFieldLabel" value="ID tipo di canale per il coinvolgimento"/>
+  <translation key="EngagementChannelType.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="EngagementChannelType.Owner" type="SfFieldLabel" value="Nome titolare"/>
+</translations>

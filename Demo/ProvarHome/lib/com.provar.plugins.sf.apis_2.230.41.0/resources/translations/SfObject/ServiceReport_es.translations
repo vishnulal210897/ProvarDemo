@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceReport.Document" type="SfFieldLabel" value="{Document}.{SfObject.Label}"/>
+  <translation key="ServiceReport.DocumentName" type="SfFieldLabel" value="Nombre de documento"/>
+  <translation key="ServiceReport.DocumentVersion" type="SfFieldLabel" value="Versión de documento de informe de servicio"/>
+  <translation key="ServiceReport.Id" type="SfFieldLabel" value="Id. de Informe de servicio"/>
+  <translation key="ServiceReport.ParentId" type="SfFieldLabel" value="Principal"/>
+  <translation key="ServiceReport.ServiceReportNumber" type="SfFieldLabel" value="Nombre de informe de servicio"/>
+  <translation key="ServiceReport.Template" type="SfFieldLabel" value="Plantilla de informe de servicio"/>
+</translations>

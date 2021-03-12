@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FormulaFunctionCategory.DurableId" type="SfFieldLabel" value="Formula Function Category Durable"/>
+  <translation key="FormulaFunctionCategory.Id" type="SfFieldLabel" value="Formula Function Category ID"/>
+  <translation key="FormulaFunctionCategory.Label" type="SfFieldLabel" value="Label"/>
+  <translation key="FormulaFunctionCategory.Name" type="SfFieldLabel" value="Name"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BulkApiResultEventStore.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="BulkApiResultEventStore.EventIdentifier" type="SfFieldLabel" value="Händelseidentifierare"/>
+  <translation key="BulkApiResultEventStore.Id" type="SfFieldLabel" value="ID för lagring av händelse för Bulk API-resultat"/>
+  <translation key="BulkApiResultEventStore.SourceIp" type="SfFieldLabel" value="IP-adress"/>
+</translations>

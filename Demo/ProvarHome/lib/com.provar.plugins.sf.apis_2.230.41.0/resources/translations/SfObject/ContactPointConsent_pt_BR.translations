@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactPointConsent.ContactPointId" type="SfFieldLabel" value="Point de contact"/>
+  <translation key="ContactPointConsent.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ContactPointConsent.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ContactPointConsent.Id" type="SfFieldLabel" value="ID de consentement du point de contact"/>
+  <translation key="ContactPointConsent.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="ContactPointConsent.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ContactPointConsent.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ContactPointConsent.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="ContactPointConsent.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="ContactPointConsent.Name" type="SfFieldLabel" value="Nom"/>
+  <translation key="ContactPointConsent.Owner" type="SfFieldLabel" value="Nom Complet du propriétaire"/>
+  <translation key="ContactPointConsent.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="ContactPointConsent.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

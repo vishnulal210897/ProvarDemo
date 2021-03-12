@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpportunityContactRole.ContactId" relatedListLabel="{Contact}.{ContactName}" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="OpportunityContactRole.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="OpportunityContactRole.Id" type="SfFieldLabel" value="Contact Role ID"/>
+  <translation key="OpportunityContactRole.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+</translations>

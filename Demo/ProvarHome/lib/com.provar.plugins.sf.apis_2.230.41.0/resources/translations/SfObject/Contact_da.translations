@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Contact.AccountName" type="SfFieldLabel" value="Kontonavn"/>
+  <translation key="Contact.CleanStatus" type="SfFieldLabel" value="Opschoningsstatus"/>
+  <translation key="Contact.ConnectionReceivedDate" type="SfFieldLabel" value="Verbinding ontvangen op datum"/>
+  <translation key="Contact.ConnectionSentDate" type="SfFieldLabel" value="Verbinding verzonden op datum"/>
+  <translation key="Contact.CreatedDate" type="SfFieldLabel" value="Aanmaakdatum"/>
+  <translation key="Contact.CurrencyIsoCode" type="SfFieldLabel" value="Kontaktvaluta"/>
+  <translation key="Contact.DoNotCall" type="SfFieldLabel" value="Niet bellen"/>
+  <translation key="Contact.EmailBouncedDate" type="SfFieldLabel" value="Datum retour e-mail"/>
+  <translation key="Contact.EmailBouncedReason" type="SfFieldLabel" value="Reden retour e-mail"/>
+  <translation key="Contact.HasOptedOutOfEmail" type="SfFieldLabel" value="Niet e-mailen"/>
+  <translation key="Contact.HasOptedOutOfFax" type="SfFieldLabel" value="Niet faxen"/>
+  <translation key="Contact.Id" type="SfFieldLabel" value="Contactpersoon-ID"/>
+  <translation key="Contact.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="Contact.IsDeleted" type="SfFieldLabel" value="Verwijderd"/>
+  <translation key="Contact.IsEmailBounced" type="SfFieldLabel" value="Is geretourneerde e-mail"/>
+  <translation key="Contact.JigsawContactId" type="SfFieldLabel" value="Jigsaw-contactpersoons-ID"/>
+  <translation key="Contact.LastActivityDate" type="SfFieldLabel" value="Laatste activiteit"/>
+  <translation key="Contact.LastCURequestDate" type="SfFieldLabel" value="Datum van laatste verzoek om contact"/>
+  <translation key="Contact.LastCUUpdateDate" type="SfFieldLabel" value="Datum van laatste opslag van contact"/>
+  <translation key="Contact.LastReferencedDate" type="SfFieldLabel" value="Laatste datum waarnaar is verwezen"/>
+  <translation key="Contact.LastViewedDate" type="SfFieldLabel" value="Datum laatst weergegeven"/>
+  <translation key="Contact.LeadSource" type="SfFieldLabel" value="Emnekilde"/>
+  <translation key="Contact.MailingAddress" type="SfFieldLabel" value="Forsendelsesadresse"/>
+  <translation key="Contact.MasterRecordId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="Contact.MobilePhone" type="SfFieldLabel" value="Mobil"/>
+  <translation key="Contact.OtherAddress" type="SfFieldLabel" value="Anden adresse"/>
+  <translation key="Contact.OtherPhone" type="SfFieldLabel" value="Anden telefon"/>
+  <translation key="Contact.Owner" type="SfFieldLabel" value="Kontaktejer"/>
+  <translation key="Contact.Phone" type="SfFieldLabel" value="Telefon"/>
+  <translation key="Contact.PhotoUrl" type="SfFieldLabel" value="URL voor foto"/>
+  <translation key="Contact.RecordType" type="SfFieldLabel" value="Contactpersoonrecordtype"/>
+  <translation key="Contact.ReportsToName" type="SfFieldLabel" value="Rapporteert aan-naam"/>
+  <translation key="Contact.SystemModstamp" type="SfFieldLabel" value="Systeemwijzigingsstempel"/>
+  <translation key="Contact.Title" type="SfFieldLabel" value="Titel"/>
+  <translation key="Contact.UserRecordAccessId" type="SfFieldLabel" value="Objecttoegangsniveau"/>
+  <translation key="*.*.Contact Information" type="SfLayoutSectionLabel" value="Kontaktoplysninger"/>
+</translations>

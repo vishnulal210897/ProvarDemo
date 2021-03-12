@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Document.AuthorId" type="SfFieldLabel" value="Id for dokument opretter"/>
+  <translation key="Document.ContentType" type="SfFieldLabel" value="MIME-type"/>
+  <translation key="Document.DeveloperName" type="SfFieldLabel" value="Entydigt dokumentnavn"/>
+  <translation key="Document.Id" type="SfFieldLabel" value="Dokument-id"/>
+  <translation key="Document.IsBodySearchable" type="SfFieldLabel" value="Søgbart dokumentindhold"/>
+  <translation key="Document.IsPublic" type="SfFieldLabel" value="Eksternt tilgængeligt"/>
+  <translation key="Document.Name" type="SfFieldLabel" value="Dokumentnavn"/>
+  <translation key="Document.Type" type="SfFieldLabel" value="Filtypenavn"/>
+  <translation key="Document.Url" type="SfFieldLabel" value="Url"/>
+</translations>

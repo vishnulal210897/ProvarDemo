@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RecordAction.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="RecordAction.Id" type="SfFieldLabel" value="RecordAction ID"/>
+  <translation key="RecordAction.Order" type="SfFieldLabel" value="{Order}.{SfObject.Label}"/>
+</translations>

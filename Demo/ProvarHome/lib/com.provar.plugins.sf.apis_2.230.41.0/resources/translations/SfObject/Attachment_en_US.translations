@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Attachment.ContentType" type="SfFieldLabel" value="Content Type"/>
+  <translation key="Attachment.Id" type="SfFieldLabel" value="Attachment ID"/>
+  <translation key="Attachment.Name" type="SfFieldLabel" value="File Name"/>
+  <translation key="Attachment.Owner" type="SfFieldLabel" value="Owner"/>
+  <translation key="Attachment.ParentId" type="SfFieldLabel" value="Parent"/>
+</translations>

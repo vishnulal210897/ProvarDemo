@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContentDocument.CreatedDate" type="SfFieldLabel" value="Gemaakt"/>
+  <translation key="ContentDocument.Id" type="SfFieldLabel" value="ContentDocument-ID"/>
+  <translation key="ContentDocument.IsArchived" type="SfFieldLabel" value="Is gearchiveerd"/>
+  <translation key="ContentDocument.IsDeleted" type="SfFieldLabel" value="Is verwijderd"/>
+  <translation key="ContentDocument.Owner" type="SfFieldLabel" value="Eigenaar"/>
+  <translation key="ContentDocument.ParentId" type="SfFieldLabel" value="Bovenliggende element"/>
+</translations>

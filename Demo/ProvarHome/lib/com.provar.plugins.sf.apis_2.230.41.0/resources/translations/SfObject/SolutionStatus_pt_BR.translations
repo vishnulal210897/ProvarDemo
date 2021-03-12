@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SolutionStatus.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="SolutionStatus.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="SolutionStatus.Id" type="SfFieldLabel" value="ID do valor do status da solução"/>
+  <translation key="SolutionStatus.IsDefault" type="SfFieldLabel" value="Padrão"/>
+  <translation key="SolutionStatus.IsReviewed" type="SfFieldLabel" value="Revisado"/>
+  <translation key="SolutionStatus.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="SolutionStatus.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="SolutionStatus.SortOrder" type="SfFieldLabel" value="Ordem de classificação"/>
+  <translation key="SolutionStatus.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

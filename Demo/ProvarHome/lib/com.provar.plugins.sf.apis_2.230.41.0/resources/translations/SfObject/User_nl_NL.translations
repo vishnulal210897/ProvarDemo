@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="User.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="User.BadgeText" type="SfFieldLabel" value="Tekstoverlay van gebruiker voor fotobadge"/>
+  <translation key="User.BannerPhotoId" type="SfFieldLabel" value="Bannerfoto"/>
+  <translation key="User.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="User.CurrencyIsoCode" type="SfFieldLabel" value="Gegevensvaluta"/>
+  <translation key="User.Id" type="SfFieldLabel" value="Gebruikers-ID"/>
+  <translation key="User.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="User.IsBadged" type="SfFieldLabel" value="Foto van gebruiker heeft een badgeoverlay"/>
+  <translation key="User.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="User.SuAccessExpirationDate" type="SfFieldLabel" value="Vervaldatum supergebruikerstoegang"/>
+  <translation key="User.SuOrgAdminExpirationDate" type="SfFieldLabel" value="Vervaldatum organisatiebeheerder supergebruiker"/>
+  <translation key="User.Title" type="SfFieldLabel" value="Functie"/>
+  <translation key="User.UserPermissionsJigsawProspectingUser" type="SfFieldLabel" value="Data.com-gebruiker"/>
+  <translation key="User.UserPermissionsKnowledgeUser" type="SfFieldLabel" value="Kennisgebruiker"/>
+  <translation key="User.UserPermissionsMarketingUser" type="SfFieldLabel" value="Marketinggebruiker"/>
+  <translation key="User.UserPermissionsMobileUser" type="SfFieldLabel" value="Apex Mobile-gebruiker"/>
+  <translation key="User.UserPermissionsOfflineUser" type="SfFieldLabel" value="Offline gebruiker"/>
+  <translation key="User.UserPermissionsSFContentUser" type="SfFieldLabel" value="Salesforce CRM Content-gebruiker"/>
+  <translation key="User.UserPermissionsSiteforceContributorUser" type="SfFieldLabel" value="Site.com Contributor-gebruiker"/>
+  <translation key="User.UserPermissionsSiteforcePublisherUser" type="SfFieldLabel" value="Site.com Publisher-gebruiker"/>
+  <translation key="User.UserPermissionsSupportUser" type="SfFieldLabel" value="Service Cloud-gebruiker"/>
+  <translation key="User.UserPermissionsWorkDotComUserFeature" type="SfFieldLabel" value="Work.com-gebruiker"/>
+  <translation key="User.UserType" type="SfFieldLabel" value="Gebruikerstype"/>
+  <translation key="User.Username" type="SfFieldLabel" value="Gebruikersnaam"/>
+</translations>

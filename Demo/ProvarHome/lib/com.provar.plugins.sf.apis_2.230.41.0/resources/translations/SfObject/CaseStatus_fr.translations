@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseStatus.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="CaseStatus.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="CaseStatus.Id" type="SfFieldLabel" value="ID de valeur du statut de requête"/>
+  <translation key="CaseStatus.IsClosed" type="SfFieldLabel" value="Est fermée"/>
+  <translation key="CaseStatus.IsDefault" type="SfFieldLabel" value="Par défaut"/>
+  <translation key="CaseStatus.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="CaseStatus.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="CaseStatus.SortOrder" type="SfFieldLabel" value="Ordre de tri"/>
+  <translation key="CaseStatus.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

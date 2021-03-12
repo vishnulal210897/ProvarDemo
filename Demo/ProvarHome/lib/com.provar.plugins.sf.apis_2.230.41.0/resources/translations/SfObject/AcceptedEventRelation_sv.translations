@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AcceptedEventRelation.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="AcceptedEventRelation.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="AcceptedEventRelation.EventId" type="SfFieldLabel" value="{Event}.{SfObject.Label}"/>
+  <translation key="AcceptedEventRelation.Id" type="SfFieldLabel" value="Händelse-relations-ID"/>
+  <translation key="AcceptedEventRelation.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="AcceptedEventRelation.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="AcceptedEventRelation.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="AcceptedEventRelation.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+  <translation key="AcceptedEventRelation.Type" type="SfFieldLabel" value="Typ"/>
+</translations>

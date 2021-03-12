@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Opportunity.Name" type="SfFieldLabel" value="Säljprojektets namn"/>
+  <translation key="Opportunity.Currency" type="SfFieldLabel" value="Valuta för säljprojekt"/>
+  <translation key="Opportunity.Id" type="SfFieldLabel" value="Säljprojekts-ID"/>
+  <translation key="Opportunity.Owner" type="SfFieldLabel" value="Säljprojektägare"/>
+  <translation key="Opportunity.Owner_Alias" type="SfFieldLabel" value="Ägaralias för affärsmöjlighet"/>
+  <translation key="Opportunity.CampaignId" type="SfFieldLabel" value="Primär kampanjkälla"/>
+  <translation key="*.*.Opportunity Information" type="SfLayoutSectionLabel" value="Säljprojektsinformation"/>
+</translations>

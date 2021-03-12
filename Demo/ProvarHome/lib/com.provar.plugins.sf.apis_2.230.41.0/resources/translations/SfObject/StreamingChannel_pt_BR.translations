@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="StreamingChannel.Id" type="SfFieldLabel" value="ID canale in streaming"/>
+  <translation key="StreamingChannel.IsDeleted" type="SfFieldLabel" value="È eliminato"/>
+  <translation key="StreamingChannel.Name" type="SfFieldLabel" value="Nome canale in streaming"/>
+  <translation key="StreamingChannel.Owner" type="SfFieldLabel" value="Nome titolare"/>
+</translations>

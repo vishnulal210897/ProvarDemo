@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProfileSkillEndorsement.CreatedDate" type="SfFieldLabel" value="Added Date"/>
+  <translation key="ProfileSkillEndorsement.Id" type="SfFieldLabel" value="Endorsement ID"/>
+  <translation key="ProfileSkillEndorsement.Name" type="SfFieldLabel" value="Endorsement Name"/>
+  <translation key="ProfileSkillEndorsement.UserId" type="SfFieldLabel" value="Added By"/>
+</translations>

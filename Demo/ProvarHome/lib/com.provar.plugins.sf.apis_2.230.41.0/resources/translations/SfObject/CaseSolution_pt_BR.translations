@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseSolution.CaseId" type="SfFieldLabel" value="Do caso"/>
+  <translation key="CaseSolution.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="CaseSolution.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="CaseSolution.Id" type="SfFieldLabel" value="ID da solução do caso"/>
+  <translation key="CaseSolution.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="CaseSolution.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

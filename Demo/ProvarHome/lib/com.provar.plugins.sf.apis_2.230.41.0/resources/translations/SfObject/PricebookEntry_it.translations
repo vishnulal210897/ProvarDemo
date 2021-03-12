@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PricebookEntry.CurrencyIsoCode" type="SfFieldLabel" value="Valuta"/>
+  <translation key="PricebookEntry.Id" type="SfFieldLabel" value="ID voce listino prezzi"/>
+  <translation key="PricebookEntry.IsArchived" type="SfFieldLabel" value="Archiviato"/>
+  <translation key="PricebookEntry.Name" type="SfFieldLabel" value="Nome prodotto"/>
+  <translation key="PricebookEntry.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="PricebookEntry.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="PricebookEntry.UnitPrice" type="SfFieldLabel" value="Prezzo di listino"/>
+</translations>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CustomPermission.Id" type="SfFieldLabel" value="ID d'autorisation personnalisée"/>
+</translations>

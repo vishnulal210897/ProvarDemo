@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Dashboard.DeveloperName" type="SfFieldLabel" value="Unieke naam dashboard"/>
+  <translation key="Dashboard.Id" type="SfFieldLabel" value="Dashboard-ID"/>
+  <translation key="Dashboard.Type" type="SfFieldLabel" value="Huidige dashboardgebruiker"/>
+</translations>

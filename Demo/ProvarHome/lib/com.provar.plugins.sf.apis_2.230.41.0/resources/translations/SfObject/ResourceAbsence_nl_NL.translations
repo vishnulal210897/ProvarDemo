@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ResourceAbsence.Address" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ResourceAbsence.Id" type="SfFieldLabel" value="Afwezigheids-ID"/>
+  <translation key="ResourceAbsence.Street" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+</translations>

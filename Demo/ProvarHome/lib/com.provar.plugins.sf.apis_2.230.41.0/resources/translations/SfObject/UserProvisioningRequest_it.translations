@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="UserProvisioningRequest.Id" type="SfFieldLabel" value="ID UserProvisioningRequest"/>
+  <translation key="UserProvisioningRequest.ManagerId" type="SfFieldLabel" value="Responsabile dell'utente Salesforce"/>
+  <translation key="UserProvisioningRequest.Operation" type="SfFieldLabel" value="{Task}.{SfObject.Label}"/>
+  <translation key="UserProvisioningRequest.Owner" type="SfFieldLabel" value="Nome titolare"/>
+  <translation key="UserProvisioningRequest.ParentId" type="SfFieldLabel" value="Controllante"/>
+  <translation key="UserProvisioningRequest.State" type="SfFieldLabel" value="Stato"/>
+</translations>

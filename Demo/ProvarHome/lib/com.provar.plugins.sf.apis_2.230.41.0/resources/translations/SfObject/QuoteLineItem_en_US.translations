@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="QuoteLineItem.CurrencyIsoCode" type="SfFieldLabel" value="Quote Line Currency"/>
+  <translation key="QuoteLineItem.Description" type="SfFieldLabel" value="Line Item Description"/>
+  <translation key="QuoteLineItem.HasSchedule" type="SfFieldLabel" value="Schedule"/>
+  <translation key="QuoteLineItem.Id" type="SfFieldLabel" value="Quote Line Item ID"/>
+  <translation key="QuoteLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="QuoteLineItem.QuoteId" type="SfFieldLabel" value="Quote Name"/>
+</translations>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrderLineItem.Address" type="SfFieldLabel" value="Adres"/>
+  <translation key="WorkOrderLineItem.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.CreatedDate" type="SfFieldLabel" value="Aanmaakdatum"/>
+  <translation key="WorkOrderLineItem.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="WorkOrderLineItem.Description" type="SfFieldLabel" value="Beschrijving"/>
+  <translation key="WorkOrderLineItem.Discount" type="SfFieldLabel" value="Korting"/>
+  <translation key="WorkOrderLineItem.DurationInMinutes" type="SfFieldLabel" value="Duur in minuten"/>
+  <translation key="WorkOrderLineItem.EndDate" type="SfFieldLabel" value="Einddatum"/>
+  <translation key="WorkOrderLineItem.Id" type="SfFieldLabel" value="Regelitem-ID"/>
+  <translation key="WorkOrderLineItem.IsClosed" type="SfFieldLabel" value="Is gesloten"/>
+  <translation key="WorkOrderLineItem.IsDeleted" type="SfFieldLabel" value="Verwijderd"/>
+  <translation key="WorkOrderLineItem.LastModifiedById" type="SfFieldLabel" value="Laatste wijziging door"/>
+  <translation key="WorkOrderLineItem.LastReferencedDate" type="SfFieldLabel" value="Laatste datum waarnaar is verwezen"/>
+  <translation key="WorkOrderLineItem.LastViewedDate" type="SfFieldLabel" value="Datum laatst weergegeven"/>
+  <translation key="WorkOrderLineItem.LineItemNumber" type="SfFieldLabel" value="Linjevarenummer på arbejdsordre"/>
+  <translation key="WorkOrderLineItem.ListPrice" type="SfFieldLabel" value="Prijslijstprijs"/>
+  <translation key="WorkOrderLineItem.LocationId" type="SfFieldLabel" value="Locatie"/>
+  <translation key="WorkOrderLineItem.OrderId" type="SfFieldLabel" value="{Order}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.PricebookEntryId" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.Priority" type="SfFieldLabel" value="Prioriteit"/>
+  <translation key="WorkOrderLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.Quantity" type="SfFieldLabel" value="Hoeveelheid"/>
+  <translation key="WorkOrderLineItem.ServiceAppointmentCount" type="SfFieldLabel" value="Serviceafsprakentelling"/>
+  <translation key="WorkOrderLineItem.StartDate" type="SfFieldLabel" value="Begindatum"/>
+  <translation key="WorkOrderLineItem.StateCode" type="SfFieldLabel" value="Statskode"/>
+  <translation key="WorkOrderLineItem.Street" type="SfFieldLabel" value="Gade/vej"/>
+  <translation key="WorkOrderLineItem.Subject" type="SfFieldLabel" value="Onderwerp"/>
+  <translation key="WorkOrderLineItem.Subtotal" type="SfFieldLabel" value="Subtotaal"/>
+  <translation key="WorkOrderLineItem.SuggestedMaintenanceDate" type="SfFieldLabel" value="Datum van voorgesteld onderhoud"/>
+  <translation key="WorkOrderLineItem.SystemModstamp" type="SfFieldLabel" value="Systeemwijzigingsstempel"/>
+  <translation key="WorkOrderLineItem.TotalPrice" type="SfFieldLabel" value="Totaalprijs"/>
+  <translation key="WorkOrderLineItem.UnitPrice" type="SfFieldLabel" value="Eenheidsprijs"/>
+  <translation key="WorkOrderLineItem.UserRecordAccessId" type="SfFieldLabel" value="Objecttoegangsniveau"/>
+</translations>

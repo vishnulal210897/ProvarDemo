@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="User.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="User.BadgeText" type="SfFieldLabel" value="Badge-Overlay mit Text für Benutzerfoto"/>
+  <translation key="User.BannerPhotoId" type="SfFieldLabel" value="Bannerfoto"/>
+  <translation key="User.BannerPhotoUrl" type="SfFieldLabel" value="URL für Bannerfoto"/>
+  <translation key="User.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="User.CurrencyIsoCode" type="SfFieldLabel" value="Information – Währung"/>
+  <translation key="User.Id" type="SfFieldLabel" value="Benutzer-ID"/>
+  <translation key="User.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="User.IsBadged" type="SfFieldLabel" value="Benutzerfoto verfügt über ein Badge-Overlay"/>
+  <translation key="User.Title" type="SfFieldLabel" value="Position"/>
+  <translation key="User.UserPermissionsInteractionUser" type="SfFieldLabel" value="Flow-Benutzer"/>
+  <translation key="User.UserPermissionsJigsawProspectingUser" type="SfFieldLabel" value="Data.com-Benutzer"/>
+  <translation key="User.UserPermissionsKnowledgeUser" type="SfFieldLabel" value="Knowledge-Benutzer"/>
+  <translation key="User.UserPermissionsMarketingUser" type="SfFieldLabel" value="Marketing-Benutzer"/>
+  <translation key="User.UserPermissionsMobileUser" type="SfFieldLabel" value="Apex Mobile-Benutzer"/>
+  <translation key="User.UserPermissionsOfflineUser" type="SfFieldLabel" value="Offline-Benutzer"/>
+  <translation key="User.UserPermissionsSFContentUser" type="SfFieldLabel" value="Salesforce CRM Content-Benutzer"/>
+  <translation key="User.UserPermissionsSiteforceContributorUser" type="SfFieldLabel" value="Site.com Contributor-Benutzer"/>
+  <translation key="User.UserPermissionsSiteforcePublisherUser" type="SfFieldLabel" value="Site.com Publisher-Benutzer"/>
+  <translation key="User.UserPermissionsSupportUser" type="SfFieldLabel" value="Service Cloud-Benutzer"/>
+  <translation key="User.UserPermissionsWorkDotComUserFeature" type="SfFieldLabel" value="Work.com-Benutzer"/>
+  <translation key="User.UserType" type="SfFieldLabel" value="Benutzertyp"/>
+  <translation key="User.Username" type="SfFieldLabel" value="Benutzername"/>
+</translations>

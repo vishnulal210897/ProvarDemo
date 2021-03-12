@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LiveChatTranscript.Id" type="SfFieldLabel" value="ID de Transcription Live Chat"/>
+  <translation key="LiveChatTranscript.Name" type="SfFieldLabel" value="Nom de la Transcription Live Chat"/>
+</translations>

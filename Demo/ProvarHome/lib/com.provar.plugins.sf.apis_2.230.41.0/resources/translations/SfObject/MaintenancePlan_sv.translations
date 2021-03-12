@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MaintenancePlan.Id" type="SfFieldLabel" value="ID för underhållsplan"/>
+  <translation key="MaintenancePlan.MaintenancePlanNumber" type="SfFieldLabel" value="Underhållsplannummer"/>
+  <translation key="MaintenancePlan.MaintenancePlanTitle" type="SfFieldLabel" value="Underhållsplantitel"/>
+</translations>

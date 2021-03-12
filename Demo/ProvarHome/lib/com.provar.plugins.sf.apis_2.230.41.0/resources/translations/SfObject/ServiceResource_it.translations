@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceResource.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="ServiceResource.Id" type="SfFieldLabel" value="ID risorsa"/>
+  <translation key="ServiceResource.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="ServiceResource.Owner" type="SfFieldLabel" value="Titolare"/>
+  <translation key="ServiceResource.RelatedRecordId" type="SfFieldLabel" value="Utente"/>
+</translations>

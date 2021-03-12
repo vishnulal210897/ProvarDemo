@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrgMetric.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="OrgMetric.Id" type="SfFieldLabel" value="Id for organisationsmetrik"/>
+  <translation key="OrgMetric.LatestOrgMetricScanSummaryId" type="SfFieldLabel" value="Id for scanning af organisationsmetrikker"/>
+  <translation key="OrgMetric.Name" type="SfFieldLabel" value="Organisationsmetrik"/>
+</translations>

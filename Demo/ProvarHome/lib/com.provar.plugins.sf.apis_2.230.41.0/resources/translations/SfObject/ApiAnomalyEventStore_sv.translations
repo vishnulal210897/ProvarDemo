@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ApiAnomalyEventStore.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="ApiAnomalyEventStore.Id" type="SfFieldLabel" value="ID för Lagring av händelse för API-avvikelse"/>
+  <translation key="ApiAnomalyEventStore.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="ApiAnomalyEventStore.LastReferencedDate" type="SfFieldLabel" value="Senaste referensdatumet"/>
+  <translation key="ApiAnomalyEventStore.LastViewedDate" type="SfFieldLabel" value="Datum senaste visning"/>
+  <translation key="ApiAnomalyEventStore.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

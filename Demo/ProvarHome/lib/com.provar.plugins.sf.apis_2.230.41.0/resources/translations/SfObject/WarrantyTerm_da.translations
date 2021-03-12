@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WarrantyTerm.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="WarrantyTerm.EffectiveStartDate" type="SfFieldLabel" value="Gældende startdato"/>
+  <translation key="WarrantyTerm.Id" type="SfFieldLabel" value="Id for garantibetingelse"/>
+  <translation key="WarrantyTerm.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="WarrantyTerm.Owner" type="SfFieldLabel" value="Ejers navn"/>
+  <translation key="WarrantyTerm.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="WarrantyTerm.WarrantyTermName" type="SfFieldLabel" value="Navn på garantibetingelse"/>
+</translations>

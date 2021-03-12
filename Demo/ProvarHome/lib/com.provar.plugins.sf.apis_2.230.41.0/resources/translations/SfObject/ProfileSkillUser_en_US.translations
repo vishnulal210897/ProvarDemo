@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProfileSkillUser.CreatedDate" type="SfFieldLabel" value="Added Date"/>
+  <translation key="ProfileSkillUser.Id" type="SfFieldLabel" value="Skill User ID"/>
+  <translation key="ProfileSkillUser.Name" type="SfFieldLabel" value="Skill User Name"/>
+</translations>

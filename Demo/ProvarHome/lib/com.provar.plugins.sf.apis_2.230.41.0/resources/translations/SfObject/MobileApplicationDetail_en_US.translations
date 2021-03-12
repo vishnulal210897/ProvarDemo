@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MobileApplicationDetail.DeveloperName" type="SfFieldLabel" value="Name"/>
+  <translation key="MobileApplicationDetail.Id" type="SfFieldLabel" value="Mobile Application Detail Id"/>
+  <translation key="MobileApplicationDetail.Language" type="SfFieldLabel" value="Master Language"/>
+</translations>

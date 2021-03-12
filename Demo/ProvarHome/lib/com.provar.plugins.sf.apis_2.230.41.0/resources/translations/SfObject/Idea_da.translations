@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Idea.Body" type="SfFieldLabel" value="Idebrødtekst"/>
+  <translation key="Idea.CurrencyIsoCode" type="SfFieldLabel" value="Idevaluta"/>
+  <translation key="Idea.Id" type="SfFieldLabel" value="Ide-id"/>
+  <translation key="Idea.LastCommentDate" type="SfFieldLabel" value="Sidste idekommentar-dato"/>
+  <translation key="Idea.LastCommentId" type="SfFieldLabel" value="Sidste idekommentar"/>
+  <translation key="Idea.ParentIdeaId" type="SfFieldLabel" value="Overordnet ide"/>
+  <translation key="Idea.RecordType" type="SfFieldLabel" value="Registreringstype"/>
+</translations>

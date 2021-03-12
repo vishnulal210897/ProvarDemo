@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Lead.CurrencyIsoCode" type="SfFieldLabel" value="Leadvaluta"/>
+  <translation key="Lead.Id" type="SfFieldLabel" value="Lead-ID"/>
+  <translation key="Lead.Source" type="SfFieldLabel" value="Leadskälla"/>
+  <translation key="Lead.Owner" type="SfFieldLabel" value="Leadägare"/>
+  <translation key="Lead.Owner_FirstName" type="SfFieldLabel" value="Ägarens förnamn"/>
+  <translation key="Lead.Status" type="SfFieldLabel" value="Leadstatus"/>
+  <translation key="Lead.CampaignId" type="SfFieldLabel" value="Kampanj"/>
+  <translation key="Lead.NumberOfEmployees" type="SfFieldLabel" value="Antal anställda"/>
+  <translation key="Lead.Mobile" type="SfFieldLabel" value="Mobil"/>
+  <translation key="*.*.Lead Information" type="SfLayoutSectionLabel" value="Leadinformation"/>
+</translations>

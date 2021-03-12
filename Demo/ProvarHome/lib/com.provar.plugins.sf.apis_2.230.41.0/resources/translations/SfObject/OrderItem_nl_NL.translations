@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrderItem.ContractId" type="SfFieldLabel" value="{Contract}.{SfObject.Label}"/>
+  <translation key="OrderItem.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="OrderItem.Description" type="SfFieldLabel" value="Regelbeschrijving"/>
+  <translation key="OrderItem.Id" type="SfFieldLabel" value="Orderproduct-ID"/>
+  <translation key="OrderItem.OrderId" type="SfFieldLabel" value="{Order}.{SfObject.Label}"/>
+  <translation key="OrderItem.OrderItemNumber" type="SfFieldLabel" value="Orderproductnummer"/>
+  <translation key="OrderItem.OriginalOrderItemId" type="SfFieldLabel" value="Oorspronkelijk orderproduct"/>
+  <translation key="OrderItem.PricebookEntryId" type="SfFieldLabel" value="Prijslijstitem"/>
+  <translation key="OrderItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="OrderItem.QuoteLineItemId" type="SfFieldLabel" value="{QuoteLineItem}.{SfObject.Label}"/>
+  <translation key="OrderItem.ServiceDate" type="SfFieldLabel" value="Begindatum"/>
+  <translation key="OrderItem.UnitPrice" type="SfFieldLabel" value="Eenheidsprijs"/>
+</translations>

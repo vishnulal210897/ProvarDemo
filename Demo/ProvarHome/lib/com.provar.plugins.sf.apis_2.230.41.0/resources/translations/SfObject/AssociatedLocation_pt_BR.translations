@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssociatedLocation.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="AssociatedLocation.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="AssociatedLocation.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="AssociatedLocation.Id" type="SfFieldLabel" value="ID d'emplacement associé"/>
+  <translation key="AssociatedLocation.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="AssociatedLocation.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="AssociatedLocation.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="AssociatedLocation.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="AssociatedLocation.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="AssociatedLocation.LocationId" type="SfFieldLabel" value="Nom de l'emplacement"/>
+  <translation key="AssociatedLocation.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="AssociatedLocation.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

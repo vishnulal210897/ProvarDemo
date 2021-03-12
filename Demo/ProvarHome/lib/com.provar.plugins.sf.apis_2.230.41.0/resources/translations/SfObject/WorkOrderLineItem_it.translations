@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrderLineItem.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.DurationInMinutes" type="SfFieldLabel" value="Durata in minuti"/>
+  <translation key="WorkOrderLineItem.Id" type="SfFieldLabel" value="ID voce"/>
+  <translation key="WorkOrderLineItem.IsClosed" type="SfFieldLabel" value="È chiuso"/>
+  <translation key="WorkOrderLineItem.LineItemNumber" type="SfFieldLabel" value="Numero voce nell'ordine di lavoro"/>
+  <translation key="WorkOrderLineItem.OrderId" type="SfFieldLabel" value="{Order}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.ParentWorkOrderLineItemId" type="SfFieldLabel" value="Voce ordine di lavoro controllante"/>
+  <translation key="WorkOrderLineItem.PricebookEntryId" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.RootWorkOrderLineItemId" type="SfFieldLabel" value="Voce ordine di lavoro radice"/>
+  <translation key="WorkOrderLineItem.Street" type="SfFieldLabel" value="Via"/>
+  <translation key="WorkOrderLineItem.StateCode" type="SfFieldLabel" value="Codice provincia"/>
+  <translation key="WorkOrderLineItem.UnitPrice" type="SfFieldLabel" value="Prezzo unitario"/>
+  <translation key="WorkOrderLineItem.WorkOrderId" type="SfFieldLabel" value="{WorkOrder}.{SfObject.Label}"/>
+</translations>

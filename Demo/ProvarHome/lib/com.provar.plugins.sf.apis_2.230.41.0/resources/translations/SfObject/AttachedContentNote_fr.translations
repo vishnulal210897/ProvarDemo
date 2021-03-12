@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AttachedContentNote.ContentDocumentId" type="SfFieldLabel" value="ContentDocument"/>
+  <translation key="AttachedContentNote.ContentSize" type="SfFieldLabel" value="Taille du contenu"/>
+  <translation key="AttachedContentNote.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="AttachedContentNote.CreatedDate" type="SfFieldLabel" value="Created"/>
+  <translation key="AttachedContentNote.FileExtension" type="SfFieldLabel" value="Extension de fichier"/>
+  <translation key="AttachedContentNote.FileType" type="SfFieldLabel" value="Type de fichier"/>
+  <translation key="AttachedContentNote.Id" type="SfFieldLabel" value="ID de note"/>
+  <translation key="AttachedContentNote.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="AttachedContentNote.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="AttachedContentNote.LastModifiedDate" type="SfFieldLabel" value="Date de la modification du contenu"/>
+  <translation key="AttachedContentNote.TextPreview" type="SfFieldLabel" value="Aperçu du texte"/>
+  <translation key="AttachedContentNote.Title" type="SfFieldLabel" value="Titre"/>
+</translations>

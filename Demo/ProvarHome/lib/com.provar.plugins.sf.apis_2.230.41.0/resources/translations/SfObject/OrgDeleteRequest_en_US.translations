@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrgDeleteRequest.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="OrgDeleteRequest.Id" type="SfFieldLabel" value="Org Delete Request ID"/>
+  <translation key="OrgDeleteRequest.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Pricebook2.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="Pricebook2.Id" type="SfFieldLabel" value="Prisliste-id"/>
+  <translation key="Pricebook2.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="Pricebook2.IsArchived" type="SfFieldLabel" value="Arkiverede"/>
+  <translation key="Pricebook2.IsStandard" type="SfFieldLabel" value="Er standardprisliste"/>
+  <translation key="Pricebook2.Name" type="SfFieldLabel" value="Prislistenavn"/>
+</translations>

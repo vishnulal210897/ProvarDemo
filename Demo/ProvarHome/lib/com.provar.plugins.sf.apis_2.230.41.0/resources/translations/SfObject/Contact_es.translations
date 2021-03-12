@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Contact.AccountName" type="SfFieldLabel" value="Nombre de la cuenta"/>
+  <translation key="Contact.CurrencyIsoCode" type="SfFieldLabel" value="Divisa del contacto"/>
+  <translation key="Contact.Id" type="SfFieldLabel" value="Id. de contacto"/>
+  <translation key="Contact.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="Contact.JigsawContactId" type="SfFieldLabel" value="Id. de contacto de Jigsaw"/>
+  <translation key="Contact.MasterRecordId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="Contact.Name" type="SfFieldLabel" value="Nombre completo"/>
+  <translation key="Contact.Owner" type="SfFieldLabel" value="Propietario del contacto"/>
+  <translation key="Contact.RecordType" type="SfFieldLabel" value="Tipo de registro del contacto"/>
+  <translation key="Contact.Title" type="SfFieldLabel" value="Título"/>
+</translations>

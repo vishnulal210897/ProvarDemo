@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FeedItem.Id" type="SfFieldLabel" value="Id for feedelement"/>
+  <translation key="FeedItem.IsClosed" type="SfFieldLabel" value="Er lukket"/>
+  <translation key="FeedItem.ParentId" type="SfFieldLabel" value="Overordnet"/>
+  <translation key="FeedItem.Type" type="SfFieldLabel" value="Feedelementtype"/>
+</translations>

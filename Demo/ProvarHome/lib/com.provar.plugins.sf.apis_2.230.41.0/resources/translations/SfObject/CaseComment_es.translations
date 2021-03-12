@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseComment.CreatedById" type="SfFieldLabel" value="Usuario"/>
+  <translation key="CaseComment.Id" type="SfFieldLabel" value="Id. de comentario del caso"/>
+  <translation key="CaseComment.Owner" type="SfFieldLabel" value="Propietario del caso"/>
+  <translation key="CaseComment.ParentId" type="SfFieldLabel" value="Caso principal"/>
+</translations>

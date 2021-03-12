@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Site.AdminId" type="SfFieldLabel" value="Referente sito"/>
+  <translation key="Site.Description" type="SfFieldLabel" value="Descrizione sito"/>
+  <translation key="Site.Id" type="SfFieldLabel" value="ID sito"/>
+  <translation key="Site.MasterLabel" type="SfFieldLabel" value="Etichetta sito"/>
+  <translation key="Site.Name" type="SfFieldLabel" value="Nome sito"/>
+  <translation key="Site.SiteType" type="SfFieldLabel" value="Tipo di sito"/>
+  <translation key="Site.Status" type="SfFieldLabel" value="Stato sito"/>
+  <translation key="Site.Subdomain" type="SfFieldLabel" value="Prefisso sottodominio di sito"/>
+</translations>

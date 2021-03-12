@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Report.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="Report.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="Report.Description" type="SfFieldLabel" value="Beskrivning"/>
+  <translation key="Report.DeveloperName" type="SfFieldLabel" value="Unikt rapportnamn"/>
+  <translation key="Report.Id" type="SfFieldLabel" value="Rapport-ID"/>
+  <translation key="Report.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="Report.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="Report.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Report.LastReferencedDate" type="SfFieldLabel" value="Senaste referensdatumet"/>
+  <translation key="Report.LastViewedDate" type="SfFieldLabel" value="Datum senaste visning"/>
+  <translation key="Report.Name" type="SfFieldLabel" value="Rapportnamn"/>
+  <translation key="Report.NamespacePrefix" type="SfFieldLabel" value="Namnutrymmesprefix"/>
+  <translation key="Report.Owner" type="SfFieldLabel" value="Ägarens"/>
+  <translation key="Report.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

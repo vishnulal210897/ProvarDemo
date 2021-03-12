@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactPointConsent.Id" type="SfFieldLabel" value="Contact Point Consent ID"/>
+  <translation key="ContactPointConsent.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="ContactPointConsent.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Contract.ContractNumber" type="SfFieldLabel" value="Numéro du contrat"/>
+  <translation key="Contract.ContractTerm" type="SfFieldLabel" value="Durée du contrat (mois)"/>
+  <translation key="Contract.EndDate" type="SfFieldLabel" value="Date de fin du contrat"/>
+  <translation key="Contract.Id" type="SfFieldLabel" value="ID du contrat"/>
+  <translation key="Contract.Name" type="SfFieldLabel" value="Nom du contrat"/>
+  <translation key="Contract.StartDate" type="SfFieldLabel" value="Date de début du contrat"/>
+  <translation key="*.*.Contract Information" type="SfLayoutSectionLabel" value="Informations sur le contrat"/>
+  <translation key="*.*.Description Information" type="SfLayoutSectionLabel" value="Contrat Maileva Signature"/>
+  <translation key="*.*.System Information" type="SfLayoutSectionLabel" value="Contrat SMS Facile"/>
+</translations>

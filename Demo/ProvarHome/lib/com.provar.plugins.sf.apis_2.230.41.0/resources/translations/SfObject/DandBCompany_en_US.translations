@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DandBCompany.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="DandBCompany.Description" type="SfFieldLabel" value="Company Description"/>
+  <translation key="DandBCompany.Fax" type="SfFieldLabel" value="Facsimile Number"/>
+  <translation key="DandBCompany.Id" type="SfFieldLabel" value="D&amp;B Company ID"/>
+  <translation key="DandBCompany.MailingPostalCode" type="SfFieldLabel" value="Mailing Postal Code"/>
+  <translation key="DandBCompany.MailingState" type="SfFieldLabel" value="Mailing State"/>
+  <translation key="DandBCompany.MailingStateCode" type="SfFieldLabel" value="Mailing State"/>
+  <translation key="DandBCompany.MailingStreet" type="SfFieldLabel" value="Mailing Street Address"/>
+  <translation key="DandBCompany.Name" type="SfFieldLabel" value="Primary Business Name"/>
+  <translation key="DandBCompany.Phone" type="SfFieldLabel" value="Telephone Number"/>
+  <translation key="DandBCompany.PostalCode" type="SfFieldLabel" value="Postal Code"/>
+  <translation key="DandBCompany.State" type="SfFieldLabel" value="State"/>
+  <translation key="DandBCompany.StateCode" type="SfFieldLabel" value="State"/>
+  <translation key="DandBCompany.Street" type="SfFieldLabel" value="Street Address"/>
+</translations>

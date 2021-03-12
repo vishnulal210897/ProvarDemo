@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Individual.Id" type="SfFieldLabel" value="Individual ID"/>
+  <translation key="Individual.IndividualsAge" type="SfFieldLabel" value="Individual's Age"/>
+  <translation key="Individual.Owner" type="SfFieldLabel" value="Individual Owner"/>
+  <translation key="Individual.SendIndividualData" type="SfFieldLabel" value="Export Individual's Data"/>
+  <translation key="Individual.ShouldForget" type="SfFieldLabel" value="Forget this Individual"/>
+</translations>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Folder.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="Folder.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="Folder.DeveloperName" type="SfFieldLabel" value="Unikt mappnamn"/>
+  <translation key="Folder.Id" type="SfFieldLabel" value="Mapp-ID"/>
+  <translation key="Folder.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="Folder.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Folder.Name" type="SfFieldLabel" value="Namn"/>
+  <translation key="Folder.NamespacePrefix" type="SfFieldLabel" value="Namnutrymmesprefix"/>
+  <translation key="Folder.ParentId" type="SfFieldLabel" value="Mapp"/>
+  <translation key="Folder.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+  <translation key="Folder.Type" type="SfFieldLabel" value="Typ"/>
+</translations>

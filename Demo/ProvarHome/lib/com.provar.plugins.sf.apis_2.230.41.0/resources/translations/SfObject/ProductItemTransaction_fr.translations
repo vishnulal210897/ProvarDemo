@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductItemTransaction.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ProductItemTransaction.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ProductItemTransaction.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="ProductItemTransaction.Id" type="SfFieldLabel" value="ID de transaction d'élément de produit"/>
+  <translation key="ProductItemTransaction.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="ProductItemTransaction.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ProductItemTransaction.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ProductItemTransaction.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="ProductItemTransaction.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="ProductItemTransaction.ProductItemId" type="SfFieldLabel" value="{ProductItem}.{SfObject.Label}"/>
+  <translation key="ProductItemTransaction.ProductItemTransactionNumber" type="SfFieldLabel" value="Numéro de transaction d'élément de produit"/>
+  <translation key="ProductItemTransaction.RelatedRecordId" type="SfFieldLabel" value="Enregistrement associé"/>
+  <translation key="ProductItemTransaction.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="ProductItemTransaction.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

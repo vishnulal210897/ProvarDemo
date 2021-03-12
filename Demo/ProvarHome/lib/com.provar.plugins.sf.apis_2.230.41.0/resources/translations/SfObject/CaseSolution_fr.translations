@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseSolution.CaseId" type="SfFieldLabel" value="De la requête"/>
+  <translation key="CaseSolution.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="CaseSolution.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="CaseSolution.Id" type="SfFieldLabel" value="ID de solution de requête"/>
+  <translation key="CaseSolution.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="CaseSolution.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

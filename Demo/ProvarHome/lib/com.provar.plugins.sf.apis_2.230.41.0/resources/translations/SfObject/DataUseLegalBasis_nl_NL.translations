@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DataUseLegalBasis.Id" type="SfFieldLabel" value="ID van juridische basis voor gegevensgebruik"/>
+  <translation key="DataUseLegalBasis.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="DataUseLegalBasis.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+</translations>

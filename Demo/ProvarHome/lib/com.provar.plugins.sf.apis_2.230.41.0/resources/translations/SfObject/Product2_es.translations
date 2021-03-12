@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Product2.CurrencyIsoCode" type="SfFieldLabel" value="Divisa del producto"/>
+  <translation key="Product2.Description" type="SfFieldLabel" value="Descripción del producto"/>
+  <translation key="Product2.ExternalDataSourceId" type="SfFieldLabel" value="Fuente de datos externa"/>
+  <translation key="Product2.Family" type="SfFieldLabel" value="Familia de productos"/>
+  <translation key="Product2.Id" type="SfFieldLabel" value="Id. de producto"/>
+  <translation key="Product2.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="Product2.IsArchived" type="SfFieldLabel" value="Archivado"/>
+  <translation key="Product2.Name" type="SfFieldLabel" value="Nombre del producto"/>
+</translations>

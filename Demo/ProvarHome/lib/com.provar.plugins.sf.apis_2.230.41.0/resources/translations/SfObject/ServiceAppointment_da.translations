@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceAppointment.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="ServiceAppointment.Address" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ServiceAppointment.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="ServiceAppointment.Duration" type="SfFieldLabel" value="Varighed"/>
+  <translation key="ServiceAppointment.DurationInMinutes" type="SfFieldLabel" value="Varighed i minutter"/>
+  <translation key="ServiceAppointment.DurationType" type="SfFieldLabel" value="Varighedstype"/>
+  <translation key="ServiceAppointment.Id" type="SfFieldLabel" value="Id for serviceaftale"/>
+  <translation key="ServiceAppointment.ParentRecordId" type="SfFieldLabel" value="Overordnet registrering"/>
+  <translation key="ServiceAppointment.ParentRecordType" type="SfFieldLabel" value="Type af overordnet registrering"/>
+  <translation key="ServiceAppointment.ServiceTerritoryId" type="SfFieldLabel" value="{ServiceTerritory}.{SfObject.Label}"/>
+  <translation key="ServiceAppointment.State" type="SfFieldLabel" value="Stat/provins"/>
+  <translation key="ServiceAppointment.StatusCategory" type="SfFieldLabel" value="Statuskategori"/>
+  <translation key="ServiceAppointment.Subject" type="SfFieldLabel" value="{Lead}.{SfObject.Label}"/>
+  <translation key="ServiceAppointment.WorkTypeId" type="SfFieldLabel" value="{WorkType}.{SfObject.Label}"/>
+</translations>

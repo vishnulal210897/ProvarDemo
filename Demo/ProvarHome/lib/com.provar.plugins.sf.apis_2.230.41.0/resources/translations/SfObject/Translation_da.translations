@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Translation.Id" type="SfFieldLabel" value="Oversættelses-id"/>
+  <translation key="Translation.IsActive" type="SfFieldLabel" value="Aktiv"/>
+  <translation key="Translation.Language" type="SfFieldLabel" value="Sprog"/>
+</translations>

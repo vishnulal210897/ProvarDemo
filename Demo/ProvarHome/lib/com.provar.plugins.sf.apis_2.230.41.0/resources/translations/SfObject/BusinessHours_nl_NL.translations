@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BusinessHours.Id" type="SfFieldLabel" value="Kantooruren-ID"/>
+  <translation key="BusinessHours.IsDefault" type="SfFieldLabel" value="Standaard kantooruren"/>
+  <translation key="BusinessHours.Name" type="SfFieldLabel" value="Naam kantooruren"/>
+</translations>

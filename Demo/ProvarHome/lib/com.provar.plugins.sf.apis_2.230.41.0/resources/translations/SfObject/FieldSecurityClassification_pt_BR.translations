@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FieldSecurityClassification.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="FieldSecurityClassification.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="FieldSecurityClassification.Description" type="SfFieldLabel" value="Descrição"/>
+  <translation key="FieldSecurityClassification.Id" type="SfFieldLabel" value="ID de classificação de segurança do campo"/>
+  <translation key="FieldSecurityClassification.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="FieldSecurityClassification.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="FieldSecurityClassification.SortOrder" type="SfFieldLabel" value="Ordem de classificação"/>
+  <translation key="FieldSecurityClassification.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FeedItem.ContentSize" type="SfFieldLabel" value="Tamaño de contenido"/>
+  <translation key="FeedItem.Id" type="SfFieldLabel" value="Id. de elemento de noticias en tiempo real"/>
+  <translation key="FeedItem.IsClosed" type="SfFieldLabel" value="Está cerrado"/>
+  <translation key="FeedItem.ParentId" type="SfFieldLabel" value="Principal"/>
+  <translation key="FeedItem.Title" type="SfFieldLabel" value="Título"/>
+  <translation key="FeedItem.Type" type="SfFieldLabel" value="Tipo de elemento de noticias"/>
+</translations>

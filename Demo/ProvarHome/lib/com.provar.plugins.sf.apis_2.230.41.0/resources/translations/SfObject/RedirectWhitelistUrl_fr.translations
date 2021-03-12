@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RedirectWhitelistUrl.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="RedirectWhitelistUrl.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="RedirectWhitelistUrl.Id" type="SfFieldLabel" value="URL de confiance pour les redirections d'ID"/>
+  <translation key="RedirectWhitelistUrl.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="RedirectWhitelistUrl.Language" type="SfFieldLabel" value="Langue principale"/>
+  <translation key="RedirectWhitelistUrl.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="RedirectWhitelistUrl.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="RedirectWhitelistUrl.MasterLabel" type="SfFieldLabel" value="Étiquette"/>
+  <translation key="RedirectWhitelistUrl.NamespacePrefix" type="SfFieldLabel" value="Préfixe d'espace de noms"/>
+  <translation key="RedirectWhitelistUrl.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

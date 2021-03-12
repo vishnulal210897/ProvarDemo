@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FieldSecurityClassification.Id" type="SfFieldLabel" value="Id. de Clasificación de seguridad de campo"/>
+  <translation key="FieldSecurityClassification.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="FieldSecurityClassification.SortOrder" type="SfFieldLabel" value="Orden de clasificación"/>
+</translations>

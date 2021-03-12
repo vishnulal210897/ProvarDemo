@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EngagementChannelType.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="EngagementChannelType.Id" type="SfFieldLabel" value="Engagement Channel Type ID"/>
+  <translation key="EngagementChannelType.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="EngagementChannelType.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

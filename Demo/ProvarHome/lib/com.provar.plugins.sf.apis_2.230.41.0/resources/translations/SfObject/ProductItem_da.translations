@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductItem.Id" type="SfFieldLabel" value="Id for produktelement"/>
+  <translation key="ProductItem.LocationId" type="SfFieldLabel" value="{Location}.{SfObject.Label}"/>
+  <translation key="ProductItem.Product2Id" type="SfFieldLabel" value="Produktnavn"/>
+  <translation key="ProductItem.ProductItemNumber" type="SfFieldLabel" value="Produktelementnummer"/>
+  <translation key="ProductItem.QuantityUnitOfMeasure" type="SfFieldLabel" value="Mængde af måleenhed"/>
+</translations>

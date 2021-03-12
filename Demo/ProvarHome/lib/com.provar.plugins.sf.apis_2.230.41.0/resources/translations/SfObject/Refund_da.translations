@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Refund.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Refund.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="Refund.Email" type="SfFieldLabel" value="Overvåg mail"/>
+  <translation key="Refund.GatewayResultCode" type="SfFieldLabel" value="Gateway ResultCode"/>
+  <translation key="Refund.GatewayResultCodeDescription" type="SfFieldLabel" value="Beskrivelse af Gateway ResultCode"/>
+  <translation key="Refund.Id" type="SfFieldLabel" value="Id for refusion"/>
+  <translation key="Refund.RefundNumber" type="SfFieldLabel" value="Refusionsnummer"/>
+  <translation key="Refund.SfResultCode" type="SfFieldLabel" value="Salesforce ResultCode"/>
+</translations>

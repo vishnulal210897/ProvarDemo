@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MaintenancePlan.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="MaintenancePlan.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="MaintenancePlan.Id" type="SfFieldLabel" value="Onderhoudsplan-ID"/>
+  <translation key="MaintenancePlan.LocationId" type="SfFieldLabel" value="{Location}.{SfObject.Label}"/>
+  <translation key="MaintenancePlan.Owner" type="SfFieldLabel" value="Eigenaar"/>
+  <translation key="MaintenancePlan.WorkTypeId" type="SfFieldLabel" value="Werktype"/>
+</translations>

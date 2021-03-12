@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpenActivity.AccountId" type="SfFieldLabel" value="Account-id"/>
+  <translation key="OpenActivity.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="OpenActivity.Description" type="SfFieldLabel" value="Opmerkingen"/>
+  <translation key="OpenActivity.Id" type="SfFieldLabel" value="Activiteit-id"/>
+  <translation key="OpenActivity.IsTask" type="SfFieldLabel" value="{Task}.{SfObject.Label}"/>
+  <translation key="OpenActivity.Owner" type="SfFieldLabel" value="Toegewezen aan"/>
+  <translation key="OpenActivity.WhoId" type="SfFieldLabel" value="Naam"/>
+</translations>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EmailStatus.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="EmailStatus.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="EmailStatus.Id" type="SfFieldLabel" value="E-poststatus-ID"/>
+  <translation key="EmailStatus.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="EmailStatus.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="EmailStatus.WhoId" type="SfFieldLabel" value="Namn"/>
+</translations>

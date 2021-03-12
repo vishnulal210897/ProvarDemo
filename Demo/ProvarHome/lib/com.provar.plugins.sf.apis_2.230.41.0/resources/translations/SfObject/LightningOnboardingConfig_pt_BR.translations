@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LightningOnboardingConfig.CollaborationGroupId" type="SfFieldLabel" value="Collaboration Group"/>
+  <translation key="LightningOnboardingConfig.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="LightningOnboardingConfig.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="LightningOnboardingConfig.Id" type="SfFieldLabel" value="ID da LightningOnboardingConfig"/>
+  <translation key="LightningOnboardingConfig.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="LightningOnboardingConfig.Language" type="SfFieldLabel" value="Idioma mestre"/>
+  <translation key="LightningOnboardingConfig.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="LightningOnboardingConfig.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="LightningOnboardingConfig.MasterLabel" type="SfFieldLabel" value="Rótulo"/>
+  <translation key="LightningOnboardingConfig.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Campaign.ActualCost" type="SfFieldLabel" value="Werkelijke kosten in campagne"/>
+  <translation key="Campaign.AmountAllOpportunities" type="SfFieldLabel" value="Opportunities van waarde in campagne"/>
+  <translation key="Campaign.AmountWonOpportunities" type="SfFieldLabel" value="Gewonnen opportunities van waarde in campagne"/>
+  <translation key="Campaign.BudgetedCost" type="SfFieldLabel" value="Gebudgetteerde kosten in campagne"/>
+  <translation key="Campaign.CampaignMemberRecordTypeId" type="SfFieldLabel" value="Campagnelidtype"/>
+  <translation key="Campaign.CurrencyIsoCode" type="SfFieldLabel" value="Campagnevaluta"/>
+  <translation key="Campaign.ExpectedRevenue" type="SfFieldLabel" value="Verwachte omzet in campagne"/>
+  <translation key="Campaign.Id" type="SfFieldLabel" value="Campagne-id"/>
+  <translation key="Campaign.Name" type="SfFieldLabel" value="Campagnenaam"/>
+  <translation key="Campaign.NumberOfContacts" type="SfFieldLabel" value="Contactpersonen in campagne"/>
+  <translation key="Campaign.NumberOfConvertedLeads" type="SfFieldLabel" value="Geconverteerde leads in campagne"/>
+  <translation key="Campaign.NumberOfLeads" type="SfFieldLabel" value="Leads in campagne"/>
+  <translation key="Campaign.NumberOfOpportunities" type="SfFieldLabel" value="Opportunities in campagne"/>
+  <translation key="Campaign.NumberOfResponses" type="SfFieldLabel" value="Reacties in campagne"/>
+  <translation key="Campaign.NumberOfWonOpportunities" type="SfFieldLabel" value="Gewonnen opportunities in campagne"/>
+  <translation key="Campaign.NumberSent" type="SfFieldLabel" value="Verzonden aantal in campagne"/>
+  <translation key="Campaign.Owner" type="SfFieldLabel" value="Campagne-eigenaar"/>
+  <translation key="Campaign.ParentId" type="SfFieldLabel" value="Bovenliggende campagne"/>
+</translations>

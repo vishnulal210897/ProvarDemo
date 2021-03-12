@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceAppointmentStatus.Id" type="SfFieldLabel" value="Id. de Valor de estado de cita de servicio"/>
+  <translation key="ServiceAppointmentStatus.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="ServiceAppointmentStatus.SortOrder" type="SfFieldLabel" value="Orden de clasificación"/>
+  <translation key="ServiceAppointmentStatus.StatusCode" type="SfFieldLabel" value="Código de estado"/>
+</translations>

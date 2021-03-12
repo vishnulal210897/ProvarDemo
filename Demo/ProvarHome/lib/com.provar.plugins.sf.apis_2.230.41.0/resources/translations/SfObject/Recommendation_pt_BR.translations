@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Recommendation.ExternalId" type="SfFieldLabel" value="ID esterno"/>
+  <translation key="Recommendation.Id" type="SfFieldLabel" value="ID consiglio"/>
+  <translation key="Recommendation.Name" type="SfFieldLabel" value="Nome"/>
+</translations>

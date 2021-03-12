@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Expense.AccountId" type="SfFieldLabel" value="Account"/>
+  <translation key="Expense.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="Expense.Id" type="SfFieldLabel" value="Expense ID"/>
+  <translation key="Expense.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

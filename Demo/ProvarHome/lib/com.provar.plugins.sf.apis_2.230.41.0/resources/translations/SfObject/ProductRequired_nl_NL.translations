@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductRequired.Id" type="SfFieldLabel" value="ID van verplicht product"/>
+  <translation key="ProductRequired.ParentRecordId" type="SfFieldLabel" value="Bovenliggende record"/>
+  <translation key="ProductRequired.Product2Id" type="SfFieldLabel" value="{ProductRequired}.{SfObject.Label}"/>
+</translations>

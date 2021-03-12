@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MacroUsage.Id" type="SfFieldLabel" value="ID van gebruiksvorm van macro"/>
+  <translation key="MacroUsage.Name" type="SfFieldLabel" value="Naam van gebruiksvorm van macro"/>
+  <translation key="MacroUsage.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="MacroUsage.UserId" type="SfFieldLabel" value="Gebruiker"/>
+</translations>

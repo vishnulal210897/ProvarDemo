@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DandBCompany.Address" type="SfFieldLabel" value="Dirección principal"/>
+  <translation key="DandBCompany.Description" type="SfFieldLabel" value="Descripción de la empresa"/>
+  <translation key="DandBCompany.Fax" type="SfFieldLabel" value="Número de fax"/>
+  <translation key="DandBCompany.Id" type="SfFieldLabel" value="Id. de empresa D&amp;B"/>
+  <translation key="DandBCompany.MailingCity" type="SfFieldLabel" value="Dirección postal: Ciudad"/>
+  <translation key="DandBCompany.MailingCountry" type="SfFieldLabel" value="Dirección postal: País"/>
+  <translation key="DandBCompany.MailingPostalCode" type="SfFieldLabel" value="Ext. telefónica de origen"/>
+  <translation key="DandBCompany.MailingState" type="SfFieldLabel" value="Sector"/>
+  <translation key="DandBCompany.MailingStateCode" type="SfFieldLabel" value="Código de estado de correo"/>
+  <translation key="DandBCompany.MailingStreet" type="SfFieldLabel" value="Calle de la dirección de correo"/>
+  <translation key="DandBCompany.Name" type="SfFieldLabel" value="Nombre de empresa principal"/>
+  <translation key="DandBCompany.Phone" type="SfFieldLabel" value="Número de teléfono"/>
+  <translation key="DandBCompany.State" type="SfFieldLabel" value="Estado"/>
+  <translation key="DandBCompany.StateCode" type="SfFieldLabel" value="Código de estado"/>
+  <translation key="DandBCompany.Street" type="SfFieldLabel" value="Dirección"/>
+</translations>

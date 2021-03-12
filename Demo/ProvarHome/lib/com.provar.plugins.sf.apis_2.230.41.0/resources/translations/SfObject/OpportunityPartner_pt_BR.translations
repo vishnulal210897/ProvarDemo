@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpportunityPartner.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="OpportunityPartner.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="OpportunityPartner.Id" type="SfFieldLabel" value="Oportunidade ID do parceiro"/>
+  <translation key="OpportunityPartner.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="OpportunityPartner.IsPrimary" type="SfFieldLabel" value="Principal"/>
+  <translation key="OpportunityPartner.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="OpportunityPartner.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="OpportunityPartner.OpportunityId" type="SfFieldLabel" value="Da oportunidade"/>
+  <translation key="OpportunityPartner.Role" type="SfFieldLabel" value="Papel"/>
+  <translation key="OpportunityPartner.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

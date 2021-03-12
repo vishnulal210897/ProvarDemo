@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MatchingInformation.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="MatchingInformation.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="MatchingInformation.Id" type="SfFieldLabel" value="Matching Information ID"/>
+  <translation key="MatchingInformation.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="MatchingInformation.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="MatchingInformation.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="MatchingInformation.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="MatchingInformation.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

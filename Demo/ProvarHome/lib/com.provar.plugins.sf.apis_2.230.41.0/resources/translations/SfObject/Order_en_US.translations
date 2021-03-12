@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Order.ContractId" type="SfFieldLabel" value="Contract Number"/>
+  <translation key="Order.CurrencyIsoCode" type="SfFieldLabel" value="Order Currency"/>
+  <translation key="Order.EffectiveDate" type="SfFieldLabel" value="Order Start Date"/>
+  <translation key="Order.EndDate" type="SfFieldLabel" value="Order End Date"/>
+  <translation key="Order.Id" type="SfFieldLabel" value="Order ID"/>
+  <translation key="Order.IsReductionOrder" type="SfFieldLabel" value="Reduction Order"/>
+  <translation key="Order.Name" type="SfFieldLabel" value="Order Name"/>
+  <translation key="Order.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+  <translation key="Order.OrderNumber" type="SfFieldLabel" value="Order Number"/>
+  <translation key="Order.OrderReferenceNumber" type="SfFieldLabel" value="Order Reference Number"/>
+  <translation key="Order.OriginalOrderId" type="SfFieldLabel" value="Original Order"/>
+  <translation internalLabel="Owner ID" key="Order.Owner" type="SfFieldLabel" value="Order Owner"/>
+  <translation key="Order.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Order.QuoteId" type="SfFieldLabel" value="{Quote}.{SfObject.Label}"/>
+  <translation key="Order.TotalAmount" type="SfFieldLabel" value="Order Amount"/>
+  <translation key="Order.Type" type="SfFieldLabel" value="Order Type"/>
+</translations>

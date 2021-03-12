@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CardPaymentMethod.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="CardPaymentMethod.Email" type="SfFieldLabel" value="Registered Card Email"/>
+  <translation key="CardPaymentMethod.Id" type="SfFieldLabel" value="Card Payment Method ID"/>
+</translations>

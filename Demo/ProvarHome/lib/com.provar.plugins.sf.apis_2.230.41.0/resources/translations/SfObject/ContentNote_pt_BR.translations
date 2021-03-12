@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContentNote.ContentModifiedDate" type="SfFieldLabel" value="Data da modificação do conteúdo"/>
+  <translation key="ContentNote.ContentSize" type="SfFieldLabel" value="Tamanho do conteúdo"/>
+  <translation key="ContentNote.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="ContentNote.CreatedDate" type="SfFieldLabel" value="Criado"/>
+  <translation key="ContentNote.FileExtension" type="SfFieldLabel" value="Extensão de arquivo"/>
+  <translation key="ContentNote.FileType" type="SfFieldLabel" value="Tipo de arquivo"/>
+  <translation key="ContentNote.Id" type="SfFieldLabel" value="ID da nota"/>
+  <translation key="ContentNote.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="ContentNote.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="ContentNote.LastModifiedDate" type="SfFieldLabel" value="Última modificação"/>
+  <translation key="ContentNote.LastViewedDate" type="SfFieldLabel" value="Data da última visualização"/>
+  <translation key="ContentNote.LatestPublishedVersionId" type="SfFieldLabel" value="ContentVersion"/>
+  <translation key="ContentNote.Owner" type="SfFieldLabel" value="Do proprietário"/>
+  <translation key="ContentNote.SharingPrivacy" type="SfFieldLabel" value="Privacidade da observação em registros"/>
+  <translation key="ContentNote.TextPreview" type="SfFieldLabel" value="Visualização do texto"/>
+  <translation key="ContentNote.Title" type="SfFieldLabel" value="Título"/>
+</translations>

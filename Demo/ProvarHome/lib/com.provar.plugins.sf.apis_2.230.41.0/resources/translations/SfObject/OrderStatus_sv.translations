@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrderStatus.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="OrderStatus.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="OrderStatus.Id" type="SfFieldLabel" value="ID för orderstatusvärde"/>
+  <translation key="OrderStatus.IsDefault" type="SfFieldLabel" value="Är standard"/>
+  <translation key="OrderStatus.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="OrderStatus.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="OrderStatus.SortOrder" type="SfFieldLabel" value="Sorteringsordning"/>
+  <translation key="OrderStatus.StatusCode" type="SfFieldLabel" value="Statuskod"/>
+  <translation key="OrderStatus.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

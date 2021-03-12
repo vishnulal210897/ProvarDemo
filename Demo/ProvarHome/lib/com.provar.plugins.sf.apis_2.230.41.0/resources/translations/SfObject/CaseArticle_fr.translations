@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseArticle.CaseId" type="SfFieldLabel" value="De la requête"/>
+  <translation key="CaseArticle.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="CaseArticle.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="CaseArticle.Id" type="SfFieldLabel" value="ID d'article de requête"/>
+  <translation key="CaseArticle.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="CaseArticle.KnowledgeArticleId" type="SfFieldLabel" value="D'article"/>
+  <translation key="CaseArticle.KnowledgeArticleVersionId" type="SfFieldLabel" value="De version de l'article Knowledge"/>
+  <translation key="CaseArticle.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

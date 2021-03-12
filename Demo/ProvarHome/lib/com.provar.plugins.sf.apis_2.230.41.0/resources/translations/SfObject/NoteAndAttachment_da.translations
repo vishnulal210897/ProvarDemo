@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="NoteAndAttachment.Id" type="SfFieldLabel" value="Id for notat eller vedhæftet fil"/>
+  <translation key="NoteAndAttachment.ParentId" type="SfFieldLabel" value="Overordnet"/>
+</translations>

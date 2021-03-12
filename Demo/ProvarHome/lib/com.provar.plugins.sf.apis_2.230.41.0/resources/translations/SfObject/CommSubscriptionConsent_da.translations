@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CommSubscriptionConsent.ConsentCapturedDateTime" type="SfFieldLabel" value="Dato-tid for samtykkeregistrering"/>
+  <translation key="CommSubscriptionConsent.ConsentCapturedSource" type="SfFieldLabel" value="Kilde for samtykkeregistrering"/>
+  <translation key="CommSubscriptionConsent.ConsentGiverId" type="SfFieldLabel" value="Samtykkegiver"/>
+  <translation key="CommSubscriptionConsent.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="CommSubscriptionConsent.Id" type="SfFieldLabel" value="Id for samtykke til kommunikationsabonnement"/>
+  <translation key="CommSubscriptionConsent.Name" type="SfFieldLabel" value="Navn"/>
+  <translation key="CommSubscriptionConsent.Owner" type="SfFieldLabel" value="Ejers navn"/>
+</translations>

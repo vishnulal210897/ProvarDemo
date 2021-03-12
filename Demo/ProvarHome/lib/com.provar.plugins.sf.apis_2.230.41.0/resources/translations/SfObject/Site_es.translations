@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Site.AdminId" type="SfFieldLabel" value="Contacto del sitio Web"/>
+  <translation key="Site.Description" type="SfFieldLabel" value="Descripción del sitio Web"/>
+  <translation key="Site.Id" type="SfFieldLabel" value="Id. del sitio"/>
+  <translation key="Site.MasterLabel" type="SfFieldLabel" value="Etiqueta del sitio"/>
+  <translation key="Site.Name" type="SfFieldLabel" value="Nombre del sitio Web"/>
+  <translation key="Site.Status" type="SfFieldLabel" value="Estado del sitio Web"/>
+  <translation key="Site.Subdomain" type="SfFieldLabel" value="Prefijo de subdominio del sitio Web"/>
+</translations>

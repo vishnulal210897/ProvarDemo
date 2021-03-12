@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Shipment.Id" type="SfFieldLabel" value="Forsendelses-id"/>
+  <translation key="Shipment.Provider" type="SfFieldLabel" value="Forsendelsesleverandør"/>
+  <translation key="Shipment.ShipFromAddress" type="SfFieldLabel" value="Send fra Adresse"/>
+  <translation key="Shipment.ShipFromCity" type="SfFieldLabel" value="Send fra By"/>
+  <translation key="Shipment.ShipFromCountry" type="SfFieldLabel" value="Send fra Land"/>
+  <translation key="Shipment.ShipFromGeocodeAccuracy" type="SfFieldLabel" value="Send fra Nøjagtighed af geografisk kode"/>
+  <translation key="Shipment.ShipFromLatitude" type="SfFieldLabel" value="Send fra Breddegrad"/>
+  <translation key="Shipment.ShipFromLongitude" type="SfFieldLabel" value="Send fra Længdegrad"/>
+  <translation key="Shipment.ShipFromPostalCode" type="SfFieldLabel" value="Send fra Postnummer"/>
+  <translation key="Shipment.ShipFromState" type="SfFieldLabel" value="Send fra Stat/provins"/>
+  <translation key="Shipment.ShipFromStreet" type="SfFieldLabel" value="Send fra Gade/vej"/>
+  <translation key="Shipment.ShipToAddress" type="SfFieldLabel" value="Send til Adresse"/>
+  <translation key="Shipment.ShipToCity" type="SfFieldLabel" value="Send til By"/>
+  <translation key="Shipment.ShipToCountry" type="SfFieldLabel" value="Send til Land"/>
+  <translation key="Shipment.ShipToGeocodeAccuracy" type="SfFieldLabel" value="Send til  Nøjagtighed af geografisk kode"/>
+  <translation key="Shipment.ShipToLatitude" type="SfFieldLabel" value="Send til Breddegrad"/>
+  <translation key="Shipment.ShipToLongitude" type="SfFieldLabel" value="Send til Længdegrad"/>
+  <translation key="Shipment.ShipToPostalCode" type="SfFieldLabel" value="Send til Postnummer"/>
+  <translation key="Shipment.ShipToState" type="SfFieldLabel" value="Send til Stat/provins"/>
+  <translation key="Shipment.ShipToStreet" type="SfFieldLabel" value="Send til Gade/vej"/>
+  <translation key="Shipment.ShipmentNumber" type="SfFieldLabel" value="Forsendelsesnummer"/>
+</translations>

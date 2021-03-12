@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DigitalSignature.DocumentBody" type="SfFieldLabel" value="Corpo della firma digitale"/>
+  <translation key="DigitalSignature.DocumentContentType" type="SfFieldLabel" value="Tipo di contenuto della firma digitale"/>
+  <translation key="DigitalSignature.DocumentLength" type="SfFieldLabel" value="Lunghezza della firma digitale"/>
+  <translation key="DigitalSignature.Id" type="SfFieldLabel" value="ID firma digitale"/>
+  <translation key="DigitalSignature.ParentId" type="SfFieldLabel" value="Record controllante"/>
+</translations>

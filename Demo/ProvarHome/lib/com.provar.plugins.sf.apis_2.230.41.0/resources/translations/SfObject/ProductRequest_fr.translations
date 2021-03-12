@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductRequest.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="ProductRequest.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="ProductRequest.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ProductRequest.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ProductRequest.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="ProductRequest.Id" type="SfFieldLabel" value="ID de demande de produit"/>
+  <translation key="ProductRequest.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="ProductRequest.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ProductRequest.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ProductRequest.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="ProductRequest.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="ProductRequest.Owner" type="SfFieldLabel" value="Propriétaire"/>
+  <translation key="ProductRequest.ProductRequestNumber" type="SfFieldLabel" value="Numéro de demande de produit"/>
+  <translation key="ProductRequest.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="ProductRequest.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+  <translation key="ProductRequest.WorkOrderId" type="SfFieldLabel" value="{WorkOrder}.{SfObject.Label}"/>
+  <translation key="ProductRequest.WorkOrderLineItemId" type="SfFieldLabel" value="{WorkOrderLineItem}.{SfObject.Label}"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Folder.DeveloperName" type="SfFieldLabel" value="Eindeutiger Ordnername"/>
+  <translation key="Folder.Id" type="SfFieldLabel" value="Ordner-ID"/>
+  <translation key="Folder.ParentId" type="SfFieldLabel" value="Ordner"/>
+</translations>

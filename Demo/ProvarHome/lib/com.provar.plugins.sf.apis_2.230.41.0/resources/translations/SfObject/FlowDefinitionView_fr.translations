@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowDefinitionView.ApiName" type="SfFieldLabel" value="Nom d'API du flux"/>
+  <translation key="FlowDefinitionView.Description" type="SfFieldLabel" value="Description du flux"/>
+  <translation key="FlowDefinitionView.Id" type="SfFieldLabel" value="ID de vue de définition du flux"/>
+  <translation key="FlowDefinitionView.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="FlowDefinitionView.Label" type="SfFieldLabel" value="Étiquette du flux"/>
+  <translation key="FlowDefinitionView.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+</translations>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Contract.BillingStateCode" type="SfFieldLabel" value="Código de estado/provincia de facturación"/>
+  <translation key="Contract.ContractNumber" type="SfFieldLabel" value="Número de contrato"/>
+  <translation key="Contract.ContractTerm" type="SfFieldLabel" value="Duración del contrato (meses)"/>
+  <translation key="Contract.CurrencyIsoCode" type="SfFieldLabel" value="Divisa del contrato"/>
+  <translation key="Contract.EndDate" type="SfFieldLabel" value="Fecha final del contrato"/>
+  <translation key="Contract.Id" type="SfFieldLabel" value="Id. de contrato"/>
+  <translation key="Contract.Name" type="SfFieldLabel" value="Nombre del contrato"/>
+  <translation key="Contract.Owner" type="SfFieldLabel" value="Propietario del contrato"/>
+  <translation key="Contract.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Contract.RecordType" type="SfFieldLabel" value="Tipo de registro del contrato"/>
+  <translation key="Contract.StartDate" type="SfFieldLabel" value="Fecha de inicio del contrato"/>
+</translations>

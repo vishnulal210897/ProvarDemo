@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerNetworkConnection.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="PartnerNetworkConnection.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="PartnerNetworkConnection.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="PartnerNetworkConnection.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="PartnerNetworkConnection.Id" type="SfFieldLabel" value="Kontakt-ID för partnernätverk"/>
+  <translation key="PartnerNetworkConnection.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="PartnerNetworkConnection.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+</translations>

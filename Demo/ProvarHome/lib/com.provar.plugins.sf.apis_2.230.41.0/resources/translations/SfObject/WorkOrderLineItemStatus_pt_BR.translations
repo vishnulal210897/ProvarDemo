@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrderLineItemStatus.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="WorkOrderLineItemStatus.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="WorkOrderLineItemStatus.Id" type="SfFieldLabel" value="ID do valor de status do item de linha da ordem de trabalho"/>
+  <translation key="WorkOrderLineItemStatus.IsDefault" type="SfFieldLabel" value="Padrão"/>
+  <translation key="WorkOrderLineItemStatus.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="WorkOrderLineItemStatus.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="WorkOrderLineItemStatus.SortOrder" type="SfFieldLabel" value="Ordem de classificação"/>
+  <translation key="WorkOrderLineItemStatus.StatusCode" type="SfFieldLabel" value="Código do status"/>
+  <translation key="WorkOrderLineItemStatus.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

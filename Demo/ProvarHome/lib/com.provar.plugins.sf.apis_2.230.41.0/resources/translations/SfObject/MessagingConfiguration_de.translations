@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingConfiguration.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="MessagingConfiguration.DeveloperName" type="SfFieldLabel" value="Name"/>
+  <translation key="MessagingConfiguration.Id" type="SfFieldLabel" value="ID des MessagingConfiguration"/>
+  <translation key="MessagingConfiguration.Language" type="SfFieldLabel" value="Master-Sprache"/>
+  <translation key="MessagingConfiguration.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="MessagingConfiguration.MasterLabel" type="SfFieldLabel" value="Bezeichnung"/>
+</translations>

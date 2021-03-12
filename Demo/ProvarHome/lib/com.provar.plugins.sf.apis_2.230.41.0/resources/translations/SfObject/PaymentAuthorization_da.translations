@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentAuthorization.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="PaymentAuthorization.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="PaymentAuthorization.Email" type="SfFieldLabel" value="Overvåg mail"/>
+  <translation key="PaymentAuthorization.Id" type="SfFieldLabel" value="Id for betalingsgodkendelse"/>
+  <translation key="PaymentAuthorization.PaymentAuthorizationNumber" type="SfFieldLabel" value="Nummer for betalingsgodkendelse"/>
+</translations>

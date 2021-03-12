@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ActivityHistory.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="ActivityHistory.ActivityDate" type="SfFieldLabel" value="Datum"/>
+  <translation key="ActivityHistory.ActivityDateTime" type="SfFieldLabel" value="Tid"/>
+  <translation key="ActivityHistory.CallDisposition" type="SfFieldLabel" value="Samtalsresultat"/>
+  <translation key="ActivityHistory.CallDurationInSeconds" type="SfFieldLabel" value="Samtalsvaraktighet"/>
+  <translation key="ActivityHistory.CallObject" type="SfFieldLabel" value="Identifiering av samtalsobjekt"/>
+  <translation key="ActivityHistory.CallType" type="SfFieldLabel" value="Samtalstyp"/>
+  <translation key="ActivityHistory.ConnectionReceivedId" type="SfFieldLabel" value="Kontakt-ID för partnernätverk"/>
+  <translation key="ActivityHistory.ConnectionSentId" type="SfFieldLabel" value="Kontakt-ID för partnernätverk"/>
+  <translation key="ActivityHistory.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="ActivityHistory.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="ActivityHistory.Description" type="SfFieldLabel" value="Kommentarer"/>
+  <translation key="ActivityHistory.DurationInMinutes" type="SfFieldLabel" value="Varaktighet"/>
+  <translation key="ActivityHistory.EndDateTime" type="SfFieldLabel" value="Slut"/>
+  <translation key="ActivityHistory.Id" type="SfFieldLabel" value="Aktivitets-ID"/>
+  <translation key="ActivityHistory.IsAllDayEvent" type="SfFieldLabel" value="Hela dagen-händelse"/>
+  <translation key="ActivityHistory.IsClosed" type="SfFieldLabel" value="Avslutad"/>
+  <translation key="ActivityHistory.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="ActivityHistory.IsHighPriority" type="SfFieldLabel" value="Hög prioritet"/>
+  <translation key="ActivityHistory.IsReminderSet" type="SfFieldLabel" value="Påminnelse"/>
+  <translation key="ActivityHistory.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="ActivityHistory.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="ActivityHistory.Location" type="SfFieldLabel" value="Plats"/>
+  <translation key="ActivityHistory.Owner" type="SfFieldLabel" value="Tilldelad till"/>
+  <translation key="ActivityHistory.Priority" type="SfFieldLabel" value="Prioritet"/>
+  <translation key="ActivityHistory.ReminderDateTime" type="SfFieldLabel" value="Datum/tid för påminnelse"/>
+  <translation key="ActivityHistory.StartDateTime" type="SfFieldLabel" value="Start"/>
+  <translation key="ActivityHistory.Status" type="SfFieldLabel" value="Status"/>
+  <translation key="ActivityHistory.Subject" type="SfFieldLabel" value="Ämne"/>
+  <translation key="ActivityHistory.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+  <translation key="ActivityHistory.WhatId" type="SfFieldLabel" value="Relaterad till"/>
+  <translation key="ActivityHistory.WhoId" type="SfFieldLabel" value="Namn"/>
+</translations>

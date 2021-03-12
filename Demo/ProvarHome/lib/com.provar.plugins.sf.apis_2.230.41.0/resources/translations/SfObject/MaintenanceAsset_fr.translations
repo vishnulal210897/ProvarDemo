@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MaintenanceAsset.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="MaintenanceAsset.ContractLineItemId" type="SfFieldLabel" value="Élément de ligne de contrat"/>
+  <translation key="MaintenanceAsset.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="MaintenanceAsset.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="MaintenanceAsset.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="MaintenanceAsset.Id" type="SfFieldLabel" value="ID d'actif de maintenance"/>
+  <translation key="MaintenanceAsset.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="MaintenanceAsset.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="MaintenanceAsset.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="MaintenanceAsset.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="MaintenanceAsset.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="MaintenanceAsset.MaintenanceAssetNumber" type="SfFieldLabel" value="Numéro d'actif de maintenance"/>
+  <translation key="MaintenanceAsset.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="MaintenanceAsset.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

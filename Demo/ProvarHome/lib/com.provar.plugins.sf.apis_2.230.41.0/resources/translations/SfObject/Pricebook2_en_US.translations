@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Pricebook2.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="Pricebook2.Id" type="SfFieldLabel" value="Price Book ID"/>
+  <translation key="Pricebook2.IsArchived" type="SfFieldLabel" value="Archived"/>
+  <translation key="Pricebook2.IsStandard" type="SfFieldLabel" value="Is Standard Price Book"/>
+  <translation key="Pricebook2.Name" type="SfFieldLabel" value="Price Book Name"/>
+</translations>

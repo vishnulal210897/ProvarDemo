@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TimeSheetEntry.DurationInMinutes" type="SfFieldLabel" value="Duration (In Minutes)"/>
+  <translation key="TimeSheetEntry.Id" type="SfFieldLabel" value="Time Sheet Entry ID"/>
+  <translation key="TimeSheetEntry.WorkOrderId" type="SfFieldLabel" value="{WorkOrder}.{SfObject.Label}"/>
+</translations>

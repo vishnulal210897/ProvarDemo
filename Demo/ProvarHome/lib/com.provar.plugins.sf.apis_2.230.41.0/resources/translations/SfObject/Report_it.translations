@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Report.DeveloperName" type="SfFieldLabel" value="Nome univoco rapporto"/>
+  <translation key="Report.Id" type="SfFieldLabel" value="ID rapporto"/>
+  <translation key="Report.Name" type="SfFieldLabel" value="Nome rapporto"/>
+  <translation key="Report.Owner" type="SfFieldLabel" value="Titolare"/>
+</translations>

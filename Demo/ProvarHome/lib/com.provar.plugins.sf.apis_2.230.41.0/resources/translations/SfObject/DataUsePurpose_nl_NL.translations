@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DataUsePurpose.Id" type="SfFieldLabel" value="ID van doel van gegevensgebruik"/>
+  <translation key="DataUsePurpose.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="DataUsePurpose.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+</translations>

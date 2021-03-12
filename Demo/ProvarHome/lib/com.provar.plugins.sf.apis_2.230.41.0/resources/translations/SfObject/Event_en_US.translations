@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Event.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Event.CurrencyIsoCode" type="SfFieldLabel" value="Activity Currency"/>
+  <translation key="Event.EventSubtype" type="SfFieldLabel" value="Event Subtype"/>
+  <translation key="Event.GroupEventType" type="SfFieldLabel" value="Group Event Type"/>
+  <translation key="Event.Id" type="SfFieldLabel" value="Activity ID"/>
+  <translation key="Event.IsAllDayEvent" type="SfFieldLabel" value="All-Day Event"/>
+  <translation key="Event.IsArchived" type="SfFieldLabel" value="Archived"/>
+  <translation key="Event.IsGroupEvent" type="SfFieldLabel" value="Is Group Event"/>
+  <translation key="Event.IsRecurrence" type="SfFieldLabel" value="Create Recurring Series of Events"/>
+  <translation key="Event.IsRecurrence2Exclusion" type="SfFieldLabel" value="Historical Event, Not Following Recurrence"/>
+  <translation key="Event.IsVisibleInSelfService" type="SfFieldLabel" value="Public"/>
+  <translation key="Event.MasterEventId" type="SfFieldLabel" value="Master Event"/>
+  <translation key="Event.Owner" type="SfFieldLabel" value="Assigned To"/>
+  <translation key="Event.WhoId" type="SfFieldLabel" value="Name"/>
+</translations>

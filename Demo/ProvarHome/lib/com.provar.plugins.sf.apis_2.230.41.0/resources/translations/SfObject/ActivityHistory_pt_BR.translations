@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ActivityHistory.AccountId" type="SfFieldLabel" value="Da conta"/>
+  <translation key="ActivityHistory.ActivityDateTime" type="SfFieldLabel" value="Horário"/>
+  <translation key="ActivityHistory.CallDisposition" type="SfFieldLabel" value="Resultado da chamada"/>
+  <translation key="ActivityHistory.CallDurationInSeconds" type="SfFieldLabel" value="Duração da chamada"/>
+  <translation key="ActivityHistory.CallObject" type="SfFieldLabel" value="Identificador de objeto da chamada"/>
+  <translation key="ActivityHistory.CallType" type="SfFieldLabel" value="Tipo de chamada"/>
+  <translation key="ActivityHistory.ConnectionReceivedId" type="SfFieldLabel" value="Da conexão da rede de parceiros"/>
+  <translation key="ActivityHistory.ConnectionSentId" type="SfFieldLabel" value="Da conexão da rede de parceiros"/>
+  <translation key="ActivityHistory.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="ActivityHistory.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="ActivityHistory.Description" type="SfFieldLabel" value="Comentários"/>
+  <translation key="ActivityHistory.DurationInMinutes" type="SfFieldLabel" value="Duração"/>
+  <translation key="ActivityHistory.EndDateTime" type="SfFieldLabel" value="Fim"/>
+  <translation key="ActivityHistory.Id" type="SfFieldLabel" value="ID da atividade"/>
+  <translation key="ActivityHistory.IsAllDayEvent" type="SfFieldLabel" value="Compromisso Todo o Dia"/>
+  <translation key="ActivityHistory.IsClosed" type="SfFieldLabel" value="Fechado"/>
+  <translation key="ActivityHistory.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="ActivityHistory.IsHighPriority" type="SfFieldLabel" value="Prioridade alta"/>
+  <translation key="ActivityHistory.IsReminderSet" type="SfFieldLabel" value="Conjunto de lembretes"/>
+  <translation key="ActivityHistory.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="ActivityHistory.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="ActivityHistory.Location" type="SfFieldLabel" value="Local"/>
+  <translation key="ActivityHistory.Owner" type="SfFieldLabel" value="Atribuído ao"/>
+  <translation key="ActivityHistory.Priority" type="SfFieldLabel" value="Prioridade"/>
+  <translation key="ActivityHistory.ReminderDateTime" type="SfFieldLabel" value="Data/Hora do lembrete"/>
+  <translation key="ActivityHistory.StartDateTime" type="SfFieldLabel" value="Início"/>
+  <translation key="ActivityHistory.Status" type="SfFieldLabel" value="Status"/>
+  <translation key="ActivityHistory.Subject" type="SfFieldLabel" value="Assunto"/>
+  <translation key="ActivityHistory.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+  <translation key="ActivityHistory.WhatId" type="SfFieldLabel" value="Do relativo a"/>
+  <translation key="ActivityHistory.WhoId" type="SfFieldLabel" value="Do nome"/>
+</translations>

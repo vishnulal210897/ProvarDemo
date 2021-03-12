@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LeadStatus.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="LeadStatus.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="LeadStatus.Id" type="SfFieldLabel" value="Leadstatusvärde-ID"/>
+  <translation key="LeadStatus.IsConverted" type="SfFieldLabel" value="Är konverterad"/>
+  <translation key="LeadStatus.IsDefault" type="SfFieldLabel" value="Är standard"/>
+  <translation key="LeadStatus.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="LeadStatus.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="LeadStatus.SortOrder" type="SfFieldLabel" value="Sorteringsordning"/>
+  <translation key="LeadStatus.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="UiFormulaCriterion.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="UiFormulaCriterion.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="UiFormulaCriterion.Id" type="SfFieldLabel" value="ID för Kriterium för Ui-formel"/>
+  <translation key="UiFormulaCriterion.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="UiFormulaCriterion.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="UiFormulaCriterion.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="UiFormulaCriterion.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

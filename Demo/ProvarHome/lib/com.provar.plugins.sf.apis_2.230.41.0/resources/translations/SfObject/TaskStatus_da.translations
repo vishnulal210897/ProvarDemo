@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TaskStatus.Id" type="SfFieldLabel" value="Opgavestatusværdi-id"/>
+  <translation key="TaskStatus.IsClosed" type="SfFieldLabel" value="Er lukket"/>
+  <translation key="TaskStatus.MasterLabel" type="SfFieldLabel" value="Overordnet betegnelse"/>
+  <translation key="TaskStatus.SortOrder" type="SfFieldLabel" value="Sorteringsrækkefølge"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Folder.DeveloperName" type="SfFieldLabel" value="Nombre exclusivo de carpeta"/>
+  <translation key="Folder.Id" type="SfFieldLabel" value="Id. de carpeta"/>
+  <translation key="Folder.Name" type="SfFieldLabel" value="Nombre"/>
+  <translation key="Folder.ParentId" type="SfFieldLabel" value="Carpeta"/>
+</translations>

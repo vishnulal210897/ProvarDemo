@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingTemplate.Id" type="SfFieldLabel" value="ID van berichtenverkeerssjabloon"/>
+  <translation key="MessagingTemplate.Language" type="SfFieldLabel" value="Hoofdtaal"/>
+  <translation key="MessagingTemplate.MasterLabel" type="SfFieldLabel" value="Sjabloonnaam"/>
+</translations>

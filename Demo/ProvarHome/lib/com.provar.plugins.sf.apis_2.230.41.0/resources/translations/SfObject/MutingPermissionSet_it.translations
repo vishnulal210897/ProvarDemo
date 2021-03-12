@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MutingPermissionSet.CreatedById" type="SfFieldLabel" value="Creato da"/>
+  <translation key="MutingPermissionSet.CreatedDate" type="SfFieldLabel" value="Data creazione"/>
+  <translation key="MutingPermissionSet.DeveloperName" type="SfFieldLabel" value="Nome disattivazione insieme di autorizzazioni"/>
+  <translation key="MutingPermissionSet.Id" type="SfFieldLabel" value="ID MutingPermissionSet"/>
+  <translation key="MutingPermissionSet.IsDeleted" type="SfFieldLabel" value="Eliminato"/>
+  <translation key="MutingPermissionSet.Language" type="SfFieldLabel" value="Lingua principale"/>
+  <translation key="MutingPermissionSet.LastModifiedById" type="SfFieldLabel" value="Ultima modifica di"/>
+  <translation key="MutingPermissionSet.LastModifiedDate" type="SfFieldLabel" value="Data ultima modifica"/>
+  <translation key="MutingPermissionSet.MasterLabel" type="SfFieldLabel" value="Etichetta disattivazione insieme di autorizzazioni"/>
+  <translation key="MutingPermissionSet.SystemModstamp" type="SfFieldLabel" value="Modstamp di sistema"/>
+</translations>

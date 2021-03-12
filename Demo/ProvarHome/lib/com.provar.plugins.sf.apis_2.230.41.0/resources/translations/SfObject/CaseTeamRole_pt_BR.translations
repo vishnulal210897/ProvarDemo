@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseTeamRole.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="CaseTeamRole.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="CaseTeamRole.Id" type="SfFieldLabel" value="Id do papel da equipe"/>
+  <translation key="CaseTeamRole.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="CaseTeamRole.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="CaseTeamRole.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="CaseTeamRole.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

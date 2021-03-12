@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContentDocument.ArchivedById" type="SfFieldLabel" value="D'utilisateur"/>
+  <translation key="ContentDocument.ArchivedDate" type="SfFieldLabel" value="Date d'archivage"/>
+  <translation key="ContentDocument.ContentModifiedDate" type="SfFieldLabel" value="Date de la modification du contenu"/>
+  <translation key="ContentDocument.ContentSize" type="SfFieldLabel" value="Taille"/>
+  <translation key="ContentDocument.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ContentDocument.CreatedDate" type="SfFieldLabel" value="Créé"/>
+  <translation key="ContentDocument.Description" type="SfFieldLabel" value="Description"/>
+  <translation key="ContentDocument.FileExtension" type="SfFieldLabel" value="Extension de fichier"/>
+  <translation key="ContentDocument.FileType" type="SfFieldLabel" value="Type de fichier"/>
+  <translation key="ContentDocument.Id" type="SfFieldLabel" value="ContentDocument ID"/>
+  <translation key="ContentDocument.IsArchived" type="SfFieldLabel" value="Est archivé"/>
+  <translation key="ContentDocument.IsDeleted" type="SfFieldLabel" value="Est supprimé"/>
+  <translation key="ContentDocument.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ContentDocument.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ContentDocument.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="ContentDocument.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="ContentDocument.Owner" type="SfFieldLabel" value="Du propriétaire"/>
+  <translation key="ContentDocument.ParentId" type="SfFieldLabel" value="Parent"/>
+  <translation key="ContentDocument.PublishStatus" type="SfFieldLabel" value="Statut de publication"/>
+  <translation key="ContentDocument.SharingOption" type="SfFieldLabel" value="Empêcher les autres de partager et d'annuler le partage"/>
+  <translation key="ContentDocument.SharingPrivacy" type="SfFieldLabel" value="Confidentialité des fichiers dans les enregistrements"/>
+  <translation key="ContentDocument.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="ContentDocument.Title" type="SfFieldLabel" value="Titre"/>
+</translations>

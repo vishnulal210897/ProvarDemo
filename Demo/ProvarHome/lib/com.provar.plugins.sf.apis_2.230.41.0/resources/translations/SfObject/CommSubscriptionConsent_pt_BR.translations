@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CommSubscriptionConsent.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="CommSubscriptionConsent.EffectiveFromDate" type="SfFieldLabel" value="Effective From"/>
+  <translation key="CommSubscriptionConsent.EffectiveToDate" type="SfFieldLabel" value="Effective To"/>
+  <translation key="CommSubscriptionConsent.Id" type="SfFieldLabel" value="Communication Subscription Consent ID"/>
+  <translation key="CommSubscriptionConsent.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="CommSubscriptionConsent.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

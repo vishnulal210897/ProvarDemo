@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RedirectWhitelistUrl.Id" type="SfFieldLabel" value="Betroet URL for omdirigerings-id"/>
+  <translation key="RedirectWhitelistUrl.Language" type="SfFieldLabel" value="Overordnet sprog"/>
+  <translation key="RedirectWhitelistUrl.MasterLabel" type="SfFieldLabel" value="Betegnelse"/>
+  <translation key="RedirectWhitelistUrl.NamespacePrefix" type="SfFieldLabel" value="Navneområdepræfiks"/>
+</translations>

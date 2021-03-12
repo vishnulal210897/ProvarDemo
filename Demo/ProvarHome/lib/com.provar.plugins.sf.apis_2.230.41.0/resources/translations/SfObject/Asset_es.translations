@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Asset.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Asset.AccountRollupId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Asset.AssetLevel" type="SfFieldLabel" value="Nivel de activo"/>
+  <translation key="Asset.AssetProvidedById" type="SfFieldLabel" value="Activo proporcionado por"/>
+  <translation key="Asset.AssetServicedById" type="SfFieldLabel" value="Activo atendido por"/>
+  <translation key="Asset.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="Asset.CurrencyIsoCode" type="SfFieldLabel" value="Divisa del activo"/>
+  <translation key="Asset.Id" type="SfFieldLabel" value="Id. del activo"/>
+  <translation key="Asset.IsCompetitorProduct" type="SfFieldLabel" value="Activo de competidor"/>
+  <translation key="Asset.IsInternal" type="SfFieldLabel" value="Activo interno"/>
+  <translation key="Asset.Name" type="SfFieldLabel" value="Nombre de activo"/>
+  <translation key="Asset.Owner" type="SfFieldLabel" value="Propietario de activo"/>
+  <translation key="Asset.ParentId" type="SfFieldLabel" value="Activo principal"/>
+  <translation key="Asset.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="Asset.RootAssetId" type="SfFieldLabel" value="Activo raíz"/>
+</translations>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowDefinitionView.ApiName" type="SfFieldLabel" value="API-naam voor stroom"/>
+  <translation key="FlowDefinitionView.Description" type="SfFieldLabel" value="Stroombeschrijving"/>
+  <translation key="FlowDefinitionView.Id" type="SfFieldLabel" value="ID van weergave van stroomdefinitie"/>
+  <translation key="FlowDefinitionView.Label" type="SfFieldLabel" value="Stroomlabel"/>
+  <translation key="FlowDefinitionView.NamespacePrefix" type="SfFieldLabel" value="Stroomnaamruimte"/>
+</translations>

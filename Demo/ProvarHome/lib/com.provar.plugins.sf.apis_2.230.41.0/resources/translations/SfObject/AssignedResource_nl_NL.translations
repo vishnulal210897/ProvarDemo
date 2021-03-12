@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssignedResource.Id" type="SfFieldLabel" value="ID van de toegewezen resource"/>
+  <translation key="AssignedResource.ServiceCrewId" type="SfFieldLabel" value="{ServiceCrew}.{SfObject.Label}"/>
+</translations>

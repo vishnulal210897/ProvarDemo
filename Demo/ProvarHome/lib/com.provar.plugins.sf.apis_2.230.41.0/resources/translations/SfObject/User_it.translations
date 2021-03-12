@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="User.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="User.BadgeText" type="SfFieldLabel" value="Sovrapposizione testo badge Foto utente"/>
+  <translation key="User.BannerPhotoId" type="SfFieldLabel" value="Foto banner"/>
+  <translation key="User.BannerPhotoUrl" type="SfFieldLabel" value="URL per foto del banner"/>
+  <translation key="User.CompanyName" type="SfFieldLabel" value="Nome della società"/>
+  <translation key="User.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="User.CurrencyIsoCode" type="SfFieldLabel" value="Valuta informazioni"/>
+  <translation key="User.Id" type="SfFieldLabel" value="ID utente"/>
+  <translation key="User.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="User.IsBadged" type="SfFieldLabel" value="Foto utente ha una sovrapposizione badge"/>
+  <translation key="User.Name" type="SfFieldLabel" value="Nome e cognome"/>
+  <translation key="User.UserPermissionsInteractionUser" type="SfFieldLabel" value="Utente Flusso"/>
+  <translation key="User.UserPermissionsJigsawProspectingUser" type="SfFieldLabel" value="Utente Data.com"/>
+  <translation key="User.UserPermissionsKnowledgeUser" type="SfFieldLabel" value="Utente Knowledge"/>
+  <translation key="User.UserPermissionsMarketingUser" type="SfFieldLabel" value="Utente Marketing"/>
+  <translation key="User.UserPermissionsMobileUser" type="SfFieldLabel" value="Utente Apex Mobile"/>
+  <translation key="User.UserPermissionsOfflineUser" type="SfFieldLabel" value="Utente Offline"/>
+  <translation key="User.UserPermissionsSFContentUser" type="SfFieldLabel" value="Utente Salesforce CRM Content"/>
+  <translation key="User.UserPermissionsSiteforceContributorUser" type="SfFieldLabel" value="Utente Site.com Contributor"/>
+  <translation key="User.UserPermissionsSiteforcePublisherUser" type="SfFieldLabel" value="Utente Site.com Publisher"/>
+  <translation key="User.UserPermissionsSupportUser" type="SfFieldLabel" value="Utente Service Cloud"/>
+  <translation key="User.UserPermissionsWorkDotComUserFeature" type="SfFieldLabel" value="Utente Work.com"/>
+  <translation key="User.UserType" type="SfFieldLabel" value="Tipo di utente"/>
+  <translation key="User.Username" type="SfFieldLabel" value="Nome utente"/>
+</translations>

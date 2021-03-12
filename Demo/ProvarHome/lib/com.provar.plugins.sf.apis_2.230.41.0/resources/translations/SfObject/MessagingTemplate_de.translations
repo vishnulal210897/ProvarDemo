@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingTemplate.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="MessagingTemplate.Id" type="SfFieldLabel" value="ID die Messaging-Vorlage"/>
+  <translation key="MessagingTemplate.Language" type="SfFieldLabel" value="Master-Sprache"/>
+  <translation key="MessagingTemplate.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="MessagingTemplate.MasterLabel" type="SfFieldLabel" value="Vorlagenname"/>
+</translations>

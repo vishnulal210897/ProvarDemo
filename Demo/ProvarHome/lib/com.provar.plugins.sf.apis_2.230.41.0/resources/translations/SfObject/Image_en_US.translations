@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Image.ContentDocumentId" type="SfFieldLabel" value="File"/>
+  <translation key="Image.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="Image.Id" type="SfFieldLabel" value="Image ID"/>
+  <translation key="Image.ImageClassObjectType" type="SfFieldLabel" value="Image Type"/>
+  <translation key="Image.ImageTitle" type="SfFieldLabel" value="Image Title"/>
+  <translation key="Image.ImageUrl" type="SfFieldLabel" value="Image URL"/>
+  <translation key="Image.ImageViewType" type="SfFieldLabel" value="Image View Type"/>
+  <translation key="Image.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

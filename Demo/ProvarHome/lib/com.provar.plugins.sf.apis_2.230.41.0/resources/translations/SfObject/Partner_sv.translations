@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Partner.AccountFromId" type="SfFieldLabel" value="Konto Från"/>
+  <translation key="Partner.AccountToId" type="SfFieldLabel" value="Konto Till"/>
+  <translation key="Partner.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="Partner.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="Partner.Id" type="SfFieldLabel" value="Partner-ID"/>
+  <translation key="Partner.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="Partner.IsPrimary" type="SfFieldLabel" value="Primär"/>
+  <translation key="Partner.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="Partner.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Partner.OpportunityId" type="SfFieldLabel" value="Säljprojekts"/>
+  <translation key="Partner.Role" type="SfFieldLabel" value="Roll"/>
+  <translation key="Partner.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

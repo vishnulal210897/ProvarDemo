@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EntityHistory.Action" type="SfFieldLabel" value="Actie"/>
+  <translation key="EntityHistory.CreatedById" type="SfFieldLabel" value="Gebruiker"/>
+  <translation key="EntityHistory.CreatedDate" type="SfFieldLabel" value="Datum"/>
+  <translation key="EntityHistory.Field" type="SfFieldLabel" value="Veld"/>
+  <translation key="EntityHistory.NewValue" type="SfFieldLabel" value="Nieuwe waarde"/>
+  <translation key="EntityHistory.OldValue" type="SfFieldLabel" value="Oorspronkelijke waarde"/>
+  <translation key="EntityHistory.OriginalActorId" type="SfFieldLabel" value="Toegewezen aan"/>	
+  <translation key="EntityHistory.ActorId" type="SfFieldLabel" value="Werkelijke goedkeurende persoon"/>	
+  <translation key="EntityHistory.Comments" type="SfFieldLabel" value="Opmerkingen"/>
+</translations>

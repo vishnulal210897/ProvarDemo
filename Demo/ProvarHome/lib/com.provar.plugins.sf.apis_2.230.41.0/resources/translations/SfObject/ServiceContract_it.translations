@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceContract.BillingState" type="SfFieldLabel" value="Provincia fatturazione"/>
+  <translation key="ServiceContract.BillingStateCode" type="SfFieldLabel" value="Codice provincia fatturazione"/>
+  <translation key="ServiceContract.BillingZip" type="SfFieldLabel" value="Codice postale fatturazione"/>
+  <translation key="ServiceContract.CurrencyIsoCode" type="SfFieldLabel" value="Valuta"/>
+  <translation key="ServiceContract.Id" type="SfFieldLabel" value="ID contratto di servizio"/>
+  <translation key="ServiceContract.Name" type="SfFieldLabel" value="Nome contratto"/>
+  <translation key="ServiceContract.Owner" type="SfFieldLabel" value="Titolare contratto di servizio"/>
+  <translation key="ServiceContract.ParentServiceContractId" type="SfFieldLabel" value="Contratto di servizio controllante"/>
+  <translation key="ServiceContract.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="ServiceContract.RootServiceContractId" type="SfFieldLabel" value="Contratto di servizio radice"/>
+  <translation key="ServiceContract.ShippingState" type="SfFieldLabel" value="Provincia spedizioni"/>
+  <translation key="ServiceContract.ShippingStateCode" type="SfFieldLabel" value="Codice provincia spedizioni"/>
+</translations>

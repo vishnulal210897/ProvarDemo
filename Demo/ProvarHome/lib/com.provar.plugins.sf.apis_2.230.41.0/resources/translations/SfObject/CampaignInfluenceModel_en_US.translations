@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CampaignInfluenceModel.DeveloperName" type="SfFieldLabel" value="Unique Name"/>
+  <translation key="CampaignInfluenceModel.Id" type="SfFieldLabel" value="Campaign Influence Model ID"/>
+  <translation key="CampaignInfluenceModel.Language" type="SfFieldLabel" value="Master Language"/>
+  <translation key="CampaignInfluenceModel.MasterLabel" type="SfFieldLabel" value="Model Name"/>
+</translations>

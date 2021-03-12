@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MobileApplicationDetail.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="MobileApplicationDetail.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="MobileApplicationDetail.Id" type="SfFieldLabel" value="ID de detalhe do aplicativo móvel"/>
+  <translation key="MobileApplicationDetail.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="MobileApplicationDetail.Language" type="SfFieldLabel" value="Idioma mestre"/>
+  <translation key="MobileApplicationDetail.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="MobileApplicationDetail.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="MobileApplicationDetail.NamespacePrefix" type="SfFieldLabel" value="Prefixo do namespace"/>
+  <translation key="MobileApplicationDetail.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

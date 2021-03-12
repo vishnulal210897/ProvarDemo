@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Location.Id" type="SfFieldLabel" value="Location ID"/>
+  <translation key="Location.IsInventoryLocation" type="SfFieldLabel" value="Inventory Location"/>
+  <translation key="Location.IsMobile" type="SfFieldLabel" value="Mobile Location"/>
+  <translation key="Location.LocationLevel" type="SfFieldLabel" value="Location Level"/>
+  <translation key="Location.Name" type="SfFieldLabel" value="Location Name"/>
+  <translation key="Location.Owner" type="SfFieldLabel" value="Owner Name"/>
+  <translation key="Location.ParentLocationId" type="SfFieldLabel" value="Parent Location"/>
+  <translation key="Location.RootLocationId" type="SfFieldLabel" value="Root Location"/>
+</translations>

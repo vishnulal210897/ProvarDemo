@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Solution.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="Solution.CurrencyIsoCode" type="SfFieldLabel" value="Valutakode"/>
+  <translation key="Solution.Id" type="SfFieldLabel" value="Løsnings-id"/>
+  <translation key="Solution.IsHtml" type="SfFieldLabel" value="Er Html"/>
+  <translation key="Solution.IsPublished" type="SfFieldLabel" value="Offentlig"/>
+  <translation key="Solution.Owner" type="SfFieldLabel" value="Forfatter"/>
+  <translation key="Solution.SolutionNote" type="SfFieldLabel" value="Løsningsdetaljer"/>
+  <translation key="Solution.SolutionNumber" type="SfFieldLabel" value="Løsningsreference"/>
+  <translation key="Solution.SolutionTitle" type="SfFieldLabel" value="Løsningstitel"/>
+</translations>

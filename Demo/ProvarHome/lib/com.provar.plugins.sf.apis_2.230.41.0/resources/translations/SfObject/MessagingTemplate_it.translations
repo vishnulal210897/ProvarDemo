@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingTemplate.Id" type="SfFieldLabel" value="ID modello di messaggistica"/>
+  <translation key="MessagingTemplate.Language" type="SfFieldLabel" value="Lingua principale"/>
+  <translation key="MessagingTemplate.MasterLabel" type="SfFieldLabel" value="Nome modello"/>
+</translations>

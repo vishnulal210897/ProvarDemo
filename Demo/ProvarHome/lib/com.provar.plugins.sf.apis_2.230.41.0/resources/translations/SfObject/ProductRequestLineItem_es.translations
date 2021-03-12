@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductRequestLineItem.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="ProductRequestLineItem.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="ProductRequestLineItem.Id" type="SfFieldLabel" value="Id. de Partida de solicitud de producto"/>
+  <translation key="ProductRequestLineItem.ParentId" type="SfFieldLabel" value="Principal"/>
+  <translation key="ProductRequestLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="ProductRequestLineItem.ProductRequestLineItemNumber" type="SfFieldLabel" value="Número de Partida de solicitud de producto"/>
+  <translation key="ProductRequestLineItem.ShipToStreet" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ProductRequestLineItem.WorkOrderId" type="SfFieldLabel" value="{WorkOrder}.{SfObject.Label}"/>
+</translations>

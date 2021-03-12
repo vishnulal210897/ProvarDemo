@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseArticle.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="CaseArticle.Id" type="SfFieldLabel" value="ID articolo caso"/>
+  <translation key="CaseArticle.KnowledgeArticleId" type="SfFieldLabel" value="Articolo"/>
+</translations>

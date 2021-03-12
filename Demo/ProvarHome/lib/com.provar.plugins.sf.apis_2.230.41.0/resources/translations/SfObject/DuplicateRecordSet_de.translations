@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DuplicateRecordSet.Id" type="SfFieldLabel" value="ID der Gruppe doppelter Datensätze"/>
+  <translation key="DuplicateRecordSet.Name" type="SfFieldLabel" value="Name der Gruppe doppelter Datensätze"/>
+</translations>

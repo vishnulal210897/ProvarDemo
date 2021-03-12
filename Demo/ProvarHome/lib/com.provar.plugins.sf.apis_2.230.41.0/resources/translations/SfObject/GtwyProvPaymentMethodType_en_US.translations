@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="GtwyProvPaymentMethodType.GtwyProviderPaymentMethodType" type="SfFieldLabel" value="Gateway Provider Payment Method Type"/>
+  <translation key="GtwyProvPaymentMethodType.Id" type="SfFieldLabel" value="Gateway Provider Payment Method Type ID"/>
+  <translation key="GtwyProvPaymentMethodType.Language" type="SfFieldLabel" value="Master Language"/>
+  <translation key="GtwyProvPaymentMethodType.MasterLabel" type="SfFieldLabel" value="Label"/>
+  <translation key="GtwyProvPaymentMethodType.NamespacePrefix" type="SfFieldLabel" value="Namespace Prefix"/>
+</translations>

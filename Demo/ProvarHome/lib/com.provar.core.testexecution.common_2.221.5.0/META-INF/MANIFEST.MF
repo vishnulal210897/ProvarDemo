@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.provar.core.testexecution.common
+Require-Bundle: com.provar.core.model.base;bundle-version="[2.205.0,3.
+ 0.0)",com.provar.core.model.api;bundle-version="[2.205.0,3.0.0)",com.
+ provar.core.model.test;bundle-version="[2.205.0,3.0.0)",com.provar.co
+ re.model.ui;bundle-version="[2.205.0,3.0.0)",com.provar.core.support;
+ bundle-version="[2.205.0,3.0.0)",com.provar.core.support.expression;b
+ undle-version="[2.205.0,3.0.0)",com.provar.core.testapi;bundle-versio
+ n="[2.205.0,3.0.0)",com.provar.core.lib.selenium;bundle-version="3.4.
+ 0",org.eclipse.core.runtime;bundle-version="3.13.0",com.provar.core.c
+ onnection;bundle-version="[2.205.0,3.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: PROVAR
+Import-Package: org.junit
+Export-Package: .,com.provar.core.testexecution.common.api,com.provar.
+ core.testexecution.common.exceptions,com.provar.core.testexecution.co
+ mmon.java,com.thoughtworks.paranamer,org.jdom,org.jdom.adapters,org.j
+ dom.filter,org.jdom.input,org.jdom.output,org.jdom.transform,org.jdom
+ .xpath
+Bundle-Name: Provar TestExecution Common
+Bundle-Version: 2.221.5.0
+Bundle-ClassPath: .,lib/jdom.jar,lib/paranamer-2.5.6.jar,lib/commons-c
+ odec-1.15.jar
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.0
+Eclipse-BundleShape: dir
+

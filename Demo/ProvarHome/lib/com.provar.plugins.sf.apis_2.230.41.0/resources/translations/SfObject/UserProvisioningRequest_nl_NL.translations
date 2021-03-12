@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="UserProvisioningRequest.Id" type="SfFieldLabel" value="ID van verzoek om gebruikersprofiel"/>
+  <translation key="UserProvisioningRequest.ManagerId" type="SfFieldLabel" value="Manager van Salesforce-gebruiker"/>
+  <translation key="UserProvisioningRequest.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="UserProvisioningRequest.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="UserProvisioningRequest.ParentId" type="SfFieldLabel" value="Bovenliggende element"/>
+  <translation key="UserProvisioningRequest.State" type="SfFieldLabel" value="Status"/>
+</translations>

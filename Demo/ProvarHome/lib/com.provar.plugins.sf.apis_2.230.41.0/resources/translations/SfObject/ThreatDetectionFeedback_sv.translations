@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ThreatDetectionFeedback.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="ThreatDetectionFeedback.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="ThreatDetectionFeedback.Id" type="SfFieldLabel" value="ID för feedback för hotdetektering"/>
+  <translation key="ThreatDetectionFeedback.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="ThreatDetectionFeedback.LastModifiedDate" type="SfFieldLabel" value="Senaste uppdatering"/>
+  <translation key="ThreatDetectionFeedback.LastReferencedDate" type="SfFieldLabel" value="Senaste referensdatumet"/>
+  <translation key="ThreatDetectionFeedback.LastViewedDate" type="SfFieldLabel" value="Datum senaste visning"/>
+  <translation key="ThreatDetectionFeedback.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

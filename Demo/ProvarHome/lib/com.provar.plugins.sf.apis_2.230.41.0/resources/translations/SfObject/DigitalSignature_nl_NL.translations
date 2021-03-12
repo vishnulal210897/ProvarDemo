@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DigitalSignature.DocumentBody" type="SfFieldLabel" value="Hoofdtekst van digitale handtekening"/>
+  <translation key="DigitalSignature.DocumentContentType" type="SfFieldLabel" value="Type inhoud van digitale handtekening"/>
+  <translation key="DigitalSignature.DocumentLength" type="SfFieldLabel" value="Lengte van digitale handtekening"/>
+  <translation key="DigitalSignature.Id" type="SfFieldLabel" value="ID van Digitale handtekening"/>
+  <translation key="DigitalSignature.ParentId" type="SfFieldLabel" value="Bovenliggende record"/>
+</translations>

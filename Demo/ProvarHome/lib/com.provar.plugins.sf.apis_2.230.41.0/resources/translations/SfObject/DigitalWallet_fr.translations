@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DigitalWallet.AccountId" type="SfFieldLabel" value="Account"/>
+  <translation key="DigitalWallet.Email" type="SfFieldLabel" value="Registered Card Email"/>
+  <translation key="DigitalWallet.GatewayToken" type="SfFieldLabel" value="Gateway Token"/>
+  <translation key="DigitalWallet.Id" type="SfFieldLabel" value="Digital Wallet ID"/>
+  <translation key="DigitalWallet.Status" type="SfFieldLabel" value="Status"/>
+</translations>

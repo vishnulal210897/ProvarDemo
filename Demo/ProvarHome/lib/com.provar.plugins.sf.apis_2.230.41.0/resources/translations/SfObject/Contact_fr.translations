@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Contact.Description" type="SfFieldLabel" value="Description"/>
+  <translation key="Contact.Id" type="SfFieldLabel" value="ID du contact"/>
+  <translation key="Contact.JigsawContactId" type="SfFieldLabel" value="Jigsaw Contact ID"/>
+  <translation key="Contact.LastCURequestDate" type="SfFieldLabel" value="Date de dernière requête Rester en contact"/>
+  <translation key="Contact.LastCUUpdateDate" type="SfFieldLabel" value="Date du dernier enregistrement Rester en contact"/>
+  <translation key="Contact.Phone" type="SfFieldLabel" value="Téléphone"/>
+  <translation key="Contact.Owner" type="SfFieldLabel" value="Propriétaire du contact"/>
+  <translation key="Contact.FirstName" type="SfFieldLabel" value="Prénom"/>
+  <translation key="Contact.AssistantName" type="SfFieldLabel" value="Assistant"/>
+  <translation key="Contact.Owner_Alias" type="SfFieldLabel" value="Alias du propriétaire du contact"/>
+  <translation key="Contact.Fax" type="SfFieldLabel" value="Télécopie"/>
+  <translation key="Contact.RecordType" type="SfFieldLabel" value="Type d'enregistrement du contact"/>
+  <translation key="Contact.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Contact.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="*.*.Contact Information" type="SfLayoutSectionLabel" value="Informations sur le contact"/>
+</translations>

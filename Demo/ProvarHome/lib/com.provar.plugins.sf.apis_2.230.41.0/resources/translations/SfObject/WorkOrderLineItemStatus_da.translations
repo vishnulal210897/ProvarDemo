@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrderLineItemStatus.Id" type="SfFieldLabel" value="Id for statusværdi for arbejdsordrelinjevare"/>
+  <translation key="WorkOrderLineItemStatus.MasterLabel" type="SfFieldLabel" value="Overordnet betegnelse"/>
+  <translation key="WorkOrderLineItemStatus.SortOrder" type="SfFieldLabel" value="Sorteringsrækkefølge"/>
+  <translation key="WorkOrderLineItemStatus.StatusCode" type="SfFieldLabel" value="Statuskode"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FieldSecurityClassification.Id" type="SfFieldLabel" value="Id for feltsikkerhedsklassificering"/>
+  <translation key="FieldSecurityClassification.MasterLabel" type="SfFieldLabel" value="Overordnet betegnelse"/>
+  <translation key="FieldSecurityClassification.SortOrder" type="SfFieldLabel" value="Sorteringsrækkefølge"/>
+</translations>

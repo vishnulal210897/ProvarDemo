@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Quote.Id" type="SfFieldLabel" value="Offert-ID"/>
+  <translation key="Quote.Name" type="SfFieldLabel" value="Offertnamn"/>
+  <translation key="Quote.QuoteNumber" type="SfFieldLabel" value="Offertnummer"/>
+  <translation key="Quote.QuoteToAddress" type="SfFieldLabel" value="Offert till"/>
+  <translation key="Quote.QuoteToCity" type="SfFieldLabel" value="Offert till stad"/>
+  <translation key="Quote.QuoteToCountry" type="SfFieldLabel" value="Offert till land"/>
+  <translation key="Quote.QuoteToGeocodeAccuracy" type="SfFieldLabel" value="Geokodningsprecision för offert till"/>
+  <translation key="Quote.QuoteToName" type="SfFieldLabel" value="Offert till namn"/>
+  <translation key="Quote.QuoteToPostalCode" type="SfFieldLabel" value="Offert till postnummer"/>
+  <translation key="Quote.QuoteToState" type="SfFieldLabel" value="Offert till stat/provins"/>
+  <translation key="Quote.QuoteToStreet" type="SfFieldLabel" value="Offert till gata"/>
+  <translation key="*.*.Quote Information" type="SfLayoutSectionLabel" value="Offertinformation"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CampaignInfluenceModel.DeveloperName" type="SfFieldLabel" value="Entydigt navn"/>
+  <translation key="CampaignInfluenceModel.Id" type="SfFieldLabel" value="Id for kampagnepåvirkningsmodel"/>
+  <translation key="CampaignInfluenceModel.IsActive" type="SfFieldLabel" value="Aktiv"/>
+  <translation key="CampaignInfluenceModel.MasterLabel" type="SfFieldLabel" value="Modelnavn"/>
+</translations>

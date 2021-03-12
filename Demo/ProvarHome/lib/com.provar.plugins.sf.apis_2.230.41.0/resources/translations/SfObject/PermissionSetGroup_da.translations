@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PermissionSetGroup.DeveloperName" type="SfFieldLabel" value="API-navn"/>
+  <translation key="PermissionSetGroup.Id" type="SfFieldLabel" value="Id for PermissionSetGroup "/>
+  <translation key="PermissionSetGroup.Language" type="SfFieldLabel" value="Overordnet sprog"/>
+  <translation key="PermissionSetGroup.MasterLabel" type="SfFieldLabel" value="Betegnelse"/>
+  <translation key="PermissionSetGroup.NamespacePrefix" type="SfFieldLabel" value="Navneområdepræfiks"/>
+</translations>

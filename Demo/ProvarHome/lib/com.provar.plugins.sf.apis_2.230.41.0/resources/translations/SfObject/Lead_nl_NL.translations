@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Lead.CampaignId" type="SfFieldLabel" value="{Campaign}.{SfObject.Label}"/>
+  <translation key="Lead.CurrencyIsoCode" type="SfFieldLabel" value="Leadvaluta"/>
+  <translation key="Lead.Id" type="SfFieldLabel" value="Lead-ID"/>
+  <translation key="Lead.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="Lead.Source" type="SfFieldLabel" value="Leadbron"/>
+  <translation key="Lead.Mobile" type="SfFieldLabel" value="Mobiel"/>
+  <translation key="Lead.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="Lead.NoOfEmployees" type="SfFieldLabel" value="Aantal werknemers"/>
+  <translation key="Lead.Owner" type="SfFieldLabel" value="Leadeigenaar"/>
+  <translation key="Lead.RecordType" type="SfFieldLabel" value="Leadrecordtype"/>
+  <translation key="Lead.Status" type="SfFieldLabel" value="Leadstatus"/>
+</translations>

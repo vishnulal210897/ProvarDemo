@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="NetworkMember.Id" type="SfFieldLabel" value="Network Member ID"/>
+</translations>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DataUseLegalBasis.Id" type="SfFieldLabel" value="Data Use Legal Basis ID"/>
+  <translation key="DataUseLegalBasis.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

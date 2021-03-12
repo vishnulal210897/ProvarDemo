@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FeedItem.ContentSize" type="SfFieldLabel" value="Inhoudsgrootte"/>
+  <translation key="FeedItem.Id" type="SfFieldLabel" value="Feeditem-ID"/>
+  <translation key="FeedItem.IsClosed" type="SfFieldLabel" value="Is gesloten"/>
+  <translation key="FeedItem.ParentId" type="SfFieldLabel" value="Bovenliggende element"/>
+  <translation key="FeedItem.Title" type="SfFieldLabel" value="Naam"/>
+  <translation key="FeedItem.Type" type="SfFieldLabel" value="Feeditemtype"/>
+</translations>

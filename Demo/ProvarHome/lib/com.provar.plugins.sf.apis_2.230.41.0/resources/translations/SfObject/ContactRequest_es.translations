@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactRequest.Id" type="SfFieldLabel" value="Id. de Solicitud de contacto"/>
+  <translation key="ContactRequest.Name" type="SfFieldLabel" value="Número de Solicitud de contacto"/>
+  <translation key="ContactRequest.Owner" type="SfFieldLabel" value="Nombre del propietario"/>
+  <translation key="ContactRequest.Status" type="SfFieldLabel" value="Estado de solicitud"/>
+</translations>

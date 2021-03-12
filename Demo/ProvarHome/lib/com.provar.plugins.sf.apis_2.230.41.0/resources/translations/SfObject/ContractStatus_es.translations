@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContractStatus.Id" type="SfFieldLabel" value="Id. del valor del estado del contrato"/>
+  <translation key="ContractStatus.SortOrder" type="SfFieldLabel" value="Orden de clasificación"/>
+  <translation key="ContractStatus.StatusCode" type="SfFieldLabel" value="Código de estado"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ExpenseReportEntry.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="ExpenseReportEntry.ExpenseReportEntryNumber" type="SfFieldLabel" value="Nummer for udgiftsrapportpost"/>
+  <translation key="ExpenseReportEntry.Id" type="SfFieldLabel" value="Id for udgiftsrapportpost"/>
+</translations>

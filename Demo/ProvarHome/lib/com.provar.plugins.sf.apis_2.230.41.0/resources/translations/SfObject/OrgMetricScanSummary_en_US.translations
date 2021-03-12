@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrgMetricScanSummary.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="OrgMetricScanSummary.Id" type="SfFieldLabel" value="Org Metric Scan ID"/>
+  <translation key="OrgMetricScanSummary.Name" type="SfFieldLabel" value="Org Metric Scan Summary"/>
+</translations>

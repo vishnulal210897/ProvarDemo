@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AttachedContentNote.ContentDocumentId" type="SfFieldLabel" value="ContentDocument-id"/>
+  <translation key="AttachedContentNote.ContentSize" type="SfFieldLabel" value="Størrelse"/>
+  <translation key="AttachedContentNote.CreatedDate" type="SfFieldLabel" value="Oprettet"/>
+  <translation key="AttachedContentNote.Id" type="SfFieldLabel" value="Notat-id"/>
+  <translation key="AttachedContentNote.LastModifiedDate" type="SfFieldLabel" value="Sidst ændret"/>
+</translations>

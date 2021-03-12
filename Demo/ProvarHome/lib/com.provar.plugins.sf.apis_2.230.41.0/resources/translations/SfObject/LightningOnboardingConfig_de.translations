@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LightningOnboardingConfig.CollaborationGroupId" type="SfFieldLabel" value="Collaboration Group"/>
+  <translation key="LightningOnboardingConfig.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="LightningOnboardingConfig.DeveloperName" type="SfFieldLabel" value="Name"/>
+  <translation key="LightningOnboardingConfig.Id" type="SfFieldLabel" value="ID der LightningOnboardingConfig"/>
+  <translation key="LightningOnboardingConfig.Language" type="SfFieldLabel" value="Master-Sprache"/>
+  <translation key="LightningOnboardingConfig.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="LightningOnboardingConfig.MasterLabel" type="SfFieldLabel" value="Bezeichnung"/>
+</translations>

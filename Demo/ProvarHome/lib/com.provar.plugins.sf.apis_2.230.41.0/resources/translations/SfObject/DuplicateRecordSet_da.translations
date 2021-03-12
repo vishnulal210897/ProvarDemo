@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DuplicateRecordSet.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="DuplicateRecordSet.Id" type="SfFieldLabel" value="Id for dubletregistreringssæt"/>
+  <translation key="DuplicateRecordSet.Name" type="SfFieldLabel" value="Navn på dubletregistreringssæt"/>
+</translations>

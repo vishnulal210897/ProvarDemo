@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ActivityHistory.AccountId" type="SfFieldLabel" value="Konto-id"/>
+  <translation key="ActivityHistory.CallDisposition" type="SfFieldLabel" value="Opkaldsresultat"/>
+  <translation key="ActivityHistory.CallDurationInSeconds" type="SfFieldLabel" value="Opkaldsvarighed"/>
+  <translation key="ActivityHistory.CallObject" type="SfFieldLabel" value="Opkalds objektidentifikator"/>
+  <translation key="ActivityHistory.CallType" type="SfFieldLabel" value="Opkaldstype"/>
+  <translation key="ActivityHistory.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="ActivityHistory.Description" type="SfFieldLabel" value="Kommentarer"/>
+  <translation key="ActivityHistory.Id" type="SfFieldLabel" value="Aktivitets-id"/>
+  <translation key="ActivityHistory.IsHighPriority" type="SfFieldLabel" value="Høj prioritet"/>
+  <translation key="ActivityHistory.Owner" type="SfFieldLabel" value="Tildelt til"/>
+  <translation key="ActivityHistory.Subject" type="SfFieldLabel" value="Emne"/>
+  <translation key="ActivityHistory.WhatId" type="SfFieldLabel" value="Relateret til"/>
+  <translation key="ActivityHistory.WhoId" type="SfFieldLabel" value="Navn"/>
+</translations>

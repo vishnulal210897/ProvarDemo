@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseStatus.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="CaseStatus.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="CaseStatus.Id" type="SfFieldLabel" value="ID do valor do status do caso"/>
+  <translation key="CaseStatus.IsClosed" type="SfFieldLabel" value="Fechado"/>
+  <translation key="CaseStatus.IsDefault" type="SfFieldLabel" value="Padrão"/>
+  <translation key="CaseStatus.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="CaseStatus.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="CaseStatus.SortOrder" type="SfFieldLabel" value="Ordem de classificação"/>
+  <translation key="CaseStatus.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

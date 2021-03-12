@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowVariableView.ApiName" type="SfFieldLabel" value="Nombre de API de variable"/>
+  <translation key="FlowVariableView.Description" type="SfFieldLabel" value="Descripción de variable"/>
+  <translation key="FlowVariableView.Id" type="SfFieldLabel" value="Id. de Vista de variable de flujo"/>
+</translations>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrderItem.ContractId" type="SfFieldLabel" value="{Contract}.{SfObject.Label}"/>
+  <translation key="OrderItem.Description" type="SfFieldLabel" value="Beschreibung des Belegpostens"/>
+  <translation key="OrderItem.Id" type="SfFieldLabel" value="Auftragsprodukt-ID"/>
+  <translation key="OrderItem.OrderId" type="SfFieldLabel" value="{Order}.{SfObject.Label}"/>
+  <translation key="OrderItem.OrderItemNumber" type="SfFieldLabel" value="Auftragsproduktnummer"/>
+  <translation key="OrderItem.OriginalOrderItemId" type="SfFieldLabel" value="Originalauftragsprodukt"/>
+  <translation key="OrderItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="OrderItem.QuoteLineItemId" type="SfFieldLabel" value="{QuoteLineItem}.{SfObject.Label}"/>
+  <translation key="OrderItem.ServiceDate" type="SfFieldLabel" value="Startdatum"/>
+  <translation key="OrderItem.UnitPrice" type="SfFieldLabel" value="Stückpreis"/>
+</translations>

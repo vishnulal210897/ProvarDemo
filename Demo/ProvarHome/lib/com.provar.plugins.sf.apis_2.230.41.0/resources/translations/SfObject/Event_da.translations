@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Event.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Event.CurrencyIsoCode" type="SfFieldLabel" value="Aktivitetsvaluta"/>
+  <translation key="Event.EventSubtype" type="SfFieldLabel" value="Begivenhedundertype"/>
+  <translation key="Event.GroupEventType" type="SfFieldLabel" value="Gruppebegivenhedstype"/>
+  <translation key="Event.Id" type="SfFieldLabel" value="Aktivitets-id"/>
+  <translation key="Event.IsAllDayEvent" type="SfFieldLabel" value="Heldagsbegivenhed"/>
+  <translation key="Event.IsArchived" type="SfFieldLabel" value="Arkiverede"/>
+  <translation key="Event.IsGroupEvent" type="SfFieldLabel" value="Er gruppebegivenhed"/>
+  <translation key="Event.IsRecurrence" type="SfFieldLabel" value="Opret gentagelsesserier af begivenheder"/>
+  <translation key="Event.IsRecurrence2Exclusion" type="SfFieldLabel" value="Historisk begivenhed, følger ikke-gentagelse"/>
+  <translation key="Event.IsVisibleInSelfService" type="SfFieldLabel" value="Offentlig"/>
+  <translation key="Event.Owner" type="SfFieldLabel" value="Tildelt til"/>
+  <translation key="Event.Subject" type="SfFieldLabel" value="{Lead}.{SfObject.Label}"/>
+  <translation key="Event.WhoId" type="SfFieldLabel" value="Navn"/>
+</translations>

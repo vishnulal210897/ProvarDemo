@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="UiFormulaCriterion.Id" type="SfFieldLabel" value="Id. de Criterio de fórmula de interfaz de usuario"/>
+  <translation key="UiFormulaCriterion.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+</translations>

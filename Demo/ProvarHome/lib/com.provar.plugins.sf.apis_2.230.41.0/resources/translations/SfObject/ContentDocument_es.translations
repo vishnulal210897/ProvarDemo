@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContentDocument.CreatedDate" type="SfFieldLabel" value="Creado"/>
+  <translation key="ContentDocument.Id" type="SfFieldLabel" value="ContentDocument ID"/>
+  <translation key="ContentDocument.IsArchived" type="SfFieldLabel" value="Está archivado"/>
+  <translation key="ContentDocument.IsDeleted" type="SfFieldLabel" value="Está eliminado"/>
+  <translation key="ContentDocument.Owner" type="SfFieldLabel" value="Lpropietario"/>
+  <translation key="ContentDocument.ParentId" type="SfFieldLabel" value="Id. principal"/>
+  <translation key="ContentDocument.Title" type="SfFieldLabel" value="Título"/>
+</translations>

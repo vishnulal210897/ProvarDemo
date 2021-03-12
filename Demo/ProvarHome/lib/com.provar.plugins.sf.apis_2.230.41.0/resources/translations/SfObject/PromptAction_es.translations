@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PromptAction.Id" type="SfFieldLabel" value="Id. de Acción de solicitud"/>
+  <translation key="PromptAction.Name" type="SfFieldLabel" value="Nombre"/>
+  <translation key="PromptAction.Owner" type="SfFieldLabel" value="Nombre completo del propietario"/>
+</translations>

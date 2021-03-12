@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Report.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Report.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="Report.Description" type="SfFieldLabel" value="Description"/>
+  <translation key="Report.DeveloperName" type="SfFieldLabel" value="Nom unique du rapport"/>
+  <translation key="Report.Id" type="SfFieldLabel" value="ID de rapport"/>
+  <translation key="Report.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="Report.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Report.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="Report.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="Report.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="Report.Name" type="SfFieldLabel" value="Nom du rapport"/>
+  <translation key="Report.NamespacePrefix" type="SfFieldLabel" value="Préfixe d'espace de noms"/>
+  <translation key="Report.Owner" type="SfFieldLabel" value="Du propriétaire"/>
+  <translation key="Report.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

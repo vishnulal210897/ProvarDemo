@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MutingPermissionSet.DeveloperName" type="SfFieldLabel" value="Skjuler navn på tilladelsessæt"/>
+  <translation key="MutingPermissionSet.Id" type="SfFieldLabel" value="Id for MutingPermissionSet"/>
+  <translation key="MutingPermissionSet.Language" type="SfFieldLabel" value="Overordnet sprog"/>
+  <translation key="MutingPermissionSet.MasterLabel" type="SfFieldLabel" value="Betegnelse på deaktiveringstilladelsessæt"/>
+</translations>

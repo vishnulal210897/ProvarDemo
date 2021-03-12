@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PortalDelegablePermissionSet.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="PortalDelegablePermissionSet.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="PortalDelegablePermissionSet.Id" type="SfFieldLabel" value="ID d'ensemble d'autorisations à déléguer de portail"/>
+  <translation key="PortalDelegablePermissionSet.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="PortalDelegablePermissionSet.Language" type="SfFieldLabel" value="Langue principale"/>
+  <translation key="PortalDelegablePermissionSet.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="PortalDelegablePermissionSet.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="PortalDelegablePermissionSet.MasterLabel" type="SfFieldLabel" value="Étiquette"/>
+  <translation key="PortalDelegablePermissionSet.PermissionSetId" type="SfFieldLabel" value="D'ensemble d'autorisations"/>
+  <translation key="PortalDelegablePermissionSet.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

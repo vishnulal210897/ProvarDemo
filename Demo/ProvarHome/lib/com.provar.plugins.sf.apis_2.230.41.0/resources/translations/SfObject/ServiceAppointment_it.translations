@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceAppointment.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="ServiceAppointment.Address" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ServiceAppointment.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="ServiceAppointment.DurationInMinutes" type="SfFieldLabel" value="Durata in minuti"/>
+  <translation key="ServiceAppointment.Id" type="SfFieldLabel" value="ID servizio di appuntamento"/>
+  <translation key="ServiceAppointment.Owner" type="SfFieldLabel" value="Titolare"/>
+  <translation key="ServiceAppointment.ParentRecordId" type="SfFieldLabel" value="Record controllante"/>
+  <translation key="ServiceAppointment.State" type="SfFieldLabel" value="Stato/Provincia"/>
+</translations>

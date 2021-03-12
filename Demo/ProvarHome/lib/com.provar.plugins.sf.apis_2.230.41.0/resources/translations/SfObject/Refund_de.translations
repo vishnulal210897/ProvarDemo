@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Refund.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Refund.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="Refund.EffectiveDate" type="SfFieldLabel" value="Effective Date"/>
+  <translation key="Refund.Email" type="SfFieldLabel" value="Audit Email"/>
+  <translation key="Refund.GatewayResultCode" type="SfFieldLabel" value="Gateway ResultCode"/>
+  <translation key="Refund.GatewayResultCodeDescription" type="SfFieldLabel" value="Gateway ResultCode Description"/>
+  <translation key="Refund.Id" type="SfFieldLabel" value="Refund ID"/>
+  <translation key="Refund.SfResultCode" type="SfFieldLabel" value="Salesforce ResultCode"/>
+</translations>

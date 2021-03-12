@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ForecastingAdjustment.Id" type="SfFieldLabel" value="ForecastingAdjustment ID"/>
+  <translation key="ForecastingAdjustment.Owner" type="SfFieldLabel" value="Owner"/>
+  <translation key="ForecastingAdjustment.StartDate" type="SfFieldLabel" value="Period Start Date"/>
+</translations>

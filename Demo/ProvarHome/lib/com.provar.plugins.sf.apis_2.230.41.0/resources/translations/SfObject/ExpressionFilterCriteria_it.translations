@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ExpressionFilterCriteria.Id" type="SfFieldLabel" value="ID expressionfiltercriteria"/>
+  <translation key="ExpressionFilterCriteria.Name" type="SfFieldLabel" value="Nome expressionfiltercriteria"/>
+  <translation key="ExpressionFilterCriteria.Operation" type="SfFieldLabel" value="{Task}.{SfObject.Label}"/>
+</translations>

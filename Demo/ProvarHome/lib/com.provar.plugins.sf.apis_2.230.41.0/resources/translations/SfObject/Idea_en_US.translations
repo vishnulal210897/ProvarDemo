@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Idea.Body" type="SfFieldLabel" value="Idea Body"/>
+  <translation key="Idea.CurrencyIsoCode" type="SfFieldLabel" value="Idea Currency"/>
+  <translation key="Idea.Id" type="SfFieldLabel" value="Idea ID"/>
+  <translation key="Idea.LastCommentDate" type="SfFieldLabel" value="Last Idea Comment Date"/>
+  <translation key="Idea.LastCommentId" type="SfFieldLabel" value="Last Idea Comment"/>
+  <translation key="Idea.ParentIdeaId" type="SfFieldLabel" value="Parent Idea"/>
+  <translation key="Idea.RecordType" type="SfFieldLabel" value="Record Type"/>
+</translations>

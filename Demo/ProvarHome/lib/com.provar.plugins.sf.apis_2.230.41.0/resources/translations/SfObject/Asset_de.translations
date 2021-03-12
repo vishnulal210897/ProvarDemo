@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Asset.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Asset.AccountRollupId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Asset.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="Asset.CurrencyIsoCode" type="SfFieldLabel" value="Vermögenswertwährung"/>
+  <translation key="Asset.Id" type="SfFieldLabel" value="Vermögenswert-ID"/>
+  <translation key="Asset.IsCompetitorProduct" type="SfFieldLabel" value="Mitbewerber-Vermögenswert"/>
+  <translation key="Asset.Name" type="SfFieldLabel" value="Vermögenswertname"/>
+  <translation key="Asset.Owner" type="SfFieldLabel" value="Vermögenswertinhaber"/>
+  <translation key="Asset.ParentId" type="SfFieldLabel" value="Übergeordneter Vermögenswert"/>
+  <translation key="Asset.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="Asset.RootAssetId" type="SfFieldLabel" value="Stamm-Vermögenswert"/>
+</translations>

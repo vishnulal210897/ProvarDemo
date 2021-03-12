@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DuplicateRecordSet.Id" type="SfFieldLabel" value="Dubblett av postuppsättning-ID"/>
+  <translation key="DuplicateRecordSet.Name" type="SfFieldLabel" value="Dubblett av postuppsättning-namn"/>
+  <translation key="*.*.DuplicateRecordSet Information" type="SfLayoutSectionLabel" value="Information om dubblett av postuppsättning "/>
+</translations>

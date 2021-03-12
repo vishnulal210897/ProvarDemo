@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceAppointmentStatus.Id" type="SfFieldLabel" value="ID van waarde voor serviceafspraakstatus"/>
+  <translation key="ServiceAppointmentStatus.SortOrder" type="SfFieldLabel" value="Sorteervolgorde"/>
+  <translation key="ServiceAppointmentStatus.StatusCode" type="SfFieldLabel" value="Statuscode"/>
+</translations>

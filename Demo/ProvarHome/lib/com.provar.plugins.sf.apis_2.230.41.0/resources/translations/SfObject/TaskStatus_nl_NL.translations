@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TaskStatus.Id" type="SfFieldLabel" value="Taakstatuswaarde-ID"/>
+  <translation key="TaskStatus.IsClosed" type="SfFieldLabel" value="Is gesloten"/>
+  <translation key="TaskStatus.SortOrder" type="SfFieldLabel" value="Sorteervolgorde"/>
+</translations>

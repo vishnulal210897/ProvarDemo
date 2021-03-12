@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssociatedLocation.AssociatedLocationNumber" type="SfFieldLabel" value="Navn på tilknyttet placering"/>
+  <translation key="AssociatedLocation.Id" type="SfFieldLabel" value="Id for tilknyttet placering"/>
+  <translation key="AssociatedLocation.LocationId" type="SfFieldLabel" value="Placeringsnavn"/>
+</translations>

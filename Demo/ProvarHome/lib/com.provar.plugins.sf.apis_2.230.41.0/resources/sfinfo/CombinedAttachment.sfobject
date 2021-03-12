@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sfObjectInfo name="CombinedAttachment" label="Notes and Attachments">
+  <standardActions>
+    <sfActionLink n="NewNote" t="New Note" modes="CombinedAttachments" massAction="true" newAction="true"/>
+    <sfActionLink n="AttachFile" t="Attach File" modes="CombinedAttachments" massAction="true" lightningLabel="Upload Files" lightningActionName="AttachFileFromDevice"/>
+    <sfActionLink n="NewFile" t="Upload Files" modes="CombinedAttachments" lightningActionName="AttachFileFromDevice" locator="//td[contains(@class, 'pbButton')]//input[@type='file' and (@id='GinaRLNewFile' or @id='RFLNewFile' or @id='AttachmentRLNewFile' or @name='upload_file')]"/>
+    <sfActionLink n="viewAll" t="View All" modes="CombinedAttachments" massAction="false"/>
+    <sfActionLink n="New" t="New" modes="detail"/>
+    <sfActionLink n="Edit" t="Edit" modes="CombinedAttachments" requiresRow="true" locator="td[contains(@class, 'actionColumn')]/a[contains(@href, '/e?retURL=') or contains(@href, '%2Fe%3FretURL%3D')]"/>
+    <sfActionLink n="Download" t="Download" modes="CombinedAttachments" requiresRow="true" locator="td[contains(@class, 'actionColumn')]/a[contains(@href, '/sfc/servlet.shepherd/version/download/') or contains(@href, '%2Fsfc%2Fservlet.shepherd%2Fversion%2Fdownload/')]"/>
+    <sfActionLink n="Preview" t="Preview" modes="CombinedAttachments" requiresRow="true" locator="td[contains(@class, 'actionColumn')]/a[contains(@href, 'javascript:OverlayDialogElement.showFilePreview')]"/>
+    <sfActionLink n="View" t="View" modes="CombinedAttachments" requiresRow="true" locator="td[contains(@class, 'actionColumn')]/a[contains(@href, '/servlet.FileDownload?file=') or contains(@href, '%2Fservlet.FileDownload%3Ffile%3D')]"/>
+    <sfActionLink n="Delete" t="Delete" modes="CombinedAttachments" requiresRow="true" locator="td[contains(@class, 'actionColumn')]/a[contains(@href, 'deleteredirect.jsp')]" lightningActionName="DeleteFile"/>standardActions>
+    <sfActionLink n="Share" t="Share" modes="CombinedAttachments" requiresRow="true" lightningActionName="ShareFile"/>
+    <sfActionLink n="PublicLink" t="Public Link" modes="CombinedAttachments" requiresRow="true" lightningActionName="FileLinkShare"/>
+    <sfActionLink n="ViewFileDetails" t="View File Details" modes="CombinedAttachments" requiresRow="true" lightningActionName="GetFileDetail"/>
+    <sfActionLink n="UploadNewVersion" t="Upload New Version" modes="CombinedAttachments" requiresRow="true" lightningActionName="NewVersion"/>
+    <sfActionLink n="EditFileDetails" t="Edit File Details" modes="CombinedAttachments" requiresRow="true"/>
+    <sfActionLink n="RemoveFromRecord" t="Remove from Record" modes="CombinedAttachments" requiresRow="true" lightningActionName="DetachFile"/>
+  </standardActions>
+  <fields>
+  	<sfFieldInfo name="Title" label="Title"/>
+  </fields>
+</sfObjectInfo>

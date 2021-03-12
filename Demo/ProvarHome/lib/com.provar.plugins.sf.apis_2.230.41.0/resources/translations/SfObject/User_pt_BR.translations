@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="User.AccountId" type="SfFieldLabel" value="Account"/>
+  <translation key="User.Address" type="SfFieldLabel" value="Indirizzo"/>
+  <translation key="User.BannerPhotoId" type="SfFieldLabel" value="Foto banner"/>
+  <translation key="User.BannerPhotoUrl" type="SfFieldLabel" value="URL per foto del banner"/>
+  <translation key="User.City" type="SfFieldLabel" value="Cidade"/>
+  <translation key="User.ContactId" type="SfFieldLabel" value="Referente"/>
+  <translation key="User.Country" type="SfFieldLabel" value="País"/>
+  <translation key="User.FirstName" type="SfFieldLabel" value="Primeiro nome"/>
+  <translation key="User.Id" type="SfFieldLabel" value="ID utente"/>
+  <translation key="User.IsActive" type="SfFieldLabel" value="Attivo"/>
+  <translation key="User.LastName" type="SfFieldLabel" value="Sobrenome"/>
+  <translation key="User.Latitude" type="SfFieldLabel" value="Latitude"/>
+  <translation key="User.Longitude" type="SfFieldLabel" value="Longitude"/>
+  <translation key="User.Name" type="SfFieldLabel" value="Nome e cognome"/>
+  <translation key="User.State" type="SfFieldLabel" value="Estado/província"/>
+  <translation key="User.Street" type="SfFieldLabel" value="Rua"/>
+  <translation key="User.UserPermissionsChatterAnswersUser" type="SfFieldLabel" value="Usuário do Chatter Answers"/>
+  <translation key="User.UserPermissionsInteractionUser" type="SfFieldLabel" value="Usuário do Flow"/>
+  <translation key="User.UserPermissionsJigsawProspectingUser" type="SfFieldLabel" value="Usuário do Data.com"/>
+  <translation key="User.UserPermissionsKnowledgeUser" type="SfFieldLabel" value="Usuário do Knowledge"/>
+  <translation key="User.UserPermissionsMarketingUser" type="SfFieldLabel" value="Usuário do Marketing"/>
+  <translation key="User.UserPermissionsOfflineUser" type="SfFieldLabel" value="Usuário do Offline"/>
+  <translation key="User.UserPermissionsSFContentUser" type="SfFieldLabel" value="Usuário do Salesforce CRM Content"/>
+  <translation key="User.UserPermissionsSiteforceContributorUser" type="SfFieldLabel" value="Usuário contribuidor do Site.com"/>
+  <translation key="User.UserPermissionsSiteforcePublisherUser" type="SfFieldLabel" value="Usuário editor do Site.com"/>
+  <translation key="User.UserPermissionsSupportUser" type="SfFieldLabel" value="Usuário do Service Cloud"/>
+  <translation key="User.UserPermissionsWorkDotComUserFeature" type="SfFieldLabel" value="Usuário do WDC"/>
+  <translation key="User.Username" type="SfFieldLabel" value="Nome utente"/>
+  <translation key="User.Zip" type="SfFieldLabel" value="CEP"/>
+</translations>

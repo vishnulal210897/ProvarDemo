@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrgMetric.Id" type="SfFieldLabel" value="ID metrica organizzazione"/>
+  <translation key="OrgMetric.LatestOrgMetricScanSummaryId" type="SfFieldLabel" value="Analisi metriche organizzazione"/>
+  <translation key="OrgMetric.Name" type="SfFieldLabel" value="Metrica organizzazione"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SetupAssistantStep.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="SetupAssistantStep.Id" type="SfFieldLabel" value="Setup Assistant Step ID"/>
+  <translation key="SetupAssistantStep.Name" type="SfFieldLabel" value="Name"/>
+</translations>

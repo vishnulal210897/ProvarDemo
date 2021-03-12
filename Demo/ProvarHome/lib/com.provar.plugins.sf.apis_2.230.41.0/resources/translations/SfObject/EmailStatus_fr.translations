@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EmailStatus.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="EmailStatus.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="EmailStatus.Id" type="SfFieldLabel" value="ID du statut du message"/>
+  <translation key="EmailStatus.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="EmailStatus.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="EmailStatus.WhoId" type="SfFieldLabel" value="De nom"/>
+</translations>

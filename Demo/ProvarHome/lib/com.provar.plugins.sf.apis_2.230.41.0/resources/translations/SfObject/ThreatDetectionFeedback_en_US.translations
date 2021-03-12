@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ThreatDetectionFeedback.Id" type="SfFieldLabel" value="Threat Detection Feedback ID"/>
+  <translation key="ThreatDetectionFeedback.LastModifiedDate" type="SfFieldLabel" value="Last Updated Date"/>
+  <translation key="ThreatDetectionFeedback.ThreatDetectionFeedbackNumber" type="SfFieldLabel" value="Threat Detection Feedback Name"/>
+</translations>

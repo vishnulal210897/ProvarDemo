@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="GtwyProvPaymentMethodType.Comments" type="SfFieldLabel" value="Comentários"/>
+  <translation key="GtwyProvPaymentMethodType.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="GtwyProvPaymentMethodType.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="GtwyProvPaymentMethodType.GtwyProviderPaymentMethodType" type="SfFieldLabel" value="Tipo de método de pagamento do provedor de gateway"/>
+  <translation key="GtwyProvPaymentMethodType.Id" type="SfFieldLabel" value="ID do tipo de método de pagamento do provedor de gateway"/>
+  <translation key="GtwyProvPaymentMethodType.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="GtwyProvPaymentMethodType.Language" type="SfFieldLabel" value="Idioma mestre"/>
+  <translation key="GtwyProvPaymentMethodType.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="GtwyProvPaymentMethodType.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="GtwyProvPaymentMethodType.LastViewedDate" type="SfFieldLabel" value="Data da última visualização"/>
+  <translation key="GtwyProvPaymentMethodType.MasterLabel" type="SfFieldLabel" value="Rótulo"/>
+  <translation key="GtwyProvPaymentMethodType.NamespacePrefix" type="SfFieldLabel" value="Prefixo do namespace"/>
+  <translation key="GtwyProvPaymentMethodType.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

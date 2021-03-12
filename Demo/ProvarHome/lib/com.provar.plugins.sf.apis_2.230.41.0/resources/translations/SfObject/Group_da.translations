@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Group.DeveloperName" type="SfFieldLabel" value="Udviklers navn"/>
+  <translation key="Group.Id" type="SfFieldLabel" value="Gruppe-id"/>
+  <translation key="Group.Name" type="SfFieldLabel" value="Navn"/>
+</translations>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Payment.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Payment.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="Payment.EffectiveDate" type="SfFieldLabel" value="Effective Date"/>
+  <translation key="Payment.Email" type="SfFieldLabel" value="Audit Email"/>
+  <translation key="Payment.GatewayResultCode" type="SfFieldLabel" value="Gateway ResultCode"/>
+  <translation key="Payment.GatewayResultCodeDescription" type="SfFieldLabel" value="Gateway ResultCode Description"/>
+  <translation key="Payment.Id" type="SfFieldLabel" value="Payment ID"/>
+  <translation key="Payment.SfResultCode" type="SfFieldLabel" value="Salesforce ResultCode"/>
+</translations>

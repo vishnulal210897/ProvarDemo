@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Shipment.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="Shipment.DestinationLocationId" type="SfFieldLabel" value="Destination Location"/>
+  <translation key="Shipment.Id" type="SfFieldLabel" value="Shipment ID"/>
+  <translation key="Shipment.Owner" type="SfFieldLabel" value="Owner Name"/>
+  <translation key="Shipment.ShipFromCity" type="SfFieldLabel" value="Ville d'expédition"/>
+  <translation key="Shipment.ShipFromCountry" type="SfFieldLabel" value="Pays d'expédition"/>
+  <translation key="Shipment.ShipFromCountryCode" type="SfFieldLabel" value="Code de pays d'expédition"/>
+  <translation key="Shipment.ShipFromGeocodeAccuracy" type="SfFieldLabel" value="Précision du géocodage d'expédition"/>
+  <translation key="Shipment.ShipFromLatitude" type="SfFieldLabel" value="Latitude d'expédition"/>
+  <translation key="Shipment.ShipFromLongitude" type="SfFieldLabel" value="Longitude d'expédition"/>
+  <translation key="Shipment.ShipFromPostalCode" type="SfFieldLabel" value="Code postal d'expédition"/>
+  <translation key="Shipment.ShipFromState" type="SfFieldLabel" value="Région/Province d'expédition"/>
+  <translation key="Shipment.ShipFromStateCode" type="SfFieldLabel" value="Code de région/province d'expédition"/>
+  <translation key="Shipment.ShipFromStreet" type="SfFieldLabel" value="Rue d'expédition"/>
+  <translation key="Shipment.ShipToAddress" type="SfFieldLabel" value="Ship To Address"/>
+  <translation key="Shipment.ShipToCity" type="SfFieldLabel" value="Ville de livraison"/>
+  <translation key="Shipment.ShipToCountry" type="SfFieldLabel" value="Pays de livraison"/>
+  <translation key="Shipment.ShipToCountryCode" type="SfFieldLabel" value="Code de pays de livraison"/>
+  <translation key="Shipment.ShipToGeocodeAccuracy" type="SfFieldLabel" value="Précision du géocodage de livraison"/>
+  <translation key="Shipment.ShipToLatitude" type="SfFieldLabel" value="Latitude de livraison"/>
+  <translation key="Shipment.ShipToLongitude" type="SfFieldLabel" value="Longitude de livraison"/>
+  <translation key="Shipment.ShipToPostalCode" type="SfFieldLabel" value="Code postal de livraison"/>
+  <translation key="Shipment.ShipToState" type="SfFieldLabel" value="Région/Province de livraison"/>
+  <translation key="Shipment.ShipToStateCode" type="SfFieldLabel" value="Code de région/province de livraison"/>
+  <translation key="Shipment.ShipToStreet" type="SfFieldLabel" value="Rue de livraison"/>
+  <translation key="Shipment.SourceLocationId" type="SfFieldLabel" value="Source Location"/>
+  <translation key="Shipment.Status" type="SfFieldLabel" value="Status"/>
+</translations>

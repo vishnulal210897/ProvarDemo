@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Solution.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="Solution.CurrencyIsoCode" type="SfFieldLabel" value="Código de divisa"/>
+  <translation key="Solution.Id" type="SfFieldLabel" value="Id. de solución"/>
+  <translation key="Solution.Owner" type="SfFieldLabel" value="Autor"/>
+  <translation key="Solution.SolutionNote" type="SfFieldLabel" value="Detalles de la solución"/>
+  <translation key="Solution.SolutionNumber" type="SfFieldLabel" value="Número de la solución"/>
+  <translation key="Solution.SolutionTitle" type="SfFieldLabel" value="Título de la solución"/>
+</translations>

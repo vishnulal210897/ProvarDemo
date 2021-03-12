@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ConsumptionRate.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="ConsumptionRate.Id" type="SfFieldLabel" value="Id for forbrugssats"/>
+  <translation key="ConsumptionRate.Name" type="SfFieldLabel" value="Navn på forbrugssats"/>
+</translations>

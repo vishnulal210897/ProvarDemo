@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TimeSlot.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="TimeSlot.EndTime" type="SfFieldLabel" value="End Time"/>
+  <translation key="TimeSlot.Id" type="SfFieldLabel" value="Time Slot ID"/>
+  <translation key="TimeSlot.StartTime" type="SfFieldLabel" value="Start Time"/>
+</translations>

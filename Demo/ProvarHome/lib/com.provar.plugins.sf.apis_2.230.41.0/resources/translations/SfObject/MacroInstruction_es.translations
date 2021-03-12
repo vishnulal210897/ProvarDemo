@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MacroInstruction.Id" type="SfFieldLabel" value="Id. de instrucción de macro"/>
+  <translation key="MacroInstruction.Name" type="SfFieldLabel" value="Nombre de instrucción de macro"/>
+  <translation key="MacroInstruction.SortOrder" type="SfFieldLabel" value="Orden de clasificación"/>
+</translations>

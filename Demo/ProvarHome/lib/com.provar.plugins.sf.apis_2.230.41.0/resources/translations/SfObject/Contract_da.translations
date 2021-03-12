@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Contract.ContractNumber" type="SfFieldLabel" value="Kontraktnummer"/>
+  <translation key="Contract.ContractTerm" type="SfFieldLabel" value="Kontraktperiode (måneder)"/>
+  <translation key="Contract.CurrencyIsoCode" type="SfFieldLabel" value="Kontraktvaluta"/>
+  <translation key="Contract.EndDate" type="SfFieldLabel" value="Kontrakt - slutdato"/>
+  <translation key="Contract.Id" type="SfFieldLabel" value="Kontrakt-id"/>
+  <translation key="Contract.Name" type="SfFieldLabel" value="Kontraktnavn"/>
+  <translation key="Contract.Owner" type="SfFieldLabel" value="Kontraktejer"/>
+  <translation key="Contract.RecordType" type="SfFieldLabel" value="Kontraktregistreringstype"/>
+  <translation key="Contract.StartDate" type="SfFieldLabel" value="Kontrakt - startdato"/>
+</translations>

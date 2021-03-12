@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Contact.CurrencyIsoCode" type="SfFieldLabel" value="Kontaktens valuta"/>
+  <translation key="Contact.DoNotCall" type="SfFieldLabel" value="Kontakta inte"/>
+  <translation key="Contact.Id" type="SfFieldLabel" value="Kontakt-ID"/>
+  <translation key="Contact.LastCURequestDate" type="SfFieldLabel" value="Senaste datum att begära Håll kontakten"/>
+  <translation key="Contact.LastCUUpdateDate" type="SfFieldLabel" value="Senaste datum att spara Håll kontakten"/>
+  <translation key="Contact.Owner" type="SfFieldLabel" value="Kontaktägare"/>
+  <translation key="Contact.Owner_Alias" type="SfFieldLabel" value="Alias för kontaktägare"/>
+  <translation key="Contact.Name" type="SfFieldLabel" value="{Contact}.{FullName}"/>
+  <translation key="Contact.FullName" type="SfFieldLabel" value="Namn" relatedListLabel="Kontaktnamn"/>
+  <translation key="Contact.RecordType" type="SfFieldLabel" value="Kontaktposttyp"/>
+  <translation key="*.*.Contact Information" type="SfLayoutSectionLabel" value="Kontaktinformation"/>
+</translations>

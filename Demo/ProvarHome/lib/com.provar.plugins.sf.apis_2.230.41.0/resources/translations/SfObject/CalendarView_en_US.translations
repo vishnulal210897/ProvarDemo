@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CalendarView.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="CalendarView.Id" type="SfFieldLabel" value="Calendar ID"/>
+  <translation key="CalendarView.Name" type="SfFieldLabel" value="Calendar Name"/>
+  <translation key="CalendarView.Owner" type="SfFieldLabel" value="Owner"/>
+</translations>

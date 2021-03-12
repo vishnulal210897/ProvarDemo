@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.provar.plugins.bundled.apis
+Require-Bundle: com.provar.core.model.base;bundle-version="[2.205.0,3.
+ 0.0)",com.provar.core.support;bundle-version="[2.205.0,3.0.0)",com.pr
+ ovar.core.testapi;bundle-version="[2.205.0,3.0.0)",com.provar.core.co
+ nnection;bundle-version="[2.205.0,3.0.0)",com.provar.core.content;bun
+ dle-version="[2.205.0,3.0.0)"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: PROVAR
+Export-Package: com.provar.plugins.bundled.apis,com.provar.plugins.bun
+ dled.apis.bdd,com.provar.plugins.bundled.apis.control,com.provar.plug
+ ins.bundled.apis.db,com.provar.plugins.bundled.apis.io,com.provar.plu
+ gins.bundled.apis.list,com.provar.plugins.bundled.apis.messaging,com.
+ provar.plugins.bundled.apis.string,com.provar.plugins.bundled.apis.we
+ b,com.provar.plugins.bundled.functions,com.provar.plugins.bundled.fun
+ ctions.string,com.provar.plugins.bundled.apis.restservice
+Bundle-Name: Provar Bundled Test APIs and Functions
+Bundle-Version: 2.221.5.0
+Bundle-ClassPath: lib/ant.jar,.
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.0
+Eclipse-BundleShape: dir
+

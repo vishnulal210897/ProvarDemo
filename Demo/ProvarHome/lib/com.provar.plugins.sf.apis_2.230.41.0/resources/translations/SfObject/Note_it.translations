@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Note.Id" type="SfFieldLabel" value="Id nota"/>
+  <translation key="Note.IsPrivate" type="SfFieldLabel" value="Privata"/>
+  <translation key="Note.Owner" type="SfFieldLabel" value="Titolare"/>
+  <translation key="Note.ParentId" type="SfFieldLabel" value="Controllante"/>
+  <translation key="Note.Title" type="SfFieldLabel" value="Titolo"/>
+</translations>

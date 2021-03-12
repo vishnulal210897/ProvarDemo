@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="User.BadgeText" type="SfFieldLabel" value="Superposition du texte du badge de la photo de l'utilisateur"/>
+  <translation key="User.Id" type="SfFieldLabel" value="ID d'utilisateur"/>
+  <translation key="User.UserPermissionsAvantgoUser" type="SfFieldLabel" value="Utilisateur d'AvantGo"/>
+  <translation key="User.UserPermissionsChatterAnswersUser" type="SfFieldLabel" value="Utilisateur de Réponses Chatter"/>
+  <translation key="User.UserPermissionsInteractionUser" type="SfFieldLabel" value="Utilisateur de flux"/>
+  <translation key="User.UserPermissionsKnowledgeUser" type="SfFieldLabel" value="Utilisateur de Knowledge"/>
+  <translation key="User.UserPermissionsLiveAgentUser" type="SfFieldLabel" value="Utilisateur de Live Agent"/>
+  <translation key="User.UserPermissionsMarketingUser" type="SfFieldLabel" value="Utilisateur de Marketing"/>
+  <translation key="User.UserPermissionsMobileUser" type="SfFieldLabel" value="Utilisateur d'Apex Mobile"/>
+  <translation key="User.UserPermissionsOfflineUser" type="SfFieldLabel" value="Utilisateur de Offline"/>
+  <translation key="User.UserPermissionsSFContentUser" type="SfFieldLabel" value="Utilisateur de Salesforce CRM Content"/>
+  <translation key="User.UserPermissionsSupportUser" type="SfFieldLabel" value="Utilisateur de Service Cloud"/>
+  <translation key="User.UserType" type="SfFieldLabel" value="Type d'utilisateur"/>
+  <translation key="User.Username" type="SfFieldLabel" value="Nom d'utilisateur"/>
+</translations>

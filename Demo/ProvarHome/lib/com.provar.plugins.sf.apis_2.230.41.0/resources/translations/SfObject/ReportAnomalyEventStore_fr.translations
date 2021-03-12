@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ReportAnomalyEventStore.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ReportAnomalyEventStore.Id" type="SfFieldLabel" value="ID de magasin d'événements d'anomalie de rapport"/>
+  <translation key="ReportAnomalyEventStore.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ReportAnomalyEventStore.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="ReportAnomalyEventStore.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="ReportAnomalyEventStore.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

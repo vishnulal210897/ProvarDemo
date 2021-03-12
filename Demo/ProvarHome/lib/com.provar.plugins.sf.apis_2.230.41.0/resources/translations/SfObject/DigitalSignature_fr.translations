@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DigitalSignature.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="DigitalSignature.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="DigitalSignature.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="DigitalSignature.DocumentBody" type="SfFieldLabel" value="Corps de la signature numérique"/>
+  <translation key="DigitalSignature.DocumentContentType" type="SfFieldLabel" value="Type de contenu de signature numérique"/>
+  <translation key="DigitalSignature.DocumentLength" type="SfFieldLabel" value="Longueur de la signature numérique"/>
+  <translation key="DigitalSignature.Id" type="SfFieldLabel" value="ID de signature numérique"/>
+  <translation key="DigitalSignature.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="DigitalSignature.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="DigitalSignature.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="DigitalSignature.ParentId" type="SfFieldLabel" value="Enregistrement parent"/>
+  <translation key="DigitalSignature.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="DigitalSignature.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

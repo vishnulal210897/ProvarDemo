@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Payment.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Payment.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="Payment.Email" type="SfFieldLabel" value="Overvåg mail"/>
+  <translation key="Payment.GatewayResultCode" type="SfFieldLabel" value="Gateway ResultCode"/>
+  <translation key="Payment.GatewayResultCodeDescription" type="SfFieldLabel" value="Beskrivelse af Gateway ResultCode"/>
+  <translation key="Payment.Id" type="SfFieldLabel" value="Betalings-id"/>
+  <translation key="Payment.PaymentAuthorizationId" type="SfFieldLabel" value="Betalingsgodkendelse"/>
+  <translation key="Payment.PaymentGroupId" type="SfFieldLabel" value="Betalingsgruppe"/>
+  <translation key="Payment.PaymentMethodId" type="SfFieldLabel" value="Betalingsmetode"/>
+  <translation key="Payment.PaymentNumber" type="SfFieldLabel" value="Betalingsnummer"/>
+  <translation key="Payment.SfResultCode" type="SfFieldLabel" value="Salesforce ResultCode"/>
+</translations>

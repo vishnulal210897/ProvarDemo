@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TimeSlot.EndTime" type="SfFieldLabel" value="Afslutningstidspunkt"/>
+  <translation key="TimeSlot.Id" type="SfFieldLabel" value="Id for tidsinterval"/>
+  <translation key="TimeSlot.OperatingHoursId" type="SfFieldLabel" value="{OperatingHours}.{SfObject.Label}"/>
+</translations>

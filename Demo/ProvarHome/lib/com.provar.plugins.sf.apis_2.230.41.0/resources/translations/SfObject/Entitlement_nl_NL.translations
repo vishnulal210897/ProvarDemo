@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Entitlement.AssetId" type="SfFieldLabel" value="Activumnaam"/>
+  <translation key="Entitlement.CasesPerEntitlement" type="SfFieldLabel" value="Cases per recht"/>
+  <translation key="Entitlement.ContractLineItemId" type="SfFieldLabel" value="{ContractLineItem}.{SfObject.Label}"/>
+  <translation key="Entitlement.CurrencyIsoCode" type="SfFieldLabel" value="Valuta"/>
+  <translation key="Entitlement.Id" type="SfFieldLabel" value="Recht-ID"/>
+  <translation key="Entitlement.Name" type="SfFieldLabel" value="Naam van recht"/>
+  <translation key="Entitlement.ServiceContractId" type="SfFieldLabel" value="{ServiceContract}.{SfObject.Label}"/>
+  <translation key="Entitlement.SlaProcessId" type="SfFieldLabel" value="Rechtenprocedure"/>
+</translations>

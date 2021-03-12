@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Account.AccountNumber" type="SfFieldLabel" value="Accountnummer"/>
+  <translation key="Account.AccountSource" type="SfFieldLabel" value="Accountquelle"/>
+  <translation key="Account.CurrencyIsoCode" type="SfFieldLabel" value="Accountwährung"/>
+  <translation key="Account.Id" type="SfFieldLabel" value="Account-ID"/>
+  <translation key="Account.IsCustomerPortal" type="SfFieldLabel" value="Kundenportalaccount"/>
+  <translation key="Account.Name" type="SfFieldLabel" value="Accountname"/>
+  <translation key="Account.Owner" type="SfFieldLabel" value="Accountinhaber"/>
+  <translation key="Account.OwnerAlias" type="SfFieldLabel" value="Inhaberalias"/>
+  <translation key="Account.Parent" type="SfFieldLabel" value="Übergeordneter Account"/>
+  <translation key="Account.RecordType" type="SfFieldLabel" value="Account-Datensatztyp"/>
+  <translation key="Account.Site" type="SfFieldLabel" value="Accountstandort"/>
+  <translation key="Account.employeesaccount" type="SfFieldLabel" value="Mitarbeiter"/>
+</translations>

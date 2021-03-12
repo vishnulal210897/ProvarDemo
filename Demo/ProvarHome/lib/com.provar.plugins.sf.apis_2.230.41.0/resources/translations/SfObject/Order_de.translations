@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Order.BillingCity" type="SfFieldLabel" value="Stadt der Rechnungsanschrift"/>
+  <translation key="Order.BillingCountry" type="SfFieldLabel" value="Land der Rechnungsanschrift"/>
+  <translation key="Order.BillingCountryCode" type="SfFieldLabel" value="Ländercode der Rechnungsanschrift"/>
+  <translation key="Order.BillingLatitude" type="SfFieldLabel" value="Breitengrad der Rechnungsanschrift"/>
+  <translation key="Order.BillingLongitude" type="SfFieldLabel" value="Längengrad der Rechnungsanschrift"/>
+  <translation key="Order.BillingState" type="SfFieldLabel" value="Bundesland der Rechnungsanschrift"/>
+  <translation key="Order.BillingStateCode" type="SfFieldLabel" value="Bundesstaatscode der Rechnungsanschrift"/>
+  <translation key="Order.BillingStreet" type="SfFieldLabel" value="Straße der Rechnungsanschrift"/>
+  <translation key="Order.BillingZip" type="SfFieldLabel" value="PLZ der Rechnungsanschrift"/>
+  <translation key="Order.ContractId" type="SfFieldLabel" value="Vertragsnummer"/>
+  <translation key="Order.CurrencyIsoCode" type="SfFieldLabel" value="Währung der Bestellung"/>
+  <translation key="Order.EffectiveDate" type="SfFieldLabel" value="Startdatum des Auftrags"/>
+  <translation key="Order.EndDate" type="SfFieldLabel" value="Enddatum des Auftrags"/>
+  <translation key="Order.Id" type="SfFieldLabel" value="Auftrags-ID"/>
+  <translation key="Order.IsReductionOrder" type="SfFieldLabel" value="Reduzierungsauftrag"/>
+  <translation key="Order.Name" type="SfFieldLabel" value="Auftragsname"/>
+  <translation key="Order.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+  <translation key="Order.OrderNumber" type="SfFieldLabel" value="Auftragsnummer"/>
+  <translation key="Order.OrderReferenceNumber" type="SfFieldLabel" value="Auftragsreferenznummer"/>
+  <translation key="Order.OriginalOrderId" type="SfFieldLabel" value="Originalauftrag"/>
+  <translation key="Order.Owner" type="SfFieldLabel" value="Auftragsinhaber"/>
+  <translation key="Order.PoDate" type="SfFieldLabel" value="Auftragsdatum"/>
+  <translation key="Order.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Order.QuoteId" type="SfFieldLabel" value="{Quote}.{SfObject.Label}"/>
+  <translation key="Order.ShippingCity" type="SfFieldLabel" value="Stadt der Lieferanschrift"/>
+  <translation key="Order.ShippingCountry" type="SfFieldLabel" value="Land der Lieferanschrift"/>
+  <translation key="Order.ShippingCountryCode" type="SfFieldLabel" value="Ländercode der Lieferanschrift"/>
+  <translation key="Order.ShippingLatitude" type="SfFieldLabel" value="Breitengrad der Lieferanschrift"/>
+  <translation key="Order.ShippingLongitude" type="SfFieldLabel" value="Längengrad der Lieferanschrift"/>
+  <translation key="Order.ShippingState" type="SfFieldLabel" value="Bundesland der Lieferanschrift"/>
+  <translation key="Order.ShippingStateCode" type="SfFieldLabel" value="Bundesstaatscode der Lieferanschrift"/>
+  <translation key="Order.ShippingStreet" type="SfFieldLabel" value="Straße der Lieferanschrift"/>
+  <translation key="Order.ShippingZip" type="SfFieldLabel" value="PLZ der Lieferanschrift"/>
+  <translation key="Order.TotalAmount" type="SfFieldLabel" value="Auftragsbetrag"/>
+  <translation key="Order.Type" type="SfFieldLabel" value="Auftragstyp"/>
+</translations>

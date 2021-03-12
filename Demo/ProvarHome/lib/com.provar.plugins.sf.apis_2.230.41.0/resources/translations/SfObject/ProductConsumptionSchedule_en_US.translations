@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductConsumptionSchedule.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="ProductConsumptionSchedule.Id" type="SfFieldLabel" value="Product Consumption Schedule ID"/>
+  <translation key="ProductConsumptionSchedule.ProductId" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+</translations>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceContract.BillingState" type="SfFieldLabel" value="Billing State"/>
+  <translation key="ServiceContract.BillingStateCode" type="SfFieldLabel" value="Billing State"/>
+  <translation key="ServiceContract.BillingZip" type="SfFieldLabel" value="Billing Zip"/>
+  <translation key="ServiceContract.Id" type="SfFieldLabel" value="Service Contract ID"/>
+  <translation key="ServiceContract.Name" type="SfFieldLabel" value="Contract Name"/>
+  <translation key="ServiceContract.Owner" type="SfFieldLabel" value="Service Contract Owner"/>
+  <translation key="ServiceContract.ParentServiceContractId" type="SfFieldLabel" value="Parent Service Contract"/>
+  <translation key="ServiceContract.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="ServiceContract.RootServiceContractId" type="SfFieldLabel" value="Root Service Contract"/>
+  <translation key="ServiceContract.ShippingState" type="SfFieldLabel" value="Shipping State"/>
+  <translation key="ServiceContract.ShippingStateCode" type="SfFieldLabel" value="Shipping State"/>
+  <translation key="ServiceContract.ShippingZip" type="SfFieldLabel" value="Shipping Zip"/>
+</translations>

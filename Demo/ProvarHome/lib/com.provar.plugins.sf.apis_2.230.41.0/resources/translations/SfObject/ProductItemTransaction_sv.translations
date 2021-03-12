@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductItemTransaction.Id" type="SfFieldLabel" value="Produktobjekttransaktions-ID"/>
+  <translation key="ProductItemTransaction.ProductItemTransactionNumber" type="SfFieldLabel" value="Produktobjekttransaktionsnummer"/>
+</translations>

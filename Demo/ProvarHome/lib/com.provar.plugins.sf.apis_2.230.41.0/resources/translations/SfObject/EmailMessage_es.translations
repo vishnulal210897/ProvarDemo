@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EmailMessage.Id" type="SfFieldLabel" value="Id. de Mensaje de correo electrónico"/>
+  <translation key="EmailMessage.ParentId" type="SfFieldLabel" value="Caso principal"/>
+  <translation key="EmailMessage.ReplyToEmailMessageId" type="SfFieldLabel" value="Responder a mensaje de correo electrónico"/>
+</translations>

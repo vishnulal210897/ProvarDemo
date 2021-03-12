@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowDefinitionView.ApiName" type="SfFieldLabel" value="Nome API del flusso"/>
+  <translation key="FlowDefinitionView.Description" type="SfFieldLabel" value="Descrizione flusso"/>
+  <translation key="FlowDefinitionView.Id" type="SfFieldLabel" value="ID visualizzazione definizione flusso"/>
+  <translation key="FlowDefinitionView.Label" type="SfFieldLabel" value="Etichetta flusso"/>
+  <translation key="FlowDefinitionView.NamespacePrefix" type="SfFieldLabel" value="Spazio dei nomi flusso"/>
+</translations>

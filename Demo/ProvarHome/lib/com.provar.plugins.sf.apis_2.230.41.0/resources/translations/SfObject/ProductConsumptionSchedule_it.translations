@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductConsumptionSchedule.Id" type="SfFieldLabel" value="ID pianificazione del consumo dei prodotti"/>
+  <translation key="ProductConsumptionSchedule.ProductId" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+</translations>

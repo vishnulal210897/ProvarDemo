@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactPointEmail.Id" type="SfFieldLabel" value="Contact Point Email ID"/>
+  <translation key="ContactPointEmail.IsPrimary" type="SfFieldLabel" value="Is Primary"/>
+  <translation key="ContactPointEmail.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="ContactPointEmail.Owner" type="SfFieldLabel" value="Owner Name"/>
+  <translation key="ContactPointEmail.ParentId" type="SfFieldLabel" value="Parent"/>
+</translations>

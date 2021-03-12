@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ResourcePreference.Id" type="SfFieldLabel" value="Id. de Preferencia de recurso"/>
+  <translation key="ResourcePreference.ResourcePreferenceNumber" type="SfFieldLabel" value="Número de preferencia de recurso"/>
+</translations>

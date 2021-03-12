@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Entitlement.AssetId" type="SfFieldLabel" value="Vermögenswertname"/>
+  <translation key="Entitlement.CasesPerEntitlement" type="SfFieldLabel" value="Kundenvorgänge pro Anspruch"/>
+  <translation key="Entitlement.ContractLineItemId" type="SfFieldLabel" value="{ContractLineItem}.{SfObject.Label}"/>
+  <translation key="Entitlement.CurrencyIsoCode" type="SfFieldLabel" value="Währung"/>
+  <translation key="Entitlement.Id" type="SfFieldLabel" value="Anspruchs-ID"/>
+  <translation key="Entitlement.Name" type="SfFieldLabel" value="Anspruchsname"/>
+  <translation key="Entitlement.ServiceContractId" type="SfFieldLabel" value="{ServiceContract}.{SfObject.Label}"/>
+  <translation key="Entitlement.SlaProcessId" type="SfFieldLabel" value="Anspruchsprozess"/>
+</translations>

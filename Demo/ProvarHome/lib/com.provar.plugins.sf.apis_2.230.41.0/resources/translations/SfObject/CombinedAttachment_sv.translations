@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CombinedAttachment.ContentSize" type="SfFieldLabel" value="Innehållsstorlek"/>
+  <translation key="CombinedAttachment.ContentUrl" type="SfFieldLabel" value="Innehålls-URL"/>
+  <translation key="CombinedAttachment.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="CombinedAttachment.CreatedDate" type="SfFieldLabel" value="Skapad"/>
+  <translation key="CombinedAttachment.FileExtension" type="SfFieldLabel" value="Filtillägg"/>
+  <translation key="CombinedAttachment.FileType" type="SfFieldLabel" value="Filtyp"/>
+  <translation key="CombinedAttachment.Id" type="SfFieldLabel" value="Id kombinerad bilaga"/>
+  <translation key="CombinedAttachment.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="CombinedAttachment.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="CombinedAttachment.LastModifiedDate" type="SfFieldLabel" value="Ändringsdatum för innehåll"/>
+  <translation key="CombinedAttachment.ParentId" type="SfFieldLabel" value="Överordnat"/>
+  <translation key="CombinedAttachment.RecordType" type="SfFieldLabel" value="Typ"/>
+  <translation key="CombinedAttachment.SharingOption" type="SfFieldLabel" value="Hindra andra från att dela och sluta dela"/>
+  <translation key="CombinedAttachment.Title" type="SfFieldLabel" value="Rubrik"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkCapacityLimit.Id" type="SfFieldLabel" value="ID van werkcapaciteitslimiet"/>
+  <translation key="WorkCapacityLimit.Owner" type="SfFieldLabel" value="Eigenaar"/>
+  <translation key="WorkCapacityLimit.ServiceTerritoryId" type="SfFieldLabel" value="{ServiceTerritory}.{SfObject.Label}"/>
+  <translation key="WorkCapacityLimit.WorkCapacityLimitNumber" type="SfFieldLabel" value="Nummer van werkcapaciteitslimiet"/>
+</translations>

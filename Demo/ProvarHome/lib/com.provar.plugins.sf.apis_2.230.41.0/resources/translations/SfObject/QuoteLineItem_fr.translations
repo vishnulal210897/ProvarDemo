@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="QuoteLineItem.CurrencyIsoCode" type="SfFieldLabel" value="Quote Line Currency"/>
+  <translation key="QuoteLineItem.Description" type="SfFieldLabel" value="Line Item Description"/>
+  <translation key="QuoteLineItem.Discount" type="SfFieldLabel" value="Discount"/>
+  <translation key="QuoteLineItem.Id" type="SfFieldLabel" value="Quote Line Item ID"/>
+  <translation key="QuoteLineItem.ListPrice" type="SfFieldLabel" value="List Price"/>
+  <translation key="QuoteLineItem.PricebookEntryId" type="SfFieldLabel" value="Price Book Entry"/>
+  <translation key="QuoteLineItem.Product2Id" type="SfFieldLabel" value="Product"/>
+  <translation key="QuoteLineItem.ProductCode" type="SfFieldLabel" value="Product Code"/>
+  <translation key="QuoteLineItem.Quantity" type="SfFieldLabel" value="Quantity"/>
+  <translation key="QuoteLineItem.QuoteId" type="SfFieldLabel" value="Quote Name"/>
+  <translation key="QuoteLineItem.SortOrder" type="SfFieldLabel" value="Sort Order"/>
+  <translation key="QuoteLineItem.Subtotal" type="SfFieldLabel" value="Subtotal"/>
+  <translation key="QuoteLineItem.TotalPrice" type="SfFieldLabel" value="Total Price"/>
+  <translation key="QuoteLineItem.UnitPrice" type="SfFieldLabel" value="Sales Price"/>
+</translations>

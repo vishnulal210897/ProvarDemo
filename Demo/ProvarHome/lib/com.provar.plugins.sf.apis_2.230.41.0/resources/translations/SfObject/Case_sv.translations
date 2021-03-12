@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Case.CaseNumber" type="SfFieldLabel" value="Kundcasenummer"/>
+  <translation key="Case.CurrencyIsoCode" type="SfFieldLabel" value="Kundcasevaluta"/>
+  <translation key="Case.EntitlementId" type="SfFieldLabel" value="Rättighetsnamn"/>
+  <translation key="Case.Id" type="SfFieldLabel" value="Kundcase-ID"/>
+  <translation key="Case.Origin" type="SfFieldLabel" value="Kundcaseursprung"/>
+  <translation key="Case.Parent" type="SfFieldLabel" value="ID för överordnat kundcase"/>
+  <translation key="Case.Reason" type="SfFieldLabel" value="Kundcaseorsak"/>
+  <translation key="Case.ContactName" type="SfFieldLabel" value="{Contact}.{FullName}"/>
+  <translation key="Case.Owner" type="SfFieldLabel" value="Kundcaseägare" relatedListLabel="Ägarens namn"/>
+  <translation key="Case.CurrencyIsoCode" type="SfFieldLabel" value="Kundcasevaluta"/>
+  <translation key="Case.ShowRunAssignmentRulesCheckbox" type="SfFieldLabel" value="Tilldela med tilldelningsregler"/>
+  <translation key="Case.CreatedDate" type="SfFieldLabel" value="Öppnad, datum/tid"/>
+  <translation key="Case.ClosedDate" type="SfFieldLabel" value="Avslutad, datum/tid"/>
+  <translation key="Case.ShowEmailCheckbox" type="SfFieldLabel" value="Skicka varningsmeddelande via e-post till kontakt"/>
+  <translation key="*.*.Case Information" type="SfLayoutSectionLabel" value="Kundcaseinformation"/>
+</translations>

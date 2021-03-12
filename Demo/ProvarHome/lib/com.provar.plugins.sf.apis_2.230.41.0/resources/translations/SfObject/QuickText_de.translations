@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="QuickText.CurrencyIsoCode" type="SfFieldLabel" value="Währung"/>
+  <translation key="QuickText.Id" type="SfFieldLabel" value="Schnelltext-ID"/>
+  <translation key="QuickText.Name" type="SfFieldLabel" value="Schnelltextname"/>
+  <translation key="QuickText.Owner" type="SfFieldLabel" value="Inhaber"/>
+</translations>

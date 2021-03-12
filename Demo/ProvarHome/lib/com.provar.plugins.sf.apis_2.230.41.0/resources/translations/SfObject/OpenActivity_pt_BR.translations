@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpenActivity.AccountId" type="SfFieldLabel" value="Da conta"/>
+  <translation key="OpenActivity.ActivityDateTime" type="SfFieldLabel" value="Horário"/>
+  <translation key="OpenActivity.CallDisposition" type="SfFieldLabel" value="Resultado da chamada"/>
+  <translation key="OpenActivity.CallDurationInSeconds" type="SfFieldLabel" value="Duração da chamada"/>
+  <translation key="OpenActivity.CallObject" type="SfFieldLabel" value="Identificador de objeto da chamada"/>
+  <translation key="OpenActivity.CallType" type="SfFieldLabel" value="Tipo de chamada"/>
+  <translation key="OpenActivity.ConnectionReceivedId" type="SfFieldLabel" value="Da conexão da rede de parceiros"/>
+  <translation key="OpenActivity.ConnectionSentId" type="SfFieldLabel" value="Da conexão da rede de parceiros"/>
+  <translation key="OpenActivity.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="OpenActivity.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="OpenActivity.Description" type="SfFieldLabel" value="Comentários"/>
+  <translation key="OpenActivity.DurationInMinutes" type="SfFieldLabel" value="Duração"/>
+  <translation key="OpenActivity.EndDateTime" type="SfFieldLabel" value="Fim"/>
+  <translation key="OpenActivity.Id" type="SfFieldLabel" value="ID da atividade"/>
+  <translation key="OpenActivity.IsAllDayEvent" type="SfFieldLabel" value="Compromisso Todo o Dia"/>
+  <translation key="OpenActivity.IsClosed" type="SfFieldLabel" value="Fechado"/>
+  <translation key="OpenActivity.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="OpenActivity.IsHighPriority" type="SfFieldLabel" value="Prioridade alta"/>
+  <translation key="OpenActivity.IsReminderSet" type="SfFieldLabel" value="Conjunto de lembretes"/>
+  <translation key="OpenActivity.IsTask" type="SfFieldLabel" value="{Task}.{SfObject.Label}"/>
+  <translation key="OpenActivity.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="OpenActivity.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="OpenActivity.Location" type="SfFieldLabel" value="Local"/>
+  <translation key="OpenActivity.Owner" type="SfFieldLabel" value="Atribuído ao"/>
+  <translation key="OpenActivity.Priority" type="SfFieldLabel" value="Prioridade"/>
+  <translation key="OpenActivity.ReminderDateTime" type="SfFieldLabel" value="Data/Hora do lembrete"/>
+  <translation key="OpenActivity.StartDateTime" type="SfFieldLabel" value="Início"/>
+  <translation key="OpenActivity.Status" type="SfFieldLabel" value="Status"/>
+  <translation key="OpenActivity.Subject" type="SfFieldLabel" value="Assunto"/>
+  <translation key="OpenActivity.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+  <translation key="OpenActivity.WhatId" type="SfFieldLabel" value="Do relativo a"/>
+  <translation key="OpenActivity.WhoId" type="SfFieldLabel" value="Do nome"/>
+</translations>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SetupAssistantStep.Id" type="SfFieldLabel" value="ID fase assistente dell'impostazione"/>
+  <translation key="SetupAssistantStep.Name" type="SfFieldLabel" value="Nome"/>
+</translations>

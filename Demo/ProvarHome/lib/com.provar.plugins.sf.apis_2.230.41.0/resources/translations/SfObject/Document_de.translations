@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Document.ContentType" type="SfFieldLabel" value="MIME-Typ"/>
+  <translation key="Document.DeveloperName" type="SfFieldLabel" value="Eindeutiger Dokumentname"/>
+  <translation key="Document.Id" type="SfFieldLabel" value="Dokumenten-ID"/>
+  <translation key="Document.IsBodySearchable" type="SfFieldLabel" value="Dokument nach Inhalten durchsuchbar"/>
+  <translation key="Document.Name" type="SfFieldLabel" value="Dokumentname"/>
+  <translation key="Document.Type" type="SfFieldLabel" value="Dateierweiterung"/>
+</translations>

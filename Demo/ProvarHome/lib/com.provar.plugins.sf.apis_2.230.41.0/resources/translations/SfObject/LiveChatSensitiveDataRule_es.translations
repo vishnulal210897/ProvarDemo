@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LiveChatSensitiveDataRule.ActionType" type="SfFieldLabel" value="Acción"/>
+  <translation key="LiveChatSensitiveDataRule.Id" type="SfFieldLabel" value="Id. de Regla de datos confidenciales"/>
+  <translation key="LiveChatSensitiveDataRule.Language" type="SfFieldLabel" value="Idioma principal"/>
+  <translation key="LiveChatSensitiveDataRule.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="LiveChatSensitiveDataRule.MasterLabel" type="SfFieldLabel" value="Nombre de Regla de datos confidenciales"/>
+</translations>

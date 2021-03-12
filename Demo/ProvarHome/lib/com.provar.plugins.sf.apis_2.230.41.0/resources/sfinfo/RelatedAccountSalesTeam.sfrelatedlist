@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sfRelatedList fieldName="AccountId" label="Account Team" n="AccountTeamMembers" relationshipName="AccountTeamMembers" s="3-" t="Account Team (AccountId)">
+  <children>
+    <sfRelatedListColumn n="User.Name" s="" seq="0" t="Team Member"/>
+    <sfRelatedListColumn n="TeamMemberRole" s="" seq="1" t="Team Role"/>
+    <sfRelatedListColumn n="AccountAccessLevel" s="" seq="2" t="Account Access"/>
+    <sfRelatedListColumn n="OpportunityAccessLevel" s="" seq="3" t="Opportunity Access"/>
+    <sfRelatedListColumn n="CaseAccessLevel" s="" seq="4" t="Case Access"/>
+    <sfRelatedListColumn n="Title" s="" seq="5" t="Title"/>
+  </children>
+</sfRelatedList>

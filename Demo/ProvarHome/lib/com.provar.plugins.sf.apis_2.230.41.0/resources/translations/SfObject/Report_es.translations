@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Report.DeveloperName" type="SfFieldLabel" value="Nombre exclusivo del informe"/>
+  <translation key="Report.Id" type="SfFieldLabel" value="Id. de informe"/>
+  <translation key="Report.Name" type="SfFieldLabel" value="Nombre del informe"/>
+  <translation key="Report.Owner" type="SfFieldLabel" value="Lpropietario"/>
+</translations>

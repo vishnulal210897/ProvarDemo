@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentGatewayProvider.Id" type="SfFieldLabel" value="Payment Gateway Provider ID"/>
+  <translation key="PaymentGatewayProvider.Language" type="SfFieldLabel" value="Master Language"/>
+  <translation key="PaymentGatewayProvider.MasterLabel" type="SfFieldLabel" value="Label"/>
+  <translation key="PaymentGatewayProvider.NamespacePrefix" type="SfFieldLabel" value="Namespace Prefix"/>
+</translations>

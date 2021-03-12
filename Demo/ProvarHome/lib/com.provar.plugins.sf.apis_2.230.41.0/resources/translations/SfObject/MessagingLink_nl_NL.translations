@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingLink.EntityType" type="SfFieldLabel" value="Definitie-ID aangepast object"/>
+  <translation key="MessagingLink.Id" type="SfFieldLabel" value="ID van messaging link"/>
+  <translation key="MessagingLink.RecordType" type="SfFieldLabel" value="Recordtype"/>
+</translations>

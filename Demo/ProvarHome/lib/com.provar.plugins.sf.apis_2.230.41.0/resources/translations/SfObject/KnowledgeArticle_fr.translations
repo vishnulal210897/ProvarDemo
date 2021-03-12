@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="KnowledgeArticle.ArchivedById" type="SfFieldLabel" value="D'utilisateur"/>
+  <translation key="KnowledgeArticle.ArchivedDate" type="SfFieldLabel" value="Date d'archivage"/>
+  <translation key="KnowledgeArticle.ArticleNumber" type="SfFieldLabel" value="Numéro de l'article"/>
+  <translation key="KnowledgeArticle.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="KnowledgeArticle.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="KnowledgeArticle.FirstPublishedDate" type="SfFieldLabel" value="Date de première publication"/>
+  <translation key="KnowledgeArticle.Id" type="SfFieldLabel" value="ID d'article Knowledge"/>
+  <translation key="KnowledgeArticle.IsDeleted" type="SfFieldLabel" value="Est supprimé"/>
+  <translation key="KnowledgeArticle.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="KnowledgeArticle.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="KnowledgeArticle.LastPublishedDate" type="SfFieldLabel" value="Date de dernière publication"/>
+  <translation key="KnowledgeArticle.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="KnowledgeArticle.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="KnowledgeArticle.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

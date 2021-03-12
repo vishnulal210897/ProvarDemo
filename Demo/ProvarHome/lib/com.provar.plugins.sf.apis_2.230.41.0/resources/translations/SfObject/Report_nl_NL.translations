@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Report.DeveloperName" type="SfFieldLabel" value="Unieke naam rapport"/>
+  <translation key="Report.Id" type="SfFieldLabel" value="Rapport-ID"/>
+  <translation key="Report.Name" type="SfFieldLabel" value="Rapportnaam"/>
+  <translation key="Report.Owner" type="SfFieldLabel" value="Eigenaar"/>
+</translations>

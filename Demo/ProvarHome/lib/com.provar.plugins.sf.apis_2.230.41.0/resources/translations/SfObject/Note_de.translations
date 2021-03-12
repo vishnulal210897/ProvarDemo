@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Note.Id" type="SfFieldLabel" value="Notiz ID"/>
+  <translation key="Note.Owner" type="SfFieldLabel" value="Inhaber"/>
+  <translation key="Note.ParentId" type="SfFieldLabel" value="Übergeord.ID"/>
+</translations>

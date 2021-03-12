@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Folder.DeveloperName" type="SfFieldLabel" value="Unieke naam map"/>
+  <translation key="Folder.Id" type="SfFieldLabel" value="Map-ID"/>
+  <translation key="Folder.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="Folder.ParentId" type="SfFieldLabel" value="Map"/>
+</translations>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Recommendation.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="Recommendation.Id" type="SfFieldLabel" value="Id for anbefaling"/>
+  <translation key="Recommendation.Name" type="SfFieldLabel" value="Navn"/>
+  <translation key="Recommendation.RecommendationMode" type="SfFieldLabel" value="Anbefalingstilstand"/>
+  <translation key="Recommendation.RecommendationScore" type="SfFieldLabel" value="Anbefalingsscore"/>
+</translations>

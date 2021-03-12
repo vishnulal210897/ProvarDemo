@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ExpressionFilterCriteria.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="ExpressionFilterCriteria.Id" type="SfFieldLabel" value="ExpressionFilterCriteria ID"/>
+  <translation key="ExpressionFilterCriteria.Name" type="SfFieldLabel" value="ExpressionFilterCriteria Name"/>
+  <translation key="ExpressionFilterCriteria.SortOrder" type="SfFieldLabel" value="SortOrder"/>
+</translations>

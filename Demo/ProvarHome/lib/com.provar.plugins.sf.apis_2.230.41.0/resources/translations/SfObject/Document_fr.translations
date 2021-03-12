@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Document.Body" type="SfFieldLabel" value="Corps"/>
+  <translation key="Document.ContentType" type="SfFieldLabel" value="Type MIME"/>
+  <translation key="Document.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Document.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="Document.Description" type="SfFieldLabel" value="Description"/>
+  <translation key="Document.DeveloperName" type="SfFieldLabel" value="Nom unique du document"/>
+  <translation key="Document.Id" type="SfFieldLabel" value="ID du document"/>
+  <translation key="Document.IsBodySearchable" type="SfFieldLabel" value="Contenu du document pouvant être recherché"/>
+  <translation key="Document.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="Document.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Document.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="Document.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="Document.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="Document.Name" type="SfFieldLabel" value="Nom du document"/>
+  <translation key="Document.NamespacePrefix" type="SfFieldLabel" value="Préfixe d'espace de noms"/>
+  <translation key="Document.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="Document.Type" type="SfFieldLabel" value="Extension du fichier"/>
+</translations>

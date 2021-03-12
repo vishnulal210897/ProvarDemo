@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RefundLinePayment.AssociatedRefundLinePaymentId" type="SfFieldLabel" value="Tilknyttet refusionbetalingslinje"/>
+  <translation key="RefundLinePayment.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="RefundLinePayment.Id" type="SfFieldLabel" value="Id for refusionbetalingslinje"/>
+  <translation key="RefundLinePayment.RefundLinePaymentNumber" type="SfFieldLabel" value="Nummer for refusionbetalingslinje"/>
+</translations>

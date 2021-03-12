@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrder.AccountId" type="SfFieldLabel" value="Account"/>
+  <translation key="WorkOrder.Address" type="SfFieldLabel" value="Indirizzo"/>
+  <translation key="WorkOrder.City" type="SfFieldLabel" value="Ville"/>
+  <translation key="WorkOrder.ContactId" type="SfFieldLabel" value="Referente"/>
+  <translation key="WorkOrder.Country" type="SfFieldLabel" value="Pays"/>
+  <translation key="WorkOrder.DurationInMinutes" type="SfFieldLabel" value="Durata in minuti"/>
+  <translation key="WorkOrder.Id" type="SfFieldLabel" value="ID ordine di lavoro"/>
+  <translation key="WorkOrder.IsClosed" type="SfFieldLabel" value="È chiuso"/>
+  <translation key="WorkOrder.Latitude" type="SfFieldLabel" value="Latitude"/>
+  <translation key="WorkOrder.Longitude" type="SfFieldLabel" value="Longitude"/>
+  <translation key="WorkOrder.Owner" type="SfFieldLabel" value="Titolare"/>
+  <translation key="WorkOrder.State" type="SfFieldLabel" value="Département/province"/>
+  <translation key="WorkOrder.Street" type="SfFieldLabel" value="Rue"/>
+  <translation key="WorkOrder.Zip" type="SfFieldLabel" value="Code postal"/>
+</translations>

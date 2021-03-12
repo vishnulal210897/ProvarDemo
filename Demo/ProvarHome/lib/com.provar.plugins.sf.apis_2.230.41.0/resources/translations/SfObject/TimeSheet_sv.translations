@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TimeSheet.EndDate" type="SfFieldLabel" value="Slutdatum för tidrapport"/>
+  <translation key="TimeSheet.Id" type="SfFieldLabel" value="ID för tidrapport"/>
+  <translation key="TimeSheet.TimeSheetEntryCount" type="SfFieldLabel" value="Antal poster i tidrapport"/>
+</translations>

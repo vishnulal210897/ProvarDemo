@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Quote.Id" type="SfFieldLabel" value="ID de devis"/>
+  <translation key="Quote.Name" type="SfFieldLabel" value="Nom du devis"/>
+  <translation key="Quote.QuoteNumber" type="SfFieldLabel" value="Numéro du devis"/>
+  <translation key="*.*.Quote Information" type="SfLayoutSectionLabel" value="Informations du devis"/>
+</translations>

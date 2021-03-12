@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Case.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="Case.BusinessHoursId" type="SfFieldLabel" value="Kantooruren"/>
+  <translation key="Case.CaseNumber" type="SfFieldLabel" value="Sagsnummer" relatedListLabel="{Case}.{SfObject.Label}" />
+  <translation key="Case.ClosedDate" type="SfFieldLabel" value="Dato/tid lukket"/>
+  <translation key="Case.ConnectionReceivedDate" type="SfFieldLabel" value="Verbinding ontvangen op datum"/>
+  <translation key="Case.ConnectionSentDate" type="SfFieldLabel" value="Verbinding verzonden op datum"/>
+  <translation key="Case.ContactEmail" type="SfFieldLabel" value="Kontaktmail"/>
+  <translation key="Case.ContactFax" type="SfFieldLabel" value="Fax contactpersoon"/>
+  <translation key="Case.ContactId" type="SfFieldLabel" value="Kontaktnavn"/>
+  <translation key="Case.ContactMobile" type="SfFieldLabel" value="Mobiele telefoon contactpersoon"/>
+  <translation key="Case.ContactPhone" type="SfFieldLabel" value="Kontakttelefon"/>
+  <translation key="Case.CreatedByAlias" type="SfFieldLabel" value="Alias van gemaakt door"/>
+  <translation key="Case.CreatedDate" type="SfFieldLabel" value="Dato/tid åbnet"/>
+  <translation key="Case.CurrencyIsoCode" type="SfFieldLabel" value="Sagsvaluta"/>
+  <translation key="Case.Description" type="SfFieldLabel" value="Beskrivelse"/>
+  <translation key="Case.EscalationDateTime" type="SfFieldLabel" value="Escalatiedatum"/>
+  <translation key="Case.EventsProcessedDate" type="SfFieldLabel" value="Datum events verwerkt"/>
+  <translation key="Case.Id" type="SfFieldLabel" value="Case-ID"/>
+  <translation key="Case.InternalComments" type="SfFieldLabel" value="Interne komponenter"/>
+  <translation key="Case.IsClosed" type="SfFieldLabel" value="Gesloten"/>
+  <translation key="Case.IsClosedOnCreate" type="SfFieldLabel" value="Gesloten bij maken"/>
+  <translation key="Case.IsDeleted" type="SfFieldLabel" value="Verwijderd"/>
+  <translation key="Case.IsEscalated" type="SfFieldLabel" value="Eskaleret"/>
+  <translation key="Case.LastModifiedByAlias" type="SfFieldLabel" value="Alias van laatste wijziging door"/>
+  <translation key="Case.LastReferencedDate" type="SfFieldLabel" value="Laatste datum waarnaar is verwezen"/>
+  <translation key="Case.LastViewedDate" type="SfFieldLabel" value="Datum laatst weergegeven"/>
+  <translation key="Case.MasterRecordId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="Case.Origin" type="SfFieldLabel" value="Sagsoprindelse"/>
+  <translation key="Case.Owner" type="SfFieldLabel" value="Sagsejer"/>
+  <translation key="Case.Parent" type="SfFieldLabel" value="Overordnet sag"/>
+  <translation key="Case.Priority" type="SfFieldLabel" value="Prioritet"/>
+  <translation key="Case.Reason" type="SfFieldLabel" value="Sagsårsag"/>
+  <translation key="Case.RecordType" type="SfFieldLabel" value="Sagsregistreringstype"/>
+  <translation key="Case.RuleFilterId" type="SfFieldLabel" value="Werkstroomregelfilter"/>
+  <translation key="Case.SourceId" type="SfFieldLabel" value="Sagskilde"/>
+  <translation key="Case.Subject" type="SfFieldLabel" value="Emne"/>
+  <translation key="Case.SuppliedCompany" type="SfFieldLabel" value="Webfirma"/>
+  <translation key="Case.SuppliedName" type="SfFieldLabel" value="Webnavn"/>
+  <translation key="Case.SystemModstamp" type="SfFieldLabel" value="Systeemwijzigingsstempel"/>
+  <translation key="Case.UserRecordAccessId" type="SfFieldLabel" value="Objecttoegangsniveau"/>
+  <translation key="Case.WebEmail" type="SfFieldLabel" value="Webmail"/>
+  <translation key="Case.WebPhone" type="SfFieldLabel" value="Webtelefon"/>
+</translations>

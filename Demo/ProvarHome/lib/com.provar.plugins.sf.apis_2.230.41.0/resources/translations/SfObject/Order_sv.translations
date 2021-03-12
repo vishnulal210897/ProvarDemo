@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Order.EffectiveDate" type="SfFieldLabel" value="Orderns startdatum"/>
+  <translation key="Order.EndDate" type="SfFieldLabel" value="Orderns slutdatum"/>
+  <translation key="Order.Id" type="SfFieldLabel" value="Order-ID"/>
+  <translation key="Order.IsReductionOrder" type="SfFieldLabel" value="Reduktionsorder"/>
+  <translation key="Order.Name" type="SfFieldLabel" value="Ordernamn"/>
+  <translation key="Order.OrderNumber" type="SfFieldLabel" value="Ordernummer"/>
+  <translation key="Order.OrderReferenceNumber" type="SfFieldLabel" value="Ordernummer"/>
+  <translation key="Order.OriginalOrderId" type="SfFieldLabel" value="Order-ID"/>
+  <translation key="Order.PoDate" type="SfFieldLabel" value="Inköpsorderdatum"/>
+  <translation key="Order.PoNumber" type="SfFieldLabel" value="Inköpsordernummer"/>
+  <translation key="Order.TotalAmount" type="SfFieldLabel" value="Orderbelopp"/>
+  <translation key="Order.Type" type="SfFieldLabel" value="Ordertyp"/>
+</translations>

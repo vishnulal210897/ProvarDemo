@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrder.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="WorkOrder.Address" type="SfFieldLabel" value="Adres"/>
+  <translation key="WorkOrder.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="WorkOrder.BusinessHoursId" type="SfFieldLabel" value="Kantooruren"/>
+  <translation key="WorkOrder.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="WorkOrder.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="WorkOrder.CreatedDate" type="SfFieldLabel" value="Aanmaakdatum"/>
+  <translation key="WorkOrder.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="WorkOrder.Discount" type="SfFieldLabel" value="Korting"/>
+  <translation key="WorkOrder.DurationInMinutes" type="SfFieldLabel" value="Duur in minuten"/>
+  <translation key="WorkOrder.EndDate" type="SfFieldLabel" value="Einddatum"/>
+  <translation key="WorkOrder.EntitlementId" type="SfFieldLabel" value="{Entitlement}.{SfObject.Label}"/>
+  <translation key="WorkOrder.GrandTotal" type="SfFieldLabel" value="Eindtotaal"/>
+  <translation key="WorkOrder.Id" type="SfFieldLabel" value="Werkordernummer-ID"/>
+  <translation key="WorkOrder.IsClosed" type="SfFieldLabel" value="Is gesloten"/>
+  <translation key="WorkOrder.IsDeleted" type="SfFieldLabel" value="Verwijderd"/>
+  <translation key="WorkOrder.LastModifiedById" type="SfFieldLabel" value="Laatste wijziging door"/>
+  <translation key="WorkOrder.LastReferencedDate" type="SfFieldLabel" value="Laatste datum waarnaar is verwezen"/>
+  <translation key="WorkOrder.LastViewedDate" type="SfFieldLabel" value="Datum laatst weergegeven"/>
+  <translation key="WorkOrder.LineItemCount" type="SfFieldLabel" value="Regelitem"/>
+  <translation key="WorkOrder.LocationId" type="SfFieldLabel" value="Locatie"/>
+  <translation key="WorkOrder.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="WorkOrder.Priority" type="SfFieldLabel" value="Prioritet"/>
+  <translation key="WorkOrder.ServiceContractId" type="SfFieldLabel" value="{ServiceContract}.{SfObject.Label}"/>
+  <translation key="WorkOrder.StartDate" type="SfFieldLabel" value="Begindatum"/>
+  <translation key="WorkOrder.StateCode" type="SfFieldLabel" value="Statskode"/>
+  <translation key="WorkOrder.Street" type="SfFieldLabel" value="Gade/vej"/>
+  <translation key="WorkOrder.Subject" type="SfFieldLabel" value="Emne"/>
+  <translation key="WorkOrder.Subtotal" type="SfFieldLabel" value="Subtotaal"/>
+  <translation key="WorkOrder.SystemModstamp" type="SfFieldLabel" value="Systeemwijzigingsstempel"/>
+  <translation key="WorkOrder.Tax" type="SfFieldLabel" value="Belasting"/>
+  <translation key="WorkOrder.TotalPrice" type="SfFieldLabel" value="Totaalprijs"/>
+  <translation key="WorkOrder.UserRecordAccessId" type="SfFieldLabel" value="Objecttoegangsniveau"/>
+</translations>

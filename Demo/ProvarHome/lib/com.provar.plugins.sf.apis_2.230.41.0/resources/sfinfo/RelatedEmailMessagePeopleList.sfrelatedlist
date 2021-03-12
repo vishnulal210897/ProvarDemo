@@ -1,0 +1,6 @@
+<sfRelatedList fieldName="EmailMessageId" label="Sender and Recipients" n="EmailMessageRelation" nameAlias="RelatedEmailMessagePeopleList" relationshipName="EmailMessageRelation" s="3-" t="Sender and Recipients">
+	<children>
+	    <sfRelatedListColumn n="RelationId" s="" seq="0" t="Name"/>
+	    <sfRelatedListColumn n="RelationType" s="" seq="1" t="Type"/>
+  	</children>
+</sfRelatedList>

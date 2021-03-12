@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="GtwyProvPaymentMethodType.GtwyProviderPaymentMethodType" type="SfFieldLabel" value="Betalingsmetodetype for gatewayleverandør"/>
+  <translation key="GtwyProvPaymentMethodType.Id" type="SfFieldLabel" value="Id for betalingsmetodetype for gatewayleverandør"/>
+  <translation key="GtwyProvPaymentMethodType.Language" type="SfFieldLabel" value="Overordnet sprog"/>
+  <translation key="GtwyProvPaymentMethodType.MasterLabel" type="SfFieldLabel" value="Betegnelse"/>
+  <translation key="GtwyProvPaymentMethodType.NamespacePrefix" type="SfFieldLabel" value="Navneområdepræfiks"/>
+</translations>

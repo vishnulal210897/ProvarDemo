@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseSolution.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="CaseSolution.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="CaseSolution.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="CaseSolution.Id" type="SfFieldLabel" value="Kundcaselösning-ID"/>
+  <translation key="CaseSolution.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="CaseSolution.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

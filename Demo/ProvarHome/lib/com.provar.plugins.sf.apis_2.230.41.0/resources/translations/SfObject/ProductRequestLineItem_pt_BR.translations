@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductRequestLineItem.AccountId" type="SfFieldLabel" value="Compte"/>
+  <translation key="ProductRequestLineItem.CaseId" type="SfFieldLabel" value="Requête"/>
+  <translation key="ProductRequestLineItem.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ProductRequestLineItem.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ProductRequestLineItem.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="ProductRequestLineItem.Id" type="SfFieldLabel" value="ID d'élément de ligne de demande de produit"/>
+  <translation key="ProductRequestLineItem.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="ProductRequestLineItem.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ProductRequestLineItem.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ProductRequestLineItem.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="ProductRequestLineItem.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="ProductRequestLineItem.ParentId" type="SfFieldLabel" value="Parent"/>
+  <translation key="ProductRequestLineItem.QuantityUnitOfMeasure" type="SfFieldLabel" value="Unité de mesure de la quantité"/>
+  <translation key="ProductRequestLineItem.ShipToStreet" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ProductRequestLineItem.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="ProductRequestLineItem.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+  <translation key="ProductRequestLineItem.WorkOrderId" type="SfFieldLabel" value="Ordre d'exécution"/>
+</translations>

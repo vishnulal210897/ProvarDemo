@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CombinedAttachment.ContentSize" type="SfFieldLabel" value="Indholdsstørrelse"/>
+  <translation key="CombinedAttachment.CreatedDate" type="SfFieldLabel" value="Oprettet"/>
+  <translation key="CombinedAttachment.Id" type="SfFieldLabel" value="Kombineret vedhæftet fil-id"/>
+  <translation key="CombinedAttachment.LastModifiedDate" type="SfFieldLabel" value="Sidst ændret"/>
+  <translation key="CombinedAttachment.ParentId" type="SfFieldLabel" value="Overordnet"/>
+  <translation key="CombinedAttachment.RecordType" type="SfFieldLabel" value="Type"/>
+</translations>

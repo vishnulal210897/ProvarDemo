@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Group.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="Group.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="Group.DeveloperName" type="SfFieldLabel" value="Nome do desenvolvedor"/>
+  <translation key="Group.Id" type="SfFieldLabel" value="ID do grupo"/>
+  <translation key="Group.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="Group.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="Group.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="Group.Owner" type="SfFieldLabel" value="Do proprietário"/>
+  <translation key="Group.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

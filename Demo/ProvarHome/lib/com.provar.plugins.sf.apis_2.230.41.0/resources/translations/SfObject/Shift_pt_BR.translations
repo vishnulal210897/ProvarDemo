@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Shift.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="Shift.EndTime" type="SfFieldLabel" value="End Time"/>
+  <translation key="Shift.Id" type="SfFieldLabel" value="Shift ID"/>
+  <translation key="Shift.Owner" type="SfFieldLabel" value="Owner Name"/>
+  <translation key="Shift.StartTime" type="SfFieldLabel" value="Start Time"/>
+  <translation key="Shift.Status" type="SfFieldLabel" value="Status"/>
+</translations>

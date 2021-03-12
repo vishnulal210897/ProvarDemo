@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PromptLocalization.Id" type="SfFieldLabel" value="Translation ID"/>
+  <translation key="PromptLocalization.NamespacePrefix" type="SfFieldLabel" value="Namespace Prefix"/>
+  <translation key="PromptLocalization.ParentId" type="SfFieldLabel" value="Parent"/>
+  <translation key="PromptLocalization.Value" type="SfFieldLabel" value="Translation Text"/>
+</translations>

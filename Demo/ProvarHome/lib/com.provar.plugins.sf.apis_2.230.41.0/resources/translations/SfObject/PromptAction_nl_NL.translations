@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PromptAction.Id" type="SfFieldLabel" value="ID van actie voor aanwijzing"/>
+  <translation key="PromptAction.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="PromptAction.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="PromptAction.UserId" type="SfFieldLabel" value="Gebruiker"/>
+</translations>

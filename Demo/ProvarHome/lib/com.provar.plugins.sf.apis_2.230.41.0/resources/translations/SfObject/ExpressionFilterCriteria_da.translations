@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ExpressionFilterCriteria.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="ExpressionFilterCriteria.Id" type="SfFieldLabel" value="Id for expressionfiltercriteria"/>
+  <translation key="ExpressionFilterCriteria.Name" type="SfFieldLabel" value="Navn på expressionfiltercriteria"/>
+</translations>

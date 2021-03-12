@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Dashboard.DeveloperName" type="SfFieldLabel" value="Nom unique de tableau de bord"/>
+  <translation key="Dashboard.Id" type="SfFieldLabel" value="ID de tableau de bord"/>
+  <translation key="Dashboard.Type" type="SfFieldLabel" value="Utilisateur actuel du tableau de bord"/>
+</translations>

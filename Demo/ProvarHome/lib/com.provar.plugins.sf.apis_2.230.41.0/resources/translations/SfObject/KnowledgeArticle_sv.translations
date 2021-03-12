@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="KnowledgeArticle.ArchivedById" type="SfFieldLabel" value="Användar"/>
+  <translation key="KnowledgeArticle.ArchivedDate" type="SfFieldLabel" value="Arkiverad den"/>
+  <translation key="KnowledgeArticle.ArticleNumber" type="SfFieldLabel" value="Artikelnummer"/>
+  <translation key="KnowledgeArticle.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="KnowledgeArticle.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="KnowledgeArticle.FirstPublishedDate" type="SfFieldLabel" value="Första publiceringsdatum"/>
+  <translation key="KnowledgeArticle.Id" type="SfFieldLabel" value="Knowledge Artikel ID"/>
+  <translation key="KnowledgeArticle.IsDeleted" type="SfFieldLabel" value="Är borttaget"/>
+  <translation key="KnowledgeArticle.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="KnowledgeArticle.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="KnowledgeArticle.LastPublishedDate" type="SfFieldLabel" value="Senaste publiceringsdatum"/>
+  <translation key="KnowledgeArticle.LastReferencedDate" type="SfFieldLabel" value="Senaste referensdatumet"/>
+  <translation key="KnowledgeArticle.LastViewedDate" type="SfFieldLabel" value="Datum senaste visning"/>
+  <translation key="KnowledgeArticle.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

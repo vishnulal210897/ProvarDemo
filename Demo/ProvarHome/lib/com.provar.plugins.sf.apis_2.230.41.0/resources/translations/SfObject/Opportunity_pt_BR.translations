@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Opportunity.Id" type="SfFieldLabel" value="ID da oportunidade"/>
+  <translation key="Opportunity.Type" type="SfFieldLabel" value="Tipo de oportunidade"/>
+  <translation key="Opportunity.Name" type="SfFieldLabel" value="Nome da oportunidade"/>
+  <translation key="Opportunity.ExpectedRevenue" type="SfFieldLabel" value="Receita esperada"/>
+  <translation key="Opportunity.OwnerId" type="SfFieldLabel" value="Proprietário da oportunidade"/>
+  <translation key="*.*.Opportunity Information" type="SfLayoutSectionLabel" value="Informações da oportunidade"/>
+</translations>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceContract.BillingLatitude" type="SfFieldLabel" value="Factuurbreedtegraad "/>
+  <translation key="ServiceContract.BillingLongitude" type="SfFieldLabel" value="Factuurlengtegraad"/>
+  <translation key="ServiceContract.BillingState" type="SfFieldLabel" value="Factuurstaat"/>
+  <translation key="ServiceContract.CurrencyIsoCode" type="SfFieldLabel" value="Valuta"/>
+  <translation key="ServiceContract.GrandTotal" type="SfFieldLabel" value="Algemeen totaal"/>
+  <translation key="ServiceContract.Id" type="SfFieldLabel" value="Servicecontract-ID"/>
+  <translation key="ServiceContract.Name" type="SfFieldLabel" value="Contractnaam"/>
+  <translation key="ServiceContract.Owner" type="SfFieldLabel" value="Servicecontracteigenaar"/>
+  <translation key="ServiceContract.ParentServiceContractId" type="SfFieldLabel" value="Bovenliggende servicecontract"/>
+  <translation key="ServiceContract.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="ServiceContract.RootServiceContractId" type="SfFieldLabel" value="Basisservicecontract"/>
+  <translation key="ServiceContract.ShippingLatitude" type="SfFieldLabel" value="Verzendbreedtegraad"/>
+  <translation key="ServiceContract.ShippingLongitude" type="SfFieldLabel" value="Verzendlengtegraad"/>
+  <translation key="ServiceContract.ShippingState" type="SfFieldLabel" value="Verzendstaat"/>
+  <translation key="ServiceContract.SpecialTerms" type="SfFieldLabel" value="Bijzondere voorwaarden"/>
+</translations>

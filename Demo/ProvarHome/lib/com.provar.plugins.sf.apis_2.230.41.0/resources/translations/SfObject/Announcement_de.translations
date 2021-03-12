@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Announcement.Id" type="SfFieldLabel" value="Ankündigungs-ID"/>
+  <translation key="Announcement.IsArchived" type="SfFieldLabel" value="Ist Ankündigung archiviert"/>
+  <translation key="Announcement.ParentId" type="SfFieldLabel" value="Übergeord.ID"/>
+  <translation key="Announcement.SendEmails" type="SfFieldLabel" value="E-Mails bei Ankündigung senden"/>
+</translations>

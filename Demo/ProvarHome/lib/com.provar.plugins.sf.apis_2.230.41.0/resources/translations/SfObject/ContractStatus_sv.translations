@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContractStatus.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="ContractStatus.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="ContractStatus.Id" type="SfFieldLabel" value="ID för statusvärde för kontrakt"/>
+  <translation key="ContractStatus.IsDefault" type="SfFieldLabel" value="Är standard"/>
+  <translation key="ContractStatus.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="ContractStatus.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="ContractStatus.SortOrder" type="SfFieldLabel" value="Sorteringsordning"/>
+  <translation key="ContractStatus.StatusCode" type="SfFieldLabel" value="Statuskod"/>
+  <translation key="ContractStatus.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

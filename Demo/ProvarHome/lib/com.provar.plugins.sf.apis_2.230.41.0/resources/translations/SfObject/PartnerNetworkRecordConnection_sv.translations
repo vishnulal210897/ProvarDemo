@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerNetworkRecordConnection.ConnectionId" type="SfFieldLabel" value="Kontakt-ID för partnernätverk"/>
+  <translation key="PartnerNetworkRecordConnection.EndDate" type="SfFieldLabel" value="Slutdatum"/>
+  <translation key="PartnerNetworkRecordConnection.Id" type="SfFieldLabel" value="Kontakt-ID för post i partnernätverk"/>
+  <translation key="PartnerNetworkRecordConnection.StartDate" type="SfFieldLabel" value="Startdatum"/>
+  <translation key="PartnerNetworkRecordConnection.Status" type="SfFieldLabel" value="Status"/>
+</translations>

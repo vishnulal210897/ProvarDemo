@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AuthorizationFormConsent.Id" type="SfFieldLabel" value="Id for samtykke til godkendelsesformular"/>
+  <translation key="AuthorizationFormConsent.Name" type="SfFieldLabel" value="Navn"/>
+</translations>

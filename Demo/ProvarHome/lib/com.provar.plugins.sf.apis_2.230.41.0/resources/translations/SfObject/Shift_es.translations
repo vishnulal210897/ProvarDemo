@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Shift.Id" type="SfFieldLabel" value="Id. de Turno"/>
+  <translation key="Shift.Label" type="SfFieldLabel" value="Etiqueta"/>
+  <translation key="Shift.Owner" type="SfFieldLabel" value="Nombre completo del propietario"/>
+  <translation key="Shift.ServiceResourceId" type="SfFieldLabel" value="{ServiceResource}.{SfObject.Label}"/>
+  <translation key="Shift.ServiceTerritoryId" type="SfFieldLabel" value="{ServiceTerritory}.{SfObject.Label}"/>
+  <translation key="Shift.ShiftNumber" type="SfFieldLabel" value="Número de turno"/>
+</translations>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowVersionView.Description" type="SfFieldLabel" value="Versiebeschrijving"/>
+  <translation key="FlowVersionView.Id" type="SfFieldLabel" value="ID van weergave van stroomversie"/>
+  <translation key="FlowVersionView.IsTemplate" type="SfFieldLabel" value="Is sjabloon"/>
+  <translation key="FlowVersionView.Label" type="SfFieldLabel" value="Versielabel"/>
+  <translation key="FlowVersionView.Status" type="SfFieldLabel" value="Versiestatus"/>
+</translations>

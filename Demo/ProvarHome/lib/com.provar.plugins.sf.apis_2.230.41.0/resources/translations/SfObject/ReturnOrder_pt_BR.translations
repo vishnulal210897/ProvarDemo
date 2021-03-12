@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ReturnOrder.AccountId" type="SfFieldLabel" value="Account"/>
+  <translation key="ReturnOrder.ContactId" type="SfFieldLabel" value="Contact"/>
+  <translation key="ReturnOrder.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="ReturnOrder.DestinationLocationId" type="SfFieldLabel" value="Destination Location"/>
+  <translation key="ReturnOrder.ExpirationDate" type="SfFieldLabel" value="Expiration Date"/>
+  <translation key="ReturnOrder.Id" type="SfFieldLabel" value="Return Order ID"/>
+  <translation key="ReturnOrder.OrderId" type="SfFieldLabel" value="Order"/>
+  <translation key="ReturnOrder.Owner" type="SfFieldLabel" value="Owner"/>
+  <translation key="ReturnOrder.ProductRequestId" type="SfFieldLabel" value="Product Request"/>
+  <translation key="ReturnOrder.ShipmentType" type="SfFieldLabel" value="Shipment Type"/>
+  <translation key="ReturnOrder.SourceLocationId" type="SfFieldLabel" value="Source Location"/>
+  <translation key="ReturnOrder.Status" type="SfFieldLabel" value="Status"/>
+</translations>

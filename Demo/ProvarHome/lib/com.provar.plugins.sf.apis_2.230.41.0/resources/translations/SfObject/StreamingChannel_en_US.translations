@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="StreamingChannel.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="StreamingChannel.Id" type="SfFieldLabel" value="Streaming Channel Id"/>
+  <translation key="StreamingChannel.IsDeleted" type="SfFieldLabel" value="Is Deleted"/>
+  <translation key="StreamingChannel.Name" type="SfFieldLabel" value="Streaming Channel Name"/>
+  <translation key="StreamingChannel.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

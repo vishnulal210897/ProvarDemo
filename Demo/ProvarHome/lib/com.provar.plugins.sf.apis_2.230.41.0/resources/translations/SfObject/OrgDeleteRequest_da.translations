@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrgDeleteRequest.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="OrgDeleteRequest.Id" type="SfFieldLabel" value="Id for anmodning om organisationssletning"/>
+  <translation key="OrgDeleteRequest.Name" type="SfFieldLabel" value="Navn"/>
+</translations>

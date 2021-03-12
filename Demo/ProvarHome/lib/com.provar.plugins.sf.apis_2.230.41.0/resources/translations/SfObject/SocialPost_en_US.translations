@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SocialPost.Content" type="SfFieldLabel" value="Message"/>
+  <translation key="SocialPost.Id" type="SfFieldLabel" value="Social Post ID"/>
+  <translation key="SocialPost.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="SocialPost.Owner" type="SfFieldLabel" value="Owner"/>
+  <translation key="SocialPost.ParentId" type="SfFieldLabel" value="Parent"/>
+  <translation key="SocialPost.WhoId" type="SfFieldLabel" value="Who"/>
+</translations>

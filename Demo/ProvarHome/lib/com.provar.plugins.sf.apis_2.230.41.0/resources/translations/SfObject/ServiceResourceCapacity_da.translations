@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceResourceCapacity.CapacityNumber" type="SfFieldLabel" value="Ressourcekapacitetsnummer"/>
+  <translation key="ServiceResourceCapacity.EndDate" type="SfFieldLabel" value="Afslutningsdato"/>
+  <translation key="ServiceResourceCapacity.Id" type="SfFieldLabel" value="Id for ressourcekapacitet"/>
+  <translation key="ServiceResourceCapacity.ServiceResourceId" type="SfFieldLabel" value="{ServiceResource}.{SfObject.Label}"/>
+</translations>

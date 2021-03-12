@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowVersionView.Description" type="SfFieldLabel" value="Descrizione versione"/>
+  <translation key="FlowVersionView.Id" type="SfFieldLabel" value="ID visualizzazione versione flusso"/>
+  <translation key="FlowVersionView.IsTemplate" type="SfFieldLabel" value="È modello"/>
+  <translation key="FlowVersionView.Label" type="SfFieldLabel" value="Etichetta versione"/>
+  <translation key="FlowVersionView.Status" type="SfFieldLabel" value="Stato versione"/>
+  <translation key="FlowVersionView.VersionNumber" type="SfFieldLabel" value="Numero versione"/>
+</translations>

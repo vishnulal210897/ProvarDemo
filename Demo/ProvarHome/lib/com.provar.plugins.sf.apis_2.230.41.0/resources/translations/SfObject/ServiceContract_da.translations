@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceContract.BillingState" type="SfFieldLabel" value="Faktureringsstat"/>
+  <translation key="ServiceContract.BillingStateCode" type="SfFieldLabel" value="Faktureringsstatskode"/>
+  <translation key="ServiceContract.ContactId" type="SfFieldLabel" value="Kontaktnavn"/>
+  <translation key="ServiceContract.CurrencyIsoCode" type="SfFieldLabel" value="Valuta"/>
+  <translation key="ServiceContract.GrandTotal" type="SfFieldLabel" value="Samlet resultat"/>
+  <translation key="ServiceContract.Id" type="SfFieldLabel" value="Servicekontrakt-id"/>
+  <translation key="ServiceContract.LineItemCount" type="SfFieldLabel" value="Linjevarer"/>
+  <translation key="ServiceContract.Name" type="SfFieldLabel" value="Kontraktnavn"/>
+  <translation key="ServiceContract.Owner" type="SfFieldLabel" value="Servicekontraktejer"/>
+  <translation key="ServiceContract.ParentServiceContractId" type="SfFieldLabel" value="Overordnet servicekontrakt"/>
+  <translation key="ServiceContract.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="ServiceContract.RootServiceContractId" type="SfFieldLabel" value="Rodservicekontrakt"/>
+  <translation key="ServiceContract.ShippingState" type="SfFieldLabel" value="Forsendelsesstat"/>
+  <translation key="ServiceContract.ShippingStateCode" type="SfFieldLabel" value="Forsendelsesstatskode"/>
+  <translation key="ServiceContract.Tax" type="SfFieldLabel" value="Moms"/>
+</translations>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="UiFormulaRule.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="UiFormulaRule.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="UiFormulaRule.Id" type="SfFieldLabel" value="ID de règle de formule d'interface utilisateur"/>
+  <translation key="UiFormulaRule.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="UiFormulaRule.Language" type="SfFieldLabel" value="Langue principale"/>
+  <translation key="UiFormulaRule.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="UiFormulaRule.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="UiFormulaRule.MasterLabel" type="SfFieldLabel" value="Étiquette"/>
+  <translation key="UiFormulaRule.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

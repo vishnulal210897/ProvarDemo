@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CampaignMemberStatus.Id" type="SfFieldLabel" value="ID statut de membre de campagne"/>
+</translations>

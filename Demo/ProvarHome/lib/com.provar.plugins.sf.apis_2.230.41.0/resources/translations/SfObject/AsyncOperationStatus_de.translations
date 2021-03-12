@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AsyncOperationStatus.Category" type="SfFieldLabel" value="Category"/>
+  <translation key="AsyncOperationStatus.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="AsyncOperationStatus.Message" type="SfFieldLabel" value="Message"/>
+  <translation key="AsyncOperationStatus.StatusCode" type="SfFieldLabel" value="Status Code"/>
+</translations>

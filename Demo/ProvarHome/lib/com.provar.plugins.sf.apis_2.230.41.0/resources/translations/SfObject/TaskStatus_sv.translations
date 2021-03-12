@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TaskStatus.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="TaskStatus.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="TaskStatus.Id" type="SfFieldLabel" value="ID för statusvärde för aktivitet"/>
+  <translation key="TaskStatus.IsClosed" type="SfFieldLabel" value="Är avslutad"/>
+  <translation key="TaskStatus.IsDefault" type="SfFieldLabel" value="Är standard"/>
+  <translation key="TaskStatus.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="TaskStatus.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="TaskStatus.SortOrder" type="SfFieldLabel" value="Sorteringsordning"/>
+  <translation key="TaskStatus.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="QuickTextUsage.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="QuickTextUsage.Id" type="SfFieldLabel" value="Id for hurtig tekst-anvendelse"/>
+  <translation key="QuickTextUsage.Name" type="SfFieldLabel" value="Navn på hurtig tekst-anvendelse"/>
+</translations>

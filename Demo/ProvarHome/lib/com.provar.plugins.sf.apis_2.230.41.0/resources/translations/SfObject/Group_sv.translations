@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Group.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="Group.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="Group.DeveloperName" type="SfFieldLabel" value="Utvecklarnamn"/>
+  <translation key="Group.Email" type="SfFieldLabel" value="E-post"/>
+  <translation key="Group.Id" type="SfFieldLabel" value="Grupp-ID"/>
+  <translation key="Group.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="Group.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Group.Name" type="SfFieldLabel" value="Namn"/>
+  <translation key="Group.Owner" type="SfFieldLabel" value="Ägarens"/>
+  <translation key="Group.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+  <translation key="Group.Type" type="SfFieldLabel" value="Typ"/>
+</translations>

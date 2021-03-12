@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Account.AccountNumber" type="SfFieldLabel" value="Numéro du compte"/>
+  <translation key="Account.AccountSource" type="SfFieldLabel" value="Source du compte"/>
+  <translation key="Account.Description" type="SfFieldLabel" value="Description"/>
+  <translation key="Account.Id" type="SfFieldLabel" value="ID du compte"/>
+  <translation key="Account.IsPartner" type="SfFieldLabel" value="Compte partenaire"/>
+  <translation key="Account.Owner" type="SfFieldLabel" value="Propriétaire du compte"/>
+  <translation key="Account.Owner_Alias" type="SfFieldLabel" value="Alias du propriétaire du compte"/>
+  <translation key="Account.Rating" type="SfFieldLabel" value="Évaluation"/>
+  <translation key="Account.Phone" type="SfFieldLabel" value="Téléphone"/>
+  <translation key="Account.Parent" type="SfFieldLabel" value="Compte principal"/>
+  <translation key="Account.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Account.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Account.RecordType" type="SfFieldLabel" value="Type d'enregistrement du compte"/>
+  <translation key="Account.Site" type="SfFieldLabel" value="Site du compte"/>
+  <translation key="Account.Type" type="SfFieldLabel" value="Type du compte"/>
+  <translation key="Account.Name" type="SfFieldLabel" value="Nom du compte"/>
+  <translation key="*.*.Account Information" type="SfLayoutSectionLabel" value="Informations sur le compte"/>
+  <translation key="*.*.System Information" type="SfLayoutSectionLabel" value="Informations système"/>
+  <translation key="*.*.Adresse de facturation" type="SfLayoutSectionLabel" value="Adresse de facturation"/>
+</translations>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Expense.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Expense.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="Expense.ExpenseNumber" type="SfFieldLabel" value="Navn på udgift"/>
+  <translation key="Expense.ExpenseType" type="SfFieldLabel" value="Udgiftstype"/>
+  <translation key="Expense.Id" type="SfFieldLabel" value="Udgift-id"/>
+  <translation key="Expense.Owner" type="SfFieldLabel" value="Ejers navn"/>
+</translations>

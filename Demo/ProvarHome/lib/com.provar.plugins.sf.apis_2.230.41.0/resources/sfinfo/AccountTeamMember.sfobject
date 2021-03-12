@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sfObjectInfo name="AccountTeamMember" label="Account Team Member">
+    <standardActions>
+	    <sfActionLink n="add" t="Add" modes="AccountTeamMembers" newAction="true" lightningLabel="Add Team Member" lightningActionName="AddAccTeamMember"/>
+	    <sfActionLink n="AccountTeamMemberMultiAdd" t="Add Team Members" modes="AccountTeamMembers" />
+	    <sfActionLink n="addAccTeam" t="Add Default Team" modes="AccountTeamMembers" lightningActionName="AddAccountDefaultTeam"/>
+	    <sfActionLink n="showAccessButton" t="Display Access" modes="AccountTeamMembers"/>
+	    <sfActionLink n="delTeam" t="Delete All" modes="AccountTeamMembers"/>
+	    <sfActionLink n="edit" t="Edit" target="sf:ui:target?object=AccountTeamMember&amp;action=edit" modes="AccountTeamMembers" requiresRow="true" locator="td[contains(@class, 'actionColumn')]/a[contains(@href, 'salesteamedit.jsp')]"/>
+        <sfActionLink n="Delete" t="Delete" target="sf:ui:target?object=AccountTeamMember&amp;action=delete" requiresRow="true" modes="AccountTeamMembers" locator="td[contains(@class, 'actionColumn')]/a[contains(@href, 'deleteredirect.jsp') or contains(@href, 'teammemberconfirmdelete.jsp')]"/>
+        <sfActionLink n="RemoveAllMembers" t="Remove All Members" modes="AccountTeamMembers"/>
+        <sfActionLink n="DisplayAccountTeamEffectiveAccess" t="Team Member Access" modes="AccountTeamMembers"/>
+    </standardActions>
+</sfObjectInfo>

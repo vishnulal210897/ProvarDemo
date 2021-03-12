@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Solution.Id" type="SfFieldLabel" value="Lösnings-ID"/>
+  <translation key="Solution.SolutionNumber" type="SfFieldLabel" value="Lösningsnummer"/>
+  <translation key="Solution.SolutionTitle" type="SfFieldLabel" value="Lösningsrubrik"/>
+  <translation key="*.*.Solution Information" type="SfLayoutSectionLabel" value="Lösningsinformation"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ShiftStatus.Id" type="SfFieldLabel" value="ID valore stato turno"/>
+  <translation key="ShiftStatus.SortOrder" type="SfFieldLabel" value="Ordinamento"/>
+  <translation key="ShiftStatus.StatusCode" type="SfFieldLabel" value="Codice stato"/>
+</translations>

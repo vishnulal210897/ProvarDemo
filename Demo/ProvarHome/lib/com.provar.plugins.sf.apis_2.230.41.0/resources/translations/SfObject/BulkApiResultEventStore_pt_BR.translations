@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BulkApiResultEventStore.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="BulkApiResultEventStore.EventIdentifier" type="SfFieldLabel" value="Identificador de compromisso"/>
+  <translation key="BulkApiResultEventStore.Id" type="SfFieldLabel" value="ID de armazenamento de evento de resultado da API em massa"/>
+  <translation key="BulkApiResultEventStore.SourceIp" type="SfFieldLabel" value="IP de origem"/>
+</translations>

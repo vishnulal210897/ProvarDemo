@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Contact.AccountName" type="SfFieldLabel" value="Accountname"/>
+  <translation key="Contact.CurrencyIsoCode" type="SfFieldLabel" value="Kontaktwährung"/>
+  <translation key="Contact.Id" type="SfFieldLabel" value="Kontakt-ID"/>
+  <translation key="Contact.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="Contact.JigsawContactId" type="SfFieldLabel" value="Jigsaw-Kontakt-ID"/>
+  <translation key="Contact.LastCURequestDate" type="SfFieldLabel" value="Datum der letzten Kontaktpflegeanfrage"/>
+  <translation key="Contact.LastCUUpdateDate" type="SfFieldLabel" value="Speicherdatum der letzten Kontaktpflegeanfrage"/>
+  <translation key="Contact.Owner" type="SfFieldLabel" value="Kontaktinhaber"/>
+  <translation key="Contact.RecordType" type="SfFieldLabel" value="Kontakt-Datensatztyp"/>
+</translations>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceResourceCapacity.CapacityNumber" type="SfFieldLabel" value="Número de capacidad de recurso"/>
+  <translation key="ServiceResourceCapacity.Id" type="SfFieldLabel" value="Id. de capacidad de recurso"/>
+</translations>

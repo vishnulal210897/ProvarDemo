@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Attachment.ConnectionReceivedId" type="SfFieldLabel" value="Da conexão recebida"/>
+  <translation key="Attachment.ConnectionSentId" type="SfFieldLabel" value="Da conexão enviada"/>
+  <translation key="Attachment.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="Attachment.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="Attachment.Description" type="SfFieldLabel" value="Descrição"/>
+  <translation key="Attachment.Id" type="SfFieldLabel" value="ID do anexo"/>
+  <translation key="Attachment.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="Attachment.IsPrivate" type="SfFieldLabel" value="Particular"/>
+  <translation key="Attachment.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="Attachment.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="Attachment.Name" type="SfFieldLabel" value="Nome do arquivo"/>
+  <translation key="Attachment.Owner" type="SfFieldLabel" value="Do proprietário"/>
+  <translation key="Attachment.ParentId" type="SfFieldLabel" value="Pai"/>
+  <translation key="Attachment.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

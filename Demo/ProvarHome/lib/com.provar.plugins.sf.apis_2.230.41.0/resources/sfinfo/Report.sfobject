@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sfObjectInfo name="Report" label="Report">
+	<searchResultColumns>REPORT.NAME, REPORT.DESCRIPTION, REPORT.FOLDER, REPORT.CREATEDBY, REPORT.CREATEDON</searchResultColumns>
+	<fields>
+    	<sfFieldInfo createable="N" name="IsSubscribed" t="Subscribed" updateable="Y"/>
+    </fields>
+	<standardActions>
+    	<sfActionLink modes="Reports" n="edit" t="Edit" requiresRow="true"/>
+    	<sfActionLink modes="Reports" n="editSC" t="Edit (Salesforce Classic)" requiresRow="true"/>
+    	<sfActionLink modes="Reports" n="favorite" t="Favorite" requiresRow="true"/>
+    	<sfActionLink modes="Reports" n="delete" t="Delete" requiresRow="true"/>
+    	<sfActionLink modes="Reports" n="unfavorite" t="Unfavorite" requiresRow="true"/>
+    	<sfActionLink modes="Reports" n="move" t="Move" requiresRow="true"/>
+    	<sfActionLink modes="Reports" n="run" t="Run" requiresRow="true"/>
+    	<sfActionLink modes="Reports" n="subscribe" t="Subscribe" requiresRow="true"/>
+    	<sfActionLink modes="Reports" n="export" t="Export" requiresRow="true"/>
+    	<sfActionLink modes="Reports" n="openInQuip" t="Open in Quip" requiresRow="true"/>
+    	<sfActionLink modes="Reports" n="addToDashboard" t="Add to Dashboard" requiresRow="true"/>
+  	</standardActions>
+</sfObjectInfo>

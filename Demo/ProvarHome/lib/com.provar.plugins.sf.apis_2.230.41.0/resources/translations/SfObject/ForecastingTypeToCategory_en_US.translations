@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ForecastingTypeToCategory.Id" type="SfFieldLabel" value="Forecasting Type To Category Mapping ID"/>
+</translations>

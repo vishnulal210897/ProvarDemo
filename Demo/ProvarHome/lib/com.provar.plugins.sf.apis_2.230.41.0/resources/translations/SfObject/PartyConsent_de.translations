@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartyConsent.CaptureContactPointType" type="SfFieldLabel" value="Consent Captured Contact Point Type"/>
+  <translation key="PartyConsent.CaptureDate" type="SfFieldLabel" value="Consent Captured Date Time"/>
+  <translation key="PartyConsent.CaptureSource" type="SfFieldLabel" value="Consent Captured Source"/>
+  <translation key="PartyConsent.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="PartyConsent.DoubleConsentCaptureDate" type="SfFieldLabel" value="Double Consent Capture Date Time"/>
+  <translation key="PartyConsent.Id" type="SfFieldLabel" value="PartyConsent ID"/>
+  <translation key="PartyConsent.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="PartyConsent.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

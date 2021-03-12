@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TimeSheetEntry.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="TimeSheetEntry.DurationInMinutes" type="SfFieldLabel" value="Duration (In Minutes)"/>
+  <translation key="TimeSheetEntry.EndTime" type="SfFieldLabel" value="End Time"/>
+  <translation key="TimeSheetEntry.Id" type="SfFieldLabel" value="Time Sheet Entry ID"/>
+  <translation key="TimeSheetEntry.StartTime" type="SfFieldLabel" value="Start Time"/>
+  <translation key="TimeSheetEntry.Status" type="SfFieldLabel" value="Status"/>
+  <translation key="TimeSheetEntry.WorkOrderLineItemId" type="SfFieldLabel" value="Work Order Line Item"/>
+</translations>

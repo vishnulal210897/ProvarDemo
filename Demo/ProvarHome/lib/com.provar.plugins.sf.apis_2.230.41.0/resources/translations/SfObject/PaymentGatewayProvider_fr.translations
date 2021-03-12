@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentGatewayProvider.Comments" type="SfFieldLabel" value="Commentaires"/>
+  <translation key="PaymentGatewayProvider.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="PaymentGatewayProvider.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="PaymentGatewayProvider.Id" type="SfFieldLabel" value="ID de fournisseur de passerelle de paiement"/>
+  <translation key="PaymentGatewayProvider.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="PaymentGatewayProvider.Language" type="SfFieldLabel" value="Langue principale"/>
+  <translation key="PaymentGatewayProvider.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="PaymentGatewayProvider.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="PaymentGatewayProvider.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="PaymentGatewayProvider.MasterLabel" type="SfFieldLabel" value="Étiquette"/>
+  <translation key="PaymentGatewayProvider.NamespacePrefix" type="SfFieldLabel" value="Préfixe d'espace de noms"/>
+  <translation key="PaymentGatewayProvider.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

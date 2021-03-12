@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrgMetric.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="OrgMetric.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="OrgMetric.Id" type="SfFieldLabel" value="ID för orgmått"/>
+  <translation key="OrgMetric.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="OrgMetric.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="OrgMetric.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="OrgMetric.LatestOrgMetricScanSummaryId" type="SfFieldLabel" value="För sammanfattning av orgmåttskanning"/>
+  <translation key="OrgMetric.Name" type="SfFieldLabel" value="Orgmått"/>
+  <translation key="OrgMetric.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

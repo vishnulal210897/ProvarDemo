@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Shipment.Id" type="SfFieldLabel" value="Versand-ID"/>
+  <translation key="Shipment.Owner" type="SfFieldLabel" value="Inhabername"/>
+  <translation key="Shipment.Provider" type="SfFieldLabel" value="Versandanbieter"/>
+  <translation key="Shipment.ShipFromAddress" type="SfFieldLabel" value="Absenderadresse Adresse"/>
+  <translation key="Shipment.ShipFromCity" type="SfFieldLabel" value="Absenderadresse Stadt"/>
+  <translation key="Shipment.ShipFromCountry" type="SfFieldLabel" value="Absenderadresse Land"/>
+  <translation key="Shipment.ShipFromGeocodeAccuracy" type="SfFieldLabel" value="Absenderadresse Geocode-Genauigkeit"/>
+  <translation key="Shipment.ShipFromLatitude" type="SfFieldLabel" value="Absenderadresse Breitengrad"/>
+  <translation key="Shipment.ShipFromLongitude" type="SfFieldLabel" value="Absenderadresse Längengrad"/>
+  <translation key="Shipment.ShipFromPostalCode" type="SfFieldLabel" value="Absenderadresse Postleitzahl"/>
+  <translation key="Shipment.ShipFromState" type="SfFieldLabel" value="Absenderadresse Bundesland"/>
+  <translation key="Shipment.ShipFromStreet" type="SfFieldLabel" value="Absenderadresse Straße"/>
+  <translation key="Shipment.ShipToAddress" type="SfFieldLabel" value="Versandanschrift Adresse"/>
+  <translation key="Shipment.ShipToCity" type="SfFieldLabel" value="Versandanschrift Stadt"/>
+  <translation key="Shipment.ShipToCountry" type="SfFieldLabel" value="Versandanschrift Land"/>
+  <translation key="Shipment.ShipToGeocodeAccuracy" type="SfFieldLabel" value="Versandanschrift Geocode-Genauigkeit"/>
+  <translation key="Shipment.ShipToLatitude" type="SfFieldLabel" value="Versandanschrift Breitengrad"/>
+  <translation key="Shipment.ShipToLongitude" type="SfFieldLabel" value="Versandanschrift Längengrad"/>
+  <translation key="Shipment.ShipToName" type="SfFieldLabel" value="Versandanschrift Name"/>
+  <translation key="Shipment.ShipToPostalCode" type="SfFieldLabel" value="Versandanschrift Postleitzahl"/>
+  <translation key="Shipment.ShipToState" type="SfFieldLabel" value="Versandanschrift Bundesland"/>
+  <translation key="Shipment.ShipToStreet" type="SfFieldLabel" value="Versandanschrift Straße"/>
+  <translation key="Shipment.ShipmentNumber" type="SfFieldLabel" value="Versandnummer"/>
+</translations>

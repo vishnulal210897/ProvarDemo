@@ -1,0 +1,4 @@
+com.provar.testrunner.support.DummyFeatureProvider
+com.provar.testrunner.support.PieChartTestPlanFeatureProvider
+com.provar.testrunner.support.EmailTestPlanFeatureProvider
+com.provar.testrunner.support.PdfTestPlanFeatureProvider

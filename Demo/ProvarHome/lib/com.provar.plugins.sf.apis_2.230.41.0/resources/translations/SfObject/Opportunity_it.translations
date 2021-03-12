@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Opportunity.CampaignId" type="SfFieldLabel" value="Fonte campagna principale"/>
+  <translation key="Opportunity.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="Opportunity.ContractId" type="SfFieldLabel" value="{Contract}.{SfObject.Label}"/>
+  <translation key="Opportunity.Currency" type="SfFieldLabel" value="Valuta opportunità"/>
+  <translation key="Opportunity.Id" type="SfFieldLabel" value="ID opportunità"/>
+  <translation key="Opportunity.IsPrivate" type="SfFieldLabel" value="Privata"/>
+  <translation key="Opportunity.Name" type="SfFieldLabel" value="Nome opportunità"/>
+  <translation key="Opportunity.Owner" type="SfFieldLabel" value="Titolare opportunità"/>
+  <translation key="Opportunity.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Opportunity.PricebookId" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Opportunity.RecordType" type="SfFieldLabel" value="Tipo di record opportunità"/>
+</translations>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkBadgeDefinition.GivenBadgeCount" type="SfFieldLabel" value="Given Badge Count"/>
+  <translation key="WorkBadgeDefinition.Id" type="SfFieldLabel" value="Badge ID"/>
+  <translation key="WorkBadgeDefinition.ImageUrl" type="SfFieldLabel" value="Image URL"/>
+  <translation key="WorkBadgeDefinition.IsCompanyWide" type="SfFieldLabel" value="Company Badge"/>
+  <translation key="WorkBadgeDefinition.IsRewardBadge" type="SfFieldLabel" value="Reward Badge"/>
+  <translation key="WorkBadgeDefinition.Name" type="SfFieldLabel" value="Badge Name"/>
+  <translation key="WorkBadgeDefinition.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

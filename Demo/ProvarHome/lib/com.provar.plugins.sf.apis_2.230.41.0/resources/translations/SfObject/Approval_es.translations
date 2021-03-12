@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Approval.CreatedById" type="SfFieldLabel" value="Creado por"/>
+  <translation key="Approval.CreatedDate" type="SfFieldLabel" value="Fecha de creación"/>
+  <translation key="Approval.Id" type="SfFieldLabel" value="Id. de la aprobación"/>
+  <translation key="Approval.IsDeleted" type="SfFieldLabel" value="Eliminado"/>
+  <translation key="Approval.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="Approval.LastModifiedDate" type="SfFieldLabel" value="Fecha de la última modificación"/>
+  <translation key="Approval.Owner" type="SfFieldLabel" value="Lpropietario"/>
+  <translation key="Approval.ParentId" type="SfFieldLabel" value="Id. principal"/>
+  <translation key="Approval.Status" type="SfFieldLabel" value="Estado"/>
+  <translation key="Approval.SystemModstamp" type="SfFieldLabel" value="Modstamp del sistema"/>
+</translations>

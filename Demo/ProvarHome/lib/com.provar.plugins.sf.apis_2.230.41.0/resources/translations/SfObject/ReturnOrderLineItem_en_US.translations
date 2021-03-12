@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ReturnOrderLineItem.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="ReturnOrderLineItem.Id" type="SfFieldLabel" value="Return Order Line Item ID"/>
+  <translation key="ReturnOrderLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="ReturnOrderLineItem.ReturnOrderLineItemNumber" type="SfFieldLabel" value="Return Order Line Item Number"/>
+</translations>

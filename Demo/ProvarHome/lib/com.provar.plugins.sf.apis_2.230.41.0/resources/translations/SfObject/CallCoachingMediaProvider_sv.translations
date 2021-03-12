@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CallCoachingMediaProvider.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="CallCoachingMediaProvider.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="CallCoachingMediaProvider.Id" type="SfFieldLabel" value="CallCoachingMediaProvider ID"/>
+  <translation key="CallCoachingMediaProvider.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="CallCoachingMediaProvider.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="CallCoachingMediaProvider.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="CallCoachingMediaProvider.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

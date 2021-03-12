@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentGroup.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="PaymentGroup.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="PaymentGroup.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="PaymentGroup.Id" type="SfFieldLabel" value="ID de groupe de paiement"/>
+  <translation key="PaymentGroup.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="PaymentGroup.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="PaymentGroup.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="PaymentGroup.PaymentGroupNumber" type="SfFieldLabel" value="Numéro du groupe de paiement"/>
+  <translation key="PaymentGroup.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="PaymentGroup.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

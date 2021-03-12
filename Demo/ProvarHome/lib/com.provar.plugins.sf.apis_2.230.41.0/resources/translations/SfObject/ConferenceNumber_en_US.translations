@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ConferenceNumber.Id" type="SfFieldLabel" value="Conference Number ID"/>
+  <translation key="ConferenceNumber.Label" type="SfFieldLabel" value="Label"/>
+  <translation key="ConferenceNumber.Name" type="SfFieldLabel" value="Name"/>
+</translations>

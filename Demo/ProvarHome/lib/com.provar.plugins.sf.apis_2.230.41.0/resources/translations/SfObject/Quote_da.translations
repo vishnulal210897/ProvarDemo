@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Quote.BillingAddress" type="SfFieldLabel" value="Fakturer til"/>
+  <translation key="Quote.BillingGeocodeAccuracy" type="SfFieldLabel" value="Fakturer til-geokodenøjagtighed"/>
+  <translation key="Quote.BillingStateCode" type="SfFieldLabel" value="Faktureringsstats-/provinskode"/>
+  <translation key="Quote.ContactId" type="SfFieldLabel" value="Kontaktnavn"/>
+  <translation key="Quote.ContractId" type="SfFieldLabel" value="{Contract}.{SfObject.Label}"/>
+  <translation key="Quote.CurrencyIsoCode" type="SfFieldLabel" value="Tilbudsvaluta"/>
+  <translation key="Quote.Id" type="SfFieldLabel" value="Tilbuds-id"/>
+  <translation key="Quote.Name" type="SfFieldLabel" value="Tilbudsnavn"/>
+  <translation key="Quote.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Quote.QuoteNumber" type="SfFieldLabel" value="Tilbudsnummer"/>
+  <translation key="Quote.QuoteToAddress" type="SfFieldLabel" value="Tilbud til"/>
+  <translation key="Quote.QuoteToCity" type="SfFieldLabel" value="Tilbudsby"/>
+  <translation key="Quote.QuoteToCountry" type="SfFieldLabel" value="Tilbudsland"/>
+  <translation key="Quote.QuoteToCountryCode" type="SfFieldLabel" value="Tilbudslandekode"/>
+  <translation key="Quote.QuoteToGeocodeAccuracy" type="SfFieldLabel" value="Tilbud til-geokodenøjagtighed"/>
+  <translation key="Quote.QuoteToLatitude" type="SfFieldLabel" value="Tilbudsbreddegrad"/>
+  <translation key="Quote.QuoteToLongitude" type="SfFieldLabel" value="Tilbudslængdegrad"/>
+  <translation key="Quote.QuoteToName" type="SfFieldLabel" value="Tilbudsnavn"/>
+  <translation key="Quote.QuoteToPostalCode" type="SfFieldLabel" value="Tilbudspostnummer"/>
+  <translation key="Quote.QuoteToState" type="SfFieldLabel" value="Tilbudsstat/-provins"/>
+  <translation key="Quote.QuoteToStateCode" type="SfFieldLabel" value="Kode for tilbudsstat/-provins"/>
+  <translation key="Quote.QuoteToStreet" type="SfFieldLabel" value="Tilbudsgade"/>
+  <translation key="Quote.ShippingAddress" type="SfFieldLabel" value="Lever til"/>
+  <translation key="Quote.ShippingCity" type="SfFieldLabel" value="Leveringsby"/>
+  <translation key="Quote.ShippingCountry" type="SfFieldLabel" value="Leveringsland"/>
+  <translation key="Quote.ShippingCountryCode" type="SfFieldLabel" value="Leveringslandekode"/>
+  <translation key="Quote.ShippingGeocodeAccuracy" type="SfFieldLabel" value="Send til-geokodenøjagtighed"/>
+  <translation key="Quote.ShippingLatitude" type="SfFieldLabel" value="Leveringsbreddegrad"/>
+  <translation key="Quote.ShippingLongitude" type="SfFieldLabel" value="Leveringslængdegrad"/>
+  <translation key="Quote.ShippingState" type="SfFieldLabel" value="Leveringsstat/-provins"/>
+  <translation key="Quote.ShippingStateCode" type="SfFieldLabel" value="Kode for leveringsland/-provins"/>
+  <translation key="Quote.ShippingStreet" type="SfFieldLabel" value="Leveringsgade"/>
+  <translation key="Quote.ShippingZip" type="SfFieldLabel" value="Leveringspostnummer"/>
+</translations>

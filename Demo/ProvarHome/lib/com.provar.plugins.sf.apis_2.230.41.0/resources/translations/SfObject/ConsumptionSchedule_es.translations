@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ConsumptionSchedule.Id" type="SfFieldLabel" value="Id. de Programación de consumo"/>
+  <translation key="ConsumptionSchedule.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="ConsumptionSchedule.Name" type="SfFieldLabel" value="Nombre de programación de consumo"/>
+  <translation key="ConsumptionSchedule.Owner" type="SfFieldLabel" value="Nombre del propietario"/>
+</translations>

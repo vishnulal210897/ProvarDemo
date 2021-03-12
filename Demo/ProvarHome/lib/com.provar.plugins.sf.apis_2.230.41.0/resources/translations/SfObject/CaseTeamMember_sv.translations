@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseTeamMember.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="CaseTeamMember.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="CaseTeamMember.Id" type="SfFieldLabel" value="Teammedlems-ID"/>
+  <translation key="CaseTeamMember.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="CaseTeamMember.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="CaseTeamMember.MemberId" type="SfFieldLabel" value="Medlems"/>
+  <translation key="CaseTeamMember.ParentId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="CaseTeamMember.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CampaignMemberStatus.CampaignId" type="SfFieldLabel" value="{Campaign}.{SfObject.Label}"/>
+  <translation key="CampaignMemberStatus.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="CampaignMemberStatus.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="CampaignMemberStatus.HasResponded" type="SfFieldLabel" value="Besvarad"/>
+  <translation key="CampaignMemberStatus.Id" type="SfFieldLabel" value="Status-ID för kampanjmedlem"/>
+  <translation key="CampaignMemberStatus.IsDefault" type="SfFieldLabel" value="Är standard"/>
+  <translation key="CampaignMemberStatus.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="CampaignMemberStatus.Label" type="SfFieldLabel" value="Aktiv medlemsstatus"/>
+  <translation key="CampaignMemberStatus.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="CampaignMemberStatus.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="CampaignMemberStatus.SortOrder" type="SfFieldLabel" value="Sorteringsordning"/>
+  <translation key="CampaignMemberStatus.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

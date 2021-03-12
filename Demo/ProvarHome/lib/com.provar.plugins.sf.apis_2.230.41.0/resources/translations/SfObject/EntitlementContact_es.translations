@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EntitlementContact.CurrencyIsoCode" type="SfFieldLabel" value="Divisa"/>
+  <translation key="EntitlementContact.Id" type="SfFieldLabel" value="ID de contacto de asignación"/>
+  <translation key="EntitlementContact.Name" type="SfFieldLabel" value="{EntitlementContact}.{SfObject.Label}"/>
+</translations>

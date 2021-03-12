@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EmailTemplate.ApiVersion" type="SfFieldLabel" value="Version API"/>
+  <translation key="EmailTemplate.Body" type="SfFieldLabel" value="Corps du message"/>
+  <translation key="EmailTemplate.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="EmailTemplate.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="EmailTemplate.Description" type="SfFieldLabel" value="Description"/>
+  <translation key="EmailTemplate.DeveloperName" type="SfFieldLabel" value="Nom unique du modèle"/>
+  <translation key="EmailTemplate.Id" type="SfFieldLabel" value="ID du modèle de message"/>
+  <translation key="EmailTemplate.IsActive" type="SfFieldLabel" value="Disponible"/>
+  <translation key="EmailTemplate.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="EmailTemplate.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="EmailTemplate.Name" type="SfFieldLabel" value="Nom du modèle de message"/>
+  <translation key="EmailTemplate.NamespacePrefix" type="SfFieldLabel" value="Préfixe d'espace de noms"/>
+  <translation key="EmailTemplate.Owner" type="SfFieldLabel" value="Du propriétaire"/>
+  <translation key="EmailTemplate.Subject" type="SfFieldLabel" value="Objet"/>
+  <translation key="EmailTemplate.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="EmailTemplate.TimesUsed" type="SfFieldLabel" value="Nombre d'utilisations"/>
+</translations>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrderLineItemStatus.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="WorkOrderLineItemStatus.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="WorkOrderLineItemStatus.Id" type="SfFieldLabel" value="ID för statusvärde för arbetsorderradartikel"/>
+  <translation key="WorkOrderLineItemStatus.IsDefault" type="SfFieldLabel" value="Är standard"/>
+  <translation key="WorkOrderLineItemStatus.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="WorkOrderLineItemStatus.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="WorkOrderLineItemStatus.SortOrder" type="SfFieldLabel" value="Sorteringsordning"/>
+  <translation key="WorkOrderLineItemStatus.StatusCode" type="SfFieldLabel" value="Statuskod"/>
+  <translation key="WorkOrderLineItemStatus.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

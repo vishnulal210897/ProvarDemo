@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.provar.tycho</groupId>
+    <artifactId>com.provar.tycho.configuration</artifactId>
+    <version>1.221.1</version>
+    <relativePath>../releng/com.provar.tycho.configuration</relativePath>
+  </parent>
+
+  <groupId>com.provar.testrunner</groupId>
+  <artifactId>com.provar.testrunner</artifactId>
+  <version>2.230.6.0</version>
+  <packaging>eclipse-plugin</packaging>
+
+  <name>Provar Test Runner</name>
+
+  <build>
+    <resources>
+      <resource>
+        <directory>src/main/resources</directory>
+        <filtering>true</filtering>
+      </resource>
+    </resources>
+  </build>
+</project>

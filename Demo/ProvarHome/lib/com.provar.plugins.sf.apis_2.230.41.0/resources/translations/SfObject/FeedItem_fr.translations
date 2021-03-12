@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FeedItem.Id" type="SfFieldLabel" value="ID d'élément de fil"/>
+  <translation key="FeedItem.Type" type="SfFieldLabel" value="Type d'élément de fil"/>
+</translations>

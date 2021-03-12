@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DandBCompany.Address" type="SfFieldLabel" value="Primær adresse"/>
+  <translation key="DandBCompany.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="DandBCompany.Description" type="SfFieldLabel" value="Firmabeskrivelse"/>
+  <translation key="DandBCompany.Fax" type="SfFieldLabel" value="Faxnummer"/>
+  <translation key="DandBCompany.Id" type="SfFieldLabel" value="Id for D&amp;B-firma"/>
+  <translation key="DandBCompany.MailingState" type="SfFieldLabel" value="Forsendelsesstat"/>
+  <translation key="DandBCompany.MailingStateCode" type="SfFieldLabel" value="Forsendelsesstatskode"/>
+  <translation key="DandBCompany.MailingStreet" type="SfFieldLabel" value="Forsendelsesgade:"/>
+  <translation key="DandBCompany.Name" type="SfFieldLabel" value="Primært forretningsnavn"/>
+  <translation key="DandBCompany.Phone" type="SfFieldLabel" value="Telefonnummer"/>
+  <translation key="DandBCompany.State" type="SfFieldLabel" value="Stat"/>
+  <translation key="DandBCompany.StateCode" type="SfFieldLabel" value="Statskode"/>
+  <translation key="DandBCompany.Street" type="SfFieldLabel" value="Gadenavn"/>
+</translations>

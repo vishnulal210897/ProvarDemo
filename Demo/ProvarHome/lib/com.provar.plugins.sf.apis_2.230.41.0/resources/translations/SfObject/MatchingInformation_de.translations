@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MatchingInformation.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="MatchingInformation.CreatedDate" type="SfFieldLabel" value="Erstelldatum"/>
+  <translation key="MatchingInformation.EmailAddress" type="SfFieldLabel" value="Email Address"/>
+  <translation key="MatchingInformation.Id" type="SfFieldLabel" value="Matching Information ID"/>
+  <translation key="MatchingInformation.IsDeleted" type="SfFieldLabel" value="Gelöscht"/>
+  <translation key="MatchingInformation.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="MatchingInformation.LastModifiedDate" type="SfFieldLabel" value="Zuletzt geändert am"/>
+  <translation key="MatchingInformation.Name" type="SfFieldLabel" value="Name"/>
+</translations>

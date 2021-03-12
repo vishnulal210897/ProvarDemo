@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.provar.core.content
+Require-Bundle: com.provar.core.model.base;bundle-version="[2.205.0,3.
+ 0.0)",com.provar.core.model.ui;bundle-version="[2.205.0,3.0.0)",com.p
+ rovar.core.testapi;bundle-version="[2.205.0,3.0.0)",com.provar.core.s
+ upport;bundle-version="[2.205.0,3.0.0)",com.provar.core.lib.apache.ti
+ ka;bundle-version="1.13.0",org.junit
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: PROVAR
+Import-Package: javax.crypto,javax.crypto.spec,javax.imageio,javax.xml
+ .namespace,javax.xml.parsers,javax.xml.stream,javax.xml.transform,org
+ .w3c.dom,org.xml.sax,org.xml.sax.ext,org.xml.sax.helpers,javax.xml.st
+ ream.events
+Export-Package: com.provar.core.content,com.provar.core.content.api
+Bundle-Name: com.provar.core.content
+Bundle-Version: 2.221.0.0
+Bundle-ClassPath: .
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.0
+Eclipse-BundleShape: dir
+

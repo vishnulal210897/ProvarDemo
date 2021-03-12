@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SessionHijackingEventStore.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="SessionHijackingEventStore.Id" type="SfFieldLabel" value="ID de magasin d'événements de piratage de session"/>
+  <translation key="SessionHijackingEventStore.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="SessionHijackingEventStore.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="SessionHijackingEventStore.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="SessionHijackingEventStore.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

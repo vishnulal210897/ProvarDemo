@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="*.AboutMe" type="SfFieldLabel" value="Om mig"/>
+  <translation key="*.AbsenceNumber" type="SfFieldLabel" value="Frånvaronummer"/>
+  <translation key="*.AcceptanceLabel" type="SfFieldLabel" value="Etikett för accepterande"/>
+  <translation key="*.AccountId" type="SfFieldLabel" value="{Account}.{Name}"/>
+  <translation key="*.ActionLinkGroupTemplateId" type="SfFieldLabel" value="Åtgärdslänkgruppmall-ID"/>
+  <translation key="*.ActionReference" type="SfFieldLabel" value="Åtgärd"/>
+  <translation key="*.ActionUrl" type="SfFieldLabel" value="Åtgärds-URL"/>
+  <translation key="*.ActivatedById" type="SfFieldLabel" value="Aktiverad av"/>
+  <translation key="*.ActivatedDate" type="SfFieldLabel" value="Aktiveringsdatum"/>
+  <translation key="*.ActiveContacts" type="SfFieldLabel" value="Aktiva kontakter"/>
+  <translation key="*.ActiveFrom" type="SfFieldLabel" value="Aktiv från"/>
+  <translation key="*.ActiveTo" type="SfFieldLabel" value="Aktiv till"/>
+  <translation key="*.Activity" type="SfFieldLabel" value="Aktivitet"/>
+  <translation key="*.ActivityDate" type="SfFieldLabel" value="Endast förfallodatum"/>
+  <translation key="*.ActivityDateTime" type="SfFieldLabel" value="Tid på förfallodatum"/>
+  <translation key="*.ActivityId" type="SfFieldLabel" value="Aktivitets-ID"/>
+  <translation key="*.ActualDuration" type="SfFieldLabel" value="Faktisk varaktighet (minuter)"/>
+  <translation key="*.ActualEndTime" type="SfFieldLabel" value="Faktiskt slut"/>
+  <translation key="*.ActualStartTime" type="SfFieldLabel" value="Faktisk start"/>
+  <translation key="*.ActualTravelTime" type="SfFieldLabel" value="Faktisk restid (minuter)"/>
+  <translation key="*.AdditionalAddress" type="SfFieldLabel" value="Extra till"/>
+  <translation key="*.AdditionalCity" type="SfFieldLabel" value="Extra till stad"/>
+  <translation key="*.AdditionalCountry" type="SfFieldLabel" value="Extra till land"/>
+  <translation key="*.AdditionalGeocodeAccuracy" type="SfFieldLabel" value="Geokodningsprecision för ytterligare"/>
+  <translation key="*.AdditionalLatitude" type="SfFieldLabel" value="Extra till breddgrad"/>
+  <translation key="*.AdditionalLongitude" type="SfFieldLabel" value="Extra till längdgrad"/>
+  <translation key="*.AdditionalName" type="SfFieldLabel" value="Extra till namn"/>
+  <translation key="*.AdditionalPostalCode" type="SfFieldLabel" value="Extra till postnummer"/>
+  <translation key="*.AdditionalState" type="SfFieldLabel" value="Extra till stat/provins"/>
+  <translation key="*.AdditionalStreet" type="SfFieldLabel" value="Extra till gata"/>
+  <translation key="*.Address" type="SfFieldLabel" value="Adress"/>
+  <translation key="*.Alias" type="SfFieldLabel" value="Alias"/>
+  <translation key="*.AllocationId" type="SfFieldLabel" value="ID för partnerfinansieringsallokering"/>
+  <translation key="*.Amount" type="SfFieldLabel" value="Belopp"/>
+  <translation key="*.AnnouncementId" type="SfFieldLabel" value="Meddelande-ID"/>
+  <translation key="*.AnnualRevenue" type="SfFieldLabel" value="Årlig intäkt"/>
+  <translation key="*.ApiVersion" type="SfFieldLabel" value="API-version"/>
+  <translation key="*.AppExtensionLabel" type="SfFieldLabel" value="Etikett"/>
+  <translation key="*.AppExtensionName" type="SfFieldLabel" value="Namn"/>
+  <translation key="*.AppMenuItemId" type="SfFieldLabel" value="ID AppMenyalternativ"/>
+  <translation key="*.AppName" type="SfFieldLabel" value="Programnamn"/>
+  <translation key="*.AppointmentNumber" type="SfFieldLabel" value="Bokningsnummer"/>
+  <translation key="*.ApprovalStatus" type="SfFieldLabel" value="Godkännandestatus"/>
+  <translation key="*.ArchivedById" type="SfFieldLabel" value="Användar-ID"/>
+  <translation key="*.ArchivedDate" type="SfFieldLabel" value="Arkiverad den"/>
+  <translation key="*.ArrivalWindowEndTime" type="SfFieldLabel" value="Slut på ankomstfönster"/>
+  <translation key="*.ArrivalWindowStartTime" type="SfFieldLabel" value="Början på ankomstfönster"/>
+  <translation key="*.AssetId" type="SfFieldLabel" value="ID för tillgång"/>
+  <translation key="*.AssistantName" type="SfFieldLabel" value="Assistent"/>
+  <translation key="*.AssistantPhone" type="SfFieldLabel" value="Ass. tel.nr"/>
+  <translation key="*.AssociatedLocationNumber" type="SfFieldLabel" value="Associerat platsnamn"/>
+  <translation key="*.AttachmentBody" type="SfFieldLabel" value="Bifogade filens text"/>
+  <translation key="*.AttachmentContentType" type="SfFieldLabel" value="Bifogade filens innehållstyp"/>
+  <translation key="*.AttachmentLength" type="SfFieldLabel" value="Bifogade filens längd"/>
+  <translation key="*.AttachmentName" type="SfFieldLabel" value="Namn på bifogad fil"/>
+  <translation key="*.AuthSessionId" type="SfFieldLabel" value="ID aukt. session"/>
+  <translation key="*.AvailableQuantity" type="SfFieldLabel" value="Tillgänglig kvantitet"/>
+  <translation key="*.BackgroundDirection" type="SfFieldLabel" value="Riktning för bakgrundstoning"/>
+  <translation key="*.BackgroundEnd" type="SfFieldLabel" value="Slutfärg"/>
+  <translation key="*.BackgroundStart" type="SfFieldLabel" value="Startfärg"/>
+  <translation key="*.BannerPhotoUrl" type="SfFieldLabel" value="Banderollfoto-URL"/>
+  <translation key="*.BccAddress" type="SfFieldLabel" value="Adress för hemlig kopia"/>
+  <translation key="*.BestCommentId" type="SfFieldLabel" value="ID bästa kommentar"/>
+  <translation key="*.BgGeoLocationAccuracy" type="SfFieldLabel" value="Geoplatsprecision (Bakgrundsläge)"/>
+  <translation key="*.BgGeoLocationMinUpdateFreqMins" type="SfFieldLabel" value="Uppdateringsfrekvens för geoplats i minuter (Bakgrundsläge)"/>
+  <translation key="*.BillToContactId" type="SfFieldLabel" value="Faktureringskontakt-ID"/>
+  <translation key="*.BillingAddress" type="SfFieldLabel" value="Faktureringsadress"/>
+  <translation key="*.BillingCity" type="SfFieldLabel" value="Faktureringsort"/>
+  <translation key="*.BillingCountry" type="SfFieldLabel" value="Faktureringsland"/>
+  <translation key="*.BillingGeocodeAccuracy" type="SfFieldLabel" value="Billing Geocode Accuracy"/>
+  <translation key="*.BillingLatitude" type="SfFieldLabel" value="Faktureringsbreddgrad"/>
+  <translation key="*.BillingLongitude" type="SfFieldLabel" value="Faktureringslängdgrad"/>
+  <translation key="*.BillingName" type="SfFieldLabel" value="Fakturera till namn"/>
+  <translation key="*.BillingPostalCode" type="SfFieldLabel" value="Faktureringspostnummer"/>
+  <translation key="*.BillingZip" type="SfFieldLabel" value="Faktureringspostnummer"/>
+  <translation key="*.BillingState" type="SfFieldLabel" value="Faktureringslän"/>
+  <translation key="*.BillingStreet" type="SfFieldLabel" value="Faktureringsgatuadress"/>
+  <translation key="*.Birthdate" type="SfFieldLabel" value="Födelsedag"/>
+  <translation key="*.Body" type="SfFieldLabel" value="E-postmeddelandets brödtext"/>
+  <translation key="*.BrandInvertedColor" type="SfFieldLabel" value="Inverterad varumärkesfärg"/>
+  <translation key="*.BrandTemplateId" type="SfFieldLabel" value="Brevhuvuds-ID"/>
+  <translation key="*.BudgetId" type="SfFieldLabel" value="ID för marknadsföringsbudget för partner"/>
+  <translation key="*.BusinessHoursId" type="SfFieldLabel" value="ID för öppettider"/>
+  <translation key="*.CallCenterId" type="SfFieldLabel" value="ID för call center"/>
+  <translation key="*.CallDisposition" type="SfFieldLabel" value="Samtalsresultat"/>
+  <translation key="*.CallDurationInSeconds" type="SfFieldLabel" value="Samtalsvaraktighet"/>
+  <translation key="*.CallObject" type="SfFieldLabel" value="Identifiering av samtalsobjekt"/>
+  <translation key="*.CallType" type="SfFieldLabel" value="Samtalstyp"/>
+  <translation key="*.CampaignId" type="SfFieldLabel" value="Kampanj-ID"/>
+  <translation key="*.CampaignImageId" type="SfFieldLabel" value="ContentDocument ID"/>
+  <translation key="*.CampaignMemberRecordTypeId" type="SfFieldLabel" value="Posttyps-ID"/>
+  <translation key="*.CanCreateQuoteLineItems" type="SfFieldLabel" value="CanCreateQuoteLineItems"/>
+  <translation key="*.CanHaveGuests" type="SfFieldLabel" value="Tillåt kunder"/>
+  <translation key="*.CapacityInHours" type="SfFieldLabel" value="Timmar per tidsperiod"/>
+  <translation key="*.CapacityInWorkItems" type="SfFieldLabel" value="Arbetsobjekt per tidsperiod"/>
+  <translation key="*.CapturedAngle" type="SfFieldLabel" value="Insamlad vinkel"/>
+  <translation key="*.CaseId" type="SfFieldLabel" value="Kundcase-ID"/>
+  <translation key="*.CasesId" type="SfFieldLabel" value="Kundcase-ID"/>
+  <translation key="*.Categories" type="SfFieldLabel" value="Kategorier"/>
+  <translation key="*.Category" type="SfFieldLabel" value="Kategori"/>
+  <translation key="*.CcAddress" type="SfFieldLabel" value="Adress för kopia"/>
+  <translation key="*.Channel" type="SfFieldLabel" value="Kanal"/>
+  <translation key="*.ChannelPartnerId" type="SfFieldLabel" value="Konto-ID"/>
+  <translation key="*.ChannelProgramLevelName" type="SfFieldLabel" value="Kanalprogramnivånamn"/>
+  <translation key="*.ChannelProgramName" type="SfFieldLabel" value="Kanalprogramnamn"/>
+  <translation key="*.ChartTheme" type="SfFieldLabel" value="Diagrambakgrund"/>
+  <translation key="*.Checksum" type="SfFieldLabel" value="Checksum"/>
+  <translation key="*.City" type="SfFieldLabel" value="Ort"/>
+  <translation key="*.CleanStatus" type="SfFieldLabel" value="Rensa status"/>
+  <translation key="*.CloseDate" type="SfFieldLabel" value="Avslutsdatum"/>
+  <translation key="*.ClosedDate" type="SfFieldLabel" value="Avslutades, datum"/>
+  <translation key="*.CollaborationGroupId" type="SfFieldLabel" value="Samarbetsgrupp-ID"/>
+  <translation key="*.CollaborationType" type="SfFieldLabel" value="Åtkomsttyp"/>
+  <translation key="*.ColorPalette" type="SfFieldLabel" value="Färgpalett"/>
+  <translation key="*.CommentBody" type="SfFieldLabel" value="Brödtext"/>
+  <translation key="*.CommentCount" type="SfFieldLabel" value="Kommentarräkning"/>
+  <translation key="*.Comments" type="SfFieldLabel" value="Interna kommentarer"/>
+  <translation key="*.CommunityId" type="SfFieldLabel" value="Zon-ID"/>
+  <translation key="*.CommunityNickname" type="SfFieldLabel" value="Alias"/>
+  <translation key="*.Company" type="SfFieldLabel" value="Företag"/>
+  <translation key="*.CompanyAuthorizedById" type="SfFieldLabel" value="Företag auktoriserat av ID"/>
+  <translation key="*.CompanyAuthorizedDate" type="SfFieldLabel" value="Företagsauktoriseringsdatum"/>
+  <translation key="*.CompanyCurrencyIsoCode" type="SfFieldLabel" value="Lokal valuta ISO-kod"/>
+  <translation key="*.CompanyDunsNumber" type="SfFieldLabel" value="Företagets D-U-N-S-nummer"/>
+  <translation key="*.CompanyName" type="SfFieldLabel" value="Företagsnamn"/>
+  <translation key="*.CompanyOrAccount" type="SfFieldLabel" value="Företag (konto)"/>
+  <translation key="*.CompanySignedDate" type="SfFieldLabel" value="Företagssignaturdatum"/>
+  <translation key="*.CompanySignedId" type="SfFieldLabel" value="Företagssignatur av-ID"/>
+  <translation key="*.CompletedDateTime" type="SfFieldLabel" value="Slutförandedatum"/>
+  <translation key="*.ConnectedAppId" type="SfFieldLabel" value="Ansluten app-ID"/>
+  <translation key="*.ConstructionEndDate" type="SfFieldLabel" value="Slutdatum för bygge"/>
+  <translation key="*.ConstructionStartDate" type="SfFieldLabel" value="Startdatum för bygge"/>
+  <translation key="*.ContactEmail" type="SfFieldLabel" value="Kontaktens e-postadress"/>
+  <translation key="*.ContactFax" type="SfFieldLabel" value="Kontakt, fax"/>
+  <translation key="*.ContactId" type="SfFieldLabel" value="{Contact}.{FullName}"/>
+  <translation key="*.ContactMobile" type="SfFieldLabel" value="Mobilnummer"/>
+  <translation key="*.ContactPhone" type="SfFieldLabel" value="Kontaktens telefonnummer"/>
+  <translation key="*.ContentAssetId" type="SfFieldLabel" value="ID för tillgångsfil"/>
+  <translation key="*.ContentBodyId" type="SfFieldLabel" value="ID för innehållsbrödtext"/>
+  <translation key="*.ContentDocumentId" type="SfFieldLabel" value="Content-dokument-ID"/>
+  <translation key="*.ContentLocation" type="SfFieldLabel" value="Innehållsplats"/>
+  <translation key="*.ContentModifiedById" type="SfFieldLabel" value="Användar-ID"/>
+  <translation key="*.ContentModifiedDate" type="SfFieldLabel" value="Ändringsdatum för innehåll"/>
+  <translation key="*.ContentSize" type="SfFieldLabel" value="Storlek"/>
+  <translation key="*.ContentUrl" type="SfFieldLabel" value="Innehålls-URL"/>
+  <translation key="*.ContractId" type="SfFieldLabel" value="Kontrakt-ID"/>
+  <translation key="*.ContrastInvertedColor" type="SfFieldLabel" value="Inverterad kontrastfärg"/>
+  <translation key="*.ContrastPrimaryColor" type="SfFieldLabel" value="Huvudsaklig kontrastfärg"/>
+  <translation key="*.ContrastQuaternaryColor" type="SfFieldLabel" value="Fjärde kontrastfärg"/>
+  <translation key="*.ContrastQuinaryColor" type="SfFieldLabel" value="Femte kontrastfärg"/>
+  <translation key="*.ContrastSecondaryColor" type="SfFieldLabel" value="Sekundär kontrastfärg"/>
+  <translation key="*.ContrastTertiaryColor" type="SfFieldLabel" value="Tredje kontrastfärg"/>
+  <translation key="*.ConvertedAccountId" type="SfFieldLabel" value="Konverterad konto-id"/>
+  <translation key="*.ConvertedContactId" type="SfFieldLabel" value="Konverterad kontakt-id"/>
+  <translation key="*.ConvertedDate" type="SfFieldLabel" value="Konverteringsdatum"/>
+  <translation key="*.ConvertedOpportunityId" type="SfFieldLabel" value="Konverterad säljprojekts-id"/>
+  <translation key="*.Country" type="SfFieldLabel" value="Land"/>
+  <translation key="*.CountryAccessCode" type="SfFieldLabel" value="Internationellt landsnummer"/>
+  <translation key="*.CountryCode" type="SfFieldLabel" value="Land/område"/>
+  <translation key="*.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="*.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="*.CreatorFullPhotoUrl" type="SfFieldLabel" value="URL till skaparens profilbild"/>
+  <translation key="*.CreatorName" type="SfFieldLabel" value="Skaparens namn"/>
+  <translation key="*.CreatorSmallPhotoUrl" type="SfFieldLabel" value="URL till skaparens miniatyrbild"/>
+  <translation key="*.CrewSize" type="SfFieldLabel" value="Personalstyrka"/>
+  <translation key="*.CurrencyCode" type="SfFieldLabel" value="Lokal valutakod"/>
+  <translation key="*.CurrencyIsoCode" type="SfFieldLabel" value="Valutans ISO-kod"/>
+  <translation key="*.CurrentElement" type="SfFieldLabel" value="Current Element"/>
+  <translation key="*.CustomPermissionId" type="SfFieldLabel" value="Egen behörighet-ID"/>
+  <translation key="*.CustomerAuthorizedById" type="SfFieldLabel" value="Kund auktoriserad av ID"/>
+  <translation key="*.CustomerAuthorizedDate" type="SfFieldLabel" value="Kundauktoriseringsdatum"/>
+  <translation key="*.CustomerSignedDate" type="SfFieldLabel" value="Kundsignaturdatum"/>
+  <translation key="*.CustomerSignedId" type="SfFieldLabel" value="Kundsignatur av-ID"/>
+  <translation key="*.CustomerSignedTitle" type="SfFieldLabel" value="Kundsignaturbefattning"/>
+  <translation key="*.DandbCompanyId" type="SfFieldLabel" value="D&amp;B-företagets ID"/>
+  <translation key="*.DashboardResultRefreshedDate" type="SfFieldLabel" value="Senaste uppdatering för denna användare"/>
+  <translation key="*.DashboardResultRunningUser" type="SfFieldLabel" value="Körs som"/>
+  <translation key="*.DayOfWeek" type="SfFieldLabel" value="Veckodag"/>
+  <translation key="*.DefaultCurrencyIsoCode" type="SfFieldLabel" value="Standard för valutans ISO-kod"/>
+  <translation key="*.DefaultGroupNotificationFrequency" type="SfFieldLabel" value="Standardfrekvens för meddelanden när du går med i grupper"/>
+  <translation key="*.DefaultListViewDeveloperName" type="SfFieldLabel" value="Utvecklarnamn för standardlistvy"/>
+  <translation key="*.DefaultRecordTypeId" type="SfFieldLabel" value="Posttyps-ID"/>
+  <translation key="*.DelegatedApproverId" type="SfFieldLabel" value="ID för delegerad godkännare"/>
+  <translation key="*.DeliveredToId" type="SfFieldLabel" value="ID för Levererad till"/>
+  <translation key="*.Department" type="SfFieldLabel" value="Avdelning"/>
+  <translation key="*.Description" type="SfFieldLabel" value="Beskrivning"/>
+  <translation key="*.DesiredOutcome" type="SfFieldLabel" value="Önskat resultat"/>
+  <translation key="*.DestinationLocationId" type="SfFieldLabel" value="ID för Destinationsplats"/>
+  <translation key="*.DeveloperName" type="SfFieldLabel" value="Utvecklarnamn"/>
+  <translation key="*.DigestFrequency" type="SfFieldLabel" value="Chatter e-postmarkerings frekvens"/>
+  <translation key="*.Discount" type="SfFieldLabel" value="Rabatt"/>
+  <translation key="*.DisplayUrl" type="SfFieldLabel" value="Visnings-URL"/>
+  <translation key="*.Division" type="SfFieldLabel" value="Avdelning"/>
+  <translation key="*.DoNotCall" type="SfFieldLabel" value="Kontakta inte"/>
+  <translation key="*.DoesAutoGenerateWorkOrders" type="SfFieldLabel" value="Skapa arbetsordrar automatiskt"/>
+  <translation key="*.DoesGenerateUponCompletion" type="SfFieldLabel" value="Skapa ny sats vid slutförande"/>
+  <translation key="*.DomesticUltimateBusinessName" type="SfFieldLabel" value="Inrikes ultimat affärsnamn"/>
+  <translation key="*.DomesticUltimateDunsNumber" type="SfFieldLabel" value="Inrikes ultimat D-U-N-S-nummer"/>
+  <translation key="*.DrivingDirections" type="SfFieldLabel" value="Färdbeskrivning"/>
+  <translation key="*.DueDate" type="SfFieldLabel" value="Förfallodatum"/>
+  <translation key="*.DunsNumber" type="SfFieldLabel" value="D-U-N-S-nummer"/>
+  <translation key="*.DuplicateRecordSetId" type="SfFieldLabel" value="Dubblett av postuppsättning-ID"/>
+  <translation key="*.DuplicateRuleId" type="SfFieldLabel" value="Dupliceringsregel ID"/>
+  <translation key="*.Duration" type="SfFieldLabel" value="Varaktighet"/>
+  <translation key="*.DurationInMinutes" type="SfFieldLabel" value="Varaktighet"/>
+  <translation key="*.DurationType" type="SfFieldLabel" value="Varaktighetstyp"/>
+  <translation key="*.EarliestStartTime" type="SfFieldLabel" value="Tidigast tillåtna start"/>
+  <translation key="*.EffectiveEndDate" type="SfFieldLabel" value="Slutdatum"/>
+  <translation key="*.EffectiveStartDate" type="SfFieldLabel" value="Startdatum"/>
+  <translation key="*.Email" type="SfFieldLabel" value="E-post"/>
+  <translation key="*.EmailBouncedDate" type="SfFieldLabel" value="E-post studsade den"/>
+  <translation key="*.EmailBouncedReason" type="SfFieldLabel" value="Orsak till att e-post studsade"/>
+  <translation key="*.EmailEncodingKey" type="SfFieldLabel" value="E-postkodning"/>
+  <translation key="*.EmailPreferencesAutoBcc" type="SfFieldLabel" value="AutoBcc"/>
+  <translation key="*.EmailPreferencesAutoBccStayInTouch" type="SfFieldLabel" value="AutoBccStayInTouch"/>
+  <translation key="*.EmailPreferencesStayInTouchReminder" type="SfFieldLabel" value="StayInTouchReminder"/>
+  <translation key="*.EmailTemplateId" type="SfFieldLabel" value="E-postmall-ID"/>
+  <translation key="*.EmployeeNumber" type="SfFieldLabel" value="Anställningsnummer"/>
+  <translation key="*.EmployeeQuantityGrowthRate" type="SfFieldLabel" value="Medarbetartillväxt"/>
+  <translation key="*.EmployeesHere" type="SfFieldLabel" value="Antal anställda - Plats"/>
+  <translation key="*.EmployeesHereReliability" type="SfFieldLabel" value="Antal anställda - Platsindikator"/>
+  <translation key="*.EmployeesTotal" type="SfFieldLabel" value="Antal anställda - Totalt"/>
+  <translation key="*.EmployeesTotalReliability" type="SfFieldLabel" value="Antal anställda - Totalindikator"/>
+  <translation key="*.Encoding" type="SfFieldLabel" value="Kodning"/>
+  <translation key="*.End" type="SfFieldLabel" value="Sluttid"/>
+  <translation key="*.EndDate" type="SfFieldLabel" value="Slutdatum"/>
+  <translation key="*.EndDateTime" type="SfFieldLabel" value="Slut"/>
+  <translation key="*.EndTime" type="SfFieldLabel" value="Sluttid"/>
+  <translation key="*.EstimatedDuration" type="SfFieldLabel" value="Beräknad varaktighet"/>
+  <translation key="*.EstimatedTravelTime" type="SfFieldLabel" value="Beräknad restid (minuter)"/>
+  <translation key="*.ExecutionsAllowed" type="SfFieldLabel" value="Utföranden tillåtna"/>
+  <translation key="*.ExpectedArrivalDate" type="SfFieldLabel" value="Förväntat ankomstdatum"/>
+  <translation key="*.ExpectedPickupDate" type="SfFieldLabel" value="Förväntat upphämtningsdatum"/>
+  <translation key="*.ExpectedResponse" type="SfFieldLabel" value="Förväntade svar (%)"/>
+  <translation key="*.ExpectedRevenue" type="SfFieldLabel" value="Förväntade intäkter"/> 
+  <translation key="*.ExpirationDate" type="SfFieldLabel" value="Förfallodatum"/>
+  <translation key="*.Extension" type="SfFieldLabel" value="Anknytning"/>
+  <translation key="*.ExternalDataSourceId" type="SfFieldLabel" value="Extern datakälla-ID"/>
+  <translation key="*.ExternalDocumentInfo1" type="SfFieldLabel" value="Info1 externt dokument"/>
+  <translation key="*.ExternalDocumentInfo2" type="SfFieldLabel" value="Info2 externt dokument"/>
+  <translation key="*.ExternalId" type="SfFieldLabel" value="Externt ID"/>
+  <translation key="*.ExternalUserId" type="SfFieldLabel" value="Externt användar-ID"/>
+  <translation key="*.FamilyMembers" type="SfFieldLabel" value="Antal företagsfamiljemedlemmar"/>
+  <translation key="*.Fax" type="SfFieldLabel" value="Fax"/>
+  <translation key="*.FeaturedContentBoost" type="SfFieldLabel" value="Med funktionen förstärkning-av-innehåll"/>
+  <translation key="*.FeaturedContentDate" type="SfFieldLabel" value="Med funktionen datum för innehåll"/>
+  <translation key="*.FederationIdentifier" type="SfFieldLabel" value="SAML-samlings-ID"/>
+  <translation key="*.FeedbackPrimaryColor" type="SfFieldLabel" value="Huvudfärg för feedback"/>
+  <translation key="*.FeedbackSecondaryColor" type="SfFieldLabel" value="Sekundär färg för feedback"/>
+  <translation key="*.FeedbackSelectedColor" type="SfFieldLabel" value="Vald färg för feedback"/>
+  <translation key="*.FieldServiceMobileSettingsId" type="SfFieldLabel" value="ID för mobilinställning för field service"/>
+  <translation key="*.FifthNaics" type="SfFieldLabel" value="Femte NAICS-kod"/>
+  <translation key="*.FifthNaicsDesc" type="SfFieldLabel" value="Femte NAICS-beskrivning"/>
+  <translation key="*.FifthSic" type="SfFieldLabel" value="Fjärde SIC-kod"/>
+  <translation key="*.FifthSic8" type="SfFieldLabel" value="Femte SIC8-kod"/>
+  <translation key="*.FifthSic8Desc" type="SfFieldLabel" value="Femte SIC8-beskrivning"/>
+  <translation key="*.FifthSicDesc" type="SfFieldLabel" value="Femte SIC-beskrivning"/>
+  <translation key="*.FileExtension" type="SfFieldLabel" value="Filtillägg"/>
+  <translation key="*.FileType" type="SfFieldLabel" value="Filformat"/>
+  <translation key="*.FipsMsaCode" type="SfFieldLabel" value="FIPS MSA-kod"/>
+  <translation key="*.FipsMsaDesc" type="SfFieldLabel" value="FIPS MSA-kodbeskrivning"/>
+  <translation key="*.FirstName" type="SfFieldLabel" value="Förnamn"/>
+  <translation key="*.FirstOpenedDate" type="SfFieldLabel" value="Först öppnat"/>
+  <translation key="*.FirstPublishLocationId" type="SfFieldLabel" value="Första publicerade plats-ID"/>
+  <translation key="*.FirstRespondedDate" type="SfFieldLabel" value="Datum för först besvarad"/>
+  <translation key="*.Fiscal" type="SfFieldLabel" value="Räkenskapsperiod"/>
+  <translation key="*.FiscalQuarter" type="SfFieldLabel" value="Räkenskapskvartal"/>
+  <translation key="*.FiscalYear" type="SfFieldLabel" value="Räkenskapsår"/>
+  <translation key="*.FolderId" type="SfFieldLabel" value="Mapp-ID"/>
+  <translation key="*.FolderName" type="SfFieldLabel" value="Mappnamn"/>
+  <translation key="*.ForecastCategory" type="SfFieldLabel" value="Prognoskategori"/>
+  <translation key="*.ForecastCategoryName" type="SfFieldLabel" value="Prognoskategori"/>
+  <translation key="*.ForecastEnabled" type="SfFieldLabel" value="Tillåt prognostisering"/>
+  <translation key="*.FortuneRank" type="SfFieldLabel" value="Fortune 1000-rankning"/>
+  <translation key="*.FourthNaics" type="SfFieldLabel" value="Fjärde NAICS-kod"/>
+  <translation key="*.FourthNaicsDesc" type="SfFieldLabel" value="Fjärde NAICS-beskrivning"/>
+  <translation key="*.FourthSic" type="SfFieldLabel" value="Fjärde SIC-kod"/>
+  <translation key="*.FourthSic8" type="SfFieldLabel" value="Fjärde SIC8-kod"/>
+  <translation key="*.FourthSic8Desc" type="SfFieldLabel" value="Fjärde SIC8-beskrivning"/>
+  <translation key="*.FourthSicDesc" type="SfFieldLabel" value="Fjärde SIC-beskrivning"/>
+  <translation key="*.Frequency" type="SfFieldLabel" value="Frekvens"/>
+  <translation key="*.FrequencyType" type="SfFieldLabel" value="Frekvenstyp"/>
+  <translation key="*.FridayEndTime" type="SfFieldLabel" value="fredag slut"/>
+  <translation key="*.FridayStartTime" type="SfFieldLabel" value="fredag start"/>
+  <translation key="*.FromAddress" type="SfFieldLabel" value="Från-adress"/>
+  <translation key="*.FromDate" type="SfFieldLabel" value="Från datum"/>
+  <translation key="*.FromName" type="SfFieldLabel" value="Från namn"/>
+  <translation key="*.FullAddress" type="SfFieldLabel" value="Adress"/>
+  <translation key="*.FullPhotoUrl" type="SfFieldLabel" value="URL för bild i full storlek"/>
+  <translation key="*.FutureDaysInDatePicker" type="SfFieldLabel" value="Framtida dagar i datumväljaren"/>
+  <translation key="*.GenerationHorizon" type="SfFieldLabel" value="Skapandehorisont (dagar)"/>
+  <translation key="*.GenerationTimeframe" type="SfFieldLabel" value="Skapandetidsram"/>
+  <translation key="*.GenerationTimeframeType" type="SfFieldLabel" value="Typ av skapandetidsram"/>
+  <translation key="*.GeoCodeAccuracy" type="SfFieldLabel" value="Geokodningsnoggrannhet"/>
+  <translation key="*.GeoLocationAccuracy" type="SfFieldLabel" value="Geoplatsprecision"/>
+  <translation key="*.GeoLocationMinUpdateFreqMins" type="SfFieldLabel" value="Uppdateringsfrekvens för geoplats i minuter"/>
+  <translation key="*.GeocodeAccuracy" type="SfFieldLabel" value="Geocode Accuracy"/>
+  <translation key="*.GeocodeAccuracyStandard" type="SfFieldLabel" value="Geocode Accuracy"/>
+  <translation key="*.GlobalUltimateBusinessName" type="SfFieldLabel" value="Globalt ultimat affärsnamn"/>
+  <translation key="*.GlobalUltimateDunsNumber" type="SfFieldLabel" value="Globalt ultimat D-U-N-S-nummer"/>
+  <translation key="*.GlobalUltimateTotalEmployees" type="SfFieldLabel" value="Antal anställda - Globalt"/>
+  <translation key="*.GrandTotal" type="SfFieldLabel" value="Totalsumma"/>
+  <translation key="*.HasAttachment" type="SfFieldLabel" value="Har bifogad fil"/>
+  <translation key="*.HasCommentsUnreadByOwner" type="SfFieldLabel" value="Ny kommentar till självbetjäning"/>
+  <translation key="*.HasContent" type="SfFieldLabel" value="Har innehåll"/>
+  <translation key="*.HasFeedEntity" type="SfFieldLabel" value="Har kanalenhetsbilaga"/>
+  <translation key="*.HasLink" type="SfFieldLabel" value="Har länk"/>
+  <translation key="*.HasOpenActivity" type="SfFieldLabel" value="Har öppen aktivitet"/>
+  <translation key="*.HasOpportunityLineItem" type="SfFieldLabel" value="Har orderrad"/>
+  <translation key="*.HasOptedOutOfEmail" type="SfFieldLabel" value="E-postalt. slut"/>
+  <translation key="*.HasOptedOutOfFax" type="SfFieldLabel" value="Faxalt. slut"/>
+  <translation key="*.HasOverdueTask" type="SfFieldLabel" value="Har förfallen uppgift"/>
+  <translation key="*.HasPrivateFieldsAccess" type="SfFieldLabel" value="Har privat fältåtkomst"/>
+  <translation key="*.HasResponded" type="SfFieldLabel" value="Besvarad"/>
+  <translation key="*.HasSelfServiceComments" type="SfFieldLabel" value="Kommenterad självbetjäning"/>
+  <translation key="*.HasVerifiedComment" type="SfFieldLabel" value="Har bekräftad kommentar"/>
+  <translation key="*.HeaderFieldName" type="SfFieldLabel" value="Sidhuvudfältnamn"/>
+  <translation key="*.HeaderFieldValue" type="SfFieldLabel" value="Sidhuvudfältvärde"/>
+  <translation key="*.Headers" type="SfFieldLabel" value="HTTP-rubriker"/>
+  <translation key="*.HierarchyActualCost" type="SfFieldLabel" value="Verklig kostnad i hierarki"/>
+  <translation key="*.HierarchyAmountAllOpportunities" type="SfFieldLabel" value="Värde för säljprojekt i hierarki"/>
+  <translation key="*.HierarchyAmountWonOpportunities" type="SfFieldLabel" value="Värde för vunna säljprojekt i hierarki"/>
+  <translation key="*.HierarchyBudgetedCost" type="SfFieldLabel" value="Budgeterad kostnad i hierarki"/>
+  <translation key="*.HierarchyExpectedRevenue" type="SfFieldLabel" value="Förväntade intäkter i hierarki"/>
+  <translation key="*.HierarchyNumberOfContacts" type="SfFieldLabel" value="Kontakter i hierarki"/>
+  <translation key="*.HierarchyNumberOfConvertedLeads" type="SfFieldLabel" value="Konverterade leads i hierarki"/>
+  <translation key="*.HierarchyNumberOfLeads" type="SfFieldLabel" value="Leads i hierarki"/>
+  <translation key="*.HierarchyNumberOfOpportunities" type="SfFieldLabel" value="Säljprojekt i hierarki"/>
+  <translation key="*.HierarchyNumberOfResponses" type="SfFieldLabel" value="Svar i hierarki"/>
+  <translation key="*.HierarchyNumberOfWonOpportunities" type="SfFieldLabel" value="Vunna säljprojekt i hierarki"/>
+  <translation key="*.HierarchyNumberSent" type="SfFieldLabel" value="Antal skickade i hierarki"/>
+  <translation key="*.HomePhone" type="SfFieldLabel" value="Hemtelefon"/>
+  <translation key="*.HoursUntilExpiration" type="SfFieldLabel" value="Timmar till upphörande"/>
+  <translation key="*.HtmlBody" type="SfFieldLabel" value="HTML brödtext"/>
+  <translation key="*.HtmlValue" type="SfFieldLabel" value="HTML-värde"/>
+  <translation key="*.IconUrl" type="SfFieldLabel" value="Url-ikon"/>
+  <translation key="*.Id" type="SfFieldLabel" value="Status-ID för kampanjmedlem"/>
+  <translation key="*.ImageId" type="SfFieldLabel" value="ID för tillgångsfil"/>
+  <translation key="*.ImportExportAgent" type="SfFieldLabel" value="Import/Export"/>
+  <translation key="*.IncludedInSnP500" type="SfFieldLabel" value="S&amp;P 500"/>
+  <translation key="*.Incoming" type="SfFieldLabel" value="Är på inkommande"/>
+  <translation key="*.Industry" type="SfFieldLabel" value="Bransch"/>
+  <translation key="*.InfoUrl" type="SfFieldLabel" value="Info URL"/>
+  <translation key="*.InformationBody" type="SfFieldLabel" value="Information"/>
+  <translation key="*.InformationTitle" type="SfFieldLabel" value="Informationsrubrik"/>
+  <translation key="*.InsertedById" type="SfFieldLabel" value="Skrivet av ID:"/>
+  <translation key="*.InstallDate" type="SfFieldLabel" value="Installationsdatum"/>
+  <translation key="*.InstallationUrl" type="SfFieldLabel" value="Installations-URL"/>
+  <translation key="*.InterviewLabel" type="SfFieldLabel" value="Interview Label"/>
+  <translation key="*.IsActionActive" type="SfFieldLabel" value="Är åtgärd aktiv"/>
+  <translation key="*.IsActive" type="SfFieldLabel" value="Aktiv"/>
+  <translation key="*.IsAlohaSupported" type="SfFieldLabel" value="Stöd för Classic"/>
+  <translation key="*.IsArchived" type="SfFieldLabel" value="Arkivera"/>
+  <translation key="*.IsAssetEnabled" type="SfFieldLabel" value="Tillgångsfil aktiverad"/>
+  <translation key="*.IsAutoArchiveDisabled" type="SfFieldLabel" value="Inaktivera automatisk arkivering"/>
+  <translation key="*.IsBounced" type="SfFieldLabel" value="Studsade?"/>
+  <translation key="*.IsBroadcast" type="SfFieldLabel" value="Endast utsändning"/>
+  <translation key="*.IsCapacityBased" type="SfFieldLabel" value="Kapacitetsbaserad"/>
+  <translation key="*.IsChild" type="SfFieldLabel" value="Är underordnad"/>
+  <translation key="*.IsClientManaged" type="SfFieldLabel" value="Är klient hanterad"/>
+  <translation key="*.IsClosed" type="SfFieldLabel" value="Avslutad"/>
+  <translation key="*.IsClosedOnCreate" type="SfFieldLabel" value="Stängd vid skapande"/>
+  <translation key="*.IsConfirmationRequired" type="SfFieldLabel" value="Bekräftelse krävs"/>
+  <translation key="*.IsConverted" type="SfFieldLabel" value="Konverterat"/>
+  <translation key="*.IsDefault" type="SfFieldLabel" value="Är standard"/>
+  <translation key="*.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="*.IsDynamic" type="SfFieldLabel" value="Skapas dynamiskt"/>
+  <translation key="*.IsEmailBounced" type="SfFieldLabel" value="E-post studsar"/>
+  <translation key="*.IsEscalated" type="SfFieldLabel" value="Omflyttad"/>
+  <translation key="*.IsExtIndicatorVisible" type="SfFieldLabel" value="Visa extern indikator"/>
+  <translation key="*.IsExternallyVisible" type="SfFieldLabel" value="Kan ses externt"/>
+  <translation key="*.IsFolder" type="SfFieldLabel" value="Är mapp"/>
+  <translation key="*.IsGeneratedFromMaintenancePlan" type="SfFieldLabel" value="Skapad från underhållsplan"/>
+  <translation key="*.IsGroupDefault" type="SfFieldLabel" value="Standardlänk i grupp"/>
+  <translation key="*.IsHighPriority" type="SfFieldLabel" value="Hög prioritet"/>
+  <translation key="*.IsHtml" type="SfFieldLabel" value="ÄrHtml"/>
+  <translation key="*.IsIgnoreValidation" type="SfFieldLabel" value="Ignorera valideringsregler"/>
+  <translation key="*.IsInCrm" type="SfFieldLabel" value="I CRM"/>
+  <translation key="*.IsInactive" type="SfFieldLabel" value="Inaktiv status"/>
+  <translation key="*.IsLatest" type="SfFieldLabel" value="Är senast"/>
+  <translation key="*.IsLeader" type="SfFieldLabel" value="Ledare"/>
+  <translation key="*.IsLightningSupported" type="SfFieldLabel" value="Stöd för Lightning"/>
+  <translation key="*.IsMajorVersion" type="SfFieldLabel" value="Huvudversion"/>
+  <translation key="*.IsMerged" type="SfFieldLabel" value="Är kopplat"/>
+  <translation key="*.IsOpened" type="SfFieldLabel" value="Öppnat?"/>
+  <translation key="*.IsOptimizationCapable" type="SfFieldLabel" value="Inkludera i schemaläggningsoptimering"/>
+  <translation key="*.IsOwned" type="SfFieldLabel" value="Ägs"/>
+  <translation key="*.IsParent" type="SfFieldLabel" value="Överordnad"/>
+  <translation key="*.IsPortalEnabled" type="SfFieldLabel" value="Är portal aktiverad"/>
+  <translation key="*.IsPortalSelfRegistered" type="SfFieldLabel" value="Självregistrerad via kundportal"/>
+  <translation key="*.IsPrimary" type="SfFieldLabel" value="Primär"/>
+  <translation key="*.IsPrivate" type="SfFieldLabel" value="Privat"/>
+  <translation key="*.IsProfilePhotoActive" type="SfFieldLabel" value="Har profilbild"/>
+  <translation key="*.IsProtected" type="SfFieldLabel" value="Skyddad komponent"/>
+  <translation key="*.IsPublished" type="SfFieldLabel" value="Offentlig"/>
+  <translation key="*.IsPublishedInPublicKb" type="SfFieldLabel" value="Synlig i offentlig kunskapsbas"/>
+  <translation key="*.IsReceived" type="SfFieldLabel" value="Mottaget"/>
+  <translation key="*.IsRecurrence2" type="SfFieldLabel" value="Upprepa"/>
+  <translation key="*.IsRecurrence2Exception" type="SfFieldLabel" value="Är undantag"/>
+  <translation key="*.IsReminderSet" type="SfFieldLabel" value="Påminnelse"/>
+  <translation key="*.IsRestrictContentTypes" type="SfFieldLabel" value="Begränsa posttyper"/>
+  <translation key="*.IsRestrictLinkedContentTypes" type="SfFieldLabel" value="Begränsa länkade posttyper"/>
+  <translation key="*.IsReviewed" type="SfFieldLabel" value="Granskad"/>
+  <translation key="*.IsRichText" type="SfFieldLabel" value="Är rich text"/>
+  <translation key="*.IsSendLocationHistory" type="SfFieldLabel" value="Spara historik för serviceresursgeoplats"/>
+  <translation key="*.IsShowEditFullRecord" type="SfFieldLabel" value="Aktivera fullständig redigering för poster"/>
+  <translation key="*.IsSyncing" type="SfFieldLabel" value="Synkroniserar"/>
+  <translation key="*.IsTracked" type="SfFieldLabel" value="Är Spårad"/>
+  <translation key="*.IsUnreadByOwner" type="SfFieldLabel" value="Ägare har inte läst"/>
+  <translation key="*.IsUseSalesforceMobileActions" type="SfFieldLabel" value="Använd Salesforces mobilåtgärder"/>
+  <translation key="*.IsUsingAdminAuthorization" type="SfFieldLabel" value="AnvänderAdminBehörighet"/>
+  <translation key="*.IsVisible" type="SfFieldLabel" value="Synlig"/>
+  <translation key="*.IsWon" type="SfFieldLabel" value="Vunna"/>
+  <translation key="*.Jigsaw" type="SfFieldLabel" value="Data.com-nyckel"/>
+  <translation key="*.JigsawCompanyId" type="SfFieldLabel" value="Jigsaw Company ID"/>
+  <translation key="*.JigsawContactId" type="SfFieldLabel" value="Jigsaw Contact ID"/>
+  <translation key="*.JigsawImportLimitOverride" type="SfFieldLabel" value="Data.com månatlig tilläggsgräns"/>
+  <translation key="*.Label" type="SfFieldLabel" value="Etikett"/>
+  <translation key="*.LabelKey" type="SfFieldLabel" value="Etikettnyckel"/>
+  <translation key="*.Language" type="SfFieldLabel" value="Huvudspråk"/>
+  <translation key="*.LanguageLocaleKey" type="SfFieldLabel" value="Språk"/>
+  <translation key="*.LastActivityDate" type="SfFieldLabel" value="Senaste aktivitet"/>
+  <translation key="*.LastApprovedDate" type="SfFieldLabel" value="Datum för senast godkänd"/>
+  <translation key="*.LastEditById" type="SfFieldLabel" value="Senast ändrat av ID"/>
+  <translation key="*.LastEditDate" type="SfFieldLabel" value="Senast ändrad"/>
+  <translation key="*.LastFeedAccessDate" type="SfFieldLabel" value="Kanalen öppnades senast den"/>
+  <translation key="*.LastFeedModifiedDate" type="SfFieldLabel" value="Kanalen ändrades senast den"/>
+  <translation key="*.LastKnownLatitude" type="SfFieldLabel" value="Senast kända latitud"/>
+  <translation key="*.LastKnownLocation" type="SfFieldLabel" value="Senast kända plats"/>
+  <translation key="*.LastKnownLocationDate" type="SfFieldLabel" value="Senast kända platsdatum"/>
+  <translation key="*.LastKnownLongitude" type="SfFieldLabel" value="Senast kända longitud"/>
+  <translation key="*.LastLoginDate" type="SfFieldLabel" value="Senaste inloggning"/>
+  <translation key="*.LastModifiedById" type="SfFieldLabel" value="Senast ändrad av"/>
+  <translation key="*.LastModifiedDate" type="SfFieldLabel" value="Senast ändrad den" relatedListLabel="Senaste ändring"/>
+  <translation key="*.LastName" type="SfFieldLabel" value="Efternamn"/>
+  <translation key="*.LastOpenedDate" type="SfFieldLabel" value="Senast öppnat"/>
+  <translation key="*.LastPasswordChangeDate" type="SfFieldLabel" value="Senaste lösenordsändring eller återställning"/>
+  <translation key="*.LastReferencedDate" type="SfFieldLabel" value="Senaste referensdatumet"/>
+  <translation key="*.LastTransferDate" type="SfFieldLabel" value="Senaste överföringsdatum"/>
+  <translation key="*.LastUsedDate" type="SfFieldLabel" value="Datum för senaste användning"/>
+  <translation key="*.LastViewedDate" type="SfFieldLabel" value="Datum senaste visning"/>
+  <translation key="*.LastWorkspaceActivityDate" type="SfFieldLabel" value="Senaste aktivitet"/>
+  <translation key="*.LatestPublishedVersionId" type="SfFieldLabel" value="Senaste publicerade version-ID"/>
+  <translation key="*.Latitude" type="SfFieldLabel" value="Latitud"/>
+  <translation key="*.LaunchValue" type="SfFieldLabel" value="Startvärde"/>
+  <translation key="*.LeadId" type="SfFieldLabel" value="Lead-ID"/>
+  <translation key="*.LeadOrContactId" type="SfFieldLabel" value="Lead/Kontakt ID"/>
+  <translation key="*.LeadOrContactOwnerId" type="SfFieldLabel" value="ID för Lead/Kontaktägare"/>
+  <translation key="*.LeadSource" type="SfFieldLabel" value="{Lead}.{Source}"/>
+  <translation key="*.LeftSize" type="SfFieldLabel" value="Vänster storlek"/>
+  <translation key="*.LegalStatus" type="SfFieldLabel" value="Juridisk struktur"/>
+  <translation key="*.LevelId" type="SfFieldLabel" value="ID för Kanalprogramnivå"/>
+  <translation key="*.LikeCount" type="SfFieldLabel" value="Räkning av gillningar"/>
+  <translation key="*.LineItemCount" type="SfFieldLabel" value="Radartiklar"/>
+  <translation key="*.LineNumber" type="SfFieldLabel" value="Radartikelnummer"/>
+  <translation key="*.LinkType" type="SfFieldLabel" value="Åtgärdstyp"/>
+  <translation key="*.LinkUrl" type="SfFieldLabel" value="Länk-URL"/>
+  <translation key="*.ListPrice" type="SfFieldLabel" value="Listpris"/>
+  <translation key="*.LocaleSidKey" type="SfFieldLabel" value="Plats"/>
+  <translation key="*.Location" type="SfFieldLabel" value="Plats"/>
+  <translation key="*.LocationId" type="SfFieldLabel" value="Plats-ID"/>
+  <translation key="*.LocationStatus" type="SfFieldLabel" value="Platstyp"/>
+  <translation key="*.LocationType" type="SfFieldLabel" value="Platstyp"/>
+  <translation key="*.LogoId" type="SfFieldLabel" value="ID för tillgångsfil"/>
+  <translation key="*.LogoUrl" type="SfFieldLabel" value="Logotyp-URL"/>
+  <translation key="*.Longitude" type="SfFieldLabel" value="Longitud"/>
+  <translation key="*.MailingAddress" type="SfFieldLabel" value="Postadress"/>
+  <translation key="*.MailingCity" type="SfFieldLabel" value="Ort"/>
+  <translation key="*.MailingCountry" type="SfFieldLabel" value="Land"/>
+  <translation key="*.MailingCountryCode" type="SfFieldLabel" value="Postkod land"/>
+  <translation key="*.MailingGeocodeAccuracy" type="SfFieldLabel" value="Mailing Geocode Accuracy"/>
+  <translation key="*.MailingLatitude" type="SfFieldLabel" value="Utskicksbreddgrad"/>
+  <translation key="*.MailingLongitude" type="SfFieldLabel" value="Utskickslängdgrad"/>
+  <translation key="*.MailingPostalCode" type="SfFieldLabel" value="Postnummer"/>
+  <translation key="*.MailingState" type="SfFieldLabel" value="Län"/>
+  <translation key="*.MailingStateCode" type="SfFieldLabel" value="Postkod stat"/>
+  <translation key="*.MailingStreet" type="SfFieldLabel" value="Gatuadress"/>
+  <translation key="*.MailingZip" type="SfFieldLabel" value="Postnummer"/>
+  <translation key="*.MaintenancePlanId" type="SfFieldLabel" value="ID för underhållsplan"/>
+  <translation key="*.MaintenanceWindowEndDays" type="SfFieldLabel" value="Underhållsfönsterslut (dagar)"/>
+  <translation key="*.MaintenanceWindowStartDays" type="SfFieldLabel" value="Underhållsfönsterstart (dagar)"/>
+  <translation key="*.ManagedTopicType" type="SfFieldLabel" value="Aktiverat för"/>
+  <translation key="*.ManagerId" type="SfFieldLabel" value="Hanterar-ID"/>
+  <translation key="*.MarketingPreScreen" type="SfFieldLabel" value="Brottslighetsrisk"/>
+  <translation key="*.MarketingSegmentationCluster" type="SfFieldLabel" value="Segmenteringskluster för marknadsföring"/>
+  <translation key="*.Markup" type="SfFieldLabel" value="Kodspråk"/>
+  <translation key="*.MasterLabel" type="SfFieldLabel" value="Namn"/>
+  <translation key="*.MasterRecordId" type="SfFieldLabel" value="Huvudpost-ID"/>
+  <translation key="*.MediumBannerPhotoUrl" type="SfFieldLabel" value="URL för Android-bannerbild"/>
+  <translation key="*.MediumPhotoUrl" type="SfFieldLabel" value="URL för medelstor profilbild"/>
+  <translation key="*.MemberCount" type="SfFieldLabel" value="Medlemsantal"/>
+  <translation key="*.MemberId" type="SfFieldLabel" value="Medlems-ID"/>
+  <translation key="*.MemberNumber" type="SfFieldLabel" value="Medlemsnummer"/>
+  <translation key="*.Message" type="SfFieldLabel" value="Meddelande"/>
+  <translation key="*.MessageDate" type="SfFieldLabel" value="Meddelandedatum"/>
+  <translation key="*.MessageIdentifier" type="SfFieldLabel" value="Meddelande-ID"/>
+  <translation key="*.MetadataCacheTimeDays" type="SfFieldLabel" value="Metadatacachetid i dagar"/>
+  <translation key="*.Method" type="SfFieldLabel" value="HTTP-metod"/>
+  <translation key="*.MiddleSize" type="SfFieldLabel" value="Mittenstorlek"/>
+  <translation key="*.MinimumCrewSize" type="SfFieldLabel" value="Minsta personalstyrka"/>
+  <translation key="*.MinorityOwned" type="SfFieldLabel" value="Indikator för minoritetsägd"/>
+  <translation key="*.MobilePhone" type="SfFieldLabel" value="Mobil"/>
+  <translation key="*.MobileStartUrl" type="SfFieldLabel" value="Mobile start-Url"/>
+  <translation key="*.MondayEndTime" type="SfFieldLabel" value="måndag slut"/>
+  <translation key="*.MondayStartTime" type="SfFieldLabel" value="måndag start"/>
+  <translation key="*.NaicsCode" type="SfFieldLabel" value="NAICS-kod"/>
+  <translation key="*.NaicsDesc" type="SfFieldLabel" value="NAICS-beskrivning"/>
+  <translation key="*.Name" type="SfFieldLabel" value="Namn"/>
+  <translation key="*.NamespacePrefix" type="SfFieldLabel" value="Namnutrymmesprefix"/>
+  <translation key="*.NationalId" type="SfFieldLabel" value="Nationellt identifieringsnummer"/>
+  <translation key="*.NationalIdType" type="SfFieldLabel" value="Nationellt identifieringssystem"/>
+  <translation key="*.NavbarBackgroundColor" type="SfFieldLabel" value="Bakgrundsfärg för navigeringsfält"/>
+  <translation key="*.NavbarInvertedColor" type="SfFieldLabel" value="Inverterad färg för verktygsfält"/>
+  <translation key="*.NeedByDate" type="SfFieldLabel" value="Behövs innan"/>
+  <translation key="*.NegativeRatingCount" type="SfFieldLabel" value="Antal negativa klassificeringar"/>
+  <translation key="*.NetworkId" type="SfFieldLabel" value="Nätverks-ID"/>
+  <translation key="*.NetworkScope" type="SfFieldLabel" value="Nätverksomfång"/>
+  <translation key="*.NextStep" type="SfFieldLabel" value="Nästa steg"/>
+  <translation key="*.NextSuggestedMaintenanceDate" type="SfFieldLabel" value="Datum för den första arbetsordern i nästa sats"/>
+  <translation key="*.NotificationFrequency" type="SfFieldLabel" value="Frekvens för meddelande"/>
+  <translation key="*.NumComments" type="SfFieldLabel" value="Antal kommentarer"/>
+  <translation key="*.NumberOfEmployees" type="SfFieldLabel" value="Anställda"/>
+  <translation key="*.OfflinePdaTrialExpirationDate" type="SfFieldLabel" value="Förfallodatum för provversionen av Sales Anywhere"/>
+  <translation key="*.OfflineTrialExpirationDate" type="SfFieldLabel" value="Förfallodatum för provversionen av Offline Edition"/>
+  <translation key="*.OpenDate" type="SfFieldLabel" value="Öppningsdatum"/>
+  <translation key="*.OperatingHoursId" type="SfFieldLabel" value="Arbetstid-ID"/>
+  <translation key="*.Operation" type="SfFieldLabel" value="Operation"/>
+  <translation key="*.OpportunityId" type="SfFieldLabel" value="Affärsmöjlighet"/>
+  <translation key="*.OpportunityLineItemId" type="SfFieldLabel" value="Orderrad-ID"/>
+  <translation key="*.OrderId" type="SfFieldLabel" value="Order-ID"/>
+  <translation key="*.OrderItemId" type="SfFieldLabel" value="Orderprodukt-ID"/>
+  <translation key="*.Origin" type="SfFieldLabel" value="Innehålls ursprung"/>
+  <translation key="*.OriginalOrderItemId" type="SfFieldLabel" value="Ursprunglig orderpost-ID"/>
+  <translation key="*.OtherAddress" type="SfFieldLabel" value="Annan adress"/>
+  <translation key="*.OtherCity" type="SfFieldLabel" value="Annan ort"/>
+  <translation key="*.OtherCountry" type="SfFieldLabel" value="Annat land"/>
+  <translation key="*.OtherGeocodeAccuracy" type="SfFieldLabel" value="Other Geocode Accuracy"/>
+  <translation key="*.OtherLatitude" type="SfFieldLabel" value="Annan breddgrad"/>
+  <translation key="*.OtherLongitude" type="SfFieldLabel" value="Annan längdgrad"/>
+  <translation key="*.OtherPhone" type="SfFieldLabel" value="Annan telefon"/>
+  <translation key="*.OtherPostalCode" type="SfFieldLabel" value="Annat postnummer"/>
+  <translation key="*.OtherState" type="SfFieldLabel" value="Annat län"/>
+  <translation key="*.OtherStreet" type="SfFieldLabel" value="Annan gata"/>
+  <translation key="*.OutOfBusiness" type="SfFieldLabel" value="Indikator för i konkurs"/>
+  <translation key="*.OutOfOfficeMessage" type="SfFieldLabel" value="Meddelande för Ej på kontoret"/>
+  <translation key="*.OwnOrRent" type="SfFieldLabel" value="Indikator för plats ägarskap"/>
+  <translation key="*.Owner" type="SfFieldLabel" value="Ägarens ID" relatedListLabel='Ägare'/>
+  <translation key="*.OwnerExpirationNotice" type="SfFieldLabel" value="Varning om förfallodatum för ägare"/>
+  <translation key="*.Ownership" type="SfFieldLabel" value="Ägarskap"/>
+  <translation key="*.ParentContentFolderId" type="SfFieldLabel" value="ID för överordnad innehållsmapp"/>
+  <translation key="*.ParentId" type="SfFieldLabel" value="Överordnat ID"/>
+  <translation key="*.ParentOrHqBusinessName" type="SfFieldLabel" value="Överordnat företags affärsnamn"/>
+  <translation key="*.ParentOrHqDunsNumber" type="SfFieldLabel" value="Överordnat företags D-U-N-S-nummer"/>
+  <translation key="*.ParentRecordId" type="SfFieldLabel" value="ID för Kontonamn"/>
+  <translation key="*.ParentRecordStatusCategory" type="SfFieldLabel" value="Statuskategori för överordnad post"/>
+  <translation key="*.ParentRecordType" type="SfFieldLabel" value="Typ av överordnad post"/>
+  <translation key="*.ParentTerritoryId" type="SfFieldLabel" value="ID för överordnat område"/>
+  <translation key="*.ParentWorkOrderLineItemId" type="SfFieldLabel" value="ID för radartikel i överordnad arbetsorder"/>
+  <translation key="*.PartnerId" type="SfFieldLabel" value="Konto-ID"/>
+  <translation key="*.PastDaysInDatePicker" type="SfFieldLabel" value="Föregående dagar i datumväljaren"/>
+  <translation key="*.PathOnClient" type="SfFieldLabel" value="Sökväg på klient"/>
+  <translation key="*.PauseLabel" type="SfFieldLabel" value="Pause Reason"/>
+  <translation key="*.PermissionSetId" type="SfFieldLabel" value="PermissionSet ID"/>
+  <translation key="*.Phone" type="SfFieldLabel" value="Telefon"/>
+  <translation key="*.PhotoUrl" type="SfFieldLabel" value="Foto URL"/>
+  <translation key="*.PortalRole" type="SfFieldLabel" value="Portalrollnivå"/>
+  <translation key="*.Position" type="SfFieldLabel" value="Position"/>
+  <translation key="*.PositiveRatingCount" type="SfFieldLabel" value="Antal positiva klassificeringar"/>
+  <translation key="*.PossessionDate" type="SfFieldLabel" value="Besittningsdatum"/>
+  <translation key="*.PostalCode" type="SfFieldLabel" value="Postnummer"/>
+  <translation key="*.PreferenceType" type="SfFieldLabel" value="Preferenstyp"/>
+  <translation key="*.PreferredChannel" type="SfFieldLabel" value="Föredragen kanal"/>
+  <translation key="*.PreferredPhone" type="SfFieldLabel" value="Föredraget telefonnummer"/>
+  <translation key="*.PremisesMeasure" type="SfFieldLabel" value="Områdesstorlek"/>
+  <translation key="*.PremisesMeasureReliability" type="SfFieldLabel" value="Noggrannhet i områdesstorlek"/>
+  <translation key="*.PremisesMeasureUnit" type="SfFieldLabel" value="Måttenhet för områdesstorlek"/>
+  <translation key="*.Price" type="SfFieldLabel" value="Pris"/>
+  <translation key="*.Pricebook2Id" type="SfFieldLabel" value="Prisboks-ID"/>
+  <translation key="*.PricebookEntryId" type="SfFieldLabel" value="Prisbokpost-ID"/>
+  <translation key="*.PrimaryBrandColor" type="SfFieldLabel" value="Huvudsaklig varumärkesfärg"/>
+  <translation key="*.PrimaryNaics" type="SfFieldLabel" value="Primär NAICS-kod"/>
+  <translation key="*.PrimaryNaicsDesc" type="SfFieldLabel" value="Primär NAICS-beskrivning"/>
+  <translation key="*.PrimarySic" type="SfFieldLabel" value="Primär SIC-kod"/>
+  <translation key="*.PrimarySic8" type="SfFieldLabel" value="Huvudsaklig SIC8-kod"/>
+  <translation key="*.PrimarySic8Desc" type="SfFieldLabel" value="Huvudsaklig SIC8-beskrivning"/>
+  <translation key="*.PrimarySicDesc" type="SfFieldLabel" value="Primär SIC-beskrivning"/>
+  <translation key="*.PriorYearEmployees" type="SfFieldLabel" value="Antal anställda föregående år- Totalt"/>
+  <translation key="*.PriorYearRevenue" type="SfFieldLabel" value="Intäkter föregående år"/>
+  <translation key="*.Priority" type="SfFieldLabel" value="Prioritet"/>
+  <translation key="*.Probability" type="SfFieldLabel" value="Sannolikhet (%)"/>
+  <translation key="*.ProcessingPlan" type="SfFieldLabel" value="Bearbetningsplan"/>
+  <translation key="*.Product2Id" type="SfFieldLabel" value="Produkt"/>
+  <translation key="*.ProductCode" type="SfFieldLabel" value="Produktkod"/>
+  <translation key="*.ProductDescription" type="SfFieldLabel" value="Produktbeskrivning"/>
+  <translation key="*.ProductFamily" type="SfFieldLabel" value="Produktfamilj"/>
+  <translation key="*.ProductItemId" type="SfFieldLabel" value="Produktobjekt-ID"/>
+  <translation key="*.ProductName" type="SfFieldLabel" value="Produktnamn"/>
+  <translation key="*.ProductRequestId" type="SfFieldLabel" value="ID för produktbegäran"/>
+  <translation key="*.ProductRequestLineItemId" type="SfFieldLabel" value="ID för produktbegäranradartikel"/>
+  <translation key="*.ProfileId" type="SfFieldLabel" value="Profil-ID"/>
+  <translation key="*.ProgramId" type="SfFieldLabel" value="ID för Kanalprogram"/>
+  <translation key="*.Provider" type="SfFieldLabel" value="Fraktleverantör"/>
+  <translation key="*.PublicIndicator" type="SfFieldLabel" value="Indikator för ägarskapstyp"/>
+  <translation key="*.PublishStatus" type="SfFieldLabel" value="Publicerings-status"/>
+  <translation key="*.PurchaseDate" type="SfFieldLabel" value="Inköpsdatum"/>
+  <translation key="*.Quantity" type="SfFieldLabel" value="Kvantitet"/>
+  <translation key="*.QuantityConsumed" type="SfFieldLabel" value="Använd kvantitet"/>
+  <translation key="*.QuantityOnHand" type="SfFieldLabel" value="Tillgänglig kvantitet"/>
+  <translation key="*.QuantityReceived" type="SfFieldLabel" value="Mottagen kvantitet"/>
+  <translation key="*.QuantityRequested" type="SfFieldLabel" value="Begärd kvantitet"/>
+  <translation key="*.QuantityRequired" type="SfFieldLabel" value="Kvantitet som behövs"/>
+  <translation key="*.QuantityReturned" type="SfFieldLabel" value="Returnerad kvantitet"/>
+  <translation key="*.QuantitySent" type="SfFieldLabel" value="Skickad kvantitet"/>
+  <translation key="*.QuantityUnitOfMeasure" type="SfFieldLabel" value="Kvantitets måttenhet"/>
+  <translation key="*.QuoteId" type="SfFieldLabel" value="Offert-ID"/>
+  <translation key="*.QuoteLineItemId" type="SfFieldLabel" value="Offertradartikel-ID"/>
+  <translation key="*.QuoteToLatitude" type="SfFieldLabel" value="Offerera till breddgrad"/>
+  <translation key="*.QuoteToLongitude" type="SfFieldLabel" value="Offerera till längdgrad"/>
+  <translation key="*.Rank" type="SfFieldLabel" value="Rang"/>
+  <translation key="*.Rating" type="SfFieldLabel" value="Värdering"/>
+  <translation key="*.RatingCount" type="SfFieldLabel" value="Antal klassificeringar"/>
+  <translation key="*.ReasonForChange" type="SfFieldLabel" value="Orsak till ändring"/>
+  <translation key="*.ReasonForReturn" type="SfFieldLabel" value="Orsak till retur"/>
+  <translation key="*.ReceivedById" type="SfFieldLabel" value="ID för Mottaget av"/>
+  <translation key="*.ReceivesAdminInfoEmails" type="SfFieldLabel" value="E-postmeddelanden om administration"/>
+  <translation key="*.ReceivesInfoEmails" type="SfFieldLabel" value="E-postinformation"/>
+  <translation key="*.RecommendedCrewSize" type="SfFieldLabel" value="Rekommenderad personalstyrka"/>
+  <translation key="*.RecordCount" type="SfFieldLabel" value="Antal poster"/>
+  <translation key="*.RecordDataCacheTimeMins" type="SfFieldLabel" value="Datacacheregistreringstid i minuter"/>
+  <translation key="*.RecordId" type="SfFieldLabel" value="Post-ID"/>
+  <translation key="*.RecordType" type="SfFieldLabel" value="{SfObject.Label}Posttyps"/>
+  <translation key="*.Recurrence2PatternStartDate" type="SfFieldLabel" value="Startdatum för återkommande mönster"/>
+  <translation key="*.Recurrence2PatternText" type="SfFieldLabel" value="Återkommandemönster"/>
+  <translation key="*.Recurrence2PatternTimeZone" type="SfFieldLabel" value="Tidszonreferens för återkommande mönster"/>
+  <translation key="*.Recurrence2PatternVersion" type="SfFieldLabel" value="Mönsterversion"/>
+  <translation key="*.RecurrenceActivityId" type="SfFieldLabel" value="Återkommande aktivitet-ID"/>
+  <translation key="*.RecurrenceDayOfMonth" type="SfFieldLabel" value="Återkomstdag i månad"/>
+  <translation key="*.RecurrenceDayOfWeekMask" type="SfFieldLabel" value="Återkomstdag i veckomask"/>
+  <translation key="*.RecurrenceEndDateOnly" type="SfFieldLabel" value="Återkommande slutar"/>
+  <translation key="*.RecurrenceInstance" type="SfFieldLabel" value="Återkomstinstans"/>
+  <translation key="*.RecurrenceInterval" type="SfFieldLabel" value="Återkomstintervall"/>
+  <translation key="*.RecurrenceMonthOfYear" type="SfFieldLabel" value="Återkomstmånad i år"/>
+  <translation key="*.RecurrenceStartDateOnly" type="SfFieldLabel" value="Återkommande börjar"/>
+  <translation key="*.RecurrenceStartDateTime" type="SfFieldLabel" value="Återkommande börjar"/>
+  <translation key="*.RecurrenceTimeZoneSidKey" type="SfFieldLabel" value="Återkommande tidszon"/>
+  <translation key="*.RecurrenceType" type="SfFieldLabel" value="Återkomsttyp"/>
+  <translation key="*.RejectionLabel" type="SfFieldLabel" value="Etikett för avvisande"/>
+  <translation key="*.RelatedAssetId" type="SfFieldLabel" value="ID för tillgång"/>
+  <translation key="*.RelatedEntityType" type="SfFieldLabel" value="ID för definition av eget objekt"/>
+  <translation key="*.RelatedRecordId" type="SfFieldLabel" value="ID för relaterad post"/>
+  <translation key="*.RelatedToId" type="SfFieldLabel" value="Relaterad till ID"/>
+  <translation key="*.RelationshipType" type="SfFieldLabel" value="Relationstyp"/>
+  <translation key="*.ReminderDateTime" type="SfFieldLabel" value="Datum/tid för påminnelse"/>
+  <translation key="*.RemodelEndDate" type="SfFieldLabel" value="Slutdatum för ombyggnad"/>
+  <translation key="*.RemodelStartDate" type="SfFieldLabel" value="Startdatum för ombyggnad"/>
+  <translation key="*.RepaymentMethod" type="SfFieldLabel" value="Återbetalningsmetod"/>
+  <translation key="*.ReportsToId" type="SfFieldLabel" value="Rapporterar till"/>
+  <translation key="*.RequestBody" type="SfFieldLabel" value="HTTP-begäran"/>
+  <translation key="*.RequestDescription" type="SfFieldLabel" value="Beskrivning av begäran"/>
+  <translation key="*.RequestId" type="SfFieldLabel" value="ID för partnerfinansieringsförfrågan"/>
+  <translation key="*.RequestReason" type="SfFieldLabel" value="Anledning till begäran"/>
+  <translation key="*.RequestedAmount" type="SfFieldLabel" value="Begärt belopp"/>
+  <translation key="*.RequiredCustomPermissionId" type="SfFieldLabel" value="Egen behörighet-ID"/>
+  <translation key="*.ResourceId" type="SfFieldLabel" value="Resurs-ID"/>
+  <translation key="*.ResourceType" type="SfFieldLabel" value="Resurstyp"/>
+  <translation key="*.RetryCount" type="SfFieldLabel" value="Räkna igen"/>
+  <translation key="*.ReturnOrderId" type="SfFieldLabel" value="Returorder-ID"/>
+  <translation key="*.ReturnOrderLineItemId" type="SfFieldLabel" value="ID för returorderradartikel"/>
+  <translation key="*.ReturnedById" type="SfFieldLabel" value="ID för Returnerad av"/>
+  <translation key="*.Revenue" type="SfFieldLabel" value="Intäkter"/>
+  <translation key="*.Revision" type="SfFieldLabel" value="Revidering"/>
+  <translation key="*.RightSize" type="SfFieldLabel" value="Höger storlek"/>
+  <translation key="*.Role" type="SfFieldLabel" value="Roll"/>
+  <translation key="*.RootContentFolderId" type="SfFieldLabel" value="ID innehållsmapp"/>
+  <translation key="*.RootWorkOrderLineItemId" type="SfFieldLabel" value="ID för radartikel i rotarbetsorder"/>
+  <translation key="*.RunningUserId" type="SfFieldLabel" value="Kör användar-ID"/>
+  <translation key="*.SalesPrice" type="SfFieldLabel" value="Säljpris"/>
+  <translation key="*.SalesTurnoverGrowthRate" type="SfFieldLabel" value="Tillväxt för årliga intäkter"/>
+  <translation key="*.SalesVolume" type="SfFieldLabel" value="Årlig försäljningsvolym"/>
+  <translation key="*.SalesVolumeReliability" type="SfFieldLabel" value="Indikator för årlig försäljningsvolym"/>
+  <translation key="*.SalesforceUserId" type="SfFieldLabel" value="Användar-ID"/>
+  <translation key="*.Salutation" type="SfFieldLabel" value="Hälsningsfras"/>
+  <translation key="*.SaturdayEndTime" type="SfFieldLabel" value="lördag slut"/>
+  <translation key="*.SaturdayStartTime" type="SfFieldLabel" value="lördag start"/>
+  <translation key="*.SchedEndTime" type="SfFieldLabel" value="Schemalagt slut"/>
+  <translation key="*.SchedStartTime" type="SfFieldLabel" value="Schemalagd start"/>
+  <translation key="*.ScheduleDate" type="SfFieldLabel" value="Schemalagd provisioneringstid"/>
+  <translation key="*.ScheduledDate" type="SfFieldLabel" value="Datum för schemaläggning"/>
+  <translation key="*.ScopedToObjectTypes" type="SfFieldLabel" value="Begränsade till objekttyp"/>
+  <translation key="*.SecondNaics" type="SfFieldLabel" value="Andra NAICS-kod"/>
+  <translation key="*.SecondNaicsDesc" type="SfFieldLabel" value="Andra NAICS-beskrivning"/>
+  <translation key="*.SecondSic" type="SfFieldLabel" value="Andra SIC-kod"/>
+  <translation key="*.SecondSic8" type="SfFieldLabel" value="Andra SIC8-kod"/>
+  <translation key="*.SecondSic8Desc" type="SfFieldLabel" value="Andra SIC8-beskrivning "/>
+  <translation key="*.SecondSicDesc" type="SfFieldLabel" value="Andra SIC-beskrivning"/>
+  <translation key="*.SecondaryBrandColor" type="SfFieldLabel" value="Sekundär varumärkesfärg"/>
+  <translation key="*.SenderEmail" type="SfFieldLabel" value="Skicka avsändaradress"/>
+  <translation key="*.SenderName" type="SfFieldLabel" value="Skicka avsändarnamn"/>
+  <translation key="*.SerialNumber" type="SfFieldLabel" value="Serienummer"/>
+  <translation key="*.ServiceAppointmentCount" type="SfFieldLabel" value="Servicebokningsantal"/>
+  <translation key="*.ServiceAppointmentId" type="SfFieldLabel" value="ID för Servicebokning"/>
+  <translation key="*.ServiceCrewId" type="SfFieldLabel" value="ID för servicepersonal"/>
+  <translation key="*.ServiceCrewMemberNumber" type="SfFieldLabel" value="Namn"/>
+  <translation key="*.ServiceDate" type="SfFieldLabel" value="Begärt leveransdatum"/>
+  <translation key="*.ServiceNote" type="SfFieldLabel" value="Servicemeddelande"/>
+  <translation key="*.ServiceReportLanguage" type="SfFieldLabel" value="Servicerapportspråk"/>
+  <translation key="*.ServiceReportTemplateId" type="SfFieldLabel" value="ID för servicerapportlayout"/>
+  <translation key="*.ServiceResourceId" type="SfFieldLabel" value="ID för Serviceresurs"/>
+  <translation key="*.ServiceTerritoryId" type="SfFieldLabel" value="Områdes-ID"/>
+  <translation key="*.ServiceTerritoryLocationNumber" type="SfFieldLabel" value="Serviceområdesplatsnummer"/>
+  <translation key="*.SharingOption" type="SfFieldLabel" value="Hindra andra från att dela och sluta dela"/>
+  <translation key="*.SharingPrivacy" type="SfFieldLabel" value="Filsekretess i poster"/>
+  <translation key="*.ShipFromAddress" type="SfFieldLabel" value="Skicka från adress"/>
+  <translation key="*.ShipFromCity" type="SfFieldLabel" value="Ort"/>
+  <translation key="*.ShipFromCountry" type="SfFieldLabel" value="Land"/>
+  <translation key="*.ShipFromGeocodeAccuracy" type="SfFieldLabel" value="Billing Geocode Accuracy"/>
+  <translation key="*.ShipFromLatitude" type="SfFieldLabel" value="Latitud"/>
+  <translation key="*.ShipFromLongitude" type="SfFieldLabel" value="Longitud"/>
+  <translation key="*.ShipFromPostalCode" type="SfFieldLabel" value="Postnummer"/>
+  <translation key="*.ShipFromState" type="SfFieldLabel" value="Län"/>
+  <translation key="*.ShipFromStreet" type="SfFieldLabel" value="Adress"/>
+  <translation key="*.ShipToAddress" type="SfFieldLabel" value="Leverera till adress"/>
+  <translation key="*.ShipToCity" type="SfFieldLabel" value="Ort"/>
+  <translation key="*.ShipToContactId" type="SfFieldLabel" value="Leveranskontakt-ID"/>
+  <translation key="*.ShipToCountry" type="SfFieldLabel" value="Land"/>
+  <translation key="*.ShipToGeocodeAccuracy" type="SfFieldLabel" value="Billing Geocode Accuracy"/>
+  <translation key="*.ShipToLatitude" type="SfFieldLabel" value="Latitud"/>
+  <translation key="*.ShipToLongitude" type="SfFieldLabel" value="Longitud"/>
+  <translation key="*.ShipToName" type="SfFieldLabel" value="Skicka till Namn"/>
+  <translation key="*.ShipToPostalCode" type="SfFieldLabel" value="Postnummer"/>
+  <translation key="*.ShipToState" type="SfFieldLabel" value="Län"/>
+  <translation key="*.ShipToStreet" type="SfFieldLabel" value="Adress"/>
+  <translation key="*.ShipmentExpectedDeliveryDate" type="SfFieldLabel" value="Förväntat leveransdatum"/>
+  <translation key="*.ShipmentId" type="SfFieldLabel" value="Leverans-ID"/>
+  <translation key="*.ShipmentStatus" type="SfFieldLabel" value="Leveransstatus"/>
+  <translation key="*.ShipmentTrackingNumber" type="SfFieldLabel" value="Leveransens spårningsnummer"/>
+  <translation key="*.ShipmentTrackingUrl" type="SfFieldLabel" value="Leveransens spårnings-URL"/>
+  <translation key="*.ShipmentType" type="SfFieldLabel" value="Leveranstyp"/>
+  <translation key="*.ShippingAddress" type="SfFieldLabel" value="Leveransadress"/>
+  <translation key="*.ShippingCity" type="SfFieldLabel" value="Leveransort"/>
+  <translation key="*.ShippingCountry" type="SfFieldLabel" value="Leveransland"/>
+  <translation key="*.ShippingGeocodeAccuracy" type="SfFieldLabel" value="Shipping Geocode Accuracy"/>
+  <translation key="*.ShippingHandling" type="SfFieldLabel" value="Frakt och hantering"/>
+  <translation key="*.ShippingLatitude" type="SfFieldLabel" value="Leveransbreddgrad"/>
+  <translation key="*.ShippingLongitude" type="SfFieldLabel" value="Leveranslängdgrad"/>
+  <translation key="*.ShippingName" type="SfFieldLabel" value="Leverera till namn"/>
+  <translation key="*.ShippingPostalCode" type="SfFieldLabel" value="Leveranspostnummer"/>
+  <translation key="*.ShippingState" type="SfFieldLabel" value="Leveranslän"/>
+  <translation key="*.ShippingStreet" type="SfFieldLabel" value="Leveransgatuadress"/>
+  <translation key="*.ShouldAddCreatorMembership" type="SfFieldLabel" value="Lägg till skaparmedlemsskap"/>
+  <translation key="*.ShouldAutoCreateSvcAppt" type="SfFieldLabel" value="Skapa servicebokning automatiskt"/>
+  <translation key="*.ShowAs" type="SfFieldLabel" value="Visa tid som"/>
+  <translation key="*.Sic" type="SfFieldLabel" value="SIC-kod"/>
+  <translation key="*.SicCodeDesc" type="SfFieldLabel" value="Branschkoder"/>
+  <translation key="*.SicDesc" type="SfFieldLabel" value="SIC-beskrivning"/>
+  <translation key="*.Signature" type="SfFieldLabel" value="E-postsignatur"/>
+  <translation key="*.Site" type="SfFieldLabel" value="Platstyp"/>
+  <translation key="*.SixthNaics" type="SfFieldLabel" value="Sjätte NAICS-kod"/>
+  <translation key="*.SixthNaicsDesc" type="SfFieldLabel" value="Sjätte NAICS-beskrivning"/>
+  <translation key="*.SixthSic" type="SfFieldLabel" value="Sjätte SIC-kod"/>
+  <translation key="*.SixthSic8" type="SfFieldLabel" value="Sjätte SIC8-kod"/>
+  <translation key="*.SixthSic8Desc" type="SfFieldLabel" value="Sjätte SIC8-beskrivning"/>
+  <translation key="*.SixthSicDesc" type="SfFieldLabel" value="Sjätte SIC-beskrivning"/>
+  <translation key="*.SkillId" type="SfFieldLabel" value="Kompetens-ID"/>
+  <translation key="*.SkillLevel" type="SfFieldLabel" value="Kompetensnivå"/>
+  <translation key="*.SkillNumber" type="SfFieldLabel" value="Resurskompetensnummer"/>
+  <translation key="*.SmallBannerPhotoUrl" type="SfFieldLabel" value="URL för iOS-bannerbild"/>
+  <translation key="*.SmallBusiness" type="SfFieldLabel" value="Indikator för litet företag"/>
+  <translation key="*.SmallPhotoUrl" type="SfFieldLabel" value="Foto"/>
+  <translation key="*.SobjectSubtype" type="SfFieldLabel" value="Objektundertyp"/>
+  <translation key="*.SobjectType" type="SfFieldLabel" value="ID för definition av eget objekt"/>
+  <translation key="*.SolutionNote" type="SfFieldLabel" value="Beskrivning"/>
+  <translation key="*.SortOrder" type="SfFieldLabel" value="Sorteringsordning"/>
+  <translation key="*.SourceLocationId" type="SfFieldLabel" value="ID för Ursprungsplats"/>
+  <translation key="*.SourceProductItemId" type="SfFieldLabel" value="Produktobjekt-ID"/>
+  <translation key="*.SpecialTerms" type="SfFieldLabel" value="Specialvillkor"/>
+  <translation key="*.Stage" type="SfFieldLabel" value="Fas"/>
+  <translation key="*.StageName" type="SfFieldLabel" value="Fas"/>
+  <translation key="*.Start" type="SfFieldLabel" value="Starttid"/>
+  <translation key="*.StartDate" type="SfFieldLabel" value="Startdatum"/>
+  <translation key="*.StartDateTime" type="SfFieldLabel" value="Start"/>
+  <translation key="*.StartTime" type="SfFieldLabel" value="Starttid"/>
+  <translation key="*.StartUrl" type="SfFieldLabel" value="Start-Url"/>
+  <translation key="*.StartingContext" type="SfFieldLabel" value="Använd för"/>
+  <translation key="*.State" type="SfFieldLabel" value="Län"/>
+  <translation key="*.StateCode" type="SfFieldLabel" value="Stat"/>
+  <translation key="*.Status" type="SfFieldLabel" value="Status"/>
+  <translation key="*.StatusCategory" type="SfFieldLabel" value="Statuskategori"/>
+  <translation key="*.StatusCode" type="SfFieldLabel" value="Statuskategori"/>
+  <translation key="*.StayInTouchNote" type="SfFieldLabel" value="Ant. Håll kontakten-e-post"/>
+  <translation key="*.StayInTouchSignature" type="SfFieldLabel" value="Signatur Håll kontakten-e-post"/>
+  <translation key="*.StayInTouchSubject" type="SfFieldLabel" value="Ämne håll kontakten-e-post"/>
+  <translation key="*.StockExchange" type="SfFieldLabel" value="Börs"/>
+  <translation key="*.StockKeepingUnit" type="SfFieldLabel" value="Produkt-SKU"/>
+  <translation key="*.StockSymbol" type="SfFieldLabel" value="Börskodssymbol"/>
+  <translation key="*.Street" type="SfFieldLabel" value="Gatuadress"/>
+  <translation key="*.Subject" type="SfFieldLabel" value="Ämne"/>
+  <translation key="*.Subsidiary" type="SfFieldLabel" value="Indikator för dotterbolag"/>
+  <translation key="*.Subtotal" type="SfFieldLabel" value="Delsumma"/>
+  <translation key="*.SuggestedMaintenanceDate" type="SfFieldLabel" value="Föreslaget underhållsdatum"/>
+  <translation key="*.SundayEndTime" type="SfFieldLabel" value="söndag - slut"/>
+  <translation key="*.SundayStartTime" type="SfFieldLabel" value="söndag - start"/>
+  <translation key="*.SuppliedCompany" type="SfFieldLabel" value="Företag"/>
+  <translation key="*.WebEmail" type="SfFieldLabel" value="E-postadress"/>
+  <translation key="*.SuppliedName" type="SfFieldLabel" value="Namn"/>
+  <translation key="*.WebPhone" type="SfFieldLabel" value="Telefon"/>
+  <translation key="*.SyncedQuoteId" type="SfFieldLabel" value="Offert-ID"/>
+  <translation key="*.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+  <translation key="*.TagCsv" type="SfFieldLabel" value="Taggar"/>
+  <translation key="*.TagModel" type="SfFieldLabel" value="Taggmodell"/>
+  <translation key="*.TalkingAbout" type="SfFieldLabel" value="Talar om"/>
+  <translation key="*.Tax" type="SfFieldLabel" value="Skatt"/>
+  <translation key="*.TemplateStyle" type="SfFieldLabel" value="Stil"/>
+  <translation key="*.TemplateType" type="SfFieldLabel" value="Malltyp"/>
+  <translation key="*.TerritoryType" type="SfFieldLabel" value="Områdestyp"/>
+  <translation key="*.TextBody" type="SfFieldLabel" value="Brödtext"/>
+  <translation key="*.TextColor" type="SfFieldLabel" value="Textfärg"/>
+  <translation key="*.TextPreview" type="SfFieldLabel" value="Textförhandsgranskning"/>
+  <translation key="*.ThirdNaics" type="SfFieldLabel" value="Tredje NAICS-kod"/>
+  <translation key="*.ThirdNaicsDesc" type="SfFieldLabel" value="Tredje NAICS-beskrivning"/>
+  <translation key="*.ThirdSic" type="SfFieldLabel" value="Tredje SIC-kod"/>
+  <translation key="*.ThirdSic8" type="SfFieldLabel" value="Tredje SIC8-kod"/>
+  <translation key="*.ThirdSic8Desc" type="SfFieldLabel" value="Tredje SIC8-beskrivning"/>
+  <translation key="*.ThirdSicDesc" type="SfFieldLabel" value="Tredje SIC-beskrivning"/>
+  <translation key="*.ThreadIdentifier" type="SfFieldLabel" value="Tråd-ID"/>
+  <translation key="*.ThursdayEndTime" type="SfFieldLabel" value="torsdag slut"/>
+  <translation key="*.ThursdayStartTime" type="SfFieldLabel" value="torsdag start"/>
+  <translation key="*.TickerSymbol" type="SfFieldLabel" value="Börskodsymbol"/>
+  <translation key="*.TimeIntervalSetupMins" type="SfFieldLabel" value="Tidsintervall för kombinationsruta i minuter"/>
+  <translation key="*.TimePeriod" type="SfFieldLabel" value="Tidsperiod"/>
+  <translation key="*.TimeSheetEntryNumber" type="SfFieldLabel" value="Namn"/>
+  <translation key="*.TimeSheetId" type="SfFieldLabel" value="ID för Tidrapport"/>
+  <translation key="*.TimeSheetNumber" type="SfFieldLabel" value="Namn"/>
+  <translation key="*.TimeSlotNumber" type="SfFieldLabel" value="Namn"/>
+  <translation key="*.TimeZone" type="SfFieldLabel" value="Tidszon"/>
+  <translation key="*.TimeZoneSidKey" type="SfFieldLabel" value="Tidszon"/>
+  <translation key="*.TimesUsed" type="SfFieldLabel" value="Använd antal gånger"/>
+  <translation key="*.Title" type="SfFieldLabel" value="Namn på fil/bilaga"/>
+  <translation key="*.TitleColor" type="SfFieldLabel" value="Rubrikfärg"/>
+  <translation key="*.TitleSize" type="SfFieldLabel" value="Rubrikstorlek"/>
+  <translation key="*.ToAddress" type="SfFieldLabel" value="Till-adress"/>
+  <translation key="*.ToDate" type="SfFieldLabel" value="Till datum"/>
+  <translation key="*.TopLevelTerritoryId" type="SfFieldLabel" value="ID för toppnivåområde"/>
+  <translation key="*.TotalAllocatedAmount" type="SfFieldLabel" value="Totalt allokerat belopp"/>
+  <translation key="*.TotalApprovedFcs" type="SfFieldLabel" value="Totalt antal godkända finansieringsanspråk"/>
+  <translation key="*.TotalApprovedFrs" type="SfFieldLabel" value="Totalt antal godkända finansieringsförfrågningar"/>
+  <translation key="*.TotalOpportunityQuantity" type="SfFieldLabel" value="Kvantitet"/>
+  <translation key="*.TotalPrice" type="SfFieldLabel" value="Totalpris"/>
+  <translation key="*.TotalReimbursedFcs" type="SfFieldLabel" value="Totalt antal återbetalda finansieringsanspråk"/>
+  <translation key="*.TotalSent" type="SfFieldLabel" value="Totalt antal skickat"/>
+  <translation key="*.TrackingNumber" type="SfFieldLabel" value="Spårningsnummer"/>
+  <translation key="*.TrackingUrl" type="SfFieldLabel" value="Spårnings-URL"/>
+  <translation key="*.TradeStyle" type="SfFieldLabel" value="Handelsstil"/>
+  <translation key="*.TradeStyle1" type="SfFieldLabel" value="Primär tradestyle"/>
+  <translation key="*.TradeStyle2" type="SfFieldLabel" value="Andra Tradestyle"/>
+  <translation key="*.TradeStyle3" type="SfFieldLabel" value="Tredje Tradestyle"/>
+  <translation key="*.TradeStyle4" type="SfFieldLabel" value="Fjärde Tradestyle"/>
+  <translation key="*.TradeStyle5" type="SfFieldLabel" value="Femte Tradestyle"/>
+  <translation key="*.Tradestyle" type="SfFieldLabel" value="Tradestyle"/>
+  <translation key="*.TransactionType" type="SfFieldLabel" value="Transaktionstyp"/>
+  <translation key="*.TuesdayEndTime" type="SfFieldLabel" value="tisdag slut"/>
+  <translation key="*.TuesdayStartTime" type="SfFieldLabel" value="tisdag start"/>
+  <translation key="*.Type" type="SfFieldLabel" value="Typ"/>
+  <translation key="*.URL" type="SfFieldLabel" value="URL"/>
+  <translation key="*.UiType" type="SfFieldLabel" value="Användargränssnittstyp"/>
+  <translation key="*.UnitPrice" type="SfFieldLabel" value="Säljpris"/>
+  <translation key="*.UpdateScheduleTimeMins" type="SfFieldLabel" value="Uppdateringsfrekvens för schema i minuter"/>
+  <translation key="*.UpdatedDate" type="SfFieldLabel" value="Datum för uppdatering"/>
+  <translation key="*.UsTaxId" type="SfFieldLabel" value="Skattenummer för USA"/>
+  <translation key="*.UsageEndDate" type="SfFieldLabel" value="Slutdatum för användning"/>
+  <translation key="*.UseStandardPrice" type="SfFieldLabel" value="Använd standardpris"/>
+  <translation key="*.UserAlias" type="SfFieldLabel" value="Anpassat användaralias"/>
+  <translation key="*.UserId" type="SfFieldLabel" value="Användar-ID"/>
+  <translation key="*.UserPermissionsCallCenterAutoLogin" type="SfFieldLabel" value="Automatisk inloggning till Call Center"/>
+  <translation key="*.UserPreferencesActivityRemindersPopup" type="SfFieldLabel" value="ActivityRemindersPopup"/>
+  <translation key="*.UserPreferencesApexPagesDeveloperMode" type="SfFieldLabel" value="ApexPagesDeveloperMode"/>
+  <translation key="*.UserPreferencesCacheDiagnostics" type="SfFieldLabel" value="CacheDiagnostics"/>
+  <translation key="*.UserPreferencesContentEmailAsAndWhen" type="SfFieldLabel" value="ContentEmailAsAndWhen"/>
+  <translation key="*.UserPreferencesContentNoEmail" type="SfFieldLabel" value="ContentNoEmail"/>
+  <translation key="*.UserPreferencesCreateLEXAppsWTShown" type="SfFieldLabel" value="CreateLEXAppsWTShown"/>
+  <translation key="*.UserPreferencesDisCommentAfterLikeEmail" type="SfFieldLabel" value="DisCommentAfterLikeEmail"/>
+  <translation key="*.UserPreferencesDisMentionsCommentEmail" type="SfFieldLabel" value="DisMentionsCommentEmail"/>
+  <translation key="*.UserPreferencesDisProfPostCommentEmail" type="SfFieldLabel" value="DisProfPostCommentEmail"/>
+  <translation key="*.UserPreferencesDisableAllFeedsEmail" type="SfFieldLabel" value="DisableAllFeedsEmail"/>
+  <translation key="*.UserPreferencesDisableBookmarkEmail" type="SfFieldLabel" value="DisableBookmarkEmail"/>
+  <translation key="*.UserPreferencesDisableChangeCommentEmail" type="SfFieldLabel" value="DisableChangeCommentEmail"/>
+  <translation key="*.UserPreferencesDisableEndorsementEmail" type="SfFieldLabel" value="DisableEndorsementEmail"/>
+  <translation key="*.UserPreferencesDisableFeedbackEmail" type="SfFieldLabel" value="DisableFeedbackEmail"/>
+  <translation key="*.UserPreferencesDisableFileShareNotificationsForApi" type="SfFieldLabel" value="DisableFileShareNotificationsForApi"/>
+  <translation key="*.UserPreferencesDisableFollowersEmail" type="SfFieldLabel" value="DisableFollowersEmail"/>
+  <translation key="*.UserPreferencesDisableLaterCommentEmail" type="SfFieldLabel" value="DisableLaterCommentEmail"/>
+  <translation key="*.UserPreferencesDisableLikeEmail" type="SfFieldLabel" value="DisableLikeEmail"/>
+  <translation key="*.UserPreferencesDisableMentionsPostEmail" type="SfFieldLabel" value="DisableMentionsPostEmail"/>
+  <translation key="*.UserPreferencesDisableMessageEmail" type="SfFieldLabel" value="DisableMessageEmail"/>
+  <translation key="*.UserPreferencesDisableProfilePostEmail" type="SfFieldLabel" value="DisableProfilePostEmail"/>
+  <translation key="*.UserPreferencesDisableSharePostEmail" type="SfFieldLabel" value="DisableSharePostEmail"/>
+  <translation key="*.UserPreferencesDisableWorkEmail" type="SfFieldLabel" value="DisableWorkEmail"/>
+  <translation key="*.UserPreferencesEnableAutoSubForFeeds" type="SfFieldLabel" value="EnableAutoSubForFeeds"/>
+  <translation key="*.UserPreferencesEventRemindersCheckboxDefault" type="SfFieldLabel" value="EventRemindersCheckboxDefault"/>
+  <translation key="*.UserPreferencesExcludeMailAppAttachments" type="SfFieldLabel" value="ExcludeMailAppAttachments"/>
+  <translation key="*.UserPreferencesFavoritesShowTopFavorites" type="SfFieldLabel" value="FavoritesShowTopFavorites"/>
+  <translation key="*.UserPreferencesFavoritesWTShown" type="SfFieldLabel" value="FavoritesWTShown"/>
+  <translation key="*.UserPreferencesGlobalNavBarWTShown" type="SfFieldLabel" value="GlobalNavBarWTShown"/>
+  <translation key="*.UserPreferencesGlobalNavGridMenuWTShown" type="SfFieldLabel" value="GlobalNavGridMenuWTShown"/>
+  <translation key="*.UserPreferencesHasCelebrationBadge" type="SfFieldLabel" value="HasCelebrationBadge"/>
+  <translation key="*.UserPreferencesHideBiggerPhotoCallout" type="SfFieldLabel" value="HideBiggerPhotoCallout"/>
+  <translation key="*.UserPreferencesHideCSNDesktopTask" type="SfFieldLabel" value="HideCSNDesktopTask"/>
+  <translation key="*.UserPreferencesHideCSNGetChatterMobileTask" type="SfFieldLabel" value="HideCSNGetChatterMobileTask"/>
+  <translation key="*.UserPreferencesHideChatterOnboardingSplash" type="SfFieldLabel" value="HideChatterOnboardingSplash"/>
+  <translation key="*.UserPreferencesHideEndUserOnboardingAssistantModal" type="SfFieldLabel" value="HideEndUserOnboardingAssistantModal"/>
+  <translation key="*.UserPreferencesHideLightningMigrationModal" type="SfFieldLabel" value="HideLightningMigrationModal"/>
+  <translation key="*.UserPreferencesHideS1BrowserUI" type="SfFieldLabel" value="HideS1BrowserUI"/>
+  <translation key="*.UserPreferencesHideSecondChatterOnboardingSplash" type="SfFieldLabel" value="HideSecondChatterOnboardingSplash"/>
+  <translation key="*.UserPreferencesHideSfxWelcomeMat" type="SfFieldLabel" value="HideSfxWelcomeMat"/>
+  <translation key="*.UserPreferencesJigsawListUser" type="SfFieldLabel" value="JigsawListUser"/>
+  <translation key="*.UserPreferencesLightningExperiencePreferred" type="SfFieldLabel" value="LightningExperiencePreferred"/>
+  <translation key="*.UserPreferencesNewLightningReportRunPageEnabled" type="SfFieldLabel" value="NewLightningReportRunPageEnabled"/>
+  <translation key="*.UserPreferencesPathAssistantCollapsed" type="SfFieldLabel" value="PathAssistantCollapsed"/>
+  <translation key="*.UserPreferencesPipelineViewHideHelpPopover" type="SfFieldLabel" value="PipelineViewHideHelpPopover"/>
+  <translation key="*.UserPreferencesPreviewCustomTheme" type="SfFieldLabel" value="PreviewCustomTheme"/>
+  <translation key="*.UserPreferencesPreviewLightning" type="SfFieldLabel" value="PreviewLightning"/>
+  <translation key="*.UserPreferencesRecordHomeReservedWTShown" type="SfFieldLabel" value="RecordHomeReservedWTShown"/>
+  <translation key="*.UserPreferencesRecordHomeSectionCollapseWTShown" type="SfFieldLabel" value="RecordHomeSectionCollapseWTShown"/>
+  <translation key="*.UserPreferencesReminderSoundOff" type="SfFieldLabel" value="ReminderSoundOff"/>
+  <translation key="*.UserPreferencesShowCityToExternalUsers" type="SfFieldLabel" value="ShowCityToExternalUsers"/>
+  <translation key="*.UserPreferencesShowCityToGuestUsers" type="SfFieldLabel" value="ShowCityToGuestUsers"/>
+  <translation key="*.UserPreferencesShowCountryToExternalUsers" type="SfFieldLabel" value="ShowCountryToExternalUsers"/>
+  <translation key="*.UserPreferencesShowCountryToGuestUsers" type="SfFieldLabel" value="ShowCountryToGuestUsers"/>
+  <translation key="*.UserPreferencesShowEmailToExternalUsers" type="SfFieldLabel" value="ShowEmailToExternalUsers"/>
+  <translation key="*.UserPreferencesShowEmailToGuestUsers" type="SfFieldLabel" value="ShowEmailToGuestUsers"/>
+  <translation key="*.UserPreferencesShowFaxToExternalUsers" type="SfFieldLabel" value="ShowFaxToExternalUsers"/>
+  <translation key="*.UserPreferencesShowFaxToGuestUsers" type="SfFieldLabel" value="ShowFaxToGuestUsers"/>
+  <translation key="*.UserPreferencesShowManagerToExternalUsers" type="SfFieldLabel" value="ShowManagerToExternalUsers"/>
+  <translation key="*.UserPreferencesShowManagerToGuestUsers" type="SfFieldLabel" value="ShowManagerToGuestUsers"/>
+  <translation key="*.UserPreferencesShowMobilePhoneToExternalUsers" type="SfFieldLabel" value="ShowMobilePhoneToExternalUsers"/>
+  <translation key="*.UserPreferencesShowMobilePhoneToGuestUsers" type="SfFieldLabel" value="ShowMobilePhoneToGuestUsers"/>
+  <translation key="*.UserPreferencesShowPostalCodeToExternalUsers" type="SfFieldLabel" value="ShowPostalCodeToExternalUsers"/>
+  <translation key="*.UserPreferencesShowPostalCodeToGuestUsers" type="SfFieldLabel" value="ShowPostalCodeToGuestUsers"/>
+  <translation key="*.UserPreferencesShowProfilePicToGuestUsers" type="SfFieldLabel" value="ShowProfilePicToGuestUsers"/>
+  <translation key="*.UserPreferencesShowStateToExternalUsers" type="SfFieldLabel" value="ShowStateToExternalUsers"/>
+  <translation key="*.UserPreferencesShowStateToGuestUsers" type="SfFieldLabel" value="ShowStateToGuestUsers"/>
+  <translation key="*.UserPreferencesShowStreetAddressToExternalUsers" type="SfFieldLabel" value="ShowStreetAddressToExternalUsers"/>
+  <translation key="*.UserPreferencesShowStreetAddressToGuestUsers" type="SfFieldLabel" value="ShowStreetAddressToGuestUsers"/>
+  <translation key="*.UserPreferencesShowTitleToExternalUsers" type="SfFieldLabel" value="ShowTitleToExternalUsers"/>
+  <translation key="*.UserPreferencesShowTitleToGuestUsers" type="SfFieldLabel" value="ShowTitleToGuestUsers"/>
+  <translation key="*.UserPreferencesShowWorkPhoneToExternalUsers" type="SfFieldLabel" value="ShowWorkPhoneToExternalUsers"/>
+  <translation key="*.UserPreferencesShowWorkPhoneToGuestUsers" type="SfFieldLabel" value="ShowWorkPhoneToGuestUsers"/>
+  <translation key="*.UserPreferencesSortFeedByComment" type="SfFieldLabel" value="SortFeedByComment"/>
+  <translation key="*.UserPreferencesSuppressEventSFXReminders" type="SfFieldLabel" value="SuppressEventSFXReminders"/>
+  <translation key="*.UserPreferencesSuppressTaskSFXReminders" type="SfFieldLabel" value="SuppressTaskSFXReminders"/>
+  <translation key="*.UserPreferencesTaskRemindersCheckboxDefault" type="SfFieldLabel" value="TaskRemindersCheckboxDefault"/>
+  <translation key="*.UserPreferencesUserDebugModePref" type="SfFieldLabel" value="UserDebugModePref"/>
+  <translation key="*.UserProvAccountId" type="SfFieldLabel" value="Användarprovisioneringskonto-ID"/>
+  <translation key="*.UserProvConfigId" type="SfFieldLabel" value="UserProvisioningConfig ID"/>
+  <translation key="*.UserRoleId" type="SfFieldLabel" value="Roll-ID"/>
+  <translation key="*.UserSortOrder" type="SfFieldLabel" value="Användarsorteringsordning"/>
+  <translation key="*.UserType" type="SfFieldLabel" value="Användartyp"/>
+  <translation key="*.UserVisibility" type="SfFieldLabel" value="Användarens synlighet"/>
+  <translation key="*.Username" type="SfFieldLabel" value="Användarnamn"/>
+  <translation key="*.ValidatedFromAddress" type="SfFieldLabel" value="Från"/>
+  <translation key="*.VersionData" type="SfFieldLabel" value="Versionsdata"/>
+  <translation key="*.VersionNumber" type="SfFieldLabel" value="Versionsnummer"/>
+  <translation key="*.Visibility" type="SfFieldLabel" value="Synlighet"/>
+  <translation key="*.VisitorAddressId" type="SfFieldLabel" value="Adress-ID"/>
+  <translation key="*.VoteScore" type="SfFieldLabel" value="Omröstningspoäng"/>
+  <translation key="*.VoteTotal" type="SfFieldLabel" value="Totalt antal röster"/>
+  <translation key="*.Website" type="SfFieldLabel" value="Webbplats"/>
+  <translation key="*.WednesdayEndTime" type="SfFieldLabel" value="onsdag slut"/>
+  <translation key="*.WednesdayStartTime" type="SfFieldLabel" value="onsdag start"/>
+  <translation key="*.WhatId" type="SfFieldLabel" value="Relaterad till"/>
+  <translation key="*.WhoId" type="SfFieldLabel" value="Namn"/>
+  <translation key="*.WomenOwned" type="SfFieldLabel" value="Indikator för ägd av kvinna"/>
+  <translation key="*.WorkOrderGenerationStatus" type="SfFieldLabel" value="Skapandestatus för Arbetsorder"/>
+  <translation key="*.WorkOrderId" type="SfFieldLabel" value="Arbetsorder-ID"/>
+  <translation key="*.WorkOrderLineItemId" type="SfFieldLabel" value="Radartikel-ID"/>
+  <translation key="*.WorkTypeId" type="SfFieldLabel" value="Arbetstyp-ID"/>
+  <translation key="*.WorkspaceImageId" type="SfFieldLabel" value="ID för tillgångsfil"/>
+  <translation key="*.YearStarted" type="SfFieldLabel" value="Startår"/>
+  <translation key="*.Zip" type="SfFieldLabel" value="Postort"/>
+  <translation key="CaseComments.CommentBody" type="SfFieldLabel" value="Kommentar"/>
+  <translation key="Histories.CreatedDate" type="SfFieldLabel" value="Datum"/>
+  <translation key="Histories.User" type="SfFieldLabel" value="Användare"/>
+  <translation key="Histories.Action" type="SfFieldLabel" value="Åtgärd"/>
+  <translation key="Histories.WhoId" type="SfFieldLabel" value="Namn"/>
+  <translation key="Histories.Owner" type="SfFieldLabel" value="Tilldelad till"/>
+  <translation key="OpenActivities.Owner" type="SfFieldLabel" value="Tilldelad till"/>
+  <translation key="ActivityHistories.Owner" type="SfFieldLabel" value="Tilldelad till"/>
+  <translation key="ProcessInstanceNode.ProcessNodeName" type="SfFieldLabel" value="Stegnamn"/>
+  <translation key="*.*.Actual Times" type="SfLayoutSectionLabel" value="Faktiska tider"/>
+  <translation key="*.*.Additional Information" type="SfLayoutSectionLabel" value="Ytterligare information"/>
+  <translation key="*.*.Address Information" type="SfLayoutSectionLabel" value="Adressinformation"/>
+  <translation key="*.*.Allocation Usage" type="SfLayoutSectionLabel" value="Resursallokeringsanvändning"/>
+  <translation key="*.*.Automation" type="SfLayoutSectionLabel" value="Automatisering"/>
+  <translation key="*.*.Brand Assets" type="SfLayoutSectionLabel" value="Varumärkestillgångar"/>
+  <translation key="*.*.Brand Details" type="SfLayoutSectionLabel" value="Varumärkesdetaljer"/>
+  <translation key="*.*.Calendar Event Details" type="SfLayoutSectionLabel" value="Kalenderdetaljer"/>
+  <translation key="*.*.Company Details" type="SfLayoutSectionLabel" value="Företagsdetaljer"/>
+  <translation key="*.*.Custom Links" type="SfLayoutSectionLabel" value="Egna länkar"/>
+  <translation key="*.*.DandBAdditionaClassification" type="SfLayoutSectionLabel" value="Ytterligare klassificeringsdata"/>
+  <translation key="*.*.DandBAdditionalParentCompany" type="SfLayoutSectionLabel" value="Ytterligare överordnad företagsdata"/>
+  <translation key="*.*.DandBDescription" type="SfLayoutSectionLabel" value="Översikt"/>
+  <translation key="*.*.DandBFirmographic" type="SfLayoutSectionLabel" value="Firmografiska data"/>
+  <translation key="*.*.DandBPrimary" type="SfLayoutSectionLabel" value="Primärdata"/>
+  <translation key="*.*.Description" type="SfLayoutSectionLabel" value="Beskrivning"/>
+  <translation key="*.*.Description Information" type="SfLayoutSectionLabel" value="Beskrivningsinformation"/>
+  <translation key="*.*.Detail Information" type="SfLayoutSectionLabel" value="Detaljinformation"/>
+  <translation key="*.*.EffectiveDuration" type="SfLayoutSectionLabel" value="Varaktighet"/>
+  <translation key="*.*.General Information" type="SfLayoutSectionLabel" value="Allmän information"/>
+  <translation key="*.*.Information" type="SfLayoutSectionLabel" value="Information"/>
+  <translation key="*.*.Message Content" type="SfLayoutSectionLabel" value="Meddelandeinnehåll"/>
+  <translation key="*.*.Optional" type="SfLayoutSectionLabel" value="Valfri"/>
+  <translation key="*.*.Other Information" type="SfLayoutSectionLabel" value="Övrig information"/>
+  <translation key="*.*.Order Information" type="SfLayoutSectionLabel" value="Beställningsinformation"/>
+  <translation key="*.*.Prepared for" type="SfLayoutSectionLabel" value="Förberett för"/>
+  <translation key="*.*.Product Information" type="SfLayoutSectionLabel" value="Produktinformation"/>
+  <translation key="*.*.Scheduled Times" type="SfLayoutSectionLabel" value="Schemalagda tider"/>
+  <translation key="*.*.Shipping Information" type="SfLayoutSectionLabel" value="Leveransinformation"/>
+  <translation key="*.*.System Information" type="SfLayoutSectionLabel" value="Systeminformation"/>
+  <translation key="*.*.Task Information" type="SfLayoutSectionLabel" value="Aktivitetsinformation"/>
+  <translation key="*.*.Totals" type="SfLayoutSectionLabel" value="Totalt"/>
+  <translation key="*.*.Tracking Information" type="SfLayoutSectionLabel" value="Spårningsinformation"/>
+  <translation key="*.*.Web Information" type="SfLayoutSectionLabel" value="Webbinformation"/>
+  <translation key="*.*.Work Order Generation" type="SfLayoutSectionLabel" value="Skapa arbetsorder"/>
+  <translation key="Account" plural="Konton" type="SfObjectLabel" value="Konto"/>
+  <translation key="AccountBrand" plural="Kontovarumärken" type="SfObjectLabel" value="Kontovarumärke"/>
+  <translation key="ActionLinkGroupTemplate" plural="Åtgärdslänkgruppmallar" type="SfObjectLabel" value="Åtgärdslänkgruppmall"/>
+  <translation key="ActionLinkTemplate" plural="Åtgärdslänkmallar" type="SfObjectLabel" value="Åtgärdslänkmall"/>
+  <translation key="Address" plural="Adresser" type="SfObjectLabel" value="Adress"/>
+  <translation key="AppExtension" plural="Apptillägg" type="SfObjectLabel" value="Apptillägg"/>
+  <translation key="Asset" plural="Tillgångar" type="SfObjectLabel" value="Tillgång"/>
+  <translation key="AssetRelationship" plural="Tillgångsrelationer" type="SfObjectLabel" value="Tillgångsrelation"/>
+  <translation key="AssignedResource" plural="Tilldelade resurser" type="SfObjectLabel" value="Tilldelad resurs"/>
+  <translation key="AssociatedLocation" plural="Associerade platser" type="SfObjectLabel" value="Associerad plats"/>
+  <translation key="BusinessHours" plural="Öppettider" type="SfObjectLabel" value="Öppettider"/>
+  <translation key="Campaign" plural="Kampanjer" type="SfObjectLabel" value="Kampanj"/>
+  <translation key="CampaignMember" plural="Kampanjmedlemmar" type="SfObjectLabel" value="Kampanjmedlem"/>
+  <translation key="CampaignMemberStatus" plural="Kampanjmedlemsstatusar" type="SfObjectLabel" value="Kampanjmedlemsstatus"/>
+  <translation key="Case" plural="Kundcase" type="SfObjectLabel" value="Kundcase"/>
+  <translation key="CaseComment" plural="Kundcasekommentarer" type="SfObjectLabel" value="Kundcasekommentar"/>
+  <translation key="CaseContactRole" plural="Kundcasekontaktroll" type="SfObjectLabel" value="Kundcasekontaktroll"/>
+  <translation key="ChannelProgram" plural="Kanalprogram" type="SfObjectLabel" value="Kanalprogram"/>
+  <translation key="ChannelProgramLevel" plural="Kanalprogramnivåer" type="SfObjectLabel" value="Kanalprogramnivå"/>
+  <translation key="ChannelProgramMember" plural="Kanalprogrammedlemmar" type="SfObjectLabel" value="Kanalprogrammedlem"/>
+  <translation key="CollaborationGroup" plural="Grupper" type="SfObjectLabel" value="Grupp"/>
+  <translation key="CollaborationGroupMember" plural="Grupp-medlemmar" type="SfObjectLabel" value="Grupp-medlem"/>
+  <translation key="CollaborationGroupRecord" plural="Grupp-poster" type="SfObjectLabel" value="Grupp-post"/>
+  <translation key="Contact" plural="Kontakter" type="SfObjectLabel" value="Kontakt"/>
+  <translation key="ContactRequest" plural="Kontaktförfrågningar" type="SfObjectLabel" value="Kontaktförfrågan"/>
+  <translation key="ContentDocument" plural="Innehållsdokument" type="SfObjectLabel" value="Innehållsdokument"/>
+  <translation key="ContentFolderItem" plural="Innehållsmappobjekt" type="SfObjectLabel" value="Innehållsmappobjekt"/>
+  <translation key="ContentVersion" plural="Innehållsversioner" type="SfObjectLabel" value="Innehållsversion"/>
+  <translation key="ContentWorkspace" plural="Bibliotek" type="SfObjectLabel" value="Bibliotek"/>
+  <translation key="Contract" plural="Kontrakt" type="SfObjectLabel" value="Kontrakt"/>
+  <translation key="ContractContactRole" plural="Kontraktkontaktroll" type="SfObjectLabel" value="Kontraktkontaktroll"/>
+  <translation key="CustomHttpHeader" plural="Egna HTTP-sidhuvuden" type="SfObjectLabel" value="Eget HTTP-sidhuvud"/>
+  <translation key="CustomPermission" plural="Egena behörigheter" type="SfObjectLabel" value="Egen behörighet"/>
+  <translation key="CustomPermissionDependency" plural="Anpassade behörighetsberoenden" type="SfObjectLabel" value="Anpassat behörighetsberoende"/>
+  <translation key="DandBCompany" plural="D&amp;B-konton" type="SfObjectLabel" value="D&amp;B-konto"/>
+  <translation key="Dashboard" plural="Instrumentpaneler" type="SfObjectLabel" value="Instrumentpanel"/>
+  <translation key="DatacloudCompany" plural="Data.com företag" type="SfObjectLabel" value="Data.com företag"/>
+  <translation key="DatacloudDandBCompany" plural="DandB-företag" type="SfObjectLabel" value="D&amp;B-konto"/>
+  <translation key="DuplicateRecordItem" plural="Dubblett av postobjekt" type="SfObjectLabel" value="Dubblett av postobjekt"/>
+  <translation key="DuplicateRecordSet" plural="Dubblett av postuppsättningar" type="SfObjectLabel" value="Dubblett av postuppsättning"/>
+  <translation key="DuplicateRule" plural="Dupliceringsregler" type="SfObjectLabel" value="Dupliceringsregel"/>
+  <translation key="EmailMessage" plural="E-postmeddelanden" type="SfObjectLabel" value="E-postmeddelande"/>
+  <translation key="EmailTemplate" plural="E-postmallar" type="SfObjectLabel" value="E-postmall"/>
+  <translation key="Event" plural="Händelser" type="SfObjectLabel" value="Händelse"/>
+  <translation key="FeedItem" plural="Kanalartiklar" type="SfObjectLabel" value="Kanalartikel"/>
+  <translation key="FieldServiceMobileSettings" plural="Mobilinställning för Field Service" type="SfObjectLabel" value="Mobilinställning för Field Service"/>
+  <translation key="FlowInterview" plural="Flow Interviews" type="SfObjectLabel" value="Flow Interview"/>
+  <translation key="Idea" plural="Idéer" type="SfObjectLabel" value="Idé"/>
+  <translation key="Image" plural="Bilder" type="SfObjectLabel" value="Bild"/>
+  <translation key="Lead" plural="Leads" type="SfObjectLabel" value="Lead"/>
+  <translation key="ListEmail" plural="List-e-postmeddelanden" type="SfObjectLabel" value="List-e-postmeddelande"/>
+  <translation key="Location" plural="Platser" type="SfObjectLabel" value="Plats"/>
+  <translation key="Macro" plural="Makron" type="SfObjectLabel" value="Makro"/>
+  <translation key="MaintenanceAsset" plural="Underhållstillgångar" type="SfObjectLabel" value="Underhållstillgång"/>
+  <translation key="MaintenancePlan" plural="Underhållsplaner" type="SfObjectLabel" value="Underhållsplan"/>
+  <translation key="Note" plural="Anteckningar" type="SfObjectLabel" value="Anteckning"/>
+  <translation key="OperatingHours" plural="Arbetstid" type="SfObjectLabel" value="Arbetstid"/>
+  <translation key="Opportunity" plural="Säljprojekt" type="SfObjectLabel" value="Säljprojekt"/>
+  <translation key="OpportunityContactRole" plural="Säljprojektets kontaktroll" type="SfObjectLabel" value="Säljprojektets kontaktroll"/>
+  <translation key="OpportunityLineItem" plural="Säljprojektsprodukt" type="SfObjectLabel" value="Säljprojektsprodukt"/>
+  <translation key="Order" plural="Order" type="SfObjectLabel" value="Order"/>
+  <translation key="OrderItem" plural="Orderprodukter" type="SfObjectLabel" value="Orderprodukt"/>
+  <translation key="PartnerFundAllocation" plural="Partnerfinansieringsallokeringar" type="SfObjectLabel" value="Partnerfinansieringsallokering"/>
+  <translation key="PartnerFundClaim" plural="Partnerfinansieringsanspråk" type="SfObjectLabel" value="Partnerfinansieringsanspråk"/>
+  <translation key="PartnerFundRequest" plural="Partnerfinansieringsförfrågningar" type="SfObjectLabel" value="Partnerfinansieringsförfrågan"/>
+  <translation key="PartnerMarketingBudget" plural="Marknadsföringsbudgetar för partner" type="SfObjectLabel" value="Marknadsföringsbudget för partner"/>
+  <translation key="Pricebook2" plural="Prisböcker" type="SfObjectLabel" value="Prisbok"/>
+  <translation key="PricebookEntry" plural="Prisbokposter" type="SfObjectLabel" value="Prisbokpost"/>
+  <translation key="Product2" plural="Produkter" type="SfObjectLabel" value="Produkt"/>
+  <translation key="ProductConsumed" plural="Använda produkter" type="SfObjectLabel" value="Använd produkt"/>
+  <translation key="ProductItem" plural="Produktobjekt" type="SfObjectLabel" value="Produktobjekt"/>
+  <translation key="ProductItemTransaction" plural="Produktobjekttransaktioner" type="SfObjectLabel" value="Produktobjekttransaktion"/>
+  <translation key="ProductRequest" plural="Produktbegäranden" type="SfObjectLabel" value="Produktbegäran"/>
+  <translation key="ProductRequestLineItem" plural="Produktbegäranradartiklar" type="SfObjectLabel" value="Produktbegäranradartikel"/>
+  <translation key="ProductRequired" plural="Produkter som behövs" type="SfObjectLabel" value="Produkt som behövs"/>
+  <translation key="ProductTransfer" plural="Produktöverföringar" type="SfObjectLabel" value="Produktöverföring"/>
+  <translation key="QuickText" plural="Snabbtexter" type="SfObjectLabel" value="Snabbtext"/>
+  <translation key="Quote" plural="Offerter" type="SfObjectLabel" value="Offert"/>
+  <translation key="QuoteLineItem" plural="Offertradartiklar" type="SfObjectLabel" value="Offertradartikel"/>
+  <translation key="Recommendation" plural="Rekommendationer" type="SfObjectLabel" value="Rekommendation"/>
+  <translation key="ResourceAbsence" plural="Resursfrånvaro" type="SfObjectLabel" value="Resursfrånvaro"/>
+  <translation key="ResourcePreference" plural="Resurspreferenser" type="SfObjectLabel" value="Resurspreferens"/>
+  <translation key="ReturnOrder" plural="Returordrar" type="SfObjectLabel" value="Returorder"/>
+  <translation key="ReturnOrderLineItem" plural="Returorderradartiklar" type="SfObjectLabel" value="Returorderradartikel"/>
+  <translation key="SecureAgentsCluster" plural="Kluster för säker agent" type="SfObjectLabel" value="Kluster för säker agent"/>
+  <translation key="ServiceAppointment" plural="Servicebokningar" type="SfObjectLabel" value="Servicebokning"/>
+  <translation key="ServiceCrew" plural="Servicepersonal" type="SfObjectLabel" value="Servicepersonal"/>
+  <translation key="ServiceCrewMember" plural="Servicepersonalmedlemmar" type="SfObjectLabel" value="Servicepersonalmedlem"/>
+  <translation key="ServiceResource" plural="Serviceresurser" type="SfObjectLabel" value="Serviceresurs"/>
+  <translation key="ServiceResourceCapacity" plural="Resurskapaciteter" type="SfObjectLabel" value="Resurskapacitet"/>
+  <translation key="ServiceResourceSkill" plural="Serviceresurskompetenser" type="SfObjectLabel" value="Serviceresurskompetens"/>
+  <translation key="ServiceTerritory" plural="Serviceområden" type="SfObjectLabel" value="Serviceområde"/>
+  <translation key="ServiceTerritoryLocation" plural="Serviceområdesplatser" type="SfObjectLabel" value=" Serviceområdesplats"/>
+  <translation key="ServiceTerritoryMember" plural="Serviceområdesmedlemmar" type="SfObjectLabel" value="Serviceområdesmedlem"/>
+  <translation key="SessionPermSetActivation" plural="Aktiveringar av behörighetsuppsättning för session" type="SfObjectLabel" value="Aktivering av behörighetsuppsättning för session"/>
+  <translation key="Shipment" plural="Leveranser" type="SfObjectLabel" value="Leverans"/>
+  <translation key="SkillRequirement" plural="Kompetenskrav" type="SfObjectLabel" value="Kompetenskrav"/>
+  <translation key="Solution" plural="Lösningar" type="SfObjectLabel" value="Lösning"/>
+  <translation key="StreamingChannel" plural="Direktuppspelningskanaler" type="SfObjectLabel" value="Direktuppspelningskanal"/>
+  <translation key="Task" plural="Uppgifter" type="SfObjectLabel" value="Uppgift"/>
+  <translation key="TimeSheet" plural="Tidrapporter" type="SfObjectLabel" value="Tidrapport"/>
+  <translation key="TimeSheetEntry" plural="Tidrapportposter" type="SfObjectLabel" value="Tidrapportpost"/>
+  <translation key="TimeSlot" plural="Tidsluckor" type="SfObjectLabel" value="Tidslucka"/>
+  <translation key="Topic" plural="Ämnen" type="SfObjectLabel" value="Ämne"/>
+  <translation key="User" plural="Användare" type="SfObjectLabel" value="Användare"/>
+  <translation key="UserAppMenuItem" plural="Program" type="SfObjectLabel" value="Program"/>
+  <translation key="UserProvisioningRequest" plural="Användarbegäranden om tillhandahållande" type="SfObjectLabel" value="Användarbegäran om tillhandahållande"/>
+  <translation key="WorkOrder" plural="Arbetsordrar" type="SfObjectLabel" value="Arbetsorder"/>
+  <translation key="WorkOrderLineItem" plural="Arbetsorderradartiklar" type="SfObjectLabel" value="Arbetsorderradartikel"/>
+  <translation key="WorkType" plural="Arbetstyper" type="SfObjectLabel" value="Arbetstyp"/>
+</translations>

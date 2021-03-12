@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OauthCustomScopeApp.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="OauthCustomScopeApp.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="OauthCustomScopeApp.Id" type="SfFieldLabel" value="ID do aplicativo de escopo personalizado do OAuth"/>
+  <translation key="OauthCustomScopeApp.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="OauthCustomScopeApp.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="OauthCustomScopeApp.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="OauthCustomScopeApp.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

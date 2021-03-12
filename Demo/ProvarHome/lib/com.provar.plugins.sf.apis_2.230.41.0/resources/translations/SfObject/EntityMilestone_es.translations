@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EntityMilestone.Id" type="SfFieldLabel" value="Id. de Evento clave de objeto"/>
+  <translation key="EntityMilestone.Name" type="SfFieldLabel" value="Nombre de evento clave de objeto"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TimeSheet.EndDate" type="SfFieldLabel" value="Fecha de finalización de hoja de asistencia"/>
+  <translation key="TimeSheet.Id" type="SfFieldLabel" value="Id. de Hoja de horas"/>
+  <translation key="TimeSheet.Owner" type="SfFieldLabel" value="Propietario"/>
+  <translation key="TimeSheet.StartDate" type="SfFieldLabel" value="Fecha de inicio de hoja de asistencia"/>
+</translations>

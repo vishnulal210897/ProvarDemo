@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Quote.BillingAddress" type="SfFieldLabel" value="Factureren aan"/>
+  <translation key="Quote.BillingCity" type="SfFieldLabel" value="Plaats voor Factureren aan"/>
+  <translation key="Quote.BillingCountry" type="SfFieldLabel" value="Land voor Factureren aan"/>
+  <translation key="Quote.BillingCountryCode" type="SfFieldLabel" value="Factuurbestemmingslandcode"/>
+  <translation key="Quote.BillingGeocodeAccuracy" type="SfFieldLabel" value="Nauwkeurigheid van Geocode voor facturering aan"/>
+  <translation key="Quote.BillingLatitude" type="SfFieldLabel" value="Breedtegraad naar welke wordt gefactureerd"/>
+  <translation key="Quote.BillingLongitude" type="SfFieldLabel" value="Lengtegraad naar welke wordt gefactureerd"/>
+  <translation key="Quote.BillingState" type="SfFieldLabel" value="Staat/provincie voor Factureren aan"/>
+  <translation key="Quote.BillingStateCode" type="SfFieldLabel" value="Factuurbestemmingsstaat/-provincie"/>
+  <translation key="Quote.BillingStreet" type="SfFieldLabel" value="Straat voor Factureren aan"/>
+  <translation key="Quote.BillingZip" type="SfFieldLabel" value="Postcode voor Factureren aan"/>
+  <translation key="Quote.ContractId" type="SfFieldLabel" value="{Contract}.{SfObject.Label}"/>
+  <translation key="Quote.CurrencyIsoCode" type="SfFieldLabel" value="Offertevaluta"/>
+  <translation key="Quote.Id" type="SfFieldLabel" value="Offerte-ID"/>
+  <translation key="Quote.Name" type="SfFieldLabel" value="Offertenaam"/>
+  <translation key="Quote.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="Quote.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Quote.QuoteNumber" type="SfFieldLabel" value="Offertenummer"/>
+  <translation key="Quote.QuoteToAddress" type="SfFieldLabel" value="Offerte uitbrengen aan"/>
+  <translation key="Quote.QuoteToCity" type="SfFieldLabel" value="Plaats voor Offerte uitbrengen aan"/>
+  <translation key="Quote.QuoteToCountry" type="SfFieldLabel" value="Land voor Offerte uitbrengen aan"/>
+  <translation key="Quote.QuoteToCountryCode" type="SfFieldLabel" value="Offertebestemmingslandcode"/>
+  <translation key="Quote.QuoteToGeocodeAccuracy" type="SfFieldLabel" value="Nauwkeurigheid van Geocode voor offerte aan"/>
+  <translation key="Quote.QuoteToLatitude" type="SfFieldLabel" value="Breedtegraad voor welke een offerte wordt gemaakt"/>
+  <translation key="Quote.QuoteToLongitude" type="SfFieldLabel" value="Lengtegraad voor welke een offerte wordt gemaakt"/>
+  <translation key="Quote.QuoteToName" type="SfFieldLabel" value="Naam voor Offerte uitbrengen aan"/>
+  <translation key="Quote.QuoteToPostalCode" type="SfFieldLabel" value="Postcode voor Offerte uitbrengen aan"/>
+  <translation key="Quote.QuoteToState" type="SfFieldLabel" value="Staat/provincie voor Offerte uitbrengen aan"/>
+  <translation key="Quote.QuoteToStateCode" type="SfFieldLabel" value="Offertebestemmingsstaat/-provincie"/>
+  <translation key="Quote.QuoteToStreet" type="SfFieldLabel" value="Straat voor Offerte uitbrengen aan"/>
+  <translation key="Quote.ShippingAddress" type="SfFieldLabel" value="Verzenden aan"/>
+  <translation key="Quote.ShippingCity" type="SfFieldLabel" value="Plaats voor Verzenden aan"/>
+  <translation key="Quote.ShippingCountry" type="SfFieldLabel" value="Land voor Verzenden aan"/>
+  <translation key="Quote.ShippingCountryCode" type="SfFieldLabel" value="Verzendbestemmingslandcode"/>
+  <translation key="Quote.ShippingGeocodeAccuracy" type="SfFieldLabel" value="Nauwkeurigheid van Geocode voor verzending naar"/>
+  <translation key="Quote.ShippingLatitude" type="SfFieldLabel" value="Breedtegraad naar welke wordt verzonden"/>
+  <translation key="Quote.ShippingLongitude" type="SfFieldLabel" value="Lengtegraad naar welke wordt verzonden"/>
+  <translation key="Quote.ShippingState" type="SfFieldLabel" value="Staat/provincie voor Verzenden aan"/>
+  <translation key="Quote.ShippingStateCode" type="SfFieldLabel" value="Verzendbestemmingsstaat/-provincie"/>
+  <translation key="Quote.ShippingStreet" type="SfFieldLabel" value="Straat voor Verzenden aan"/>
+  <translation key="Quote.ShippingZip" type="SfFieldLabel" value="Postcode voor Verzenden aan"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RefundLinePayment.AssociatedRefundLinePaymentId" type="SfFieldLabel" value="Associated Refund Line Payment"/>
+  <translation key="RefundLinePayment.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="RefundLinePayment.Id" type="SfFieldLabel" value="Refund Line Payment ID"/>
+  <translation key="RefundLinePayment.RefundLinePaymentNumber" type="SfFieldLabel" value="Refund Line Payment Number"/>
+</translations>

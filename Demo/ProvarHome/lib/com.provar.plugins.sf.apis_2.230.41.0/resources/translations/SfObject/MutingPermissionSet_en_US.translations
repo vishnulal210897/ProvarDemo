@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MutingPermissionSet.DeveloperName" type="SfFieldLabel" value="Muting Permission Set Name"/>
+  <translation key="MutingPermissionSet.Id" type="SfFieldLabel" value="MutingPermissionSet ID"/>
+  <translation key="MutingPermissionSet.Language" type="SfFieldLabel" value="Master Language"/>
+  <translation key="MutingPermissionSet.MasterLabel" type="SfFieldLabel" value="Muting Permission Set Label"/>
+</translations>

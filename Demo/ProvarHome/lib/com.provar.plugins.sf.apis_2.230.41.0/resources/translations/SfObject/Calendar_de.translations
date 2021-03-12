@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Calendar.Id" type="SfFieldLabel" value="Kalender-ID"/>
+  <translation key="Calendar.Name" type="SfFieldLabel" value="Kalendername"/>
+  <translation key="Calendar.Type" type="SfFieldLabel" value="Kalendertyp"/>
+</translations>

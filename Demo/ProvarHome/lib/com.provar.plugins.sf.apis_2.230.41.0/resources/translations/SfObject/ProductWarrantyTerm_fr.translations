@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductWarrantyTerm.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ProductWarrantyTerm.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ProductWarrantyTerm.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="ProductWarrantyTerm.Id" type="SfFieldLabel" value="ID de condition de garantie du produit"/>
+  <translation key="ProductWarrantyTerm.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="ProductWarrantyTerm.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ProductWarrantyTerm.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ProductWarrantyTerm.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="ProductWarrantyTerm.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="ProductWarrantyTerm.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="ProductWarrantyTerm.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+  <translation key="ProductWarrantyTerm.WarrantyTermId" type="SfFieldLabel" value="Condition de garantie"/>
+</translations>

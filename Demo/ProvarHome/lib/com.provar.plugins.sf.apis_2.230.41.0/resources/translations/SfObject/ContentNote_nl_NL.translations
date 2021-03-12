@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContentNote.ContentSize" type="SfFieldLabel" value="Inhoudsgrootte"/>
+  <translation key="ContentNote.CreatedDate" type="SfFieldLabel" value="Gemaakt"/>
+  <translation key="ContentNote.Id" type="SfFieldLabel" value="Notitie-ID"/>
+  <translation key="ContentNote.LastModifiedDate" type="SfFieldLabel" value="Inhoud gewijzigd op"/>
+  <translation key="ContentNote.LatestPublishedVersionId" type="SfFieldLabel" value="Inhoudversie"/>
+  <translation key="ContentNote.Owner" type="SfFieldLabel" value="Eigenaar"/>
+  <translation key="ContentNote.SharingPrivacy" type="SfFieldLabel" value="Privacy voor records aangeven"/>
+</translations>

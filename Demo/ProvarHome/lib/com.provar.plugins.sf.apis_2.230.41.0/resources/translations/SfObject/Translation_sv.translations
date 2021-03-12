@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Translation.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="Translation.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="Translation.Id" type="SfFieldLabel" value="Översättnings-ID"/>
+  <translation key="Translation.IsActive" type="SfFieldLabel" value="Aktiv"/>
+  <translation key="Translation.Language" type="SfFieldLabel" value="Språk"/>
+  <translation key="Translation.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="Translation.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Translation.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

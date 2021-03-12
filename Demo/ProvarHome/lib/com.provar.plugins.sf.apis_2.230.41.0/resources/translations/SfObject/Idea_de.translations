@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Idea.CurrencyIsoCode" type="SfFieldLabel" value="Ideenwährung"/>
+  <translation key="Idea.Id" type="SfFieldLabel" value="Ideen-ID"/>
+  <translation key="Idea.LastCommentDate" type="SfFieldLabel" value="Datum des letztenIdeenkommentars"/>
+  <translation key="Idea.LastCommentId" type="SfFieldLabel" value="Letzter Ideenkommentar"/>
+  <translation key="Idea.ParentIdeaId" type="SfFieldLabel" value="Übergeordnete Idee"/>
+  <translation key="Idea.RecordType" type="SfFieldLabel" value="Datensatztyp"/>
+</translations>

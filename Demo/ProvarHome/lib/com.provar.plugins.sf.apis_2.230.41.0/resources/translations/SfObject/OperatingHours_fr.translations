@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OperatingHours.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="OperatingHours.Id" type="SfFieldLabel" value="Operating Hour ID"/>
+  <translation key="OperatingHours.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="OperatingHours.TimeZone" type="SfFieldLabel" value="Time Zone"/>
+</translations>

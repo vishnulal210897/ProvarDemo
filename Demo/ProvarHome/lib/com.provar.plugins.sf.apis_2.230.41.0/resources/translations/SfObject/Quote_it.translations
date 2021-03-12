@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Quote.BillingAddress" type="SfFieldLabel" value="Fattura a"/>
+  <translation key="Quote.BillingGeocodeAccuracy" type="SfFieldLabel" value="Precisione di georeferenziazione fatturazione"/>
+  <translation key="Quote.ContractId" type="SfFieldLabel" value="{Contract}.{SfObject.Label}"/>
+  <translation key="Quote.CurrencyIsoCode" type="SfFieldLabel" value="Valuta preventivo"/>
+  <translation key="Quote.Id" type="SfFieldLabel" value="ID preventivo"/>
+  <translation key="Quote.Name" type="SfFieldLabel" value="Nome preventivo"/>
+  <translation key="Quote.Owner" type="SfFieldLabel" value="Nome titolare"/>
+  <translation key="Quote.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Quote.QuoteNumber" type="SfFieldLabel" value="Numero preventivo"/>
+  <translation key="Quote.QuoteToAddress" type="SfFieldLabel" value="Indirizzo preventivo"/>
+  <translation key="Quote.QuoteToCity" type="SfFieldLabel" value="Città preventivo"/>
+  <translation key="Quote.QuoteToCountry" type="SfFieldLabel" value="Paese preventivo"/>
+  <translation key="Quote.QuoteToCountryCode" type="SfFieldLabel" value="Codice paese preventivo"/>
+  <translation key="Quote.QuoteToGeocodeAccuracy" type="SfFieldLabel" value="Precisione di georeferenziazione preventivo"/>
+  <translation key="Quote.QuoteToLatitude" type="SfFieldLabel" value="Latitudine preventivo"/>
+  <translation key="Quote.QuoteToLongitude" type="SfFieldLabel" value="Longitudine preventivo"/>
+  <translation key="Quote.QuoteToName" type="SfFieldLabel" value="Nome indirizzo preventivo"/>
+  <translation key="Quote.QuoteToPostalCode" type="SfFieldLabel" value="CAP preventivo"/>
+  <translation key="Quote.QuoteToState" type="SfFieldLabel" value="Stato/Provincia preventivo"/>
+  <translation key="Quote.QuoteToStateCode" type="SfFieldLabel" value="Stato/provincia preventivo"/>
+  <translation key="Quote.QuoteToStreet" type="SfFieldLabel" value="Via preventivo"/>
+  <translation key="Quote.ShippingAddress" type="SfFieldLabel" value="Spedisci a"/>
+  <translation key="Quote.ShippingGeocodeAccuracy" type="SfFieldLabel" value="Precisione di georeferenziazione spedizioni"/>
+</translations>

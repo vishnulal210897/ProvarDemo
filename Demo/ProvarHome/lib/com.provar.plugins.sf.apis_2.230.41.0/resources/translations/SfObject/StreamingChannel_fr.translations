@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="StreamingChannel.Id" type="SfFieldLabel" value="ID de canal de flux"/>
+  <translation key="StreamingChannel.Name" type="SfFieldLabel" value="Nom de canal de flux"/>
+</translations>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RedirectWhitelistUrl.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="RedirectWhitelistUrl.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="RedirectWhitelistUrl.Id" type="SfFieldLabel" value="ID för betrodda URL:er för omdirigeringar"/>
+  <translation key="RedirectWhitelistUrl.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="RedirectWhitelistUrl.Language" type="SfFieldLabel" value="Huvudspråk"/>
+  <translation key="RedirectWhitelistUrl.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="RedirectWhitelistUrl.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="RedirectWhitelistUrl.MasterLabel" type="SfFieldLabel" value="Etikett"/>
+  <translation key="RedirectWhitelistUrl.NamespacePrefix" type="SfFieldLabel" value="Namnutrymmesprefix"/>
+  <translation key="RedirectWhitelistUrl.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

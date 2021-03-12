@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.provar.core.serialization
+Require-Bundle: javax.xml;bundle-version="1.3.4"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: PROVAR
+Import-Package: javax.xml,javax.xml.parsers,javax.xml.transform,org.ju
+ nit;version="4.11.0",org.w3c.dom
+Export-Package: com.provar.core.serialization.api,org.apache.mina.core
+ ,org.apache.mina.core.buffer,org.apache.mina.core.file,org.apache.min
+ a.core.filterchain,org.apache.mina.core.future,org.apache.mina.core.p
+ olling,org.apache.mina.core.service,org.apache.mina.core.session,org.
+ apache.mina.core.write,org.apache.mina.filter.buffer,org.apache.mina.
+ filter.codec,org.apache.mina.filter.codec.demux,org.apache.mina.filte
+ r.codec.prefixedstring,org.apache.mina.filter.codec.serialization,org
+ .apache.mina.filter.codec.statemachine,org.apache.mina.filter.codec.t
+ extline,org.apache.mina.filter.errorgenerating,org.apache.mina.filter
+ .executor,org.apache.mina.filter.firewall,org.apache.mina.filter.keep
+ alive,org.apache.mina.filter.logging,org.apache.mina.filter.reqres,or
+ g.apache.mina.filter.ssl,org.apache.mina.filter.statistic,org.apache.
+ mina.filter.stream,org.apache.mina.filter.util,org.apache.mina.handle
+ r.chain,org.apache.mina.handler.demux,org.apache.mina.handler.multito
+ n,org.apache.mina.handler.stream,org.apache.mina.transport.socket,org
+ .apache.mina.transport.socket.nio,org.apache.mina.transport.vmpipe,or
+ g.apache.mina.util
+Bundle-Name: com.provar.core.serialization
+Bundle-Version: 2.221.1.0
+Bundle-ClassPath: .,lib/mina-core-2.0.0-M3.jar,lib/commons-codec-1.15.
+ jar
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.0
+Eclipse-BundleShape: dir
+

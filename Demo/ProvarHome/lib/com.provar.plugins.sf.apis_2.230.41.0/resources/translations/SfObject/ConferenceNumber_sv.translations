@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ConferenceNumber.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="ConferenceNumber.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="ConferenceNumber.Id" type="SfFieldLabel" value="Conference Number ID"/>
+  <translation key="ConferenceNumber.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="ConferenceNumber.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="ConferenceNumber.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="ConferenceNumber.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="ConferenceNumber.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

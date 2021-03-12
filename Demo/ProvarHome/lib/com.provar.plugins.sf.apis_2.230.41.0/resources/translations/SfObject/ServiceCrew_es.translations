@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceCrew.Id" type="SfFieldLabel" value="Id. de Plantilla de servicio"/>
+  <translation key="ServiceCrew.Name" type="SfFieldLabel" value="Nombre"/>
+  <translation key="ServiceCrew.Owner" type="SfFieldLabel" value="Propietario"/>
+</translations>

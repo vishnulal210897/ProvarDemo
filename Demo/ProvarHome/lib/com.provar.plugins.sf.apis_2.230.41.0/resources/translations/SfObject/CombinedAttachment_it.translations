@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CombinedAttachment.ContentSize" type="SfFieldLabel" value="Dimensioni"/>
+  <translation key="CombinedAttachment.CreatedDate" type="SfFieldLabel" value="Creato"/>
+  <translation key="CombinedAttachment.Id" type="SfFieldLabel" value="ID allegato combinato"/>
+  <translation key="CombinedAttachment.ParentId" type="SfFieldLabel" value="Controllante"/>
+  <translation key="CombinedAttachment.RecordType" type="SfFieldLabel" value="Tipo"/>
+  <translation key="CombinedAttachment.Title" type="SfFieldLabel" value="Titolo"/>
+</translations>

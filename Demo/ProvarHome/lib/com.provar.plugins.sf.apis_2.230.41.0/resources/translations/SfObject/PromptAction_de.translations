@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PromptAction.Id" type="SfFieldLabel" value="ID der Eingabeaufforderungsaktion"/>
+  <translation key="PromptAction.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="PromptAction.Owner" type="SfFieldLabel" value="Inhabername"/>
+</translations>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Campaign.AmountAllOpportunities" type="SfFieldLabel" value="Overordnet kampagne"/>
+  <translation key="Campaign.AmountWonOpportunities" type="SfFieldLabel" value="Værdi af vundne salgsmuligheder i kampagne"/>
+  <translation key="Campaign.CreatedDate" type="SfFieldLabel" value="Aanmaakdatum"/>
+  <translation key="Campaign.Description" type="SfFieldLabel" value="Beskrivelse"/>
+  <translation key="Campaign.EndDate" type="SfFieldLabel" value="Slutdato"/>
+  <translation key="Campaign.ExpectedResponse" type="SfFieldLabel" value="Forventet svar (%)"/>
+  <translation key="Campaign.HierarchyActualCost" type="SfFieldLabel" value="Werkelijke kosten in hiërarchie"/>
+  <translation key="Campaign.HierarchyAmountAllOpportunities" type="SfFieldLabel" value="Opportunities van waarde in hiërarchie"/>
+  <translation key="Campaign.HierarchyAmountWonOpportunities" type="SfFieldLabel" value="Gewonnen opportunities van waarde in hiërarchie"/>
+  <translation key="Campaign.HierarchyBudgetedCost" type="SfFieldLabel" value="Gebudgetteerde kosten in hiërarchie"/>
+  <translation key="Campaign.HierarchyExpectedRevenue" type="SfFieldLabel" value="Verwachte omzet in hiërarchie"/>
+  <translation key="Campaign.HierarchyNumberOfContacts" type="SfFieldLabel" value="Contactpersonen in hiërarchie"/>
+  <translation key="Campaign.HierarchyNumberOfConvertedLeads" type="SfFieldLabel" value="Geconverteerde leads in hiërarchie"/>
+  <translation key="Campaign.HierarchyNumberOfLeads" type="SfFieldLabel" value="Leads in hiërarchie"/>
+  <translation key="Campaign.HierarchyNumberOfOpportunities" type="SfFieldLabel" value="Opportunities in hiërarchie"/>
+  <translation key="Campaign.HierarchyNumberOfResponses" type="SfFieldLabel" value="Reacties in hiërarchie"/>
+  <translation key="Campaign.HierarchyNumberOfWonOpportunities" type="SfFieldLabel" value="Gewonnen opportunities in hiërarchie"/>
+  <translation key="Campaign.HierarchyNumberSent" type="SfFieldLabel" value="Overordnet kampagne"/>
+  <translation key="Campaign.Id" type="SfFieldLabel" value="Campagne-id"/>
+  <translation key="Campaign.IsActive" type="SfFieldLabel" value="Aktiv"/>
+  <translation key="Campaign.IsDeleted" type="SfFieldLabel" value="Verwijderd"/>
+  <translation key="Campaign.LastActivityDate" type="SfFieldLabel" value="Laatste activiteit"/>
+  <translation key="Campaign.LastReferencedDate" type="SfFieldLabel" value="Laatste datum waarnaar is verwezen"/>
+  <translation key="Campaign.LastViewedDate" type="SfFieldLabel" value="Datum laatst weergegeven"/>
+  <translation key="Campaign.NumberOfContacts" type="SfFieldLabel" value="Kontakter i kampagne"/>
+  <translation key="Campaign.NumberOfConvertedLeads" type="SfFieldLabel" value="Konverterede emner i kampagne"/>
+  <translation key="Campaign.NumberOfLeads" type="SfFieldLabel" value="Emner i kampagne"/>
+  <translation key="Campaign.NumberOfOpportunities" type="SfFieldLabel" value="Salgsmuligheder i kampagne"/>
+  <translation key="Campaign.NumberOfResponses" type="SfFieldLabel" value="Svar i kampagne"/>
+  <translation key="Campaign.NumberOfWonOpportunities" type="SfFieldLabel" value="Vundne salgsmuligheder i kampagne"/>
+  <translation key="Campaign.ParentId" type="SfFieldLabel" value="Kampagnevaluta"/>
+  <translation key="Campaign.StartDate" type="SfFieldLabel" value="Startdato"/>
+  <translation key="Campaign.SystemModstamp" type="SfFieldLabel" value="Systeemwijzigingsstempel"/>
+  <translation key="Campaign.UserRecordAccessId" type="SfFieldLabel" value="Objecttoegangsniveau"/>
+  <translation key="*.*.Campaign Information" type="SfLayoutSectionLabel" value="Kampagneoplysninger"/>
+</translations>

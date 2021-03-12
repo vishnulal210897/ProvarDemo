@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CombinedAttachment.ContentSize" type="SfFieldLabel" value="Größe"/>
+  <translation key="CombinedAttachment.Id" type="SfFieldLabel" value="Kombinierte Anhangs-ID"/>
+  <translation key="CombinedAttachment.ParentId" type="SfFieldLabel" value="Übergeord.ID"/>
+  <translation key="CombinedAttachment.RecordType" type="SfFieldLabel" value="Typ"/>
+</translations>

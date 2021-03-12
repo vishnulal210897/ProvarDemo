@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SkillRequirement.Id" type="SfFieldLabel" value="Fertigkeitsanforderungs-ID"/>
+  <translation key="SkillRequirement.RelatedRecordId" type="SfFieldLabel" value="Erforderlich für"/>
+  <translation key="SkillRequirement.SkillId" type="SfFieldLabel" value="Fertigkeit erforderlich"/>
+  <translation key="SkillRequirement.SkillNumber" type="SfFieldLabel" value="Fertigkeitsanforderungsnummer"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="JobProfile.Id" type="SfFieldLabel" value="Stellenprofil-ID"/>
+  <translation key="JobProfile.Name" type="SfFieldLabel" value="Stellenprofilname"/>
+  <translation key="JobProfile.Owner" type="SfFieldLabel" value="Inhabername"/>
+</translations>

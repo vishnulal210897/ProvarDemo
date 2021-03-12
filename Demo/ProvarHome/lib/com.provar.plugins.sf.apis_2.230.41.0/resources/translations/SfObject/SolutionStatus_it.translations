@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SolutionStatus.Id" type="SfFieldLabel" value="ID valore stato soluzione"/>
+  <translation key="SolutionStatus.IsReviewed" type="SfFieldLabel" value="È rivisto"/>
+  <translation key="SolutionStatus.SortOrder" type="SfFieldLabel" value="Ordinamento"/>
+</translations>

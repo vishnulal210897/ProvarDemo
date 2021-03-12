@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingEndUser.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="MessagingEndUser.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="MessagingEndUser.Id" type="SfFieldLabel" value="Id for meddelelsesbruger"/>
+  <translation key="MessagingEndUser.Name" type="SfFieldLabel" value="Navn på meddelelsesbruger"/>
+</translations>

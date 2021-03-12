@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkTypeGroup.Id" type="SfFieldLabel" value="Id. de Grupo de tipo de trabajo"/>
+  <translation key="WorkTypeGroup.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="WorkTypeGroup.Name" type="SfFieldLabel" value="Nombre de grupo de tipo de trabajo"/>
+  <translation key="WorkTypeGroup.Owner" type="SfFieldLabel" value="Propietario"/>
+</translations>

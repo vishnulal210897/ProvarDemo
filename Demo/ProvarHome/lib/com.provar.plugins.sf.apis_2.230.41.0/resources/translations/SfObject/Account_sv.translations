@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Account.AccountNumber" type="SfFieldLabel" value="Kontonummer"/>
+  <translation key="Account.AccountSource" type="SfFieldLabel" value="Kontokälla"/>
+  <translation key="Account.CurrencyIsoCode" type="SfFieldLabel" value="Kontots valuta"/>
+  <translation key="Account.employeesaccount" type="SfFieldLabel" value="Anställda"/>
+  <translation key="Account.Id" type="SfFieldLabel" value="Konto-ID"/>
+  <translation key="Account.IsCustomerPortal" type="SfFieldLabel" value="Kundportalkonto"/>
+  <translation key="Account.IsPartner" type="SfFieldLabel" value="Partnerkonto"/>
+  <translation key="Account.Name" type="SfFieldLabel" value="Kontonamn"/>
+  <translation key="Account.Parent" type="SfFieldLabel" value="Överordnat konto"/>
+  <translation key="Account.Site" type="SfFieldLabel" value="Kontosida"/>
+  <translation key="Account.Owner" type="SfFieldLabel" value="Kontoägare"/>
+  <translation key="Account.Owner_Alias" type="SfFieldLabel" value="Kontoägarens alias"/>
+  <translation key="Account.Rating" type="SfFieldLabel" value="Värdering"/>
+  <translation key="Account.RecordType" type="SfFieldLabel" value="Kontoposttyp"/>
+  <translation key="*.*.Account Information" type="SfLayoutSectionLabel" value="Kontoinformation"/>
+</translations>

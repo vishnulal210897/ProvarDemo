@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrderStatus.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="OrderStatus.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="OrderStatus.Id" type="SfFieldLabel" value="ID de valeur de statut de commande"/>
+  <translation key="OrderStatus.IsDefault" type="SfFieldLabel" value="Par défaut"/>
+  <translation key="OrderStatus.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="OrderStatus.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="OrderStatus.SortOrder" type="SfFieldLabel" value="Ordre de tri"/>
+  <translation key="OrderStatus.StatusCode" type="SfFieldLabel" value="Code de statut"/>
+  <translation key="OrderStatus.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

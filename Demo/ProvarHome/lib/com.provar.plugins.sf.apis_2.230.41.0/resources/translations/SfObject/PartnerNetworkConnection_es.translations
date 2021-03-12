@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerNetworkConnection.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="PartnerNetworkConnection.ConnectionName" type="SfFieldLabel" value="Nombre de conexión"/>
+  <translation key="PartnerNetworkConnection.ConnectionStatus" type="SfFieldLabel" value="Estado de la conexión"/>
+  <translation key="PartnerNetworkConnection.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="PartnerNetworkConnection.CreatedById" type="SfFieldLabel" value="Creado por"/>
+  <translation key="PartnerNetworkConnection.CreatedDate" type="SfFieldLabel" value="Fecha de creación"/>
+  <translation key="PartnerNetworkConnection.Id" type="SfFieldLabel" value="Id. de conexión de red de socios"/>
+  <translation key="PartnerNetworkConnection.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="PartnerNetworkConnection.LastModifiedDate" type="SfFieldLabel" value="Fecha de la última modificación"/>
+</translations>

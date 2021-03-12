@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ResourcePreference.Id" type="SfFieldLabel" value="Ressourcenvoreinstellungs-ID"/>
+  <translation key="ResourcePreference.RelatedRecordId" type="SfFieldLabel" value="Zugehöriger Datensatz"/>
+  <translation key="ResourcePreference.ResourcePreferenceNumber" type="SfFieldLabel" value="Ressourcenvoreinstellungsnummer"/>
+  <translation key="ResourcePreference.ServiceResourceId" type="SfFieldLabel" value="Service-Ressource"/>
+</translations>

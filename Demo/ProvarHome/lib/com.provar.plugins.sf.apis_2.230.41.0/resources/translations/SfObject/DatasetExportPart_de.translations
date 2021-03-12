@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DatasetExportPart.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="DatasetExportPart.Id" type="SfFieldLabel" value="ID des Datenset-Export-Teils"/>
+  <translation key="DatasetExportPart.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="DatasetExportPart.Owner" type="SfFieldLabel" value="Inhaber"/>
+</translations>

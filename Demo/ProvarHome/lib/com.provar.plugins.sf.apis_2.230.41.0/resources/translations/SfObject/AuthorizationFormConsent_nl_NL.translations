@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AuthorizationFormConsent.Id" type="SfFieldLabel" value="ID van instemming voor autorisatieformulier"/>
+  <translation key="AuthorizationFormConsent.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="AuthorizationFormConsent.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+</translations>

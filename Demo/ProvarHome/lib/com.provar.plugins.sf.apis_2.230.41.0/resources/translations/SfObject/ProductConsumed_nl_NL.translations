@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductConsumed.Id" type="SfFieldLabel" value="ID van verbruikt product"/>
+  <translation key="ProductConsumed.PricebookEntryId" type="SfFieldLabel" value="Prijslijstingang"/>
+  <translation key="ProductConsumed.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="ProductConsumed.UnitPrice" type="SfFieldLabel" value="Eenheidsprijs"/>
+  <translation key="ProductConsumed.WorkOrderId" type="SfFieldLabel" value="{WorkOrder}.{SfObject.Label}"/>
+  <translation key="ProductConsumed.WorkOrderLineItemId" type="SfFieldLabel" value="{WorkOrderLineItem}.{SfObject.Label}"/>
+</translations>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowDefinitionView.ApiName" type="SfFieldLabel" value="API-forløbsnavn"/>
+  <translation key="FlowDefinitionView.Description" type="SfFieldLabel" value="Forløbsbeskrivelse"/>
+  <translation key="FlowDefinitionView.Id" type="SfFieldLabel" value="Visnings-id for forløbsdefinition"/>
+  <translation key="FlowDefinitionView.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="FlowDefinitionView.NamespacePrefix" type="SfFieldLabel" value="Forløbsnavneområde"/>
+</translations>

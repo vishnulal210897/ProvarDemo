@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LeadStatus.Id" type="SfFieldLabel" value="Id. del valor del estado del candidato"/>
+  <translation key="LeadStatus.IsConverted" type="SfFieldLabel" value="Está convertido"/>
+  <translation key="LeadStatus.SortOrder" type="SfFieldLabel" value="Orden de clasificación"/>
+</translations>

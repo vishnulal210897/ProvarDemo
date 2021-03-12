@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Individual.Id" type="SfFieldLabel" value="ID van individu"/>
+  <translation key="Individual.IndividualsAge" type="SfFieldLabel" value="Leeftijd van individu"/>
+  <translation key="Individual.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="Individual.Owner" type="SfFieldLabel" value="Eigenaar van individu"/>
+  <translation key="Individual.SendIndividualData" type="SfFieldLabel" value="Gegevens van individu exporteren"/>
+  <translation key="Individual.ShouldForget" type="SfFieldLabel" value="Dit individu negeren"/>
+</translations>

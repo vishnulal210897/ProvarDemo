@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkType.DurationInMinutes" type="SfFieldLabel" value="Varighed i minutter"/>
+  <translation key="WorkType.DurationType" type="SfFieldLabel" value="Varighedstype"/>
+  <translation key="WorkType.Id" type="SfFieldLabel" value="Id for arbejdstype"/>
+  <translation key="WorkType.MinimumCrewSize" type="SfFieldLabel" value="Mindste bemandingsstørrelse"/>
+  <translation key="WorkType.Name" type="SfFieldLabel" value="Navn på arbejdstype"/>
+  <translation key="WorkType.RecommendedCrewSize" type="SfFieldLabel" value="Anbefalet bemandingsstørrelse"/>
+  <translation key="WorkType.ServiceReportTemplateId" type="SfFieldLabel" value="Servicerapportskabelon"/>
+</translations>

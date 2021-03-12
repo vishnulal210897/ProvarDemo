@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Order.ActivatedDate" type="SfFieldLabel" value="Datum van activering"/>
+  <translation key="Order.BillingLatitude" type="SfFieldLabel" value="Factuurbreedtegraad"/>
+  <translation key="Order.BillingLongitude" type="SfFieldLabel" value="Factuurlengtegraad"/>
+  <translation key="Order.BillingStateCode" type="SfFieldLabel" value="Factuurstaat"/>
+  <translation key="Order.ContractId" type="SfFieldLabel" value="Contractnummer"/>
+  <translation key="Order.CurrencyIsoCode" type="SfFieldLabel" value="Ordervaluta"/>
+  <translation key="Order.EffectiveDate" type="SfFieldLabel" value="Orderbegindatum"/>
+  <translation key="Order.EndDate" type="SfFieldLabel" value="Ordereinddatum"/>
+  <translation key="Order.Id" type="SfFieldLabel" value="Order-ID"/>
+  <translation key="Order.IsReductionOrder" type="SfFieldLabel" value="Reductieorder"/>
+  <translation key="Order.Name" type="SfFieldLabel" value="Ordernaam"/>
+  <translation key="Order.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+  <translation key="Order.OrderNumber" type="SfFieldLabel" value="Ordernummer"/>
+  <translation key="Order.OrderReferenceNumber" type="SfFieldLabel" value="Referentienummer van order"/>
+  <translation key="Order.OriginalOrderId" type="SfFieldLabel" value="Oorspronkelijke order"/>
+  <translation key="Order.Owner" type="SfFieldLabel" value="Ordereigenaar"/>
+  <translation key="Order.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Order.QuoteId" type="SfFieldLabel" value="{Quote}.{SfObject.Label}"/>
+  <translation key="Order.ShippingLatitude" type="SfFieldLabel" value="Verzendbreedtegraad"/>
+  <translation key="Order.ShippingLongitude" type="SfFieldLabel" value="Verzendlengtegraad"/>
+  <translation key="Order.ShippingStateCode" type="SfFieldLabel" value="Verzendstaat"/>
+  <translation key="Order.TotalAmount" type="SfFieldLabel" value="Orderbedrag"/>
+  <translation key="Order.Type" type="SfFieldLabel" value="Ordertype"/>
+</translations>

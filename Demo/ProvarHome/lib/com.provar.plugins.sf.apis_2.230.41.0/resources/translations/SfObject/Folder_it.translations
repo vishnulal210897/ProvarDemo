@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Folder.DeveloperName" type="SfFieldLabel" value="Nome univoco cartella"/>
+  <translation key="Folder.Id" type="SfFieldLabel" value="ID cartella"/>
+  <translation key="Folder.ParentId" type="SfFieldLabel" value="Cartella"/>
+</translations>

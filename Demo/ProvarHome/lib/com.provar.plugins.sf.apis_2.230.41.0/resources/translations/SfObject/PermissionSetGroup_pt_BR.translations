@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PermissionSetGroup.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="PermissionSetGroup.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="PermissionSetGroup.Description" type="SfFieldLabel" value="Descrição"/>
+  <translation key="PermissionSetGroup.DeveloperName" type="SfFieldLabel" value="Nome da API"/>
+  <translation key="PermissionSetGroup.Id" type="SfFieldLabel" value="ID do PermissionSetGroup"/>
+  <translation key="PermissionSetGroup.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="PermissionSetGroup.Language" type="SfFieldLabel" value="Idioma mestre"/>
+  <translation key="PermissionSetGroup.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="PermissionSetGroup.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="PermissionSetGroup.MasterLabel" type="SfFieldLabel" value="Rótulo"/>
+  <translation key="PermissionSetGroup.NamespacePrefix" type="SfFieldLabel" value="Prefixo do namespace"/>
+  <translation key="PermissionSetGroup.Status" type="SfFieldLabel" value="Status"/>
+  <translation key="PermissionSetGroup.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

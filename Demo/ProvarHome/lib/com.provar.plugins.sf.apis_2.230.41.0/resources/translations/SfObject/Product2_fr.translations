@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Product2.Description" type="SfFieldLabel" value="Description du produit"/>
+  <translation key="Product2.Family" type="SfFieldLabel" value="Famille de produits"/>
+  <translation key="Product2.Id" type="SfFieldLabel" value="ID produit"/>
+  <translation key="Product2.Name" type="SfFieldLabel" value="Nom du produit"/>
+  <translation key="Product2.ProductCode" type="SfFieldLabel" value="Code du produit"/>
+  <translation key="Product2.StockKeepingUnit" type="SfFieldLabel" value="UGS produit"/>
+  <translation key="*.*.Product Information" type="SfLayoutSectionLabel" value="Informations sur le produit"/>
+</translations>

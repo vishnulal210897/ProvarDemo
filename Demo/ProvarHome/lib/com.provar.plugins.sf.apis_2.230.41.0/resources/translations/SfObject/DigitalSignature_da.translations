@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DigitalSignature.DocumentBody" type="SfFieldLabel" value="Brødtekst for digital signatur"/>
+  <translation key="DigitalSignature.DocumentContentType" type="SfFieldLabel" value="Indholdstype for digital signatur"/>
+  <translation key="DigitalSignature.DocumentLength" type="SfFieldLabel" value="Længde på digital signatur"/>
+  <translation key="DigitalSignature.Id" type="SfFieldLabel" value="Id for digital signatur"/>
+  <translation key="DigitalSignature.ParentId" type="SfFieldLabel" value="Overordnet registrering"/>
+</translations>

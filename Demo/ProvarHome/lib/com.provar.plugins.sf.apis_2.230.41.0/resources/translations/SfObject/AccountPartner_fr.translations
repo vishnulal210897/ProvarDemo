@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AccountPartner.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="AccountPartner.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="AccountPartner.Id" type="SfFieldLabel" value="Compte id du partenaire"/>
+  <translation key="AccountPartner.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="AccountPartner.IsPrimary" type="SfFieldLabel" value="Principal"/>
+  <translation key="AccountPartner.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="AccountPartner.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="AccountPartner.OpportunityId" type="SfFieldLabel" value="De l'opportunité"/>
+  <translation key="AccountPartner.Role" type="SfFieldLabel" value="Rôle"/>
+  <translation key="AccountPartner.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

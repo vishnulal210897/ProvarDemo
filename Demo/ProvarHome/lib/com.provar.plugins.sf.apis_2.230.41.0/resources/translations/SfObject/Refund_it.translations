@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Refund.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Refund.Balance" type="SfFieldLabel" value="Balance"/>
+  <translation key="Refund.CancellationDate" type="SfFieldLabel" value="Cancellation Date"/>
+  <translation key="Refund.CancellationEffectiveDate" type="SfFieldLabel" value="Cancellation Effective Date"/>
+  <translation key="Refund.CancellationGatewayDate" type="SfFieldLabel" value="Cancellation Gateway Date"/>
+  <translation key="Refund.CancellationGatewayRefNumber" type="SfFieldLabel" value="Cancellation Gateway Reference Number"/>
+  <translation key="Refund.CancellationGatewayResultCode" type="SfFieldLabel" value="Cancellation Gateway ResultCode"/>
+  <translation key="Refund.CancellationSfResultCode" type="SfFieldLabel" value="Cancellation Salesforce ResultCode"/>
+  <translation key="Refund.ClientContext" type="SfFieldLabel" value="Client Context"/>
+  <translation key="Refund.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="Refund.EffectiveDate" type="SfFieldLabel" value="Effective Date"/>
+  <translation key="Refund.Email" type="SfFieldLabel" value="Audit Email"/>
+  <translation key="Refund.GatewayRefNumber" type="SfFieldLabel" value="Gateway Reference Number"/>
+  <translation key="Refund.GatewayResultCode" type="SfFieldLabel" value="Gateway ResultCode"/>
+  <translation key="Refund.GatewayResultCodeDescription" type="SfFieldLabel" value="Gateway ResultCode Description"/>
+  <translation key="Refund.Id" type="SfFieldLabel" value="Refund ID"/>
+  <translation key="Refund.ImpactAmount" type="SfFieldLabel" value="Impact Amount"/>
+  <translation key="Refund.NetApplied" type="SfFieldLabel" value="Net Applied"/>
+  <translation key="Refund.PaymentGroupId" type="SfFieldLabel" value="Payment Group"/>
+  <translation key="Refund.PaymentMethodId" type="SfFieldLabel" value="Payment Method"/>
+  <translation key="Refund.SfResultCode" type="SfFieldLabel" value="Salesforce ResultCode"/>
+  <translation key="Refund.Status" type="SfFieldLabel" value="Status"/>
+  <translation key="Refund.TotalApplied" type="SfFieldLabel" value="Total Applied"/>
+  <translation key="Refund.TotalUnapplied" type="SfFieldLabel" value="Total Unapplied"/>
+</translations>

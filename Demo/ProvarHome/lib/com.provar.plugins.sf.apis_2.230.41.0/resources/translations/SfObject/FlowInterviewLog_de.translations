@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowInterviewLog.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="FlowInterviewLog.CreatedDate" type="SfFieldLabel" value="Erstelldatum"/>
+  <translation key="FlowInterviewLog.CurrencyIsoCode" type="SfFieldLabel" value="ISO-Währungskürzel"/>
+  <translation key="FlowInterviewLog.Id" type="SfFieldLabel" value="Flow-Interview-Protokoll-ID"/>
+  <translation key="FlowInterviewLog.IsDeleted" type="SfFieldLabel" value="Gelöscht"/>
+  <translation key="FlowInterviewLog.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="FlowInterviewLog.LastModifiedDate" type="SfFieldLabel" value="Zuletzt geändert am"/>
+  <translation key="FlowInterviewLog.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="FlowInterviewLog.Owner" type="SfFieldLabel" value="Inhaber"/>
+</translations>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Task.IsRecurrence" type="SfFieldLabel" value="Skapar återkommande serie för Uppgifter"/>
+  <translation key="Task.RecurrenceRegeneratedType" type="SfFieldLabel" value="Upprepa denna uppgift"/>
+  <translation key="Task.TaskSubtype" type="SfFieldLabel" value="Uppgiftundertyp"/> 
+  <translation key="Task.LastModifiedDate" type="SfFieldLabel" value="Senast ändrad den" relatedListLabel="Datum/tid för senaste ändring"/>
+  <translation key="Task.WhoId" type="SfFieldLabel" value="Namn"/>
+  <translation key="Task.WhatId" type="SfFieldLabel" value="Relaterad till" relatedListLabel="Relaterat till"/>
+  <translation key="Task.Owner" type="SfFieldLabel" value="Tilldelad till" relatedListLabel="Tilldelad till"/>
+  <translation key="Task.ActivityDate" type="SfFieldLabel" value="Förfallodatum"/>
+  <translation key="Task.Description" type="SfFieldLabel" value="Kommentarer"/>
+</translations>

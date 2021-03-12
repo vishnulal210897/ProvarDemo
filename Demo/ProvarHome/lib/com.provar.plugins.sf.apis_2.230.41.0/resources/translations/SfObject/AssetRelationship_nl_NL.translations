@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetRelationship.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="AssetRelationship.AssetRelationshipNumber" type="SfFieldLabel" value="Activumrelatienummer"/>
+  <translation key="AssetRelationship.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="AssetRelationship.Id" type="SfFieldLabel" value="Activumrelatie-ID"/>
+</translations>

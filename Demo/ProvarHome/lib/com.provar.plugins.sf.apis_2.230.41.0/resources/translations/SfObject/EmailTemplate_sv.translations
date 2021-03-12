@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EmailTemplate.Body" type="SfFieldLabel" value="E-postmeddelandets brödtext"/>
+  <translation key="EmailTemplate.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="EmailTemplate.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="EmailTemplate.Description" type="SfFieldLabel" value="Beskrivning"/>
+  <translation key="EmailTemplate.DeveloperName" type="SfFieldLabel" value="Unikt mallnamn"/>
+  <translation key="EmailTemplate.Id" type="SfFieldLabel" value="E-postmall-ID"/>
+  <translation key="EmailTemplate.IsActive" type="SfFieldLabel" value="Tillgänglig för användning"/>
+  <translation key="EmailTemplate.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="EmailTemplate.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="EmailTemplate.Name" type="SfFieldLabel" value="E-postmallnamn"/>
+  <translation key="EmailTemplate.NamespacePrefix" type="SfFieldLabel" value="Namnutrymmesprefix"/>
+  <translation key="EmailTemplate.Owner" type="SfFieldLabel" value="Ägarens"/>
+  <translation key="EmailTemplate.Subject" type="SfFieldLabel" value="Ämne"/>
+  <translation key="EmailTemplate.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+  <translation key="EmailTemplate.TimesUsed" type="SfFieldLabel" value="Använd antal gånger"/>
+</translations>

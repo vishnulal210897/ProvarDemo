@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkCapacityUsage.Id" type="SfFieldLabel" value="ID utilizzo capacità di lavoro"/>
+  <translation key="WorkCapacityUsage.WorkCapacityUsageNumber" type="SfFieldLabel" value="Numero utilizzo capacità di lavoro"/>
+</translations>

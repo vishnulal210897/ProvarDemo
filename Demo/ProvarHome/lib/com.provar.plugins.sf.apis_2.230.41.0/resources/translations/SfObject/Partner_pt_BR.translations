@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Partner.AccountFromId" type="SfFieldLabel" value="Da conta de origem"/>
+  <translation key="Partner.AccountToId" type="SfFieldLabel" value="Da conta de destino"/>
+  <translation key="Partner.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="Partner.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="Partner.Id" type="SfFieldLabel" value="ID do parceiro"/>
+  <translation key="Partner.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="Partner.IsPrimary" type="SfFieldLabel" value="Principal"/>
+  <translation key="Partner.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="Partner.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="Partner.OpportunityId" type="SfFieldLabel" value="Da oportunidade"/>
+  <translation key="Partner.Role" type="SfFieldLabel" value="Papel"/>
+  <translation key="Partner.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

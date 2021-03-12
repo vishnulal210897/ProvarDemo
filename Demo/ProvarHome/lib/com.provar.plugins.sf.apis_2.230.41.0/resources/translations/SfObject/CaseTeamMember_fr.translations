@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseTeamMember.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="CaseTeamMember.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="CaseTeamMember.Id" type="SfFieldLabel" value="ID de membre de l'équipe"/>
+  <translation key="CaseTeamMember.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="CaseTeamMember.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="CaseTeamMember.MemberId" type="SfFieldLabel" value="De membre"/>
+  <translation key="CaseTeamMember.ParentId" type="SfFieldLabel" value="De la requête"/>
+  <translation key="CaseTeamMember.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

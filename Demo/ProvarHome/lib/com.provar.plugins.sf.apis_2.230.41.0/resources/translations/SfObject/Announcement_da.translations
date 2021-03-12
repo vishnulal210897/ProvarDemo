@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Announcement.Id" type="SfFieldLabel" value="Bekendtgørelses-id"/>
+  <translation key="Announcement.IsArchived" type="SfFieldLabel" value="Er bekendtgørelse arkiveret"/>
+  <translation key="Announcement.ParentId" type="SfFieldLabel" value="Overordnet"/>
+</translations>

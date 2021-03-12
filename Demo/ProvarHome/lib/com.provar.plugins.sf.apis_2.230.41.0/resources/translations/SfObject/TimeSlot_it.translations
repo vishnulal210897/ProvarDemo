@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TimeSlot.EndTime" type="SfFieldLabel" value="Orario di fine"/>
+  <translation key="TimeSlot.Id" type="SfFieldLabel" value="ID finestra temporale"/>
+  <translation key="TimeSlot.StartTime" type="SfFieldLabel" value="Orario di inizio"/>
+</translations>

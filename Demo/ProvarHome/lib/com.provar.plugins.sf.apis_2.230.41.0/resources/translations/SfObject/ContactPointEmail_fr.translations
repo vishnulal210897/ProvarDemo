@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactPointEmail.ActiveFromDate" type="SfFieldLabel" value="Date de début d'activité"/>
+  <translation key="ContactPointEmail.ActiveToDate" type="SfFieldLabel" value="Date de fin d'activité"/>
+  <translation key="ContactPointEmail.BestTimeToContactEndTime" type="SfFieldLabel" value="Fin de la période de contact"/>
+  <translation key="ContactPointEmail.BestTimeToContactStartTime" type="SfFieldLabel" value="Début de la période de contact"/>
+  <translation key="ContactPointEmail.BestTimeToContactTimezone" type="SfFieldLabel" value="Fuseau horaire de la période de contact"/>
+  <translation key="ContactPointEmail.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ContactPointEmail.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ContactPointEmail.Id" type="SfFieldLabel" value="ID d'adresse e-mail du point de contact"/>
+  <translation key="ContactPointEmail.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="ContactPointEmail.IsPrimary" type="SfFieldLabel" value="Principal"/>
+  <translation key="ContactPointEmail.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ContactPointEmail.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ContactPointEmail.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="ContactPointEmail.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="ContactPointEmail.Name" type="SfFieldLabel" value="Nom"/>
+  <translation key="ContactPointEmail.Owner" type="SfFieldLabel" value="Nom Complet du propriétaire"/>
+  <translation key="ContactPointEmail.ParentId" type="SfFieldLabel" value="Parent"/>
+  <translation key="ContactPointEmail.PreferenceRank" type="SfFieldLabel" value="Classement des préférences"/>
+  <translation key="ContactPointEmail.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="ContactPointEmail.UsageType" type="SfFieldLabel" value="Type d'utilisation"/>
+  <translation key="ContactPointEmail.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

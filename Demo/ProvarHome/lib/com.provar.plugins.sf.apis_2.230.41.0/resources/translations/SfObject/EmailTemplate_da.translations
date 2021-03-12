@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EmailTemplate.Body" type="SfFieldLabel" value="Mailbrødtekst"/>
+  <translation key="EmailTemplate.DeveloperName" type="SfFieldLabel" value="Entydigt skabelonnavn"/>
+  <translation key="EmailTemplate.Id" type="SfFieldLabel" value="Mailskabelon-id"/>
+  <translation key="EmailTemplate.IsActive" type="SfFieldLabel" value="Klar til brug"/>
+  <translation key="EmailTemplate.LastModifiedById" relatedListLabel="Sidst ændret af id" type="SfFieldLabel" value="Sidst ændret af"/>
+  <translation key="EmailTemplate.Name" type="SfFieldLabel" value="Mailskabelonnavn"/>
+  <translation key="EmailTemplate.Owner" type="SfFieldLabel" value="Ejers id"/>
+  <translation key="EmailTemplate.TimesUsed" type="SfFieldLabel" value="Antal gange brugt"/>
+</translations>

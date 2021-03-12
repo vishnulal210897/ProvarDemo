@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Image.ContentDocumentId" type="SfFieldLabel" value="Fil"/>
+  <translation key="Image.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="Image.Id" type="SfFieldLabel" value="Billed-id"/>
+  <translation key="Image.ImageViewType" type="SfFieldLabel" value="Billederetning"/>
+  <translation key="Image.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="Image.Name" type="SfFieldLabel" value="Navn"/>
+</translations>

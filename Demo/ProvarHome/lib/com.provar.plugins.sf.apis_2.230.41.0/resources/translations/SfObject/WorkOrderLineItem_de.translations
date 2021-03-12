@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrderLineItem.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.DurationInMinutes" type="SfFieldLabel" value="Dauer in Minuten"/>
+  <translation key="WorkOrderLineItem.Id" type="SfFieldLabel" value="Belegposten-ID"/>
+  <translation key="WorkOrderLineItem.IsClosed" type="SfFieldLabel" value="Ist geschlossen"/>
+  <translation key="WorkOrderLineItem.LineItemNumber" type="SfFieldLabel" value="Arbeitsauftrags-Belegpostennummer"/>
+  <translation key="WorkOrderLineItem.OrderId" type="SfFieldLabel" value="{Order}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.ParentWorkOrderLineItemId" type="SfFieldLabel" value="Übergeordneter Arbeitsauftrags-Belegposten"/>
+  <translation key="WorkOrderLineItem.PricebookEntryId" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.RootWorkOrderLineItemId" type="SfFieldLabel" value="Stammarbeitsauftrags-Belegposten"/>
+  <translation key="WorkOrderLineItem.StateCode" type="SfFieldLabel" value="Bundeslandscode"/>
+  <translation key="WorkOrderLineItem.Street" type="SfFieldLabel" value="Stra�e"/>
+  <translation key="WorkOrderLineItem.Subject" type="SfFieldLabel" value="Betreff"/>
+  <translation key="WorkOrderLineItem.SuggestedMaintenanceDate" type="SfFieldLabel" value="Vorgeschlagenes Wartungsdatum"/>
+  <translation key="WorkOrderLineItem.UnitPrice" type="SfFieldLabel" value="Stückpreis"/>
+  <translation key="WorkOrderLineItem.WorkOrderId" type="SfFieldLabel" value="{WorkOrder}.{SfObject.Label}"/>
+</translations>

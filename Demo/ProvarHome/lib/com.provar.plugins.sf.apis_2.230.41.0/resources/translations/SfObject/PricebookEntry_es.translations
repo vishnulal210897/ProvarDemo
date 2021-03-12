@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PricebookEntry.CurrencyIsoCode" type="SfFieldLabel" value="Divisa"/>
+  <translation key="PricebookEntry.Id" type="SfFieldLabel" value="Id. de entrada del catálogo de precios"/>
+  <translation key="PricebookEntry.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="PricebookEntry.IsArchived" type="SfFieldLabel" value="Archivado"/>
+  <translation key="PricebookEntry.Name" type="SfFieldLabel" value="Nombre del producto"/>
+  <translation key="PricebookEntry.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="PricebookEntry.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="PricebookEntry.UnitPrice" type="SfFieldLabel" value="Precio de la lista"/>
+</translations>

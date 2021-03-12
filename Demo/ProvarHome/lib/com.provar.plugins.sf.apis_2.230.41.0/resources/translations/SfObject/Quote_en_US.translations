@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Quote.BillingAddress" type="SfFieldLabel" value="Bill To"/>
+  <translation key="Quote.BillingCity" type="SfFieldLabel" value="Bill To City"/>
+  <translation key="Quote.BillingCountry" type="SfFieldLabel" value="Bill To Country"/>
+  <translation key="Quote.BillingCountryCode" type="SfFieldLabel" value="Bill To Country"/>
+  <translation key="Quote.BillingGeocodeAccuracy" type="SfFieldLabel" value="Bill To Geocode Accuracy"/>
+  <translation key="Quote.BillingLatitude" type="SfFieldLabel" value="Bill To Latitude"/>
+  <translation key="Quote.BillingLongitude" type="SfFieldLabel" value="Bill To Longitude"/>
+  <translation key="Quote.BillingState" type="SfFieldLabel" value="Bill To State/Province"/>
+  <translation key="Quote.BillingStateCode" type="SfFieldLabel" value="Bill To State/Province"/>
+  <translation key="Quote.BillingStreet" type="SfFieldLabel" value="Bill To Street"/>
+  <translation key="Quote.BillingZip" type="SfFieldLabel" value="Bill To Zip/Postal Code"/>
+  <translation key="Quote.CanCreateQuoteLineItems" type="SfFieldLabel" value="CanCreateQuoteLineItems"/>
+  <translation key="Quote.ContractId" type="SfFieldLabel" value="{Contract}.{SfObject.Label}"/>
+  <translation key="Quote.CurrencyIsoCode" type="SfFieldLabel" value="Quote Currency"/>
+  <translation key="Quote.Id" type="SfFieldLabel" value="Quote ID"/>
+  <translation key="Quote.Name" type="SfFieldLabel" value="Quote Name"/>
+  <translation key="Quote.Owner" type="SfFieldLabel" value="Owner Name"/>
+  <translation key="Quote.Pricebook2Id" type="SfFieldLabel" value="Pricebook"/>
+  <translation key="Quote.QuoteNumber" type="SfFieldLabel" value="Quote Number"/>
+  <translation key="Quote.QuoteToAddress" type="SfFieldLabel" value="Quote To"/>
+  <translation key="Quote.QuoteToCity" type="SfFieldLabel" value="Quote To City"/>
+  <translation key="Quote.QuoteToCountry" type="SfFieldLabel" value="Quote To Country"/>
+  <translation key="Quote.QuoteToCountryCode" type="SfFieldLabel" value="Quote To Country Code"/>
+  <translation key="Quote.QuoteToGeocodeAccuracy" type="SfFieldLabel" value="Quote To Geocode Accuracy"/>
+  <translation key="Quote.QuoteToLatitude" type="SfFieldLabel" value="Quote To Latitude"/>
+  <translation key="Quote.QuoteToLongitude" type="SfFieldLabel" value="Quote To Longitude"/>
+  <translation key="Quote.QuoteToName" type="SfFieldLabel" value="Quote To Name"/>
+  <translation key="Quote.QuoteToPostalCode" type="SfFieldLabel" value="Quote To Zip/Postal Code"/>
+  <translation key="Quote.QuoteToState" type="SfFieldLabel" value="Quote To State/Province"/>
+  <translation key="Quote.QuoteToStateCode" type="SfFieldLabel" value="Quote To State/Province"/>
+  <translation key="Quote.QuoteToStreet" type="SfFieldLabel" value="Quote To Street"/>
+  <translation key="Quote.ShippingAddress" type="SfFieldLabel" value="Ship To"/>
+  <translation key="Quote.ShippingCity" type="SfFieldLabel" value="Ship To City"/>
+  <translation key="Quote.ShippingCountry" type="SfFieldLabel" value="Ship To Country"/>
+  <translation key="Quote.ShippingCountryCode" type="SfFieldLabel" value="Ship To Country"/>
+  <translation key="Quote.ShippingGeocodeAccuracy" type="SfFieldLabel" value="Ship To Geocode Accuracy"/>
+  <translation key="Quote.ShippingLatitude" type="SfFieldLabel" value="Ship To Latitude"/>
+  <translation key="Quote.ShippingLongitude" type="SfFieldLabel" value="Ship To Longitude"/>
+  <translation key="Quote.ShippingState" type="SfFieldLabel" value="Ship To State/Province"/>
+  <translation key="Quote.ShippingStateCode" type="SfFieldLabel" value="Ship To State/Province"/>
+  <translation key="Quote.ShippingStreet" type="SfFieldLabel" value="Ship To Street"/>
+  <translation key="Quote.ShippingZip" type="SfFieldLabel" value="Ship To Zip/Postal Code"/>
+</translations>

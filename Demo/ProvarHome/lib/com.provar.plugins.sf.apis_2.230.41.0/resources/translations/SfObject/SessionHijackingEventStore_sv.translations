@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SessionHijackingEventStore.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="SessionHijackingEventStore.Id" type="SfFieldLabel" value="ID för lagring av händelse för sessionskapning"/>
+  <translation key="SessionHijackingEventStore.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="SessionHijackingEventStore.LastReferencedDate" type="SfFieldLabel" value="Senaste referensdatumet"/>
+  <translation key="SessionHijackingEventStore.LastViewedDate" type="SfFieldLabel" value="Datum senaste visning"/>
+  <translation key="SessionHijackingEventStore.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

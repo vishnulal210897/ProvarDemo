@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LeadStatus.Id" type="SfFieldLabel" value="Emnestatusværdi-id"/>
+  <translation key="LeadStatus.IsConverted" type="SfFieldLabel" value="Er konverteret"/>
+  <translation key="LeadStatus.MasterLabel" type="SfFieldLabel" value="Overordnet betegnelse"/>
+  <translation key="LeadStatus.SortOrder" type="SfFieldLabel" value="Sorteringsrækkefølge"/>
+</translations>

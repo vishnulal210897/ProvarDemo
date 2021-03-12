@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ApiAnomalyEventStore.CreatedDate" type="SfFieldLabel" value="Fecha de creación"/>
+  <translation key="ApiAnomalyEventStore.Id" type="SfFieldLabel" value="Id. de Almacén de evento de anomalía de API"/>
+  <translation key="ApiAnomalyEventStore.LastModifiedDate" type="SfFieldLabel" value="Fecha de la última modificación"/>
+  <translation key="ApiAnomalyEventStore.LastReferencedDate" type="SfFieldLabel" value="Última fecha de referencia"/>
+  <translation key="ApiAnomalyEventStore.LastViewedDate" type="SfFieldLabel" value="Fecha de última visualización"/>
+  <translation key="ApiAnomalyEventStore.SystemModstamp" type="SfFieldLabel" value="Modstamp del sistema"/>
+</translations>

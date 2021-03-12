@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Shipment.Id" type="SfFieldLabel" value="Id. de Envío"/>
+  <translation key="Shipment.Owner" type="SfFieldLabel" value="Nombre del propietario"/>
+  <translation key="Shipment.Provider" type="SfFieldLabel" value="Proveedor de envío"/>
+  <translation key="Shipment.ShipFromAddress" type="SfFieldLabel" value="Enviar desde Dirección"/>
+  <translation key="Shipment.ShipFromCity" type="SfFieldLabel" value="Enviar desde Ciudad"/>
+  <translation key="Shipment.ShipFromCountry" type="SfFieldLabel" value="Enviar desde País"/>
+  <translation key="Shipment.ShipFromGeocodeAccuracy" type="SfFieldLabel" value="Enviar desde Precisión de geocódigo"/>
+  <translation key="Shipment.ShipFromLatitude" type="SfFieldLabel" value="Enviar desde Latitud"/>
+  <translation key="Shipment.ShipFromLongitude" type="SfFieldLabel" value="Enviar desde Longitud"/>
+  <translation key="Shipment.ShipFromPostalCode" type="SfFieldLabel" value="Enviar desde Código postal"/>
+  <translation key="Shipment.ShipFromState" type="SfFieldLabel" value="Enviar desde Provincia/Estado"/>
+  <translation key="Shipment.ShipFromStreet" type="SfFieldLabel" value="Enviar desde Calle"/>
+  <translation key="Shipment.ShipToAddress" type="SfFieldLabel" value="Enviar a Dirección"/>
+  <translation key="Shipment.ShipToCity" type="SfFieldLabel" value="Enviar a Ciudad"/>
+  <translation key="Shipment.ShipToCountry" type="SfFieldLabel" value="Enviar a País"/>
+  <translation key="Shipment.ShipToGeocodeAccuracy" type="SfFieldLabel" value="Enviar a  Precisión de geocódigo"/>
+  <translation key="Shipment.ShipToLatitude" type="SfFieldLabel" value="Enviar a Latitud"/>
+  <translation key="Shipment.ShipToLongitude" type="SfFieldLabel" value="Enviar a Longitud"/>
+  <translation key="Shipment.ShipToPostalCode" type="SfFieldLabel" value="Enviar a Código postal"/>
+  <translation key="Shipment.ShipToState" type="SfFieldLabel" value="Enviar a Provincia/Estado"/>
+  <translation key="Shipment.ShipToStreet" type="SfFieldLabel" value="Enviar a Calle"/>
+  <translation key="Shipment.ShipmentNumber" type="SfFieldLabel" value="Número de envío"/>
+</translations>

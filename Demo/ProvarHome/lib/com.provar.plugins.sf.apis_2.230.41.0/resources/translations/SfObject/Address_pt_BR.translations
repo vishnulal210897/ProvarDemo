@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Address.Address" type="SfFieldLabel" value="Adresse"/>
+  <translation key="Address.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Address.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="Address.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="Address.Id" type="SfFieldLabel" value="ID d'adresse"/>
+  <translation key="Address.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="Address.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Address.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="Address.Name" type="SfFieldLabel" value="Nom"/>
+  <translation key="Address.ParentId" type="SfFieldLabel" value="Parent"/>
+  <translation key="Address.Street" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="Address.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="Address.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

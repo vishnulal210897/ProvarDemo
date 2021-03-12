@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Translation.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Translation.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="Translation.Id" type="SfFieldLabel" value="ID de traduction"/>
+  <translation key="Translation.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="Translation.Language" type="SfFieldLabel" value="Langue"/>
+  <translation key="Translation.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Translation.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="Translation.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

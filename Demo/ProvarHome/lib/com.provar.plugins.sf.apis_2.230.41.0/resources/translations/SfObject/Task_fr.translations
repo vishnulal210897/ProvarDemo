@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Task.Comments" type="SfFieldLabel" value="Commentaires"/>
+  <translation key="Task.CurrencyIsoCode" type="SfFieldLabel" value="Devise de l'activité"/>
+  <translation key="Task.Description" type="SfFieldLabel" value="Commentaires"/>
+  <translation key="Task.IsRecurrence" type="SfFieldLabel" value="Créer une série récurrente de tâches"/>
+  <translation key="Task.Owner" type="SfFieldLabel" value="Attribué à"/>
+  <translation key="Task.RecordType" type="SfFieldLabel" value="Type d'enregistrement de to do"/>
+  <translation key="Task.RecurrenceRegeneratedType" type="SfFieldLabel" value="Répéter cette tâche"/>
+  <translation key="Task.RelatedToId" type="SfFieldLabel" value="Associé à"/>
+  <translation key="Task.TaskSubtype" type="SfFieldLabel" value="Sous-type de tâche"/>
+  <translation key="Task.WhoId" type="SfFieldLabel" value="Nom"/>
+  <translation key="Task.ActivityDate" type="SfFieldLabel" value="Échéance"/>
+  <translation key="Task.WhatId" type="SfFieldLabel" value="Associé à"/>
+  <translation key="*.*.Task Information" type="SfLayoutSectionLabel" value="Informations sur la tâche"/>
+</translations>

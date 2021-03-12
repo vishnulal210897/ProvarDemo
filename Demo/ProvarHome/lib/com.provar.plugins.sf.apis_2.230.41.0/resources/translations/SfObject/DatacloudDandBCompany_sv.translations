@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DatacloudDandBCompany.CompanyId" type="SfFieldLabel" value="D&amp;B-konto ID"/>
+  <translation key="DatacloudDandBCompany.ExternalId" type="SfFieldLabel" value="D&amp;B-konto ID"/>
+  <translation key="DatacloudDandBCompany.Id" type="SfFieldLabel" value="D&amp;B-konto ID"/>
+  <translation key="DatacloudDandBCompany.Name" type="SfFieldLabel" value="D&amp;B-konto namn"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ExternalEventMapping.Id" type="SfFieldLabel" value="External Event Mapping ID"/>
+  <translation key="ExternalEventMapping.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="ExternalEventMapping.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

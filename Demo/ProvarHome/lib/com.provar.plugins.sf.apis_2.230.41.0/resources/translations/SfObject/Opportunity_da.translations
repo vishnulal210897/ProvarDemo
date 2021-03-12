@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Opportunity.Amount" type="SfFieldLabel" value="Beløb"/>
+  <translation key="Opportunity.CampaignId" type="SfFieldLabel" value="Primær kampagnekilde"/>
+  <translation key="Opportunity.CloseDate" type="SfFieldLabel" value="Lukkedato"/>
+  <translation key="Opportunity.ConnectionReceivedDate" type="SfFieldLabel" value="Verbinding ontvangen op datum"/>
+  <translation key="Opportunity.ConnectionSentDate" type="SfFieldLabel" value="Verbinding verzonden op datum"/>
+  <translation key="Opportunity.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="Opportunity.ContractId" type="SfFieldLabel" value="{Contract}.{SfObject.Label}"/>
+  <translation key="Opportunity.CreatedDate" type="SfFieldLabel" value="Aanmaakdatum"/>
+  <translation key="Opportunity.Currency" type="SfFieldLabel" value="Salgsmulighedsvaluta"/>
+  <translation key="Opportunity.Description" type="SfFieldLabel" value="Beskrivelse"/>
+  <translation key="Opportunity.ExpectedRevenue" type="SfFieldLabel" value="Forventet omsætning"/>
+  <translation key="Opportunity.Fiscal" type="SfFieldLabel" value="Fiscale periode"/>
+  <translation key="Opportunity.ForecastCategory" type="SfFieldLabel" value="Prognosecategorie"/>
+  <translation key="Opportunity.ForecastCategoryName" type="SfFieldLabel" value="Prognosekategori"/>
+  <translation key="Opportunity.HasOpenActivity" type="SfFieldLabel" value="Heeft open activiteit"/>
+  <translation key="Opportunity.HasOpportunityLineItem" type="SfFieldLabel" value="Heeft regelitem"/>
+  <translation key="Opportunity.HasOverdueTask" type="SfFieldLabel" value="Heeft achterstallige taak"/>
+  <translation key="Opportunity.Id" type="SfFieldLabel" value="Opportunity-id"/>
+  <translation key="Opportunity.IsClosed" type="SfFieldLabel" value="Gesloten"/>
+  <translation key="Opportunity.IsDeleted" type="SfFieldLabel" value="Verwijderd"/>
+  <translation key="Opportunity.IsPrivate" type="SfFieldLabel" value="Privat"/>
+  <translation key="Opportunity.IsWon" type="SfFieldLabel" value="Gewonnen"/>
+  <translation key="Opportunity.LastActivityDate" type="SfFieldLabel" value="Laatste activiteit"/>
+  <translation key="Opportunity.LastReferencedDate" type="SfFieldLabel" value="Laatste datum waarnaar is verwezen"/>
+  <translation key="Opportunity.LastStageChangeDate" type="SfFieldLabel" value="Wijzigingsdatum van laatste fase"/>
+  <translation key="Opportunity.LastViewedDate" type="SfFieldLabel" value="Datum laatst weergegeven"/>
+  <translation key="Opportunity.LeadSource" type="SfFieldLabel" value="Emnekilde"/>
+  <translation key="Opportunity.Name" type="SfFieldLabel" value="Salgsmulighedsnavn"/>
+  <translation key="Opportunity.NextStep" type="SfFieldLabel" value="Næste trin"/>
+  <translation key="Opportunity.Owner" type="SfFieldLabel" value="Salgsmulighedsejer"/>
+  <translation key="Opportunity.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Opportunity.PrimaryPartnerAccountId" type="SfFieldLabel" value="Primaire partneraccount"/>
+  <translation key="Opportunity.Probability" type="SfFieldLabel" value="Sandsynlighed (%)"/>
+  <translation key="Opportunity.RecordType" type="SfFieldLabel" value="Salgsmulighed - registreringstype"/>
+  <translation key="Opportunity.StageSortOrder" type="SfFieldLabel" value="Fasesorteervolgorde"/>
+  <translation key="Opportunity.SystemModstamp" type="SfFieldLabel" value="Systeemwijzigingsstempel"/>
+  <translation key="Opportunity.TotalOpportunityQuantity" type="SfFieldLabel" value="Mængde"/>
+  <translation key="Opportunity.UserRecordAccessId" type="SfFieldLabel" value="Objecttoegangsniveau"/>
+  <translation key="*.*.Opportunity Information" type="SfLayoutSectionLabel" value="Salgsmulighed - oplysninger"/>
+</translations>

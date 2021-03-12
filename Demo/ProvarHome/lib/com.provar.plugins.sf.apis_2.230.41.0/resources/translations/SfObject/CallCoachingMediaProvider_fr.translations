@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CallCoachingMediaProvider.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="CallCoachingMediaProvider.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="CallCoachingMediaProvider.Id" type="SfFieldLabel" value="CallCoachingMediaProvider ID"/>
+  <translation key="CallCoachingMediaProvider.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="CallCoachingMediaProvider.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="CallCoachingMediaProvider.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="CallCoachingMediaProvider.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

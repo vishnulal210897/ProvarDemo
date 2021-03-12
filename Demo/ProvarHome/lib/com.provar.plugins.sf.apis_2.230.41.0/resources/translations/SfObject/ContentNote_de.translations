@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContentNote.ContentSize" type="SfFieldLabel" value="Inhaltsgröße"/>
+  <translation key="ContentNote.CreatedDate" type="SfFieldLabel" value="Erstellt am"/>
+  <translation key="ContentNote.Id" type="SfFieldLabel" value="Notiz-ID"/>
+  <translation key="ContentNote.LastModifiedDate" type="SfFieldLabel" value="Inhalt geändert am"/>
+  <translation key="ContentNote.LatestPublishedVersionId" type="SfFieldLabel" value="ContentVersion"/>
+  <translation key="ContentNote.Owner" type="SfFieldLabel" value="Inhaber"/>
+  <translation key="ContentNote.SharingPrivacy" type="SfFieldLabel" value="Notizenvertraulichkeit in Datensätzen"/>
+</translations>

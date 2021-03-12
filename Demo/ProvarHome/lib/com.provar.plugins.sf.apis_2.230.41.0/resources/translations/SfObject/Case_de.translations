@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Case.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="Case.CaseNumber" type="SfFieldLabel" value="Kundenvorgangs-Nr."/>
+  <translation key="Case.CreatedDate" type="SfFieldLabel" value="Datum/Uhrzeit geöffnet"/>
+  <translation key="Case.CurrencyIsoCode" type="SfFieldLabel" value="Kundenvorgangswährung"/>
+  <translation key="Case.Id" type="SfFieldLabel" value="Kundenvorgangs-ID"/>
+  <translation key="Case.Origin" type="SfFieldLabel" value="Kundenvorgangsursprung"/>
+  <translation key="Case.Owner" type="SfFieldLabel" value="Kundenvorgangsinhaber"/>
+  <translation key="Case.Parent" type="SfFieldLabel" value="Übergeordneter Kundenvorgang"/>
+  <translation key="Case.ProductId" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="Case.Reason" type="SfFieldLabel" value="Kundenvorgangsursache"/>
+  <translation key="Case.RecordType" type="SfFieldLabel" value="Kundenvorgangs-Datensatztyp"/>
+</translations>

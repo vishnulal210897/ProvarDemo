@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrgMetric.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="OrgMetric.Id" type="SfFieldLabel" value="Organisationskennzahlen-ID"/>
+  <translation key="OrgMetric.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="OrgMetric.LatestOrgMetricScanSummaryId" type="SfFieldLabel" value="Des Organisationskennzahlscans"/>
+  <translation key="OrgMetric.Name" type="SfFieldLabel" value="Organisationskennzahl"/>
+</translations>

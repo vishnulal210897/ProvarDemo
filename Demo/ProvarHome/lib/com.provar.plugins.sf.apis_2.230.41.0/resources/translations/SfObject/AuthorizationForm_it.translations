@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AuthorizationForm.DefaultAuthFormTextId" type="SfFieldLabel" value="Testo modulo di autorizzazione predefinito"/>
+  <translation key="AuthorizationForm.Id" type="SfFieldLabel" value="ID modulo di autorizzazione"/>
+  <translation key="AuthorizationForm.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="AuthorizationForm.Owner" type="SfFieldLabel" value="Nome titolare"/>
+</translations>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ActionLinkGroupTemplate.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="ActionLinkGroupTemplate.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="ActionLinkGroupTemplate.DeveloperName" type="SfFieldLabel" value="Nome do desenvolvedor"/>
+  <translation key="ActionLinkGroupTemplate.Id" type="SfFieldLabel" value="ID do Modelo do grupo do link de ação"/>
+  <translation key="ActionLinkGroupTemplate.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="ActionLinkGroupTemplate.IsPublished" type="SfFieldLabel" value="Publicado"/>
+  <translation key="ActionLinkGroupTemplate.Language" type="SfFieldLabel" value="Idioma mestre"/>
+  <translation key="ActionLinkGroupTemplate.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="ActionLinkGroupTemplate.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="ActionLinkGroupTemplate.MasterLabel" type="SfFieldLabel" value="Nome"/>
+  <translation key="ActionLinkGroupTemplate.NamespacePrefix" type="SfFieldLabel" value="Prefixo do namespace"/>
+  <translation key="ActionLinkGroupTemplate.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

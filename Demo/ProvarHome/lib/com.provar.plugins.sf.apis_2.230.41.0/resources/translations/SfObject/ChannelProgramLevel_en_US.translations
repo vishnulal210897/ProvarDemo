@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ChannelProgramLevel.Id" type="SfFieldLabel" value="Channel Program Level ID"/>
+  <translation key="ChannelProgramLevel.Owner" type="SfFieldLabel" value="Owner"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkCapacityUsage.Id" type="SfFieldLabel" value="Id for arbejdskapacitetsanvendelsesnummer"/>
+  <translation key="WorkCapacityUsage.ServiceTerritoryId" type="SfFieldLabel" value="{ServiceTerritory}.{SfObject.Label}"/>
+  <translation key="WorkCapacityUsage.WorkCapacityUsageNumber" type="SfFieldLabel" value="Arbejdskapacitetsanvendelsesnummer"/>
+  <translation key="WorkCapacityUsage.WorkTypeGroupId" type="SfFieldLabel" value="{WorkTypeGroup}.{SfObject.Label}"/>
+</translations>

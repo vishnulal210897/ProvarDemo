@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="NoteAndAttachment.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="NoteAndAttachment.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="NoteAndAttachment.Id" type="SfFieldLabel" value="ID da nota ou anexo"/>
+  <translation key="NoteAndAttachment.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="NoteAndAttachment.IsPrivate" type="SfFieldLabel" value="Particular"/>
+  <translation key="NoteAndAttachment.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="NoteAndAttachment.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="NoteAndAttachment.Owner" type="SfFieldLabel" value="Do proprietário"/>
+  <translation key="NoteAndAttachment.ParentId" type="SfFieldLabel" value="Pai"/>
+  <translation key="NoteAndAttachment.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+  <translation key="NoteAndAttachment.Title" type="SfFieldLabel" value="Título"/>
+</translations>

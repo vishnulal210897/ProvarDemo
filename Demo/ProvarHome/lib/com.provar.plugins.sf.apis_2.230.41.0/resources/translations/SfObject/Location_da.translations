@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Location.Id" type="SfFieldLabel" value="Id for placering"/>
+  <translation key="Location.IsInventoryLocation" type="SfFieldLabel" value="Lagerplacering"/>
+  <translation key="Location.IsMobile" type="SfFieldLabel" value="Mobilplacering"/>
+  <translation key="Location.Location" type="SfFieldLabel" value="{Location}.{SfObject.Label}"/>
+  <translation key="Location.LocationLevel" type="SfFieldLabel" value="Placeringsniveau"/>
+  <translation key="Location.Name" type="SfFieldLabel" value="Placeringsnavn"/>
+  <translation key="Location.ParentLocationId" type="SfFieldLabel" value="Overordnet placering"/>
+  <translation key="Location.RootLocationId" type="SfFieldLabel" value="Rodplacering"/>
+</translations>

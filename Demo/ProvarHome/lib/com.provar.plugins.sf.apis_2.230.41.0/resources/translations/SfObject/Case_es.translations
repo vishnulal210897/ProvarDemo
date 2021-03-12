@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Case.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="Case.CaseNumber" type="SfFieldLabel" value="Número del caso"/>
+  <translation key="Case.CreatedDate" type="SfFieldLabel" value="Fecha/Hora de apertura"/>
+  <translation key="Case.CurrencyIsoCode" type="SfFieldLabel" value="Divisa del caso"/>
+  <translation key="Case.Id" type="SfFieldLabel" value="Id. del caso"/>
+  <translation key="Case.MasterRecordId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="Case.Origin" type="SfFieldLabel" value="Origen del caso"/>
+  <translation key="Case.Owner" type="SfFieldLabel" value="Propietario del caso"/>
+  <translation key="Case.Parent" type="SfFieldLabel" value="Caso principal"/>
+  <translation key="Case.ProductId" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="Case.Reason" type="SfFieldLabel" value="Motivo del caso"/>
+  <translation key="Case.RecordType" type="SfFieldLabel" value="Tipo de registro del caso"/>
+</translations>

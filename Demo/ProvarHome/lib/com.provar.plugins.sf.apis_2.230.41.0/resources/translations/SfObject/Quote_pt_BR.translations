@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Quote.AccountId" type="SfFieldLabel" value="Account Name"/>
+  <translation key="Quote.BillingAddress" type="SfFieldLabel" value="Bill To"/>
+  <translation key="Quote.BillingCity" type="SfFieldLabel" value="Cidade da Referência de Faturamento"/>
+  <translation key="Quote.BillingCountry" type="SfFieldLabel" value="País da Referência de Faturamento"/>
+  <translation key="Quote.BillingCountryCode" type="SfFieldLabel" value="Código do país para cobrança"/>
+  <translation key="Quote.BillingGeocodeAccuracy" type="SfFieldLabel" value="Precisão do geocódigo de referência de faturamento"/>
+  <translation key="Quote.BillingLatitude" type="SfFieldLabel" value="Conta para latitude"/>
+  <translation key="Quote.BillingLongitude" type="SfFieldLabel" value="Conta para longitude"/>
+  <translation key="Quote.BillingState" type="SfFieldLabel" value="Estado/Província da Referência de Faturamento"/>
+  <translation key="Quote.BillingStateCode" type="SfFieldLabel" value="Código do estado/província para cobrança"/>
+  <translation key="Quote.BillingStreet" type="SfFieldLabel" value="Rua da Referência de Faturamento"/>
+  <translation key="Quote.BillingZip" type="SfFieldLabel" value="CEP/Cód. Postal da Referência de Faturamento"/>
+  <translation key="Quote.ContactId" type="SfFieldLabel" value="Contact Name"/>
+  <translation key="Quote.CurrencyIsoCode" type="SfFieldLabel" value="Quote Currency"/>
+  <translation key="Quote.Discount" type="SfFieldLabel" value="Discount"/>
+  <translation key="Quote.ExpirationDate" type="SfFieldLabel" value="Expiration Date"/>
+  <translation key="Quote.Id" type="SfFieldLabel" value="Quote ID"/>
+  <translation key="Quote.Name" type="SfFieldLabel" value="Quote Name"/>
+  <translation key="Quote.Owner" type="SfFieldLabel" value="Owner Name"/>
+  <translation key="Quote.Pricebook2Id" type="SfFieldLabel" value="Pricebook"/>
+  <translation key="Quote.QuoteToCity" type="SfFieldLabel" value="Cidade de Referência para Cotação"/>
+  <translation key="Quote.QuoteToCountry" type="SfFieldLabel" value="País de Referência para Cotação"/>
+  <translation key="Quote.QuoteToCountryCode" type="SfFieldLabel" value="Código do país para cotação"/>
+  <translation key="Quote.QuoteToGeocodeAccuracy" type="SfFieldLabel" value="Precisão do geocódigo de referência para cotação"/>
+  <translation key="Quote.QuoteToLatitude" type="SfFieldLabel" value="Cotação para latitude"/>
+  <translation key="Quote.QuoteToLongitude" type="SfFieldLabel" value="Cotação para longitude"/>
+  <translation key="Quote.QuoteToPostalCode" type="SfFieldLabel" value="CEP/Cód. Postal de Referência para Cotação"/>
+  <translation key="Quote.QuoteToState" type="SfFieldLabel" value="Estado/Província de Referência para Cotação"/>
+  <translation key="Quote.QuoteToStateCode" type="SfFieldLabel" value="Código do estado/província para cotação"/>
+  <translation key="Quote.QuoteToStreet" type="SfFieldLabel" value="Rua de Referência para Cotação"/>
+  <translation key="Quote.ShippingAddress" type="SfFieldLabel" value="Ship To"/>
+  <translation key="Quote.ShippingCity" type="SfFieldLabel" value="Cidade de destino"/>
+  <translation key="Quote.ShippingCountry" type="SfFieldLabel" value="País de destino"/>
+  <translation key="Quote.ShippingCountryCode" type="SfFieldLabel" value="Código do país de destino"/>
+  <translation key="Quote.ShippingGeocodeAccuracy" type="SfFieldLabel" value="Precisão do geocódigo do destino"/>
+  <translation key="Quote.ShippingLatitude" type="SfFieldLabel" value="Latitude do destino"/>
+  <translation key="Quote.ShippingLongitude" type="SfFieldLabel" value="Longitude do destino"/>
+  <translation key="Quote.ShippingState" type="SfFieldLabel" value="Estado/Província de destino"/>
+  <translation key="Quote.ShippingStateCode" type="SfFieldLabel" value="Código do estado/província de destino"/>
+  <translation key="Quote.ShippingStreet" type="SfFieldLabel" value="Rua de destino"/>
+  <translation key="Quote.ShippingZip" type="SfFieldLabel" value="CEP/código postal de destino"/>
+  <translation key="Quote.Status" type="SfFieldLabel" value="Status"/>
+  <translation key="Quote.Subtotal" type="SfFieldLabel" value="Subtotal"/>
+  <translation key="Quote.TotalPrice" type="SfFieldLabel" value="Total Price"/>
+</translations>

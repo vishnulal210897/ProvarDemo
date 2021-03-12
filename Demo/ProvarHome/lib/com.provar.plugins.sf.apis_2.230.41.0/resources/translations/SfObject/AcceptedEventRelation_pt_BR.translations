@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AcceptedEventRelation.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="AcceptedEventRelation.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="AcceptedEventRelation.EventId" type="SfFieldLabel" value="Do Compromisso"/>
+  <translation key="AcceptedEventRelation.Id" type="SfFieldLabel" value="ID da relação do compromisso"/>
+  <translation key="AcceptedEventRelation.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="AcceptedEventRelation.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="AcceptedEventRelation.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="AcceptedEventRelation.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrder.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="WorkOrder.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="WorkOrder.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="WorkOrder.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="WorkOrder.DurationInMinutes" type="SfFieldLabel" value="Durata in minuti"/>
+  <translation key="WorkOrder.EntitlementId" type="SfFieldLabel" value="{Entitlement}.{SfObject.Label}"/>
+  <translation key="WorkOrder.Id" type="SfFieldLabel" value="ID ordine di lavoro"/>
+  <translation key="WorkOrder.IsClosed" type="SfFieldLabel" value="È chiuso"/>
+  <translation key="WorkOrder.LineItemCount" type="SfFieldLabel" value="Voce"/>
+  <translation key="WorkOrder.Owner" type="SfFieldLabel" value="Titolare"/>
+  <translation key="WorkOrder.ParentWorkOrderId" type="SfFieldLabel" value="Ordine di lavoro controllante"/>
+  <translation key="WorkOrder.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="WorkOrder.RootWorkOrderId" type="SfFieldLabel" value="Ordine di lavoro radice"/>
+  <translation key="WorkOrder.ServiceContractId" type="SfFieldLabel" value="{ServiceContract}.{SfObject.Label}"/>
+  <translation key="WorkOrder.Street" type="SfFieldLabel" value="Via"/>
+  <translation key="WorkOrder.StateCode" type="SfFieldLabel" value="Codice provincia"/>
+  <translation key="WorkOrder.WorkOrderNumber" type="SfFieldLabel" value="Numero ordine di lavoro"/>
+</translations>

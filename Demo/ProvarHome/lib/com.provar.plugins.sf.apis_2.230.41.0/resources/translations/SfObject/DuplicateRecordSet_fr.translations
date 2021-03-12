@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DuplicateRecordSet.Id" type="SfFieldLabel" value="ID d'ensemble d'enregistrements dupliqué"/>
+  <translation key="DuplicateRecordSet.Name" type="SfFieldLabel" value="Nom de l'ensemble d'enregistrements dupliqué"/>
+  <translation key="*.*.DuplicateRecordSet Information" type="SfLayoutSectionLabel" value="Informations sur l'ensemble d'enregistrements dupliqué"/>
+</translations>

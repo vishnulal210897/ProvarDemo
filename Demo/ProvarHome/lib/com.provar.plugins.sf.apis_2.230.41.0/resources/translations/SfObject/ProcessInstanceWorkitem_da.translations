@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+	<translation key="ProcessInstanceWorkitem.CreatedById" type="SfFieldLabel" value="Nyeste godkender"/>
+	<translation key="ProcessInstanceWorkitem.CreatedDate" type="SfFieldLabel" value="Indsendelsesdato"/>
+</translations>

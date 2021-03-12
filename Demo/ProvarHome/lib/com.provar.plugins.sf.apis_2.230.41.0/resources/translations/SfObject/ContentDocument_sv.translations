@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContentDocument.ArchivedById" type="SfFieldLabel" value="Användar"/>
+  <translation key="ContentDocument.ArchivedDate" type="SfFieldLabel" value="Arkiverad den"/>
+  <translation key="ContentDocument.ContentModifiedDate" type="SfFieldLabel" value="Ändringsdatum för innehåll"/>
+  <translation key="ContentDocument.ContentSize" type="SfFieldLabel" value="Storlek"/>
+  <translation key="ContentDocument.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="ContentDocument.CreatedDate" type="SfFieldLabel" value="Skapad"/>
+  <translation key="ContentDocument.Description" type="SfFieldLabel" value="Beskrivning"/>
+  <translation key="ContentDocument.FileExtension" type="SfFieldLabel" value="Filtillägg"/>
+  <translation key="ContentDocument.FileType" type="SfFieldLabel" value="Filformat"/>
+  <translation key="ContentDocument.Id" type="SfFieldLabel" value="ContentDocument ID"/>
+  <translation key="ContentDocument.IsArchived" type="SfFieldLabel" value="Är arkiverat"/>
+  <translation key="ContentDocument.IsDeleted" type="SfFieldLabel" value="Är borttaget"/>
+  <translation key="ContentDocument.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="ContentDocument.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="ContentDocument.LastReferencedDate" type="SfFieldLabel" value="Senaste referensdatumet"/>
+  <translation key="ContentDocument.LastViewedDate" type="SfFieldLabel" value="Datum senaste visning"/>
+  <translation key="ContentDocument.Owner" type="SfFieldLabel" value="Ägarens"/>
+  <translation key="ContentDocument.ParentId" type="SfFieldLabel" value="Överordnat"/>
+  <translation key="ContentDocument.PublishStatus" type="SfFieldLabel" value="Publicerings-status"/>
+  <translation key="ContentDocument.SharingOption" type="SfFieldLabel" value="Hindra andra från att dela och sluta dela"/>
+  <translation key="ContentDocument.SharingPrivacy" type="SfFieldLabel" value="Filsekretess i poster"/>
+  <translation key="ContentDocument.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+  <translation key="ContentDocument.Title" type="SfFieldLabel" value="Rubrik"/>
+</translations>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SetupAssistantStep.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="SetupAssistantStep.CreatedDate" type="SfFieldLabel" value="Erstelldatum"/>
+  <translation key="SetupAssistantStep.CurrencyIsoCode" type="SfFieldLabel" value="ISO-Währungskürzel"/>
+  <translation key="SetupAssistantStep.Id" type="SfFieldLabel" value="Schritt-ID des Setup-Assistenten"/>
+  <translation key="SetupAssistantStep.IsDeleted" type="SfFieldLabel" value="Gelöscht"/>
+  <translation key="SetupAssistantStep.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="SetupAssistantStep.LastModifiedDate" type="SfFieldLabel" value="Zuletzt geändert am"/>
+  <translation key="SetupAssistantStep.Name" type="SfFieldLabel" value="Name"/>
+</translations>

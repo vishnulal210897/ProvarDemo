@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Translation.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="Translation.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="Translation.Id" type="SfFieldLabel" value="ID da tradução"/>
+  <translation key="Translation.IsActive" type="SfFieldLabel" value="Ativada"/>
+  <translation key="Translation.Language" type="SfFieldLabel" value="Idioma"/>
+  <translation key="Translation.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="Translation.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="Translation.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

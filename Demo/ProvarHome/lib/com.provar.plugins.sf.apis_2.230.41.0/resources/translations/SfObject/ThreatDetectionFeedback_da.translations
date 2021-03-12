@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ThreatDetectionFeedback.Id" type="SfFieldLabel" value="Id for feedback for trusselregistrering"/>
+  <translation key="ThreatDetectionFeedback.LastModifiedDate" type="SfFieldLabel" value="Dato for sidste opdatering"/>
+  <translation key="ThreatDetectionFeedback.LastReferencedDate" type="SfFieldLabel" value="Seneste referencedato"/>
+</translations>

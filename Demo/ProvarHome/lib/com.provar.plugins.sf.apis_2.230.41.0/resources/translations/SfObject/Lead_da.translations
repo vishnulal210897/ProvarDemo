@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Lead.Address" type="SfFieldLabel" value="Adresse"/>
+  <translation key="Lead.AnnualRevenue" type="SfFieldLabel" value="Årlig omsætning"/>
+  <translation key="Lead.CampaignId" type="SfFieldLabel" value="{Campaign}.{SfObject.Label}"/>
+  <translation key="Lead.CampaignMemberStatus" type="SfFieldLabel" value="Status van campagnelid"/>
+  <translation key="Lead.CleanStatus" type="SfFieldLabel" value="Opdater-status"/>
+  <translation key="Lead.Company" type="SfFieldLabel" value="Firma"/>
+  <translation key="Lead.CompanyDunsNumber" type="SfFieldLabel" value="Firmaets D-U-N-S-nummer"/>
+  <translation key="Lead.ConnectionReceivedDate" type="SfFieldLabel" value="Verbinding ontvangen op datum"/>
+  <translation key="Lead.ConnectionSentDate" type="SfFieldLabel" value="Verbinding verzonden op datum"/>
+  <translation key="Lead.ConvertedAccountId" type="SfFieldLabel" value="Geconverteerde account"/>
+  <translation key="Lead.ConvertedContactId" type="SfFieldLabel" value="Geconverteerde contactpersoon"/>
+  <translation key="Lead.ConvertedDate" type="SfFieldLabel" value="Conversiedatum"/>
+  <translation key="Lead.ConvertedOpportunityId" type="SfFieldLabel" value="Geconverteerde opportunity"/>
+  <translation key="Lead.CreatedDate" type="SfFieldLabel" value="Aanmaakdatum"/>
+  <translation key="Lead.CurrencyIsoCode" type="SfFieldLabel" value="Emnevaluta"/>
+  <translation key="Lead.DandbCompanyId" type="SfFieldLabel" value="D&amp;B-firma"/>
+  <translation key="Lead.Description" type="SfFieldLabel" value="Beskrivelse"/>
+  <translation key="Lead.DoNotCall" type="SfFieldLabel" value="Niet bellen"/>
+  <translation key="Lead.Email" type="SfFieldLabel" value="Mail"/>
+  <translation key="Lead.EmailBouncedDate" type="SfFieldLabel" value="Datum retour e-mail"/>
+  <translation key="Lead.EmailBouncedReason" type="SfFieldLabel" value="Reden retour e-mail"/>
+  <translation key="Lead.HasOptedOutOfEmail" type="SfFieldLabel" value="Niet e-mailen"/>
+  <translation key="Lead.HasOptedOutOfFax" type="SfFieldLabel" value="Niet faxen"/>
+  <translation key="Lead.Id" type="SfFieldLabel" value="Lead-ID"/>
+  <translation key="Lead.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="Lead.Industry" type="SfFieldLabel" value="Branche"/>
+  <translation key="Lead.InternalSource" type="SfFieldLabel" value="Interne bron"/>
+  <translation key="Lead.IsConverted" type="SfFieldLabel" value="Geconverteerd"/>
+  <translation key="Lead.IsDeleted" type="SfFieldLabel" value="Verwijderd"/>
+  <translation key="Lead.IsUnreadByOwner" type="SfFieldLabel" value="Niet gelezen door eigenaar"/>
+  <translation key="Lead.Jigsaw" type="SfFieldLabel" value="Data.com-nøgle"/>
+  <translation key="Lead.JigsawContactId" type="SfFieldLabel" value="Jigsaw-contactpersoons-ID"/>
+  <translation key="Lead.LastActivityDate" type="SfFieldLabel" value="Laatste activiteit"/>
+  <translation key="Lead.LastModifiedByID" type="SfFieldLabel" value="ID van laatste wijziging door"/>
+  <translation key="Lead.LastReferencedDate" type="SfFieldLabel" value="Laatste datum waarnaar is verwezen"/>
+  <translation key="Lead.LastTransferDate" type="SfFieldLabel" value="Datum van laatste overdracht"/>
+  <translation key="Lead.LastViewedDate" type="SfFieldLabel" value="Datum laatst weergegeven"/>
+  <translation key="Lead.LeadSource" type="SfFieldLabel" value="Emnekilde"/>
+  <translation key="Lead.MasterRecordId" type="SfFieldLabel" value="{Lead}.{SfObject.Label}"/>
+  <translation key="Lead.Mobile" type="SfFieldLabel" value="Mobil"/>
+  <translation key="Lead.Name" type="SfFieldLabel" value="Navn"/>
+  <translation key="Lead.NoOfEmployees" type="SfFieldLabel" value="Antal medarbejdere"/>
+  <translation key="Lead.Owner" type="SfFieldLabel" value="Emneejer"/>
+  <translation key="Lead.Phone" type="SfFieldLabel" value="Telefon"/>
+  <translation key="Lead.PhotoUrl" type="SfFieldLabel" value="URL voor foto"/>
+  <translation key="Lead.Rating" type="SfFieldLabel" value="Vurdering"/>
+  <translation key="Lead.RecordType" type="SfFieldLabel" value="Emneregistreringstype"/>
+  <translation key="Lead.StateCode" type="SfFieldLabel" value="Stat-/provinskode"/>
+  <translation key="Lead.Status" type="SfFieldLabel" value="Emnestatus"/>
+  <translation key="Lead.SystemModstamp" type="SfFieldLabel" value="Systeemwijzigingsstempel"/>
+  <translation key="Lead.UserRecordAccessId" type="SfFieldLabel" value="Objecttoegangsniveau"/>
+  <translation key="*.*.Lead Information" type="SfLayoutSectionLabel" value="Emneoplysninger"/>
+</translations>

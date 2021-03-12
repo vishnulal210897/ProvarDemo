@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrder.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="WorkOrder.Address" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="WorkOrder.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="WorkOrder.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="WorkOrder.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="WorkOrder.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="WorkOrder.DurationInMinutes" type="SfFieldLabel" value="Duration in Minutes"/>
+  <translation key="WorkOrder.EntitlementId" type="SfFieldLabel" value="{Entitlement}.{SfObject.Label}"/>
+  <translation key="WorkOrder.Id" type="SfFieldLabel" value="Work Order ID"/>
+  <translation key="WorkOrder.IsClosed" type="SfFieldLabel" value="Is Closed"/>
+  <translation internalLabel="Owner ID" key="WorkOrder.Owner" type="SfFieldLabel" value="Owner"/>
+  <translation key="WorkOrder.ParentWorkOrderId" type="SfFieldLabel" value="Parent Work Order"/>
+  <translation key="WorkOrder.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="WorkOrder.RootWorkOrderId" type="SfFieldLabel" value="Root Work Order"/>
+  <translation key="WorkOrder.ServiceContractId" type="SfFieldLabel" value="{ServiceContract}.{SfObject.Label}"/>
+  <translation key="WorkOrder.Street" type="SfFieldLabel" value="Street"/>
+  <translation key="WorkOrder.WorkOrderNumber" type="SfFieldLabel" value="Work Order Number"/>
+</translations>

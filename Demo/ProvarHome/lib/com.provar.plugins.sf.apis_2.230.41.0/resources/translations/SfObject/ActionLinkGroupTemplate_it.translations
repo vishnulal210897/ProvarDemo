@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ActionLinkGroupTemplate.Id" type="SfFieldLabel" value="ID modello di gruppo dei link azioni"/>
+  <translation key="ActionLinkGroupTemplate.Language" type="SfFieldLabel" value="Lingua principale"/>
+  <translation key="ActionLinkGroupTemplate.MasterLabel" type="SfFieldLabel" value="Nome"/>
+</translations>

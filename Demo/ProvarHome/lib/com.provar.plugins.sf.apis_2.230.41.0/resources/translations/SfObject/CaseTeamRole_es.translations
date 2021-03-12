@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseTeamRole.AccessLevel" type="SfFieldLabel" value="Acceso a casos"/>
+  <translation key="CaseTeamRole.Id" type="SfFieldLabel" value="Id. de función de equipo"/>
+  <translation key="CaseTeamRole.Name" type="SfFieldLabel" value="Nombre"/>
+</translations>

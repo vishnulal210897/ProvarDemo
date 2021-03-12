@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AuthorizationFormText.Id" type="SfFieldLabel" value="Id for godkendelsesformulartekst"/>
+  <translation key="AuthorizationFormText.Name" type="SfFieldLabel" value="Navn"/>
+  <translation key="AuthorizationFormText.SummaryAuthFormText" type="SfFieldLabel" value="Sammendrag for godkendelsesformulartekst"/>
+</translations>

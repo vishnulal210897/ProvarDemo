@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AccountTeamMember.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="AccountTeamMember.Id" type="SfFieldLabel" value="Accountteamlid-id" relatedListLabel="Teamlid"/>
+  <translation key="AccountTeamMember.PhotoUrl" type="SfFieldLabel" value="URL voor foto op miniatuurformaat"/>
+  <translation key="AccountTeamMember.TeamMemberRole" type="SfFieldLabel" value="Teamrol"/>
+  <translation key="AccountTeamMember.Title" type="SfFieldLabel" value="Functie"/>
+</translations>

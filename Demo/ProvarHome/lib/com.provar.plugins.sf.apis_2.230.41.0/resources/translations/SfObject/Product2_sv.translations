@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Product2.Description" type="SfFieldLabel" value="Produktbeskrivning"/>
+  <translation key="Product2.Family" type="SfFieldLabel" value="Produktområde"/>
+  <translation key="Product2.Id" type="SfFieldLabel" value="Produkt"/>
+  <translation key="Product2.Name" type="SfFieldLabel" value="Produktnamn"/>
+  <translation key="Product2.ProductCode" type="SfFieldLabel" value="Produktkod"/>
+  <translation key="Product2.StockKeepingUnit" type="SfFieldLabel" value="Produkt-SKU"/>
+  <translation key="*.*.Product Information" type="SfLayoutSectionLabel" value="Produktinformation"/>
+</translations>

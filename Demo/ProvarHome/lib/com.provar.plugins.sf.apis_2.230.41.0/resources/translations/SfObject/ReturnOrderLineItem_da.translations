@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ReturnOrderLineItem.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="ReturnOrderLineItem.Id" type="SfFieldLabel" value="Id for returordrelinjevare"/>
+  <translation key="ReturnOrderLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="ReturnOrderLineItem.ProductItemId" type="SfFieldLabel" value="{ProductItem}.{SfObject.Label}"/>
+  <translation key="ReturnOrderLineItem.ProductRequestLineItemId" type="SfFieldLabel" value="{ProductRequestLineItem}.{SfObject.Label}"/>
+  <translation key="ReturnOrderLineItem.QuantityUnitOfMeasure" type="SfFieldLabel" value="Mængdeangivelse i måleenhed"/>
+  <translation key="ReturnOrderLineItem.ReturnOrderId" type="SfFieldLabel" value="{ReturnOrder}.{SfObject.Label}"/>
+  <translation key="ReturnOrderLineItem.ReturnOrderLineItemNumber" type="SfFieldLabel" value="Nummer på returordrelinjevare"/>
+</translations>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DigitalSignature.Id" type="SfFieldLabel" value="Digitale Signatur-ID"/>
+  <translation key="DigitalSignature.ParentId" type="SfFieldLabel" value="Übergeordneter Datensatz"/>
+</translations>

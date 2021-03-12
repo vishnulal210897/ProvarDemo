@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SolutionStatus.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="SolutionStatus.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="SolutionStatus.Id" type="SfFieldLabel" value="ID för statusvärde för lösning"/>
+  <translation key="SolutionStatus.IsDefault" type="SfFieldLabel" value="Är standard"/>
+  <translation key="SolutionStatus.IsReviewed" type="SfFieldLabel" value="Är genomgången"/>
+  <translation key="SolutionStatus.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="SolutionStatus.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="SolutionStatus.SortOrder" type="SfFieldLabel" value="Sorteringsordning"/>
+  <translation key="SolutionStatus.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+</translations>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PermissionSetGroupComponent.CreatedById" type="SfFieldLabel" value="Creado por"/>
+  <translation key="PermissionSetGroupComponent.CreatedDate" type="SfFieldLabel" value="Fecha de creación"/>
+  <translation key="PermissionSetGroupComponent.Id" type="SfFieldLabel" value="Id. de Componente de grupo de conjunto de permisos"/>
+  <translation key="PermissionSetGroupComponent.IsDeleted" type="SfFieldLabel" value="Eliminado"/>
+  <translation key="PermissionSetGroupComponent.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="PermissionSetGroupComponent.LastModifiedDate" type="SfFieldLabel" value="Fecha de la última modificación"/>
+  <translation key="PermissionSetGroupComponent.SystemModstamp" type="SfFieldLabel" value="Modstamp del sistema"/>
+</translations>

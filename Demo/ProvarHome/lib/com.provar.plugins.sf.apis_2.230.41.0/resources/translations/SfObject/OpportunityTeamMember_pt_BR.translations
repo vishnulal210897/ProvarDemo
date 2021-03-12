@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpportunityTeamMember.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="OpportunityTeamMember.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="OpportunityTeamMember.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="OpportunityTeamMember.Id" type="SfFieldLabel" value="ID do membro da equipe da oportunidade"/>
+  <translation key="OpportunityTeamMember.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="OpportunityTeamMember.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="OpportunityTeamMember.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="OpportunityTeamMember.Name" type="SfFieldLabel" value="Nome do membro da equipe da oportunidade"/>
+  <translation key="OpportunityTeamMember.OpportunityId" type="SfFieldLabel" value="Da oportunidade"/>
+  <translation key="OpportunityTeamMember.PhotoUrl" type="SfFieldLabel" value="URL da foto dimensionada para miniatura"/>
+  <translation key="OpportunityTeamMember.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+  <translation key="OpportunityTeamMember.Title" type="SfFieldLabel" value="Cargo"/>
+</translations>

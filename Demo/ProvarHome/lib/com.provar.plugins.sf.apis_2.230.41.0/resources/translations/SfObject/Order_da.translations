@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Order.BillingStateCode" type="SfFieldLabel" value="Faktureringsstatskode"/>
+  <translation key="Order.ContractId" type="SfFieldLabel" value="Kontraktnummer"/>
+  <translation key="Order.CurrencyIsoCode" type="SfFieldLabel" value="Bestillingsvaluta"/>
+  <translation key="Order.EffectiveDate" type="SfFieldLabel" value="Startdato for bestilling"/>
+  <translation key="Order.EndDate" type="SfFieldLabel" value="Slutdato for bestilling"/>
+  <translation key="Order.Id" type="SfFieldLabel" value="Bestillings-id"/>
+  <translation key="Order.IsReductionOrder" type="SfFieldLabel" value="Reduktionsbestilling"/>
+  <translation key="Order.Name" type="SfFieldLabel" value="Bestillingsnavn"/>
+  <translation key="Order.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+  <translation key="Order.OrderNumber" type="SfFieldLabel" value="Bestillingsnummer"/>
+  <translation key="Order.OrderReferenceNumber" type="SfFieldLabel" value="Bestillingsreferencenummer"/>
+  <translation key="Order.OriginalOrderId" type="SfFieldLabel" value="Oprindelig bestilling"/>
+  <translation key="Order.Owner" type="SfFieldLabel" value="Bestillingsejer"/>
+  <translation key="Order.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Order.ShippingStateCode" type="SfFieldLabel" value="Forsendelsesstatskode"/>
+  <translation key="Order.TotalAmount" type="SfFieldLabel" value="I alt for bestilling"/>
+  <translation key="Order.Type" type="SfFieldLabel" value="Bestillingstype"/>
+</translations>

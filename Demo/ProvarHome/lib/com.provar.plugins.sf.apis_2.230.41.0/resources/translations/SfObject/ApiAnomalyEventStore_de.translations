@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ApiAnomalyEventStore.CreatedDate" type="SfFieldLabel" value="Erstelldatum"/>
+  <translation key="ApiAnomalyEventStore.Id" type="SfFieldLabel" value="ID des API-Anomalieereignisspeichers"/>
+  <translation key="ApiAnomalyEventStore.LastModifiedDate" type="SfFieldLabel" value="Zuletzt geändert am"/>
+  <translation key="ApiAnomalyEventStore.LastReferencedDate" type="SfFieldLabel" value="Datum der letzten Referenzierung"/>
+  <translation key="ApiAnomalyEventStore.LastViewedDate" type="SfFieldLabel" value="Datum der letzten Ansicht"/>
+</translations>

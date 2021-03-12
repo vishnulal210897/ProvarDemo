@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentMethod.AccountId" type="SfFieldLabel" value="Compte"/>
+  <translation key="PaymentMethod.Comments" type="SfFieldLabel" value="Commentaires"/>
+  <translation key="PaymentMethod.CompanyName" type="SfFieldLabel" value="Nom de la société"/>
+  <translation key="PaymentMethod.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="PaymentMethod.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="PaymentMethod.Id" type="SfFieldLabel" value="ID de mode de paiement"/>
+  <translation key="PaymentMethod.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="PaymentMethod.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="PaymentMethod.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="PaymentMethod.Name" type="SfFieldLabel" value="Nom"/>
+  <translation key="PaymentMethod.NickName" type="SfFieldLabel" value="Surnom"/>
+  <translation key="PaymentMethod.PaymentMethodAddress" type="SfFieldLabel" value="Adresse du mode de paiement"/>
+  <translation key="PaymentMethod.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

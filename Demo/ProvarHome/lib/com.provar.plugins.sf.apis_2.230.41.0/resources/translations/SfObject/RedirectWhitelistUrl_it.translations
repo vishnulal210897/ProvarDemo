@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RedirectWhitelistUrl.Id" type="SfFieldLabel" value="URL affidabile per gli ID di reindirizzamento"/>
+  <translation key="RedirectWhitelistUrl.Language" type="SfFieldLabel" value="Lingua principale"/>
+  <translation key="RedirectWhitelistUrl.MasterLabel" type="SfFieldLabel" value="Etichetta"/>
+  <translation key="RedirectWhitelistUrl.NamespacePrefix" type="SfFieldLabel" value="Prefisso spazio dei nomi"/>
+</translations>

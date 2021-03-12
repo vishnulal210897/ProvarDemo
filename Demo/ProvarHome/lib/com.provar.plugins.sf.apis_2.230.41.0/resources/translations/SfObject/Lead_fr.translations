@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Lead.Id" type="SfFieldLabel" value="ID de lead"/>
+  <translation key="Lead.RecordType" type="SfFieldLabel" value="Type d'enregistrement de lead"/>
+  <translation key="Lead.Status" type="SfFieldLabel" value="Statut de la piste"/>
+  <translation key="Lead.Name" type="SfFieldLabel" value="Nom complet"/>
+  <translation key="Lead.FirstName" type="SfFieldLabel" value="Prénom"/>
+  <translation key="Lead.NumberOfEmployees" type="SfFieldLabel" value="Nombre d'employés"/>
+  <translation key="Lead.Source" type="SfFieldLabel" value="Origine de la piste"/>
+  <translation key="Lead.Owner" type="SfFieldLabel" value="Propriétaire de la piste"/>
+  <translation key="Lead.Owner_Alias" type="SfFieldLabel" value="Alias de propriétaire"/>
+  <translation key="Lead.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Lead.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Lead.Mobile" type="SfFieldLabel" value="Téléphone mobile"/>
+  <translation key="*.showRunAssignmentRulesCheckbox" type="SfFieldLabel" value="Affecter à l'aide de la règle d'attribution active"/>
+  <translation key="*.*.Lead Information" type="SfLayoutSectionLabel" value="Informations sur la piste"/>
+  <translation key="*.*.Address Information" type="SfLayoutSectionLabel" value="Coordonnées"/>
+  <translation key="*.*.Additional Information" type="SfLayoutSectionLabel" value="Informations supplémentaires"/>
+  <translation key="*.*.Description Information" type="SfLayoutSectionLabel" value="Description"/>
+</translations>

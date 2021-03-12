@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Lead.CampaignId" type="SfFieldLabel" value="{Campaign}.{SfObject.Label}"/>
+  <translation key="Lead.CurrencyIsoCode" type="SfFieldLabel" value="Divisa del candidato"/>
+  <translation key="Lead.Id" type="SfFieldLabel" value="Id. de candidato"/>
+  <translation key="Lead.IndividualId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="Lead.MasterRecordId" type="SfFieldLabel" value="{Lead}.{SfObject.Label}"/>
+  <translation key="Lead.Name" type="SfFieldLabel" value="Nombre completo"/>
+  <translation key="Lead.NoOfEmployees" type="SfFieldLabel" value="Número de empleados"/>
+  <translation key="Lead.Owner" type="SfFieldLabel" value="Propietario del candidato"/>
+  <translation key="Lead.RecordType" type="SfFieldLabel" value="Tipo de registro de candidato"/>
+  <translation key="Lead.State" type="SfFieldLabel" value="Estado o provincia"/>
+  <translation key="Lead.Status" type="SfFieldLabel" value="Estado de candidato"/>
+  <translation key="Lead.Source" type="SfFieldLabel" value="Origen del candidato"/>
+  <translation key="Lead.Mobile" type="SfFieldLabel" value="Móvil"/>
+</translations>

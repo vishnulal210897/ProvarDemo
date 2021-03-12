@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpportunityTeamMember.Id" type="SfFieldLabel" value="Opportunity Team Member ID"/>
+  <translation key="OpportunityTeamMember.Name" type="SfFieldLabel" value="Team Member"/>
+  <translation key="OpportunityTeamMember.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+  <translation key="OpportunityTeamMember.PhotoUrl" type="SfFieldLabel" value="Url for thumbnail sized photo"/>
+  <translation key="OpportunityTeamMember.TeamMemberRole" relatedListLabel="Member Role" type="SfFieldLabel" value="Team Role"/>
+</translations>

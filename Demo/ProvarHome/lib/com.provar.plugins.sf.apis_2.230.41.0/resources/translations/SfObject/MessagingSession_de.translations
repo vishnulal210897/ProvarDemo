@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingSession.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="MessagingSession.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="MessagingSession.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="MessagingSession.Id" type="SfFieldLabel" value="ID der Messaging-Sitzung"/>
+  <translation key="MessagingSession.LeadId" type="SfFieldLabel" value="{Lead}.{SfObject.Label}"/>
+  <translation key="MessagingSession.MessagingChannelId" type="SfFieldLabel" value="Messaging Channel"/>
+  <translation key="MessagingSession.Name" type="SfFieldLabel" value="Name der Messaging-Sitzung"/>
+  <translation key="MessagingSession.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+  <translation key="MessagingSession.Origin" type="SfFieldLabel" value="Ursprung"/>
+  <translation key="MessagingSession.Owner" type="SfFieldLabel" value="Sitzungsinhaber"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EmailMessage.Id" type="SfFieldLabel" value="ID van e-mailbericht"/>
+  <translation key="EmailMessage.ParentId" type="SfFieldLabel" value="Case op bovenliggende niveau"/>
+  <translation key="EmailMessage.ReplyToEmailMessageId" type="SfFieldLabel" value="Beantwoordings-e-mailbericht"/>
+</translations>

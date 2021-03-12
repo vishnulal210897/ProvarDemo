@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LeadStatus.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="LeadStatus.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="LeadStatus.Id" type="SfFieldLabel" value="ID do valor do status do lead"/>
+  <translation key="LeadStatus.IsConverted" type="SfFieldLabel" value="Convertido"/>
+  <translation key="LeadStatus.IsDefault" type="SfFieldLabel" value="Padrão"/>
+  <translation key="LeadStatus.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="LeadStatus.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="LeadStatus.SortOrder" type="SfFieldLabel" value="Ordem de classificação"/>
+  <translation key="LeadStatus.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

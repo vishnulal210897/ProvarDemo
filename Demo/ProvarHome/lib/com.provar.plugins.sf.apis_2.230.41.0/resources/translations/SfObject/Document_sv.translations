@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Document.Body" type="SfFieldLabel" value="Brödtext"/>
+  <translation key="Document.ContentType" type="SfFieldLabel" value="MIME-typ"/>
+  <translation key="Document.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="Document.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="Document.Description" type="SfFieldLabel" value="Beskrivning"/>
+  <translation key="Document.DeveloperName" type="SfFieldLabel" value="Unikt dokumentnamn"/>
+  <translation key="Document.Id" type="SfFieldLabel" value="Dokument-ID"/>
+  <translation key="Document.IsBodySearchable" type="SfFieldLabel" value="Sökbart dokumentinnehåll"/>
+  <translation key="Document.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="Document.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="Document.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Document.LastReferencedDate" type="SfFieldLabel" value="Senaste referensdatumet"/>
+  <translation key="Document.LastViewedDate" type="SfFieldLabel" value="Datum senaste visning"/>
+  <translation key="Document.Name" type="SfFieldLabel" value="Dokumentnamn"/>
+  <translation key="Document.NamespacePrefix" type="SfFieldLabel" value="Namnutrymmesprefix"/>
+  <translation key="Document.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+  <translation key="Document.Type" type="SfFieldLabel" value="Filtillägg"/>
+  <translation key="Document.Url" type="SfFieldLabel" value="Url"/>
+</translations>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MaintenancePlan.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="MaintenancePlan.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="MaintenancePlan.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="MaintenancePlan.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="MaintenancePlan.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="MaintenancePlan.EndDate" type="SfFieldLabel" value="Date de fin"/>
+  <translation key="MaintenancePlan.Id" type="SfFieldLabel" value="ID de plan de maintenance"/>
+  <translation key="MaintenancePlan.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="MaintenancePlan.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="MaintenancePlan.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="MaintenancePlan.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="MaintenancePlan.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="MaintenancePlan.LocationId" type="SfFieldLabel" value="{Location}.{SfObject.Label}"/>
+  <translation key="MaintenancePlan.MaintenancePlanNumber" type="SfFieldLabel" value="Numéro de plan de maintenance"/>
+  <translation key="MaintenancePlan.MaintenancePlanTitle" type="SfFieldLabel" value="Titre de plan de maintenance"/>
+  <translation key="MaintenancePlan.Owner" type="SfFieldLabel" value="Propriétaire"/>
+  <translation key="MaintenancePlan.ServiceContractId" type="SfFieldLabel" value="{ServiceContract}.{SfObject.Label}"/>
+  <translation key="MaintenancePlan.StartDate" type="SfFieldLabel" value="Date de début"/>
+  <translation key="MaintenancePlan.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="MaintenancePlan.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+  <translation key="MaintenancePlan.WorkTypeId" type="SfFieldLabel" value="{WorkType}.{SfObject.Label}"/>
+</translations>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceResource.AccountId" type="SfFieldLabel" value="Account"/>
+  <translation key="ServiceResource.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="ServiceResource.Id" type="SfFieldLabel" value="Resource ID"/>
+  <translation key="ServiceResource.IsActive" type="SfFieldLabel" value="Active"/>
+  <translation key="ServiceResource.LocationId" type="SfFieldLabel" value="Location"/>
+  <translation key="ServiceResource.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="ServiceResource.Owner" type="SfFieldLabel" value="Owner"/>
+  <translation key="ServiceResource.RelatedRecordId" type="SfFieldLabel" value="User"/>
+</translations>

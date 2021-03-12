@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DandBCompany.Address" type="SfFieldLabel" value="Primaire adres"/>
+  <translation key="DandBCompany.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="DandBCompany.Description" type="SfFieldLabel" value="Beschrijving bedrijf"/>
+  <translation key="DandBCompany.Fax" type="SfFieldLabel" value="Faxnummer"/>
+  <translation key="DandBCompany.Id" type="SfFieldLabel" value="D&amp;B-bedrijfs-ID"/>
+  <translation key="DandBCompany.MailingPostalCode" type="SfFieldLabel" value="Postcode voor post"/>
+  <translation key="DandBCompany.MailingState" type="SfFieldLabel" value="Poststaat"/>
+  <translation key="DandBCompany.MailingStreet" type="SfFieldLabel" value="Adres poststraat"/>
+  <translation key="DandBCompany.Name" type="SfFieldLabel" value="Naam primaire bedrijf"/>
+  <translation key="DandBCompany.Phone" type="SfFieldLabel" value="Telefoonnummer"/>
+  <translation key="DandBCompany.Street" type="SfFieldLabel" value="Adres"/>
+</translations>

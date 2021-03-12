@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetWarranty.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="AssetWarranty.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="AssetWarranty.Id" type="SfFieldLabel" value="Asset Warranty ID"/>
+</translations>

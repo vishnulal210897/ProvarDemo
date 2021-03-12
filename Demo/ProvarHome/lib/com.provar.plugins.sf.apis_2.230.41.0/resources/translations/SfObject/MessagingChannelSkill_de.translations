@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingChannelSkill.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="MessagingChannelSkill.Id" type="SfFieldLabel" value="ID des Messaging Channel Skill"/>
+  <translation key="MessagingChannelSkill.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="MessagingChannelSkill.LastModifiedDate" type="SfFieldLabel" value="Geändert am"/>
+</translations>

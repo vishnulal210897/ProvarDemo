@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Address.Address" type="SfFieldLabel" value="Adres"/>
+  <translation key="Address.AddressType" type="SfFieldLabel" value="Type adres"/>
+  <translation key="Address.Id" type="SfFieldLabel" value="Adres-ID"/>
+  <translation key="Address.Street" type="SfFieldLabel" value="Adres"/>
+</translations>

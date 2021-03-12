@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ConversationEntry.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="ConversationEntry.Id" type="SfFieldLabel" value="ID des Konversationseintrags"/>
+  <translation key="ConversationEntry.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+</translations>

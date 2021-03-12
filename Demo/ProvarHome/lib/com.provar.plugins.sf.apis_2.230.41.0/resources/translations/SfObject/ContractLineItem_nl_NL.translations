@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContractLineItem.AssetId" type="SfFieldLabel" value="Activumnaam"/>
+  <translation key="ContractLineItem.CurrencyIsoCode" type="SfFieldLabel" value="Valuta"/>
+  <translation key="ContractLineItem.Id" type="SfFieldLabel" value="Contractregelitem-ID"/>
+  <translation key="ContractLineItem.ParentContractLineItemId" type="SfFieldLabel" value="Bovenliggende contractregelitem"/>
+  <translation key="ContractLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="ContractLineItem.RootContractLineItemId" type="SfFieldLabel" value="Basiscontractregelitem"/>
+  <translation key="ContractLineItem.ServiceContractId" type="SfFieldLabel" value="{ServiceContract}.{SfObject.Label}"/>
+</translations>

@@ -1,0 +1,3 @@
+Version=${provar.product.version}
+Build=${provar.build.number}
+Timestamp=${provar.build.timestamp}

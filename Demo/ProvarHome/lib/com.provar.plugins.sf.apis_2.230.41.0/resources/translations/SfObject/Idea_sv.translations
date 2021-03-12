@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Idea.Id" type="SfFieldLabel" value="Idé-ID"/>
+  <translation key="Idea.LastCommentDate" type="SfFieldLabel" value="Senaste Idékommentar date"/>
+  <translation key="Idea.LastCommentId" type="SfFieldLabel" value="Idékommentar-ID"/>
+  <translation key="Idea.ParentIdeaId" type="SfFieldLabel" value="Idé-ID"/>
+</translations>

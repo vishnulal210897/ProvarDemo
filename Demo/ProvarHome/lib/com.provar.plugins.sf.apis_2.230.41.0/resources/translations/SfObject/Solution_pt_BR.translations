@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Solution.Id" type="SfFieldLabel" value="ID soluzione"/>
+  <translation key="Solution.IsPublished" type="SfFieldLabel" value="Pubblica"/>
+  <translation key="Solution.Owner" type="SfFieldLabel" value="Autore"/>
+</translations>

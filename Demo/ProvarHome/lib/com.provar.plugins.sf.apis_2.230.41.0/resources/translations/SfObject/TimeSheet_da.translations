@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TimeSheet.EndDate" type="SfFieldLabel" value="Slutdato for timeseddel"/>
+  <translation key="TimeSheet.Id" type="SfFieldLabel" value="Id for timeseddel"/>
+  <translation key="TimeSheet.ServiceResourceId" type="SfFieldLabel" value="{ServiceResource}.{SfObject.Label}"/>
+  <translation key="TimeSheet.StartDate" type="SfFieldLabel" value="Startdato for timeseddel"/>
+  <translation key="TimeSheet.TimeSheetEntryCount" type="SfFieldLabel" value="Antal poster på timeseddel"/>
+</translations>

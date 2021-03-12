@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="UserProvisioningRequest.Id" type="SfFieldLabel" value="Id for brugerprovisioneringsanmodning"/>
+  <translation key="UserProvisioningRequest.ManagerId" type="SfFieldLabel" value="Salesforce-brugers manager"/>
+  <translation key="UserProvisioningRequest.Name" type="SfFieldLabel" value="Navn"/>
+  <translation key="UserProvisioningRequest.ParentId" type="SfFieldLabel" value="Overordnet"/>
+  <translation key="UserProvisioningRequest.State" type="SfFieldLabel" value="Tilstand"/>
+</translations>

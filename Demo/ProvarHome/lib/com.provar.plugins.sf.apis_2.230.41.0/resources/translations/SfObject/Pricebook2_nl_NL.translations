@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Pricebook2.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="Pricebook2.Id" type="SfFieldLabel" value="Prijslijst-id"/>
+  <translation key="Pricebook2.IsArchived" type="SfFieldLabel" value="Gearchiveerd"/>
+  <translation key="Pricebook2.IsStandard" type="SfFieldLabel" value="Is standaardprijslijst"/>
+  <translation key="Pricebook2.Name" type="SfFieldLabel" value="Prijslijstnaam"/>
+</translations>

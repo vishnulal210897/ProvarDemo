@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrderLineItem.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.DurationInMinutes" type="SfFieldLabel" value="Duración en minutos"/>
+  <translation key="WorkOrderLineItem.Id" type="SfFieldLabel" value="Id. de partida"/>
+  <translation key="WorkOrderLineItem.IsClosed" type="SfFieldLabel" value="Es Cerrada"/>
+  <translation key="WorkOrderLineItem.LineItemNumber" type="SfFieldLabel" value="Número de partida de orden de trabajo"/>
+  <translation key="WorkOrderLineItem.OrderId" type="SfFieldLabel" value="{Order}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.ParentWorkOrderLineItemId" type="SfFieldLabel" value="Partida de orden de trabajo principal"/>
+  <translation key="WorkOrderLineItem.PricebookEntryId" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.RootWorkOrderLineItemId" type="SfFieldLabel" value="Partida de orden de trabajo raíz"/>
+  <translation key="WorkOrderLineItem.StateCode" type="SfFieldLabel" value="Código de estado"/>
+  <translation key="WorkOrderLineItem.Street" type="SfFieldLabel" value="Calle"/>
+  <translation key="WorkOrderLineItem.UnitPrice" type="SfFieldLabel" value="Precio por unidad"/>
+  <translation key="WorkOrderLineItem.WorkOrderId" type="SfFieldLabel" value="{WorkOrder}.{SfObject.Label}"/>
+</translations>

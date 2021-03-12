@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Site.AdminId" type="SfFieldLabel" value="Site-Kontakt"/>
+  <translation key="Site.Description" type="SfFieldLabel" value="Site-Beschreibung"/>
+  <translation key="Site.Id" type="SfFieldLabel" value="Site-ID"/>
+  <translation key="Site.MasterLabel" type="SfFieldLabel" value="Site-Bezeichnung"/>
+  <translation key="Site.Name" type="SfFieldLabel" value="Site-Name"/>
+  <translation key="Site.OptionsBrowserXssProtection" type="SfFieldLabel" value="Schutz vor Cross-Site Scripting des Browsers aktivieren"/>
+  <translation key="Site.SiteType" type="SfFieldLabel" value="Site-Typ"/>
+  <translation key="Site.Status" type="SfFieldLabel" value="Site-Status"/>
+  <translation key="Site.Subdomain" type="SfFieldLabel" value="Site-Unterdomänen-Präfix"/>
+</translations>

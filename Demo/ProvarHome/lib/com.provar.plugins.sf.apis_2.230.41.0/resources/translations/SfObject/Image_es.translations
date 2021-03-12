@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Image.ContentDocumentId" type="SfFieldLabel" value="Archivo"/>
+  <translation key="Image.Id" type="SfFieldLabel" value="Id. de imagen"/>
+  <translation key="Image.ImageClassObjectType" type="SfFieldLabel" value="Tipo de imagen"/>
+  <translation key="Image.ImageTitle" type="SfFieldLabel" value="Título de imagen"/>
+  <translation key="Image.ImageUrl" type="SfFieldLabel" value="URL de la imagen"/>
+  <translation key="Image.ImageViewType" type="SfFieldLabel" value="Tipo de vista de imagen"/>
+  <translation key="Image.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="Image.Name" type="SfFieldLabel" value="Nombre"/>
+  <translation key="Image.Owner" type="SfFieldLabel" value="Nombre del propietario"/>
+</translations>

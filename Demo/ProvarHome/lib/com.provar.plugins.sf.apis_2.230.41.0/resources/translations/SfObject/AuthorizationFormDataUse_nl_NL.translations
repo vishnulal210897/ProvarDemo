@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AuthorizationFormDataUse.Id" type="SfFieldLabel" value="ID van gegevensgebruik van autorisatieformulier"/>
+  <translation key="AuthorizationFormDataUse.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="AuthorizationFormDataUse.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+</translations>

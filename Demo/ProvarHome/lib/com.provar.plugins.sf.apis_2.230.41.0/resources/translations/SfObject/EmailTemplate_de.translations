@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EmailTemplate.Body" type="SfFieldLabel" value="E-Mail-Nachrichtentext"/>
+  <translation key="EmailTemplate.DeveloperName" type="SfFieldLabel" value="Eindeutiger Vorlagenname"/>
+  <translation key="EmailTemplate.Id" type="SfFieldLabel" value="E-Mail-Vorlagen-ID"/>
+  <translation key="EmailTemplate.IsActive" type="SfFieldLabel" value="Zur Verwendung verfügbar"/>
+  <translation key="EmailTemplate.LastModifiedById" relatedListLabel="ID für &quot;Zuletzt geändert von&quot;" type="SfFieldLabel" value="Zuletzt geändert am"/>
+  <translation key="EmailTemplate.Name" type="SfFieldLabel" value="E-Mail-Vorlagenname"/>
+  <translation key="EmailTemplate.Owner" type="SfFieldLabel" value="Inhaber"/>
+  <translation key="EmailTemplate.TimesUsed" type="SfFieldLabel" value="Häufigkeit der Verwendung"/>
+</translations>

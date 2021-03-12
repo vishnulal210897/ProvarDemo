@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactPointAddress.Address" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ContactPointAddress.GeocodeAccuracy" type="SfFieldLabel" value="Shipping Geocode Accuracy"/>
+  <translation key="ContactPointAddress.Id" type="SfFieldLabel" value="Id for kontaktpunkts adresse"/>
+  <translation key="ContactPointAddress.IsDefault" type="SfFieldLabel" value="Er standardadresse"/>
+  <translation key="ContactPointAddress.IsPrimary" type="SfFieldLabel" value="Er primær"/>
+  <translation key="ContactPointAddress.Name" type="SfFieldLabel" value="Navn"/>
+  <translation key="ContactPointAddress.Owner" type="SfFieldLabel" value="Ejers navn"/>
+  <translation key="ContactPointAddress.ParentId" type="SfFieldLabel" value="Overordnet"/>
+  <translation key="ContactPointAddress.Street" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+</translations>

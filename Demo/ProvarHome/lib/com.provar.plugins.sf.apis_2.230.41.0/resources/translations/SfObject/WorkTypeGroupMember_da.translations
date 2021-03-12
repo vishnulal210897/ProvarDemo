@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkTypeGroupMember.Id" type="SfFieldLabel" value="Id for medlem for arbejdsgruppetype"/>
+  <translation key="WorkTypeGroupMember.Name" type="SfFieldLabel" value="Navn på medlem af arbejdstypegruppe"/>
+  <translation key="WorkTypeGroupMember.WorkTypeGroupId" type="SfFieldLabel" value="{WorkTypeGroup}.{SfObject.Label}"/>
+  <translation key="WorkTypeGroupMember.WorkTypeId" type="SfFieldLabel" value="{WorkType}.{SfObject.Label}"/>
+</translations>

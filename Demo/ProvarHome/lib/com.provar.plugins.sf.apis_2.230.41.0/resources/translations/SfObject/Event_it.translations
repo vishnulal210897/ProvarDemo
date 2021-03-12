@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Event.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Event.CurrencyIsoCode" type="SfFieldLabel" value="Valuta attività"/>
+  <translation key="Event.EventSubtype" type="SfFieldLabel" value="Sottotipo di evento"/>
+  <translation key="Event.GroupEventType" type="SfFieldLabel" value="Tipo di evento di gruppo"/>
+  <translation key="Event.Id" type="SfFieldLabel" value="ID attività"/>
+  <translation key="Event.IsAllDayEvent" type="SfFieldLabel" value="Evento intera giornata"/>
+  <translation key="Event.IsArchived" type="SfFieldLabel" value="Archiviato"/>
+  <translation key="Event.IsChild" type="SfFieldLabel" value="È evento figlio"/>
+  <translation key="Event.IsGroupEvent" type="SfFieldLabel" value="È evento di gruppo"/>
+  <translation key="Event.IsRecurrence" type="SfFieldLabel" value="Crea serie di eventi ricorrenti"/>
+  <translation key="Event.IsRecurrence2Exclusion" type="SfFieldLabel" value="Evento cronologico che non segue la ricorrenza"/>
+  <translation key="Event.IsVisibleInSelfService" type="SfFieldLabel" value="Pubblica"/>
+  <translation key="Event.MasterEventId" type="SfFieldLabel" value="Evento principale"/>
+  <translation key="Event.Owner" type="SfFieldLabel" value="Assegnato a"/>
+  <translation key="Event.WhoId" type="SfFieldLabel" value="Nome"/>
+</translations>

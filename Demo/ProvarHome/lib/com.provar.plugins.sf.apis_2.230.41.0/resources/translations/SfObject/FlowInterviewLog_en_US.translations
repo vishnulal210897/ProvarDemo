@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowInterviewLog.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="FlowInterviewLog.Id" type="SfFieldLabel" value="Flow Interview Log ID"/>
+  <translation key="FlowInterviewLog.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="FlowInterviewLog.Owner" type="SfFieldLabel" value="Owner"/>
+</translations>

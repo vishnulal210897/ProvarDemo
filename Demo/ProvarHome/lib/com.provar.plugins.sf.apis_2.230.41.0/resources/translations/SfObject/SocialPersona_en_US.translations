@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SocialPersona.ExternalId" type="SfFieldLabel" value="Social Persona Provider External Id"/>
+  <translation key="SocialPersona.Id" type="SfFieldLabel" value="Social Persona ID"/>
+  <translation key="SocialPersona.IsDefault" type="SfFieldLabel" value="Default"/>
+  <translation key="SocialPersona.Name" type="SfFieldLabel" value="Social Handle"/>
+  <translation key="SocialPersona.ParentId" type="SfFieldLabel" value="Parent"/>
+</translations>

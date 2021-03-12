@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BulkApiResultEventStore.CreatedDate" type="SfFieldLabel" value="Erstelldatum"/>
+  <translation key="BulkApiResultEventStore.EventIdentifier" type="SfFieldLabel" value="Ereigniskennzeichner"/>
+  <translation key="BulkApiResultEventStore.Id" type="SfFieldLabel" value="ID des Speichers für Bulk-API-Ergebnisereignisse"/>
+  <translation key="BulkApiResultEventStore.SourceIp" type="SfFieldLabel" value="Quellen-IP"/>
+</translations>

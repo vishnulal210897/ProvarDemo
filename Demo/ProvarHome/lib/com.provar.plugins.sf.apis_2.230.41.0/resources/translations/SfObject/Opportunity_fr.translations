@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Opportunity.Id" type="SfFieldLabel" value="ID de l'opportunité"/>
+  <translation key="Opportunity.Name" type="SfFieldLabel" value="Nom de l'opportunité"/>
+  <translation key="Opportunity.Pricebook2Id" type="SfFieldLabel" value="Catalogue de prix"/>
+  <translation key="Opportunity.CampaignId" type="SfFieldLabel" value="Source principale de campagne"/>
+  <translation key="Opportunity.Owner" type="SfFieldLabel" value="Propriétaire de l'opportunité"/>
+  <translation key="Opportunity.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Opportunity.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Opportunity.RecordType" type="SfFieldLabel" value="Type d'enregistrement de l'opportunité"/>
+  <translation key="Opportunity.Owner_Alias" type="SfFieldLabel" value="Alias du propriétaire de l'opportunité"/>
+  <translation key="Opportunity.LeadSource" type="SfFieldLabel" value="Origine de la piste"	/>
+  <translation key="Opportunity.Type" type="SfFieldLabel" value="Type d'opportunité"/>
+  <translation key="*.*.Custom Links" type="SfLayoutSectionLabel" value="Qualification de l'opportunité"/>
+  <translation key="*.*.Opportunity Information" type="SfLayoutSectionLabel" value="Informations sur l'opportunité"/>
+  <translation key="*.*.Additional Information" type="SfLayoutSectionLabel" value="Informations supplémentaires"/>
+  <translation key="*.*.Description Information" type="SfLayoutSectionLabel" value="Description"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EntitlementContact.CurrencyIsoCode" type="SfFieldLabel" value="Valuta"/>
+  <translation key="EntitlementContact.Id" type="SfFieldLabel" value="Contactpersoons-ID voor recht"/>
+  <translation key="EntitlementContact.Name" type="SfFieldLabel" value="{EntitlementContact}.{SfObject.Label}"/>
+</translations>

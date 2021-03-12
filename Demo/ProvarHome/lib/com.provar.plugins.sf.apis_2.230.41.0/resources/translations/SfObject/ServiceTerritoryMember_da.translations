@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceTerritoryMember.Address" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ServiceTerritoryMember.Id" type="SfFieldLabel" value="Id for ressourceområde"/>
+  <translation key="ServiceTerritoryMember.OperatingHoursId" type="SfFieldLabel" value="{OperatingHours}.{SfObject.Label}"/>
+  <translation key="ServiceTerritoryMember.ServiceResourceId" type="SfFieldLabel" value="{ServiceResource}.{SfObject.Label}"/>
+  <translation key="ServiceTerritoryMember.ServiceTerritoryId" type="SfFieldLabel" value="{ServiceTerritory}.{SfObject.Label}"/>
+  <translation key="ServiceTerritoryMember.Street" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+</translations>

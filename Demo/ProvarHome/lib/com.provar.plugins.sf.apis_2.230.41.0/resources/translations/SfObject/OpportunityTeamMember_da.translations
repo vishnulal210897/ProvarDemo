@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpportunityTeamMember.CurrencyIsoCode" type="SfFieldLabel" value="ISO-valutakode"/>
+  <translation key="OpportunityTeamMember.Id" type="SfFieldLabel" value="Salgsmulighed - teammedlems-id"/>
+  <translation key="OpportunityTeamMember.Name" type="SfFieldLabel" value="Teammedlem"/>
+  <translation key="OpportunityTeamMember.OpportunityId" type="SfFieldLabel" value="Salgsmulighed"/>
+  <translation key="OpportunityTeamMember.PhotoUrl" type="SfFieldLabel" value="URL til foto i miniaturestørrelse"/>
+  <translation key="OpportunityTeamMember.UserId" type="SfFieldLabel" value="Bruger"/>
+</translations>

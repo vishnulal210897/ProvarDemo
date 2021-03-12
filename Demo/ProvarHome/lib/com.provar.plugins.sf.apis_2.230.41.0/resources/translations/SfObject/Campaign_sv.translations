@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Campaign.ActualCost" type="SfFieldLabel" value="Verklig kostnad i kampanj"/>
+  <translation key="Campaign.AmountAllOpportunities" type="SfFieldLabel" value="Värde för säljprojekt i kampanj"/>
+  <translation key="Campaign.AmountWonOpportunities" type="SfFieldLabel" value="Värde för vunna säljprojekt i kampanj"/>
+  <translation key="Campaign.BudgetedCost" type="SfFieldLabel" value="Budgeterad kostnad i kampanj"/>
+  <translation key="Campaign.ExpectedRevenue" type="SfFieldLabel" value="Förväntade intäkter i kampanj"/>
+  <translation key="Campaign.Id" type="SfFieldLabel" value="Kampanj-ID"/>
+  <translation key="Campaign.NumberOfContacts" type="SfFieldLabel" value="Kontakter i kampanj"/>
+  <translation key="Campaign.NumberOfConvertedLeads" type="SfFieldLabel" value="Konverterade leads i kampanj"/>
+  <translation key="Campaign.NumberOfLeads" type="SfFieldLabel" value="Leads i kampanj"/>
+  <translation key="Campaign.NumberOfOpportunities" type="SfFieldLabel" value="Säljprojekt i kampanj"/>
+  <translation key="Campaign.NumberOfResponses" type="SfFieldLabel" value="Svar i kampanj"/>
+  <translation key="Campaign.NumberOfWonOpportunities" type="SfFieldLabel" value="Vunna säljprojekt i kampanj"/>
+  <translation key="Campaign.NumberSent" type="SfFieldLabel" value="Antal skickade i kampanj"/>
+  <translation key="Campaign.ParentId" type="SfFieldLabel" value="Överordnad kampanj"/>
+  <translation key="Campaign.Owner" type="SfFieldLabel" value="Kampanjens ägare"/>
+  <translation key="Campaign.Name" type="SfFieldLabel" value="Kampanjnamn"/>
+  <translation key="Campaign.CurrencyIsoCode" type="SfFieldLabel" value="Kampanjvaluta"/>
+  <translation key="*.*.Campaign Information" type="SfLayoutSectionLabel" value="Kampanjinformation"/>
+</translations>

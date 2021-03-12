@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContentVersion.ContentDocumentId" type="SfFieldLabel" value="{Document}.{SfObject.Label}"/>
+  <translation key="ContentVersion.CurrencyIsoCode" type="SfFieldLabel" value="CurrencyIsoCode"/>
+  <translation key="ContentVersion.Id" type="SfFieldLabel" value="ContentVersion-id"/>
+  <translation key="ContentVersion.IsDeleted" type="SfFieldLabel" value="Er slettet"/>
+</translations>

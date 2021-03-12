@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="UiFormulaRule.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="UiFormulaRule.DeveloperName" type="SfFieldLabel" value="Name"/>
+  <translation key="UiFormulaRule.Id" type="SfFieldLabel" value="ID der Formelregel für die Benutzeroberfläche"/>
+  <translation key="UiFormulaRule.Language" type="SfFieldLabel" value="Master-Sprache"/>
+  <translation key="UiFormulaRule.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="UiFormulaRule.MasterLabel" type="SfFieldLabel" value="Bezeichnung"/>
+</translations>

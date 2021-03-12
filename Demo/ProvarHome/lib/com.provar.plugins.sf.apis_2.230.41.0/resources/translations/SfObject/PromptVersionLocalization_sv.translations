@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PromptVersionLocalization.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="PromptVersionLocalization.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="PromptVersionLocalization.Id" type="SfFieldLabel" value="Översättnings-ID"/>
+  <translation key="PromptVersionLocalization.Language" type="SfFieldLabel" value="Språk"/>
+  <translation key="PromptVersionLocalization.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="PromptVersionLocalization.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="PromptVersionLocalization.NamespacePrefix" type="SfFieldLabel" value="Namnutrymmesprefix"/>
+  <translation key="PromptVersionLocalization.ParentId" type="SfFieldLabel" value="Överordnat"/>
+  <translation key="PromptVersionLocalization.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+  <translation key="PromptVersionLocalization.Value" type="SfFieldLabel" value="Översättningstext"/>
+</translations>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceContract.AccountId" type="SfFieldLabel" value="Account Name"/>
+  <translation key="ServiceContract.BillingLatitude" type="SfFieldLabel" value="Latitude de cobrança"/>
+  <translation key="ServiceContract.BillingLongitude" type="SfFieldLabel" value="Longitude de cobrança"/>
+  <translation key="ServiceContract.BillingState" type="SfFieldLabel" value="Estado de cobrança"/>
+  <translation key="ServiceContract.BillingStateCode" type="SfFieldLabel" value="Código do estado de cobrança"/>
+  <translation key="ServiceContract.ContactId" type="SfFieldLabel" value="Contact Name"/>
+  <translation key="ServiceContract.ContractNumber" type="SfFieldLabel" value="Contract Number"/>
+  <translation key="ServiceContract.CurrencyIsoCode" type="SfFieldLabel" value="Currency"/>
+  <translation key="ServiceContract.Discount" type="SfFieldLabel" value="Discount"/>
+  <translation key="ServiceContract.Id" type="SfFieldLabel" value="Service Contract ID"/>
+  <translation key="ServiceContract.Name" type="SfFieldLabel" value="Contract Name"/>
+  <translation key="ServiceContract.Owner" type="SfFieldLabel" value="Service Contract Owner"/>
+  <translation key="ServiceContract.ShippingCountryCode" type="SfFieldLabel" value="Código do país de entrega"/>
+  <translation key="ServiceContract.ShippingLatitude" type="SfFieldLabel" value="Latitude de entrega"/>
+  <translation key="ServiceContract.ShippingLongitude" type="SfFieldLabel" value="Longitude de entrega"/>
+  <translation key="ServiceContract.ShippingState" type="SfFieldLabel" value="Estado de entrega"/>
+  <translation key="ServiceContract.ShippingStateCode" type="SfFieldLabel" value="Código do estado de entrega"/>
+  <translation key="ServiceContract.SpecialTerms" type="SfFieldLabel" value="Special Terms"/>
+  <translation key="ServiceContract.Status" type="SfFieldLabel" value="Status"/>
+  <translation key="ServiceContract.Subtotal" type="SfFieldLabel" value="Subtotal"/>
+  <translation key="ServiceContract.TotalPrice" type="SfFieldLabel" value="Total Price"/>
+</translations>

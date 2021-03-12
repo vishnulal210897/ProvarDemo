@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AccountContactRole.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="AccountContactRole.ContactId" relatedListLabel="{Contact}.{ContactName}" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="AccountContactRole.Id" type="SfFieldLabel" value="Kontaktrolle-id"/>
+</translations>

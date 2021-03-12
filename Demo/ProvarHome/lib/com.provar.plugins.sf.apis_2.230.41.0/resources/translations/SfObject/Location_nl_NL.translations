@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Location.Id" type="SfFieldLabel" value="Locatie-ID"/>
+  <translation key="Location.IsInventoryLocation" type="SfFieldLabel" value="Vooraadlocatie"/>
+  <translation key="Location.IsMobile" type="SfFieldLabel" value="Mobiele locatie"/>
+  <translation key="Location.Location" type="SfFieldLabel" value="Locatie"/>
+  <translation key="Location.LocationLevel" type="SfFieldLabel" value="Locatieniveau"/>
+  <translation key="Location.LocationType" type="SfFieldLabel" value="Type locatie"/>
+  <translation key="Location.Name" type="SfFieldLabel" value="Naam van de locatie"/>
+  <translation key="Location.ParentLocationId" type="SfFieldLabel" value="ID van bovenliggende locatie"/>
+  <translation key="Location.RootLocationId" type="SfFieldLabel" value="ID van rootlocatie"/>
+</translations>

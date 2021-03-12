@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ThreatDetectionFeedback.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="ThreatDetectionFeedback.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="ThreatDetectionFeedback.Id" type="SfFieldLabel" value="ID do Feedback de detecção de ameaças"/>
+  <translation key="ThreatDetectionFeedback.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="ThreatDetectionFeedback.LastModifiedDate" type="SfFieldLabel" value="Data da última atualização"/>
+  <translation key="ThreatDetectionFeedback.LastReferencedDate" type="SfFieldLabel" value="Última data citada"/>
+  <translation key="ThreatDetectionFeedback.LastViewedDate" type="SfFieldLabel" value="Data da última visualização"/>
+  <translation key="ThreatDetectionFeedback.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+  <translation key="ThreatDetectionFeedback.ThreatDetectionFeedbackNumber" type="SfFieldLabel" value="Nome do feedback de detecção de ameaças"/>
+</translations>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductConsumed.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ProductConsumed.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ProductConsumed.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="ProductConsumed.Id" type="SfFieldLabel" value="ID de produit consommé"/>
+  <translation key="ProductConsumed.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="ProductConsumed.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ProductConsumed.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ProductConsumed.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="ProductConsumed.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="ProductConsumed.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="ProductConsumed.ProductConsumedNumber" type="SfFieldLabel" value="Nombre de produits consommés"/>
+  <translation key="ProductConsumed.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="ProductConsumed.UnitPrice" type="SfFieldLabel" value="Prix unitaire"/>
+  <translation key="ProductConsumed.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+  <translation key="ProductConsumed.WorkOrderId" type="SfFieldLabel" value="{WorkOrder}.{SfObject.Label}"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Shipment.ActualDeliveryDate" type="SfFieldLabel" value="Faktiskt leveransdatum"/>
+  <translation key="Shipment.ExpectedDeliveryDate" type="SfFieldLabel" value="Förväntat leveransdatum"/>
+  <translation key="Shipment.Id" type="SfFieldLabel" value="Leverans-ID"/>
+  <translation key="Shipment.ShipmentNumber" type="SfFieldLabel" value="Leveransnummer"/>
+</translations>

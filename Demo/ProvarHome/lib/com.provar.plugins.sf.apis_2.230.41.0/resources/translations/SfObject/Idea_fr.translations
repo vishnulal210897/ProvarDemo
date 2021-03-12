@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Idea.Id" type="SfFieldLabel" value="ID idea"/>
+  <translation key="Idea.RecordType" type="SfFieldLabel" value="Tipo di record"/>
+  <translation key="Idea.Title" type="SfFieldLabel" value="Titolo"/>
+</translations>

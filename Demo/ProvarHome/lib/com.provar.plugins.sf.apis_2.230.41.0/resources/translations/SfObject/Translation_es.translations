@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Translation.Id" type="SfFieldLabel" value="Id. de traducción"/>
+  <translation key="Translation.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="Translation.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+</translations>

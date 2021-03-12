@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Shipment.Id" type="SfFieldLabel" value="ID spedizione"/>
+  <translation key="Shipment.Owner" type="SfFieldLabel" value="Nome titolare"/>
+  <translation key="Shipment.Provider" type="SfFieldLabel" value="Fornitore spedizioni"/>
+  <translation key="Shipment.ShipFromCity" type="SfFieldLabel" value="Città origine spedizioni"/>
+  <translation key="Shipment.ShipFromCountry" type="SfFieldLabel" value="Paese origine spedizioni"/>
+  <translation key="Shipment.ShipFromGeocodeAccuracy" type="SfFieldLabel" value="Precisione di georeferenziazione origine spedizioni"/>
+  <translation key="Shipment.ShipFromLatitude" type="SfFieldLabel" value="Latitudine origine spedizioni"/>
+  <translation key="Shipment.ShipFromLongitude" type="SfFieldLabel" value="Longitudine origine spedizioni"/>
+  <translation key="Shipment.ShipFromPostalCode" type="SfFieldLabel" value="CAP origine spedizioni"/>
+  <translation key="Shipment.ShipFromState" type="SfFieldLabel" value="Stato/Provincia origine spedizioni"/>
+  <translation key="Shipment.ShipFromStreet" type="SfFieldLabel" value="Via origine spedizioni"/>
+  <translation key="Shipment.ShipToAddress" type="SfFieldLabel" value="Spedire a indirizzo"/>
+  <translation key="Shipment.ShipToCity" type="SfFieldLabel" value="Spedire a città"/>
+  <translation key="Shipment.ShipToCountry" type="SfFieldLabel" value="Spedire a paese"/>
+  <translation key="Shipment.ShipToGeocodeAccuracy" type="SfFieldLabel" value="Spedire a precisione di georeferenziazione"/>
+  <translation key="Shipment.ShipToLatitude" type="SfFieldLabel" value="Spedire a latitudine"/>
+  <translation key="Shipment.ShipToLongitude" type="SfFieldLabel" value="Spedire a longitudine"/>
+  <translation key="Shipment.ShipToPostalCode" type="SfFieldLabel" value="Spedire a cap"/>
+  <translation key="Shipment.ShipToState" type="SfFieldLabel" value="Spedire a stato/provincia"/>
+  <translation key="Shipment.ShipToStreet" type="SfFieldLabel" value="Spedire a via"/>
+  <translation key="Shipment.ShipmentNumber" type="SfFieldLabel" value="Numero di spedizione"/>
+</translations>

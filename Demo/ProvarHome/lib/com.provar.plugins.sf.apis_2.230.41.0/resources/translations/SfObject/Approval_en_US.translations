@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Approval.Owner" type="SfFieldLabel" value="Owner"/>
+  <translation key="Approval.ParentId" type="SfFieldLabel" value="Parent"/>
+</translations>

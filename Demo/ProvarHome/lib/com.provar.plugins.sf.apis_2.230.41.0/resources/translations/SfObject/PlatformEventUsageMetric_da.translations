@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PlatformEventUsageMetric.ExternalId" type="SfFieldLabel" value="Eksternt id"/>
+  <translation key="PlatformEventUsageMetric.Id" type="SfFieldLabel" value="Id for anvendelsesmetrik for platformsbegivenhed"/>
+  <translation key="PlatformEventUsageMetric.Name" type="SfFieldLabel" value="Metriknavn"/>
+  <translation key="PlatformEventUsageMetric.Value" type="SfFieldLabel" value="Metrikværdi"/>
+</translations>

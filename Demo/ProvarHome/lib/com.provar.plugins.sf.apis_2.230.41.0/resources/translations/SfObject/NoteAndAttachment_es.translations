@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="NoteAndAttachment.Id" type="SfFieldLabel" value="Id. de nota o archivo adjunto"/>
+  <translation key="NoteAndAttachment.Owner" type="SfFieldLabel" value="Lpropietario"/>
+  <translation key="NoteAndAttachment.ParentId" type="SfFieldLabel" value="Id. principal"/>
+  <translation key="NoteAndAttachment.Title" type="SfFieldLabel" value="Título"/>
+</translations>

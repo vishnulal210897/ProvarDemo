@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrderLineItem.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="WorkOrderLineItem.DurationInMinutes" type="SfFieldLabel" value="Duur in minuten"/>
+  <translation key="WorkOrderLineItem.Id" type="SfFieldLabel" value="Regelitem-ID"/>
+  <translation key="WorkOrderLineItem.IsClosed" type="SfFieldLabel" value="Is gesloten"/>
+  <translation key="WorkOrderLineItem.LineItemNumber" type="SfFieldLabel" value="Werkorderregelitemnummer"/>
+  <translation key="WorkOrderLineItem.OrderId" type="SfFieldLabel" value="{Order}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.ParentWorkOrderLineItemId" type="SfFieldLabel" value="Bovenliggende werkorderregelitem"/>
+  <translation key="WorkOrderLineItem.PricebookEntryId" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="WorkOrderLineItem.RootWorkOrderLineItemId" type="SfFieldLabel" value="Basiswerkorderregelitem"/>
+  <translation key="WorkOrderLineItem.ServiceAppointmentCount" type="SfFieldLabel" value="Serviceafsprakentelling"/>
+  <translation key="WorkOrderLineItem.SuggestedMaintenanceDate" type="SfFieldLabel" value="Datum van voorgesteld onderhoud"/>
+  <translation key="WorkOrderLineItem.Street" type="SfFieldLabel" value="Straat"/>
+  <translation key="WorkOrderLineItem.UnitPrice" type="SfFieldLabel" value="Eenheidsprijs"/>
+  <translation key="WorkOrderLineItem.WorkOrderId" type="SfFieldLabel" value="{WorkOrder}.{SfObject.Label}"/>
+</translations>

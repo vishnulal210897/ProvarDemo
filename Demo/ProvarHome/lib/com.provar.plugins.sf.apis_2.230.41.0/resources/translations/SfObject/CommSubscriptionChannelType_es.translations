@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CommSubscriptionChannelType.Id" type="SfFieldLabel" value="ID tipo di canale di abbonamento alle comunicazioni"/>
+  <translation key="CommSubscriptionChannelType.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="CommSubscriptionChannelType.Owner" type="SfFieldLabel" value="Nome titolare"/>
+</translations>

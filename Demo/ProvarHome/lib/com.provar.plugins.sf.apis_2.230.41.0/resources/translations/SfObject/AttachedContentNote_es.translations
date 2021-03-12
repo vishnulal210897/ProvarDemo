@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AttachedContentNote.ContentDocumentId" type="SfFieldLabel" value="ContentDocument"/>
+  <translation key="AttachedContentNote.ContentSize" type="SfFieldLabel" value="Tamaño de contenido"/>
+  <translation key="AttachedContentNote.CreatedDate" type="SfFieldLabel" value="Creado"/>
+  <translation key="AttachedContentNote.Id" type="SfFieldLabel" value="Id. de nota"/>
+  <translation key="AttachedContentNote.LastModifiedDate" type="SfFieldLabel" value="Fecha de modificación de contenido"/>
+  <translation key="AttachedContentNote.Title" type="SfFieldLabel" value="Título"/>
+</translations>

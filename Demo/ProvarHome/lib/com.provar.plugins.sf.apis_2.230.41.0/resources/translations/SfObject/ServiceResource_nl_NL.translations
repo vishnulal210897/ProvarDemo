@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceResource.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="ServiceResource.Id" type="SfFieldLabel" value="Resource-ID"/>
+  <translation key="ServiceResource.LocationId" type="SfFieldLabel" value="{Location}.{SfObject.Label}"/>
+  <translation key="ServiceResource.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="ServiceResource.Owner" type="SfFieldLabel" value="Eigenaar"/>
+  <translation key="ServiceResource.RelatedRecordId" type="SfFieldLabel" value="Gebruiker"/>
+  <translation key="ServiceResource.ServiceCrewId" type="SfFieldLabel" value="{ServiceCrew}.{SfObject.Label}"/>
+</translations>

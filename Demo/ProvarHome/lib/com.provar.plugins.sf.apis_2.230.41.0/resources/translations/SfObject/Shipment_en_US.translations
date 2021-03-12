@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Shipment.Id" type="SfFieldLabel" value="Shipment ID"/>
+  <translation key="Shipment.Owner" type="SfFieldLabel" value="Owner Name"/>
+  <translation key="Shipment.Provider" type="SfFieldLabel" value="Shipping Provider"/>
+  <translation key="Shipment.ShipFromCity" type="SfFieldLabel" value="Ship From City"/>
+  <translation key="Shipment.ShipFromCountry" type="SfFieldLabel" value="Ship From Country"/>
+  <translation key="Shipment.ShipFromGeocodeAccuracy" type="SfFieldLabel" value="Ship From Geocode Accuracy"/>
+  <translation key="Shipment.ShipFromLatitude" type="SfFieldLabel" value="Ship From Latitude"/>
+  <translation key="Shipment.ShipFromLongitude" type="SfFieldLabel" value="Ship From Longitude"/>
+  <translation key="Shipment.ShipFromPostalCode" type="SfFieldLabel" value="Ship From Zip/Postal Code"/>
+  <translation key="Shipment.ShipFromState" type="SfFieldLabel" value="Ship From State/Province"/>
+  <translation key="Shipment.ShipFromStreet" type="SfFieldLabel" value="Ship From Street"/>
+  <translation key="Shipment.ShipToCity" type="SfFieldLabel" value="Ship To City"/>
+  <translation key="Shipment.ShipToCountry" type="SfFieldLabel" value="Ship To Country"/>
+  <translation key="Shipment.ShipToGeocodeAccuracy" type="SfFieldLabel" value="Ship To  Geocode Accuracy"/>
+  <translation key="Shipment.ShipToLatitude" type="SfFieldLabel" value="Ship To Latitude"/>
+  <translation key="Shipment.ShipToLongitude" type="SfFieldLabel" value="Ship To Longitude"/>
+  <translation key="Shipment.ShipToPostalCode" type="SfFieldLabel" value="Ship To Zip/Postal Code"/>
+  <translation key="Shipment.ShipToState" type="SfFieldLabel" value="Ship To State/Province"/>
+  <translation key="Shipment.ShipToStreet" type="SfFieldLabel" value="Ship To Street"/>
+  <translation key="Shipment.ShipmentNumber" type="SfFieldLabel" value="Shipment Number"/>
+</translations>

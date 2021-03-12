@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Case.CaseNumber" type="SfFieldLabel" value="Numéro de la requête"/>
+  <translation key="Case.ClosedDate" type="SfFieldLabel" value="Date/Heure de fermeture"/>
+  <translation key="Case.CreatedDate" type="SfFieldLabel" value="Date/Heure d'ouverture"/>
+  <translation key="Case.Id" type="SfFieldLabel" value="ID de la requête"/>
+  <translation key="Lead.ContactId" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Case.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Case.Origin" type="SfFieldLabel" value="Origine de la requête"/>
+  <translation key="Case.Owner" relatedListLabel="Propriétaire" type="SfFieldLabel" value="Propriétaire de la requête"/>
+  <translation key="Case.Owner_Alias" type="SfFieldLabel" value="Alias du propriétaire de la requête"/>
+  <translation key="Case.Parent" type="SfFieldLabel" value="ID de la requête principale"/>
+  <translation key="Case.Reason" type="SfFieldLabel" value="Motif de la requête"/>
+  <translation key="Case.RecordType" type="SfFieldLabel" value="Type d'enregistrement de requête"/>
+  <translation key="Case.ContactId" type="SfFieldLabel" value="Nom de l'autorisation"/>
+  <translation key="Case.EntitlementId" type="SfFieldLabel" value="Nom du contact"/>
+  <translation key="Case.SuppliedeEmail" type="SfFieldLabel" value="E-mail Web"/>
+  <translation key="Case.Type" type="SfFieldLabel" value="Type de requête"/>
+  <translation key="*.*.Case Information" type="SfLayoutSectionLabel" value="Informations sur la requête"/>
+  <translation key="*.*.Additional Information" type="SfLayoutSectionLabel" value="Informations supplémentaires"/>
+  <translation key="*.*.Description Information" type="SfLayoutSectionLabel" value="Description"/>
+</translations>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="UserProvisioningRequest.Id" type="SfFieldLabel" value="Benutzerbereitstellungsanforderungs-ID"/>
+  <translation key="UserProvisioningRequest.ManagerId" type="SfFieldLabel" value="Manager des Salesforce-Benutzers"/>
+  <translation key="UserProvisioningRequest.Owner" type="SfFieldLabel" value="Inhabername"/>
+  <translation key="UserProvisioningRequest.ParentId" type="SfFieldLabel" value="Übergeordnet"/>
+  <translation key="UserProvisioningRequest.State" type="SfFieldLabel" value="Status"/>
+</translations>

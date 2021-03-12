@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sfObjectInfo name="EmailTemplate">
+	<defaultListViewColumns>Name, Description, FolderId, LastModifiedById, LastModifiedDate</defaultListViewColumns>
+	<homeListColumns>Name, Description, FolderId, LastModifiedById, LastModifiedDate</homeListColumns>
+	<searchResultColumns>Name, Description, FolderId, LastModifiedById, LastModifiedDate</searchResultColumns>
+	<standardActions>
+    	<sfActionLink modes="List ObjectHome" lightningActionName="NewEmailTemplate" n="New" t="New EmailTemplate"/>
+	</standardActions>
+</sfObjectInfo>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="GtwyProvPaymentMethodType.Comments" type="SfFieldLabel" value="Comentarios"/>
+  <translation key="GtwyProvPaymentMethodType.CreatedById" type="SfFieldLabel" value="Creado por"/>
+  <translation key="GtwyProvPaymentMethodType.CreatedDate" type="SfFieldLabel" value="Fecha de creación"/>
+  <translation key="GtwyProvPaymentMethodType.GtwyProviderPaymentMethodType" type="SfFieldLabel" value="Tipo de método de pago de proveedor de pasarela"/>
+  <translation key="GtwyProvPaymentMethodType.Id" type="SfFieldLabel" value="Id. de Tipo de método de pago de proveedor de pasarela"/>
+  <translation key="GtwyProvPaymentMethodType.IsDeleted" type="SfFieldLabel" value="Eliminado"/>
+  <translation key="GtwyProvPaymentMethodType.Language" type="SfFieldLabel" value="Idioma principal"/>
+  <translation key="GtwyProvPaymentMethodType.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="GtwyProvPaymentMethodType.LastModifiedDate" type="SfFieldLabel" value="Fecha de la última modificación"/>
+  <translation key="GtwyProvPaymentMethodType.LastViewedDate" type="SfFieldLabel" value="Fecha de última visualización"/>
+  <translation key="GtwyProvPaymentMethodType.MasterLabel" type="SfFieldLabel" value="Etiqueta"/>
+  <translation key="GtwyProvPaymentMethodType.NamespacePrefix" type="SfFieldLabel" value="Prefijo de espacio de nombres"/>
+  <translation key="GtwyProvPaymentMethodType.SystemModstamp" type="SfFieldLabel" value="Modstamp del sistema"/>
+</translations>

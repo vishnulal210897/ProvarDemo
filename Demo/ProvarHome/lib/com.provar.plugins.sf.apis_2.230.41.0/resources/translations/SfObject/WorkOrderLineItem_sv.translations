@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrderLineItem.LineItemNumber" type="SfFieldLabel" value="Arbetsorderradartikelnummer"/>
+  <translation key="WorkOrderLineItem.Street" type="SfFieldLabel" value="Gata"/>
+</translations>

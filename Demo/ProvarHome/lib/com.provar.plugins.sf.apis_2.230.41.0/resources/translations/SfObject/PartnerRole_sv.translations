@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerRole.ApiName" type="SfFieldLabel" value="Nome API"/>
+  <translation key="PartnerRole.Id" type="SfFieldLabel" value="ID valore ruolo partner"/>
+  <translation key="PartnerRole.MasterLabel" type="SfFieldLabel" value="Etichetta principale"/>
+  <translation key="PartnerRole.SortOrder" type="SfFieldLabel" value="Ordinamento"/>
+</translations>

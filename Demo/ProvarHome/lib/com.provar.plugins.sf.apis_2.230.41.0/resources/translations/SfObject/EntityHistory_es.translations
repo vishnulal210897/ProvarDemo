@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EntityHistory.Action" type="SfFieldLabel" value="Acción"/>
+  <translation key="EntityHistory.CreatedById" type="SfFieldLabel" value="Usuario"/>
+  <translation key="EntityHistory.CreatedDate" type="SfFieldLabel" value="Fecha"/>
+  <translation key="EntityHistory.Field" type="SfFieldLabel" value="Campo"/>
+  <translation key="EntityHistory.NewValue" type="SfFieldLabel" value="Valor nuevo"/>
+  <translation key="EntityHistory.OldValue" type="SfFieldLabel" value="Valor original"/>
+  <translation key="EntityHistory.OriginalActorId" type="SfFieldLabel" value="Asignado a"/>	
+  <translation key="EntityHistory.ActorId" type="SfFieldLabel" value="Aprobador real"/>	
+  <translation key="EntityHistory.Comments" type="SfFieldLabel" value="Comentarios"/>
+</translations>

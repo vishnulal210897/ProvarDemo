@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpportunityLineItem.Description" type="SfFieldLabel" value="Descrizione riga"/>
+  <translation key="OpportunityLineItem.Id" type="SfFieldLabel" value="ID voce"/>
+  <translation key="OpportunityLineItem.Name" type="SfFieldLabel" value="Nome prodotto opportunità"/>
+  <translation key="OpportunityLineItem.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+  <translation key="OpportunityLineItem.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="OpportunityLineItem.ProductId" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="OpportunityLineItem.QuoteLineItemId" type="SfFieldLabel" value="{QuoteLineItem}.{SfObject.Label}"/>
+  <translation key="OpportunityLineItem.SortOrder" type="SfFieldLabel" value="Ordinamento"/>
+</translations>

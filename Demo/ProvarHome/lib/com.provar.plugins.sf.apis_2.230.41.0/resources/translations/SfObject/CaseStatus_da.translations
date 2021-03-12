@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseStatus.Id" type="SfFieldLabel" value="Sagsstatusværdi-id"/>
+  <translation key="CaseStatus.IsClosed" type="SfFieldLabel" value="Er lukket"/>
+  <translation key="CaseStatus.MasterLabel" type="SfFieldLabel" value="Overordnet betegnelse"/>
+  <translation key="CaseStatus.SortOrder" type="SfFieldLabel" value="Sorteringsrækkefølge"/>
+</translations>

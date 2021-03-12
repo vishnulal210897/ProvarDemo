@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CombinedAttachment.ContentSize" type="SfFieldLabel" value="Taille du contenu"/>
+  <translation key="CombinedAttachment.ContentUrl" type="SfFieldLabel" value="URL de contenu"/>
+  <translation key="CombinedAttachment.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="CombinedAttachment.CreatedDate" type="SfFieldLabel" value="Created"/>
+  <translation key="CombinedAttachment.FileExtension" type="SfFieldLabel" value="Extension de fichier"/>
+  <translation key="CombinedAttachment.FileType" type="SfFieldLabel" value="Type de fichier"/>
+  <translation key="CombinedAttachment.Id" type="SfFieldLabel" value="ID de pièce jointe combiné"/>
+  <translation key="CombinedAttachment.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="CombinedAttachment.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="CombinedAttachment.LastModifiedDate" type="SfFieldLabel" value="Date de la modification du contenu"/>
+  <translation key="CombinedAttachment.ParentId" type="SfFieldLabel" value="Parent"/>
+  <translation key="CombinedAttachment.RecordType" type="SfFieldLabel" value="Type"/>
+  <translation key="CombinedAttachment.SharingOption" type="SfFieldLabel" value="Empêcher les autres de partager et d'annuler le partage"/>
+  <translation key="CombinedAttachment.Title" type="SfFieldLabel" value="Titre"/>
+</translations>

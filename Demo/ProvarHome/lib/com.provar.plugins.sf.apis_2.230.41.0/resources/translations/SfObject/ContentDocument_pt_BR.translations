@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContentDocument.ArchivedById" type="SfFieldLabel" value="Do usuário"/>
+  <translation key="ContentDocument.ArchivedDate" type="SfFieldLabel" value="Data do arquivamento"/>
+  <translation key="ContentDocument.ContentModifiedDate" type="SfFieldLabel" value="Data da modificação do conteúdo"/>
+  <translation key="ContentDocument.ContentSize" type="SfFieldLabel" value="Tamanho"/>
+  <translation key="ContentDocument.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="ContentDocument.CreatedDate" type="SfFieldLabel" value="Criado em"/>
+  <translation key="ContentDocument.Description" type="SfFieldLabel" value="Descrição"/>
+  <translation key="ContentDocument.FileExtension" type="SfFieldLabel" value="Extensão de arquivo"/>
+  <translation key="ContentDocument.FileType" type="SfFieldLabel" value="Tipo de arquivo"/>
+  <translation key="ContentDocument.Id" type="SfFieldLabel" value="ContentDocument ID"/>
+  <translation key="ContentDocument.IsArchived" type="SfFieldLabel" value="Está arquivado"/>
+  <translation key="ContentDocument.IsDeleted" type="SfFieldLabel" value="É excluído"/>
+  <translation key="ContentDocument.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="ContentDocument.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="ContentDocument.LastReferencedDate" type="SfFieldLabel" value="Última data citada"/>
+  <translation key="ContentDocument.LastViewedDate" type="SfFieldLabel" value="Data da última visualização"/>
+  <translation key="ContentDocument.Owner" type="SfFieldLabel" value="Do proprietário"/>
+  <translation key="ContentDocument.ParentId" type="SfFieldLabel" value="Pai"/>
+  <translation key="ContentDocument.PublishStatus" type="SfFieldLabel" value="Publicar status"/>
+  <translation key="ContentDocument.SharingOption" type="SfFieldLabel" value="Evitar que outras pessoas compartilhem e cancelem o compartilhamento"/>
+  <translation key="ContentDocument.SharingPrivacy" type="SfFieldLabel" value="Privacidade de arquivo em registros"/>
+  <translation key="ContentDocument.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+  <translation key="ContentDocument.Title" type="SfFieldLabel" value="Título"/>
+</translations>

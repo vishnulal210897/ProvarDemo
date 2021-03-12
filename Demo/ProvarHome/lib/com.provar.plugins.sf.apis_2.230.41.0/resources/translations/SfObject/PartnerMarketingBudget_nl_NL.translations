@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerMarketingBudget.Id" type="SfFieldLabel" value="ID van marketingbudget van partner"/>
+  <translation key="PartnerMarketingBudget.ParentMdfBudgetId" type="SfFieldLabel" value="ID van marketingbudget van partner"/>
+  <translation key="PartnerMarketingBudget.Title" type="SfFieldLabel" value="Naam van marketingbudget van partner"/>
+</translations>

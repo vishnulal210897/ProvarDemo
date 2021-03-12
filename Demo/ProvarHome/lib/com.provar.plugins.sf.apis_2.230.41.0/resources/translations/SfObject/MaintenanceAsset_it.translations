@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MaintenanceAsset.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="MaintenanceAsset.Id" type="SfFieldLabel" value="ID asset di manutenzione"/>
+  <translation key="MaintenanceAsset.MaintenanceAssetNumber" type="SfFieldLabel" value="Numero asset di manutenzione"/>
+</translations>

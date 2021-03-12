@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerRole.Id" type="SfFieldLabel" value="Wert-ID für Partnerrolle"/>
+  <translation key="PartnerRole.SortOrder" type="SfFieldLabel" value="Sortierreihenfolge"/>
+</translations>

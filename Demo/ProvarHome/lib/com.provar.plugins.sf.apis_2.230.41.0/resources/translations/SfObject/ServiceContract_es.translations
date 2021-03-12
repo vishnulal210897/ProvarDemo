@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceContract.BillingState" type="SfFieldLabel" value="Provincia de facturación"/>
+  <translation key="ServiceContract.BillingStateCode" type="SfFieldLabel" value="Código de estado de facturación"/>
+  <translation key="ServiceContract.CurrencyIsoCode" type="SfFieldLabel" value="Divisa"/>
+  <translation key="ServiceContract.GrandTotal" type="SfFieldLabel" value="Suma total"/>
+  <translation key="ServiceContract.Id" type="SfFieldLabel" value="ID de contrato de servicio"/>
+  <translation key="ServiceContract.Name" type="SfFieldLabel" value="Nombre de contrato"/>
+  <translation key="ServiceContract.Owner" type="SfFieldLabel" value="Propietario de contrato de servicio"/>
+  <translation key="ServiceContract.ParentServiceContractId" type="SfFieldLabel" value="Contrato de servicio principal"/>
+  <translation key="ServiceContract.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="ServiceContract.RootServiceContractId" type="SfFieldLabel" value="Contrato de servicio raíz"/>
+  <translation key="ServiceContract.ShippingHandling" type="SfFieldLabel" value="Gastos de envío"/>
+  <translation key="ServiceContract.ShippingState" type="SfFieldLabel" value="Provincia de envío"/>
+  <translation key="ServiceContract.ShippingStateCode" type="SfFieldLabel" value="Código de estado de envío"/>
+  <translation key="ServiceContract.Tax" type="SfFieldLabel" value="Impuesto"/>
+</translations>

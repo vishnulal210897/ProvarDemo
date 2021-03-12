@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CampaignMember.CampaignId" type="SfFieldLabel" value="{Campaign}.{SfObject.Label}"/>
+  <translation key="CampaignMember.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="CampaignMember.CurrencyIsoCode" type="SfFieldLabel" value="Divisa de miembro de campaña"/>
+  <translation key="CampaignMember.Id" type="SfFieldLabel" value="Id. de miembro de la campaña"/>
+  <translation key="CampaignMember.IsPrimary" type="SfFieldLabel" value="Es principal"/>
+  <translation key="CampaignMember.LeadId" type="SfFieldLabel" value="{Lead}.{SfObject.Label}"/>
+  <translation key="CampaignMember.Name" type="SfFieldLabel" value="Nombre"/>
+  <translation key="CampaignMember.State" type="SfFieldLabel" value="Estado o provincia"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="IdeaComment.CommentBody" type="SfFieldLabel" value="Kommentartext"/>
+  <translation key="IdeaComment.Id" type="SfFieldLabel" value="Ideenkommentar-ID"/>
+  <translation key="IdeaComment.ParentDescription" type="SfFieldLabel" value="Ideentext"/>
+</translations>

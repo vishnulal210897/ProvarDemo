@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Partner.AccountFromId" relatedListLabel="{Partner}.{SfObject.Label}" type="SfFieldLabel" value="Account From"/>
+  <translation key="Partner.AccountToId" relatedListLabel="{Partner}.{SfObject.Label}" type="SfFieldLabel" value="Account To"/>
+  <translation key="Partner.Id" type="SfFieldLabel" value="Partner ID"/>
+  <translation key="Partner.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+  <translation key="Partner.ReversePartnerId" type="SfFieldLabel" value="Reverse Partner"/>
+</translations>

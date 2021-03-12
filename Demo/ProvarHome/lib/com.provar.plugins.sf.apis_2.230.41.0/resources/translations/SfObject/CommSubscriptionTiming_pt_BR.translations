@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CommSubscriptionTiming.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="CommSubscriptionTiming.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="CommSubscriptionTiming.CurrencyIsoCode" type="SfFieldLabel" value="Code ISO de devise"/>
+  <translation key="CommSubscriptionTiming.Id" type="SfFieldLabel" value="ID de période d'abonnement aux communications"/>
+  <translation key="CommSubscriptionTiming.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="CommSubscriptionTiming.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="CommSubscriptionTiming.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="CommSubscriptionTiming.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="CommSubscriptionTiming.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="CommSubscriptionTiming.Name" type="SfFieldLabel" value="Nom"/>
+  <translation key="CommSubscriptionTiming.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="CommSubscriptionTiming.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

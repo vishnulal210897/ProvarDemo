@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ShiftStatus.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="ShiftStatus.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="ShiftStatus.Id" type="SfFieldLabel" value="ID do valor de status do turno"/>
+  <translation key="ShiftStatus.IsDefault" type="SfFieldLabel" value="Padrão"/>
+  <translation key="ShiftStatus.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="ShiftStatus.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="ShiftStatus.SortOrder" type="SfFieldLabel" value="Ordem de classificação"/>
+  <translation key="ShiftStatus.StatusCode" type="SfFieldLabel" value="Código do status"/>
+  <translation key="ShiftStatus.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetRelationship.AssetRelationshipNumber" type="SfFieldLabel" value="Numéro de relation d'actif"/>
+  <translation key="AssetRelationship.Id" type="SfFieldLabel" value="ID de relation d'actif"/>
+</translations>

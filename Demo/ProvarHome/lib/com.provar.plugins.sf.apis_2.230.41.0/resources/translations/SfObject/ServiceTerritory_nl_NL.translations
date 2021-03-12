@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceTerritory.Address" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ServiceTerritory.Id" type="SfFieldLabel" value="Territorium-ID"/>
+  <translation key="ServiceTerritory.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="ServiceTerritory.OperatingHoursId" type="SfFieldLabel" value="{OperatingHours}.{SfObject.Label}"/>
+  <translation key="ServiceTerritory.Owner" type="SfFieldLabel" value="Eigenaar"/>
+  <translation key="ServiceTerritory.Street" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ServiceTerritory.TopLevelTerritoryId" type="SfFieldLabel" value="Territorium op hoogste niveau"/>
+</translations>

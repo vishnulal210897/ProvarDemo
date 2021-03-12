@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ConsumptionSchedule.Id" type="SfFieldLabel" value="Verbrauchsplan-ID"/>
+  <translation key="ConsumptionSchedule.Name" type="SfFieldLabel" value="Verbrauchsplanname"/>
+  <translation key="ConsumptionSchedule.Owner" type="SfFieldLabel" value="Inhabername"/>
+</translations>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrder.Id" type="SfFieldLabel" value="Arbetsorder-ID"/>
+  <translation key="WorkOrder.ParentWorkOrderId" type="SfFieldLabel" value="ID för överordnad arbetsorder"/>
+  <translation key="WorkOrder.RootWorkOrderId" type="SfFieldLabel" value="ID för rotarbetsorder"/>
+  <translation key="WorkOrder.WorkOrderNumber" type="SfFieldLabel" value="Arbetsordernummer"/>
+  <translation key="WorkOrder.Street" type="SfFieldLabel" value="Gata"/>
+</translations>

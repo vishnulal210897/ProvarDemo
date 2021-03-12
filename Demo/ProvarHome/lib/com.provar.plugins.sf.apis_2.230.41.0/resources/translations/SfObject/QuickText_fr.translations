@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="QuickText.Id" type="SfFieldLabel" value="ID de Texte rapide"/>
+  <translation key="QuickText.Name" type="SfFieldLabel" value="Nom du Texte rapide"/>
+</translations>

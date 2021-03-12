@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkType.DurationInMinutes" type="SfFieldLabel" value="Duración en minutos"/>
+  <translation key="WorkType.Id" type="SfFieldLabel" value="Id. de tipo de trabajo"/>
+  <translation key="WorkType.Name" type="SfFieldLabel" value="Nombre de tipo de trabajo"/>
+  <translation key="WorkType.Owner" type="SfFieldLabel" value="Propietario"/>
+</translations>

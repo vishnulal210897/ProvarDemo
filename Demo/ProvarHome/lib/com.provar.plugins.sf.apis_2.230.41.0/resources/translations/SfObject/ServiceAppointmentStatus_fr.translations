@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceAppointmentStatus.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ServiceAppointmentStatus.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="ServiceAppointmentStatus.Id" type="SfFieldLabel" value="ID de valeur de statut du rendez-vous de service"/>
+  <translation key="ServiceAppointmentStatus.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ServiceAppointmentStatus.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="ServiceAppointmentStatus.SortOrder" type="SfFieldLabel" value="Ordre de tri"/>
+  <translation key="ServiceAppointmentStatus.StatusCode" type="SfFieldLabel" value="Code de statut"/>
+  <translation key="ServiceAppointmentStatus.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+</translations>

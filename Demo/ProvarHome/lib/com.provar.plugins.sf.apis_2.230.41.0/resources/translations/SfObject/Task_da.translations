@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Task.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Task.ActivityDate" type="SfFieldLabel" value="Forfaldsdato"/>
+  <translation key="Task.ArchivedDate" type="SfFieldLabel" value="Datum van archiveren"/>
+  <translation key="Task.ConnectionReceivedDate" type="SfFieldLabel" value="Verbinding ontvangen op datum"/>
+  <translation key="Task.ConnectionSentDate" type="SfFieldLabel" value="Verbinding verzonden op datum"/>
+  <translation key="Task.CreatedDate" type="SfFieldLabel" value="Aanmaakdatum"/>
+  <translation key="Task.CurrencyIsoCode" type="SfFieldLabel" value="Aktivitetsvaluta"/>
+  <translation key="Task.Description" type="SfFieldLabel" value="Kommentarer"/>
+  <translation key="Task.Email" type="SfFieldLabel" value="E-mail"/>
+  <translation key="Task.Id" type="SfFieldLabel" value="Activiteit-id"/>
+  <translation key="Task.IsArchived" type="SfFieldLabel" value="Gearchiveerd"/>
+  <translation key="Task.IsClosed" type="SfFieldLabel" value="Gesloten"/>
+  <translation key="Task.IsDeleted" type="SfFieldLabel" value="Verwijderd"/>
+  <translation key="Task.IsReminderSet" type="SfFieldLabel" value="Påmindelsesindstilling"/>
+  <translation key="Task.IsVisibleInSelfService" type="SfFieldLabel" value="Openbaar"/>
+  <translation key="Task.LastModifiedDate" type="SfFieldLabel" value="Sidst ændret dato/id"/>
+  <translation key="Task.Owner" type="SfFieldLabel" value="Tildelt til"/>
+  <translation key="Task.Phone" type="SfFieldLabel" value="Telefoon"/>
+  <translation key="Task.Priority" type="SfFieldLabel" value="Prioritet"/>
+  <translation key="Task.RecurrenceActivityId" type="SfFieldLabel" value="Terugkerende activiteit"/>
+  <translation key="Task.RecurrenceDayOfMonth" type="SfFieldLabel" value="Terugkerende dag van maand"/>
+  <translation key="Task.RecurrenceDayOfWeekMask" type="SfFieldLabel" value="Terugkerende dag van weekmasker"/>
+  <translation key="Task.RecurrenceEndDateOnly" type="SfFieldLabel" value="Einde van herhaling"/>
+  <translation key="Task.RecurrenceInstance" type="SfFieldLabel" value="Terugkerende instance"/>
+  <translation key="Task.RecurrenceInterval" type="SfFieldLabel" value="Gentagelsesinterval"/>
+  <translation key="Task.RecurrenceMonthOfYear" type="SfFieldLabel" value="Terugkerende maand van jaar"/>
+  <translation key="Task.RecurrenceTimeZoneSidKey" type="SfFieldLabel" value="Terugkerende tijdzone"/>
+  <translation key="Task.RecurrenceType" type="SfFieldLabel" value="Terugkeringstype"/>
+  <translation key="Task.ReminderDateTime" type="SfFieldLabel" value="Herinneringsdatum/-tijd"/>
+  <translation key="Task.Subject" type="SfFieldLabel" value="Emne"/>
+  <translation key="Task.SystemModstamp" type="SfFieldLabel" value="Systeemwijzigingsstempel"/>
+  <translation key="Task.WhatId" type="SfFieldLabel" value="Relateret til"/>
+  <translation key="Task.WhoId" type="SfFieldLabel" value="Navn"/>
+</translations>

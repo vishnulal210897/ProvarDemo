@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LiveChatVisitor.Id" type="SfFieldLabel" value="ID de Visiteur Live Chat"/>
+  <translation key="LiveChatVisitor.Name" type="SfFieldLabel" value="Nom du Visiteur Live Chat"/>
+</translations>

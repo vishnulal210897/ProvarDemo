@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentMethod.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="PaymentMethod.Id" type="SfFieldLabel" value="Id for betalingsmetode"/>
+  <translation key="PaymentMethod.Name" type="SfFieldLabel" value="Navn"/>
+</translations>

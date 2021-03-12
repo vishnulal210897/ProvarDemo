@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="EntityHistory.Action" type="SfFieldLabel" value="Åtgärd"/>
+  <translation key="EntityHistory.CreatedById" type="SfFieldLabel" value="Användare"/>
+  <translation key="EntityHistory.CreatedDate" type="SfFieldLabel" value="Datum"/>
+  <translation key="EntityHistory.Field" type="SfFieldLabel" value="Fält"/>
+  <translation key="EntityHistory.NewValue" type="SfFieldLabel" value="Nytt värde"/>
+  <translation key="EntityHistory.OldValue" type="SfFieldLabel" value="Ursprungsvärde"/>
+  <translation key="EntityHistory.OriginalActorId" type="SfFieldLabel" value="Tilldelad till"/>	
+  <translation key="EntityHistory.ActorId" type="SfFieldLabel" value="Faktisk godkännare"/>	
+  <translation key="EntityHistory.Comments" type="SfFieldLabel" value="Kommentarer"/>
+</translations>

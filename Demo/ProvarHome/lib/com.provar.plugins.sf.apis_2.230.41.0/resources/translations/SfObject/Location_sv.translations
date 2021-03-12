@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Location.Id" type="SfFieldLabel" value="Plats-ID"/>
+  <translation key="Location.IsInventoryLocation" type="SfFieldLabel" value="Lagerplats"/>
+  <translation key="Location.IsMobile" type="SfFieldLabel" value="Mobil plats"/>
+  <translation key="Location.Location" type="SfFieldLabel" value="Plats"/>
+  <translation key="Location.LocationLevel" type="SfFieldLabel" value="Platsnivå"/>
+  <translation key="Location.LocationType" type="SfFieldLabel" value="Platstyp"/>
+  <translation key="Location.Name" type="SfFieldLabel" value="Platsnamn"/>
+  <translation key="Location.ParentLocationId" type="SfFieldLabel" value="ID för överordnad plats"/>
+  <translation key="Location.RootLocationId" type="SfFieldLabel" value="Rotplats-ID"/>
+</translations>

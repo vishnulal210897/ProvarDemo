@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductRequestLineItem.Id" type="SfFieldLabel" value="ID för produktbegäranradartikel"/>
+  <translation key="ProductRequestLineItem.ProductRequestLineItemNumber" type="SfFieldLabel" value="Produktbegäranradartikelnummer"/>
+</translations>

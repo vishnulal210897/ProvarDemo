@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OpenActivity.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="OpenActivity.Description" type="SfFieldLabel" value="Kommentar"/>
+  <translation key="OpenActivity.Id" type="SfFieldLabel" value="Aktivitäts-ID"/>
+  <translation key="OpenActivity.IsTask" type="SfFieldLabel" value="{Task}.{SfObject.Label}"/>
+  <translation key="OpenActivity.Owner" type="SfFieldLabel" value="Zugeordnet zu"/>
+  <translation key="OpenActivity.WhatId" type="SfFieldLabel" value="Für Bezug zu"/>
+  <translation key="OpenActivity.WhoId" type="SfFieldLabel" value="Des Namens"/>
+</translations>

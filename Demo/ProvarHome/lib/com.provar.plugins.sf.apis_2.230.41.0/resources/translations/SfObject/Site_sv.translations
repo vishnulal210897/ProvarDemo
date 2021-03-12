@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Site.Description" type="SfFieldLabel" value="Descrizione sito"/>
+  <translation key="Site.Id" type="SfFieldLabel" value="ID sito"/>
+  <translation key="Site.MasterLabel" type="SfFieldLabel" value="Etichetta sito"/>
+  <translation key="Site.Name" type="SfFieldLabel" value="Nome sito"/>
+  <translation key="Site.OptionsBrowserXssProtection" type="SfFieldLabel" value="Aktivera skydd för webbläsare mot attacker med skript för flera webbplatser"/>
+  <translation key="Site.Status" type="SfFieldLabel" value="Stato sito"/>
+</translations>

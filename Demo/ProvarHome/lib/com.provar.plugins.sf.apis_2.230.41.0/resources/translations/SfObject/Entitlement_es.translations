@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Entitlement.AssetId" type="SfFieldLabel" value="Nombre de activo"/>
+  <translation key="Entitlement.CasesPerEntitlement" type="SfFieldLabel" value="Casos por Asignación"/>
+  <translation key="Entitlement.CurrencyIsoCode" type="SfFieldLabel" value="Divisa"/>
+  <translation key="Entitlement.Id" type="SfFieldLabel" value="ID de asignación"/>
+  <translation key="Entitlement.Name" type="SfFieldLabel" value="Nombre de asignación"/>
+  <translation key="Entitlement.ServiceContractId" type="SfFieldLabel" value="{ServiceContract}.{SfObject.Label}"/>
+  <translation key="Entitlement.SlaProcessId" type="SfFieldLabel" value="Proceso de asignación"/>
+</translations>

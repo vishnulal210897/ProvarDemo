@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContentNote.ContentSize" type="SfFieldLabel" value="Størrelse"/>
+  <translation key="ContentNote.CreatedDate" type="SfFieldLabel" value="Oprettet"/>
+  <translation key="ContentNote.Id" type="SfFieldLabel" value="Notat-id"/>
+  <translation key="ContentNote.LastModifiedDate" type="SfFieldLabel" value="Sidst ændret"/>
+  <translation key="ContentNote.LatestPublishedVersionId" type="SfFieldLabel" value="ContentVersion-id"/>
+  <translation key="ContentNote.SharingPrivacy" type="SfFieldLabel" value="Notatfortrolighed på registreringer"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FieldSecurityClassification.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="FieldSecurityClassification.Id" type="SfFieldLabel" value="Feldsicherheitsklassifizierungs-ID"/>
+  <translation key="FieldSecurityClassification.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="FieldSecurityClassification.SortOrder" type="SfFieldLabel" value="Sortierreihenfolge"/>
+</translations>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="TaskStatus.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="TaskStatus.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="TaskStatus.Id" type="SfFieldLabel" value="ID do valor do status da tarefa"/>
+  <translation key="TaskStatus.IsClosed" type="SfFieldLabel" value="Fechado"/>
+  <translation key="TaskStatus.IsDefault" type="SfFieldLabel" value="Padrão"/>
+  <translation key="TaskStatus.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="TaskStatus.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="TaskStatus.SortOrder" type="SfFieldLabel" value="Ordem de classificação"/>
+  <translation key="TaskStatus.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MacroInstruction.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="MacroInstruction.Id" type="SfFieldLabel" value="Macro-instructie-ID"/>
+  <translation key="MacroInstruction.Name" type="SfFieldLabel" value="Macro-instructienaam"/>
+  <translation key="MacroInstruction.SortOrder" type="SfFieldLabel" value="Sorteervolgorde"/>
+</translations>

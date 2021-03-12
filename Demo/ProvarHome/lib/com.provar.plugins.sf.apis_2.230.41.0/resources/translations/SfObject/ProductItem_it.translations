@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductItem.Id" type="SfFieldLabel" value="ID articolo di prodotto"/>
+  <translation key="ProductItem.Owner" type="SfFieldLabel" value="Titolare"/>
+  <translation key="ProductItem.Product2Id" type="SfFieldLabel" value="Nome prodotto"/>
+  <translation key="ProductItem.ProductItemNumber" type="SfFieldLabel" value="Numero articolo di prodotto"/>
+</translations>

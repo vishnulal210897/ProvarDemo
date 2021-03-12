@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentGateway.Comments" type="SfFieldLabel" value="Commentaires"/>
+  <translation key="PaymentGateway.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="PaymentGateway.CreatedDate" type="SfFieldLabel" value="Date de création"/>
+  <translation key="PaymentGateway.Id" type="SfFieldLabel" value="ID de passerelle de paiement"/>
+  <translation key="PaymentGateway.IsDeleted" type="SfFieldLabel" value="Supprimé"/>
+  <translation key="PaymentGateway.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="PaymentGateway.LastModifiedDate" type="SfFieldLabel" value="Date de dernière modification"/>
+  <translation key="PaymentGateway.LastReferencedDate" type="SfFieldLabel" value="Dernière date référencée"/>
+  <translation key="PaymentGateway.LastViewedDate" type="SfFieldLabel" value="Date de dernier affichage"/>
+  <translation key="PaymentGateway.PaymentGatewayProviderId" type="SfFieldLabel" value="Fournisseur de passerelle de paiement"/>
+  <translation key="PaymentGateway.SystemModstamp" type="SfFieldLabel" value="Horodateur des modifications du système"/>
+  <translation key="PaymentGateway.UserRecordAccessId" type="SfFieldLabel" value="Niveau d'accès de l'objet"/>
+</translations>

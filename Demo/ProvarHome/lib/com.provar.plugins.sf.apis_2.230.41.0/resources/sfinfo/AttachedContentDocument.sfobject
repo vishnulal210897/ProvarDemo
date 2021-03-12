@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sfObjectInfo label="Attached Content Document" name="AttachedContentDocument">
+  <standardActions>
+    <sfActionLink n="NewFile" t="Upload Files" modes="AttachedContentDocuments" newAction="true" lightningLabel="Add File" lightningActionName="AttachFileFromDevice"/>
+    <sfActionLink n="Preview" t="Preview" modes="AttachedContentDocuments" s="0" requiresRow="true" locator="td[contains(@class, 'actionColumn')]/a[contains(@href, 'javascript:OverlayDialogElement.showFilePreview')]"/>
+    <sfActionLink n="View" t="Download" modes="AttachedContentDocuments" s="1" requiresRow="true" locator="td[contains(@class, 'actionColumn')]/a[contains(@href, 'download')]"/>
+    <sfActionLink n="Delete" t="Delete" modes="AttachedContentDocuments" s="2" requiresRow="true" locator="td[contains(@class, 'actionColumn')]/a[contains(@href, 'deleteredirect.jsp')]" lightningActionName="DeleteFile"/>standardActions>
+    <sfActionLink n="Share" t="Share" modes="AttachedContentDocuments" s="3" requiresRow="true" lightningActionName="ShareFile"/>
+    <sfActionLink n="PublicLink" t="Public Link" modes="AttachedContentDocuments" s="4" requiresRow="true" lightningActionName="FileLinkShare"/>
+    <sfActionLink n="ViewFileDetails" t="View File Details" modes="AttachedContentDocuments" s="5" requiresRow="true" lightningActionName="GetFileDetail"/>
+    <sfActionLink n="UploadNewVersion" t="Upload New Version" modes="AttachedContentDocuments" s="6" requiresRow="true" lightningActionName="NewVersion"/>
+    <sfActionLink n="EditFileDetails" t="Edit File Details" modes="AttachedContentDocuments" s="7" requiresRow="true"/>
+    <sfActionLink n="RemoveFromRecord" t="Remove from Record" modes="AttachedContentDocuments" s="8" requiresRow="true" lightningActionName="DetachFile"/>
+  </standardActions>
+</sfObjectInfo>

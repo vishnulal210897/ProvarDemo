@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Image.ContentDocumentId" type="SfFieldLabel" value="Bestand"/>
+  <translation key="Image.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="Image.Id" type="SfFieldLabel" value="Afbeeldings-ID"/>
+  <translation key="Image.ImageClassObjectType" type="SfFieldLabel" value="Type afbeelding"/>
+  <translation key="Image.ImageTitle" type="SfFieldLabel" value="Titel van afbeelding"/>
+  <translation key="Image.ImageUrl" type="SfFieldLabel" value="Afbeeldings-URL"/>
+  <translation key="Image.ImageViewType" type="SfFieldLabel" value="Type afbeeldingsweergave"/>
+  <translation key="Image.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="Image.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentGateway.Id" type="SfFieldLabel" value="Id for betalingsgateway"/>
+  <translation key="PaymentGateway.PaymentGatewayName" type="SfFieldLabel" value="Navn på betalingsgateway"/>
+  <translation key="PaymentGateway.PaymentGatewayProviderId" type="SfFieldLabel" value="Betalingsgatewayudbyder"/>
+</translations>

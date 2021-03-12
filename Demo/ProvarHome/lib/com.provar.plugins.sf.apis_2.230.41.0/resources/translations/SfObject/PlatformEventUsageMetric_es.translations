@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PlatformEventUsageMetric.EndDate" type="SfFieldLabel" value="Fecha de finalización"/>
+  <translation key="PlatformEventUsageMetric.ExternalId" type="SfFieldLabel" value="Id. externo"/>
+  <translation key="PlatformEventUsageMetric.Id" type="SfFieldLabel" value="Id. de Medición de uso de evento de plataforma"/>
+  <translation key="PlatformEventUsageMetric.Name" type="SfFieldLabel" value="Nombre de medición"/>
+  <translation key="PlatformEventUsageMetric.StartDate" type="SfFieldLabel" value="Fecha de inicio"/>
+  <translation key="PlatformEventUsageMetric.Value" type="SfFieldLabel" value="Valor de medición"/>
+</translations>

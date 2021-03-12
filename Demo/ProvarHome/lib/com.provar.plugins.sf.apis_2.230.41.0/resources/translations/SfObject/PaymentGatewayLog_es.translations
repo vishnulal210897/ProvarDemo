@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentGatewayLog.CreatedById" type="SfFieldLabel" value="Creado por"/>
+  <translation key="PaymentGatewayLog.CreatedDate" type="SfFieldLabel" value="Fecha de creación"/>
+  <translation key="PaymentGatewayLog.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO de divisa"/>
+  <translation key="PaymentGatewayLog.GatewayAuthCode" type="SfFieldLabel" value="Código de autorización de pasarela"/>
+  <translation key="PaymentGatewayLog.GatewayDate" type="SfFieldLabel" value="Fecha de pasarela"/>
+  <translation key="PaymentGatewayLog.GatewayRefNumber" type="SfFieldLabel" value="Número de referencia de pasarela"/>
+  <translation key="PaymentGatewayLog.GatewayResultCode" type="SfFieldLabel" value="Código de resultado de pasarela"/>
+  <translation key="PaymentGatewayLog.GatewayResultCodeDescription" type="SfFieldLabel" value="Código de resultado de pasarela"/>
+  <translation key="PaymentGatewayLog.Id" type="SfFieldLabel" value="Id. de Registro de pasarela de pago"/>
+  <translation key="PaymentGatewayLog.IsDeleted" type="SfFieldLabel" value="Eliminado"/>
+  <translation key="PaymentGatewayLog.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="PaymentGatewayLog.LastModifiedDate" type="SfFieldLabel" value="Fecha de la última modificación"/>
+  <translation key="PaymentGatewayLog.PaymentGatewayId" type="SfFieldLabel" value="Pasarela de pago"/>
+  <translation key="PaymentGatewayLog.PaymentGatewayLogNumber" type="SfFieldLabel" value="Número de Registro de pasarela de pago"/>
+  <translation key="PaymentGatewayLog.SfResultCode" type="SfFieldLabel" value="Código de resultado de Salesforce"/>
+  <translation key="PaymentGatewayLog.SystemModstamp" type="SfFieldLabel" value="Modstamp del sistema"/>
+</translations>

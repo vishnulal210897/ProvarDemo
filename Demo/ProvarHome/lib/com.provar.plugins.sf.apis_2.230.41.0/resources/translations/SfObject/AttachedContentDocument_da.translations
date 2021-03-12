@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AttachedContentDocument.ContentDocumentId" type="SfFieldLabel" value="ContentDocument-id"/>
+  <translation key="AttachedContentDocument.CreatedDate" type="SfFieldLabel" value="Oprettet"/>
+  <translation key="AttachedContentDocument.Id" type="SfFieldLabel" value="Id for indholdsdokumentlink"/>
+  <translation key="AttachedContentDocument.LastModifiedDate" type="SfFieldLabel" value="Sidst ændret"/>
+</translations>

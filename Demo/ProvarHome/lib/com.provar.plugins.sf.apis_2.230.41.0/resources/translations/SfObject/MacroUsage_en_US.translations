@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MacroUsage.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="MacroUsage.Id" type="SfFieldLabel" value="Macro Usage ID"/>
+  <translation key="MacroUsage.Name" type="SfFieldLabel" value="Macro Usage Name"/>
+  <translation key="MacroUsage.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

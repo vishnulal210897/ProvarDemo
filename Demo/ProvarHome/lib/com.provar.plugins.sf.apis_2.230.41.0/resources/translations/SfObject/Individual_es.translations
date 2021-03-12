@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Individual.CanStorePiiElsewhere" type="SfFieldLabel" value="Es correcto almacenar datos de información de indentificación personal en otro lugar"/>
+  <translation key="Individual.Id" type="SfFieldLabel" value="Id. de Persona"/>
+  <translation key="Individual.IndividualsAge" type="SfFieldLabel" value="Edad de la persona"/>
+  <translation key="Individual.MasterRecordId" type="SfFieldLabel" value="{Individual}.{SfObject.Label}"/>
+  <translation key="Individual.Name" type="SfFieldLabel" value="Nombre completo"/>
+  <translation key="Individual.Owner" type="SfFieldLabel" value="Propietario individual"/>
+  <translation key="Individual.Salutation" type="SfFieldLabel" value="Saludo"/>
+  <translation key="Individual.SendIndividualData" type="SfFieldLabel" value="Exportar datos de persona"/>
+  <translation key="Individual.ShouldForget" type="SfFieldLabel" value="Olvidar a esta persona"/>
+  <translation key="Individual.Website" type="SfFieldLabel" value="Sitio web"/>
+</translations>

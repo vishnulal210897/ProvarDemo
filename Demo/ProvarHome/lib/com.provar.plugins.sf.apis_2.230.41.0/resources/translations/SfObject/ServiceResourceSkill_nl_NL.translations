@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceResourceSkill.Id" type="SfFieldLabel" value="ID van de vaardigheid van de resource"/>
+  <translation key="ServiceResourceSkill.ServiceResourceId" type="SfFieldLabel" value="{ServiceResource}.{SfObject.Label}"/>
+  <translation key="ServiceResourceSkill.SkillId" type="SfFieldLabel" value="Vaardigheid"/>
+</translations>

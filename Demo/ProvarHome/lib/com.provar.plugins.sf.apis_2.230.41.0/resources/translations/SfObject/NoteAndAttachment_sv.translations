@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="NoteAndAttachment.CreatedById" type="SfFieldLabel" value="Skapad av"/>
+  <translation key="NoteAndAttachment.CreatedDate" type="SfFieldLabel" value="Skapad datum"/>
+  <translation key="NoteAndAttachment.Id" type="SfFieldLabel" value="ID för anteckning eller bifogad fil"/>
+  <translation key="NoteAndAttachment.IsDeleted" type="SfFieldLabel" value="Raderad"/>
+  <translation key="NoteAndAttachment.IsPrivate" type="SfFieldLabel" value="Privat"/>
+  <translation key="NoteAndAttachment.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="NoteAndAttachment.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="NoteAndAttachment.Owner" type="SfFieldLabel" value="Ägarens"/>
+  <translation key="NoteAndAttachment.ParentId" type="SfFieldLabel" value="Överordnat"/>
+  <translation key="NoteAndAttachment.SystemModstamp" type="SfFieldLabel" value="System Modstamp"/>
+  <translation key="NoteAndAttachment.Title" type="SfFieldLabel" value="Rubrik"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SolutionStatus.Id" type="SfFieldLabel" value="Løsningsstatusværdi-id"/>
+  <translation key="SolutionStatus.IsReviewed" type="SfFieldLabel" value="Er gennemset"/>
+  <translation key="SolutionStatus.MasterLabel" type="SfFieldLabel" value="Overordnet betegnelse"/>
+  <translation key="SolutionStatus.SortOrder" type="SfFieldLabel" value="Sorteringsrækkefølge"/>
+</translations>

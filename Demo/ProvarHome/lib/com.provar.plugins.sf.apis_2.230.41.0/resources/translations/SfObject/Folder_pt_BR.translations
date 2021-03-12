@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Folder.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="Folder.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="Folder.DeveloperName" type="SfFieldLabel" value="Nome exclusivo da pasta"/>
+  <translation key="Folder.Id" type="SfFieldLabel" value="ID da pasta"/>
+  <translation key="Folder.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="Folder.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="Folder.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="Folder.NamespacePrefix" type="SfFieldLabel" value="Prefixo do namespace"/>
+  <translation key="Folder.ParentId" type="SfFieldLabel" value="Da pasta"/>
+  <translation key="Folder.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

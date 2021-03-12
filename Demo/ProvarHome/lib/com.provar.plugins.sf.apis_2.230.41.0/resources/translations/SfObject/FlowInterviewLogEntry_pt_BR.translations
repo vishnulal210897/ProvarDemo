@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowInterviewLogEntry.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="FlowInterviewLogEntry.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="FlowInterviewLogEntry.Id" type="SfFieldLabel" value="ID da entrada do log da entrevista de fluxo"/>
+  <translation key="FlowInterviewLogEntry.IsDeleted" type="SfFieldLabel" value="Excluído"/>
+  <translation key="FlowInterviewLogEntry.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="FlowInterviewLogEntry.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="FlowInterviewLogEntry.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="FlowInterviewLogEntry.SystemModstamp" type="SfFieldLabel" value="Modstamp do sistema"/>
+</translations>

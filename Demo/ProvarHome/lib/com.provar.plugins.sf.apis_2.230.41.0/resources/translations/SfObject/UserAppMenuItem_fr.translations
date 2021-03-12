@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="UserAppMenuItem.ApplicationId" type="SfFieldLabel" value="ID d'application"/>
+  <translation key="UserAppMenuItem.Id" type="SfFieldLabel" value="ID d'application"/>
+  <translation key="UserAppMenuItem.Type" type="SfFieldLabel" value="Type d'application"/>
+</translations>

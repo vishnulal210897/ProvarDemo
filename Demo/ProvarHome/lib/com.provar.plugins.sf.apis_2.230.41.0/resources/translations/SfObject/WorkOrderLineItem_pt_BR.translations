@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="WorkOrderLineItem.Address" type="SfFieldLabel" value="Indirizzo"/>
+  <translation key="WorkOrderLineItem.City" type="SfFieldLabel" value="Cidade"/>
+  <translation key="WorkOrderLineItem.Country" type="SfFieldLabel" value="País"/>
+  <translation key="WorkOrderLineItem.DurationInMinutes" type="SfFieldLabel" value="Durata in minuti"/>
+  <translation key="WorkOrderLineItem.Id" type="SfFieldLabel" value="ID voce"/>
+  <translation key="WorkOrderLineItem.IsClosed" type="SfFieldLabel" value="È chiuso"/>
+  <translation key="WorkOrderLineItem.Latitude" type="SfFieldLabel" value="Latitude"/>
+  <translation key="WorkOrderLineItem.Longitude" type="SfFieldLabel" value="Longitude"/>
+  <translation key="WorkOrderLineItem.PricebookEntryId" type="SfFieldLabel" value="Prodotto"/>
+  <translation key="WorkOrderLineItem.State" type="SfFieldLabel" value="Estado/Província"/>
+  <translation key="WorkOrderLineItem.Street" type="SfFieldLabel" value="Rua"/>
+  <translation key="WorkOrderLineItem.UnitPrice" type="SfFieldLabel" value="Prezzo unitario"/>
+  <translation key="WorkOrderLineItem.Zip" type="SfFieldLabel" value="CEP"/>
+</translations>

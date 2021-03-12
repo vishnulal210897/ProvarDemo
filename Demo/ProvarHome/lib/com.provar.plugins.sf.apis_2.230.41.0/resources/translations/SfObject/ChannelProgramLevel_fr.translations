@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ChannelProgramLevel.Id" type="SfFieldLabel" value="ID de niveau de programme canal"/>
+</translations>

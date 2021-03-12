@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="OrgDeleteRequest.Id" type="SfFieldLabel" value="Id. de Solicitud de eliminación de organización"/>
+  <translation key="OrgDeleteRequest.Name" type="SfFieldLabel" value="Nombre"/>
+  <translation key="OrgDeleteRequest.Owner" type="SfFieldLabel" value="Nombre del propietario"/>
+</translations>

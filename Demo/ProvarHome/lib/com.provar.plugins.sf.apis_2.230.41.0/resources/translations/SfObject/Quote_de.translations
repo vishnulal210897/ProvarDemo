@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Quote.BillingCity" type="SfFieldLabel" value="Rechnungsanschrift (Stadt)"/>
+  <translation key="Quote.BillingCountry" type="SfFieldLabel" value="Rechnungsanschrift (Land)"/>
+  <translation key="Quote.BillingCountryCode" type="SfFieldLabel" value="Rechnungsanschrift (Bundesstaat/Provinz-Code)"/>
+  <translation key="Quote.BillingGeocodeAccuracy" type="SfFieldLabel" value="Geocode-Genauigkeit für Rechnungsempfänger"/>
+  <translation key="Quote.BillingLatitude" type="SfFieldLabel" value="Rechnungsanschrift (Breitengrad)"/>
+  <translation key="Quote.BillingLongitude" type="SfFieldLabel" value="Rechnungsanschrift (Längengrad)"/>
+  <translation key="Quote.BillingState" type="SfFieldLabel" value="Rechnungsanschrift (Bundesland)"/>
+  <translation key="Quote.BillingStateCode" type="SfFieldLabel" value="Rechnungsanschrift (Ländercode)"/>
+  <translation key="Quote.BillingStreet" type="SfFieldLabel" value="Rechnungsanschrift (Straße)"/>
+  <translation key="Quote.BillingZip" type="SfFieldLabel" value="Rechnungsanschrift (PLZ)"/>
+  <translation key="Quote.ContractId" type="SfFieldLabel" value="{Contract}.{SfObject.Label}"/>
+  <translation key="Quote.CurrencyIsoCode" type="SfFieldLabel" value="Angebotswährung"/>
+  <translation key="Quote.Id" type="SfFieldLabel" value="Angebots-ID"/>
+  <translation key="Quote.Name" type="SfFieldLabel" value="Angebotsname"/>
+  <translation key="Quote.Owner" type="SfFieldLabel" value="Inhabername"/>
+  <translation key="Quote.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+  <translation key="Quote.QuoteNumber" type="SfFieldLabel" value="Angebotsnummer"/>
+  <translation key="Quote.QuoteToAddress" type="SfFieldLabel" value="Angebotsanschrift"/>
+  <translation key="Quote.QuoteToCity" type="SfFieldLabel" value="Angebotsanschrift (Stadt)"/>
+  <translation key="Quote.QuoteToCountry" type="SfFieldLabel" value="Angebotsanschrift (Land)"/>
+  <translation key="Quote.QuoteToCountryCode" type="SfFieldLabel" value="Angebotsanschrift (Ländercode)"/>
+  <translation key="Quote.QuoteToGeocodeAccuracy" type="SfFieldLabel" value="Geocode-Genauigkeit für Angebotsempfänger"/>
+  <translation key="Quote.QuoteToLatitude" type="SfFieldLabel" value="Angebotsanschrift (Breitengrad)"/>
+  <translation key="Quote.QuoteToLongitude" type="SfFieldLabel" value="Angebotsanschrift (Längengrad)"/>
+  <translation key="Quote.QuoteToName" type="SfFieldLabel" value="Angebotsanschrift (Name)"/>
+  <translation key="Quote.QuoteToPostalCode" type="SfFieldLabel" value="Angebotsanschrift (PLZ)"/>
+  <translation key="Quote.QuoteToState" type="SfFieldLabel" value="Angebotsanschrift (Bundesland)"/>
+  <translation key="Quote.QuoteToStateCode" type="SfFieldLabel" value="Angebotsanschrift (Bundesstaat/Provinz-Code)"/>
+  <translation key="Quote.QuoteToStreet" type="SfFieldLabel" value="Angebotsanschrift (Straße)"/>
+  <translation key="Quote.ShippingAddress" type="SfFieldLabel" value="Versandanschrift"/>
+  <translation key="Quote.ShippingCity" type="SfFieldLabel" value="Versandanschrift (Stadt)"/>
+  <translation key="Quote.ShippingCountry" type="SfFieldLabel" value="Versandanschrift (Land)"/>
+  <translation key="Quote.ShippingCountryCode" type="SfFieldLabel" value="Versandanschrift (Ländercode)"/>
+  <translation key="Quote.ShippingGeocodeAccuracy" type="SfFieldLabel" value="Geocode-Genauigkeit für Lieferungsempfänger"/>
+  <translation key="Quote.ShippingLatitude" type="SfFieldLabel" value="Versandanschrift (Breitengrad)"/>
+  <translation key="Quote.ShippingLongitude" type="SfFieldLabel" value="Versandanschrift (Längengrad)"/>
+  <translation key="Quote.ShippingState" type="SfFieldLabel" value="Versandanschrift (Bundesland)"/>
+  <translation key="Quote.ShippingStateCode" type="SfFieldLabel" value="Versandanschrift (Bundesstaat/Provinz-Code)"/>
+  <translation key="Quote.ShippingStreet" type="SfFieldLabel" value="Versandanschrift (Straße)"/>
+  <translation key="Quote.ShippingZip" type="SfFieldLabel" value="Versandanschrift (PLZ)"/>
+</translations>

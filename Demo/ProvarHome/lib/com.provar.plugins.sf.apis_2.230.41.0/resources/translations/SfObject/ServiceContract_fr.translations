@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceContract.BillingCity" type="SfFieldLabel" value="Facturation - Ville"/>
+  <translation key="ServiceContract.BillingCountry" type="SfFieldLabel" value="Facturation - Pays"/>
+  <translation key="ServiceContract.BillingCountryCode" type="SfFieldLabel" value="Facturation - Code de pays"/>
+  <translation key="ServiceContract.BillingLatitude" type="SfFieldLabel" value="Latitude de facturation"/>
+  <translation key="ServiceContract.BillingLongitude" type="SfFieldLabel" value="Longitude de facturation"/>
+  <translation key="ServiceContract.BillingState" type="SfFieldLabel" value="Facturation - État"/>
+  <translation key="ServiceContract.BillingStateCode" type="SfFieldLabel" value="Facturation - Code de région/province"/>
+  <translation key="ServiceContract.BillingStreet" type="SfFieldLabel" value="Facturation - Rue"/>
+  <translation key="ServiceContract.BillingZip" type="SfFieldLabel" value="Facturation - Code postal"/>
+  <translation key="ServiceContract.ContactId" type="SfFieldLabel" value="Contact Name"/>
+  <translation key="ServiceContract.CurrencyIsoCode" type="SfFieldLabel" value="Currency"/>
+  <translation key="ServiceContract.Discount" type="SfFieldLabel" value="Discount"/>
+  <translation key="ServiceContract.Id" type="SfFieldLabel" value="Service Contract ID"/>
+  <translation key="ServiceContract.Name" type="SfFieldLabel" value="Contract Name"/>
+  <translation key="ServiceContract.Owner" type="SfFieldLabel" value="Service Contract Owner"/>
+  <translation key="ServiceContract.ShippingCity" type="SfFieldLabel" value="Expédition - Ville"/>
+  <translation key="ServiceContract.ShippingCountry" type="SfFieldLabel" value="Expédition - Pays"/>
+  <translation key="ServiceContract.ShippingCountryCode" type="SfFieldLabel" value="Expédition - Code de pays"/>
+  <translation key="ServiceContract.ShippingLatitude" type="SfFieldLabel" value="Latitude d'expédition"/>
+  <translation key="ServiceContract.ShippingLongitude" type="SfFieldLabel" value="Longitude d'expédition"/>
+  <translation key="ServiceContract.ShippingState" type="SfFieldLabel" value="Expédition - État"/>
+  <translation key="ServiceContract.ShippingStateCode" type="SfFieldLabel" value="Expédition - Code de région/province"/>
+  <translation key="ServiceContract.ShippingStreet" type="SfFieldLabel" value="Expédition - Rue"/>
+  <translation key="ServiceContract.ShippingZip" type="SfFieldLabel" value="Expédition - Code postal"/>
+  <translation key="ServiceContract.SpecialTerms" type="SfFieldLabel" value="Special Terms"/>
+  <translation key="ServiceContract.Status" type="SfFieldLabel" value="Status"/>
+  <translation key="ServiceContract.Subtotal" type="SfFieldLabel" value="Subtotal"/>
+  <translation key="ServiceContract.TotalPrice" type="SfFieldLabel" value="Total Price"/>
+</translations>

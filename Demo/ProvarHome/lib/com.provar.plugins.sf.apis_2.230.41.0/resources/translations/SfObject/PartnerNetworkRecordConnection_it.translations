@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerNetworkRecordConnection.ConnectionId" type="SfFieldLabel" value="Connessione Rete Partner"/>
+  <translation key="PartnerNetworkRecordConnection.EndDate" type="SfFieldLabel" value="Data di interruzione"/>
+  <translation key="PartnerNetworkRecordConnection.Id" type="SfFieldLabel" value="ID connessione record Rete Partner"/>
+</translations>

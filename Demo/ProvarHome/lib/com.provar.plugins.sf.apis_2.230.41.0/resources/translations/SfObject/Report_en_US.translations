@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Report.CreatedDate" type="SfFieldLabel" value="Created On"/>
+  <translation key="Report.DeveloperName" type="SfFieldLabel" value="Report Unique Name"/>
+  <translation key="Report.FolderId" relatedlistLabel="Report Folder" type="SfFieldLabel" value="Folder"/>
+  <translation key="Report.Id" type="SfFieldLabel" value="Report ID"/>
+  <translation key="Report.Name" type="SfFieldLabel" value="Report Name"/>
+  <translation key="Report.Owner" type="SfFieldLabel" value="Owner"/>
+</translations>

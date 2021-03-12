@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingChannel.Id" type="SfFieldLabel" value="Id. de messaging channel"/>
+  <translation key="MessagingChannel.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="MessagingChannel.Language" type="SfFieldLabel" value="Idioma principal"/>
+  <translation key="MessagingChannel.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="MessagingChannel.LastModifiedDate" type="SfFieldLabel" value="Modificada el"/>
+  <translation key="MessagingChannel.MasterLabel" type="SfFieldLabel" value="Nombre de canal"/>
+</translations>

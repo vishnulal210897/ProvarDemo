@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Asset.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Asset.AccountRollupId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Asset.AssetLevel" type="SfFieldLabel" value="Activumniveau"/>
+  <translation key="Asset.AssetProvidedById" type="SfFieldLabel" value="Activum geleverd door"/>
+  <translation key="Asset.AssetServicedById" type="SfFieldLabel" value="Activum onderhouden door"/>
+  <translation key="Asset.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="Asset.CurrencyIsoCode" type="SfFieldLabel" value="Activumvaluta"/>
+  <translation key="Asset.Id" type="SfFieldLabel" value="Activum-ID"/>
+  <translation key="Asset.IsCompetitorProduct" type="SfFieldLabel" value="Concurrentactivum"/>
+  <translation key="Asset.IsInternal" type="SfFieldLabel" value="Intern activum"/>
+  <translation key="Asset.Name" type="SfFieldLabel" value="Activumnaam"/>
+  <translation key="Asset.Owner" type="SfFieldLabel" value="Activumeigenaar"/>
+  <translation key="Asset.ParentId" type="SfFieldLabel" value="Bovenliggende activum"/>
+  <translation key="Asset.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="Asset.RootAssetId" type="SfFieldLabel" value="Rootactivum"/>
+</translations>
