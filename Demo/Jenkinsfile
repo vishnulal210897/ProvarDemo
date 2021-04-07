@@ -5,8 +5,9 @@ pipeline {
         stage("checkout SCM") {
             steps {
             cleanWs()
-            echo "checkout scm"
-            git url: 'https://github.com/provardemo/ProvarDemo.git'
+            echo 'checkout scm'
+            checkout scm
+            
             
         }
     }
