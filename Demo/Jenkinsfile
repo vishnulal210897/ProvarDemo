@@ -1,0 +1,20 @@
+pipeline {
+    agent any
+    options { skipDefaultCheckout() }
+    stages {
+        stage("checkout SCM") {
+            steps {
+            cleanWs()
+            echo "checkout scm"
+            git url: 'https://github.com/provardemo/ProvarDemo.git'
+            
+        }
+    }
+    stage ("Provar test") {
+        steps{
+            dir('ANT')
+            bat 'ant -f build.xml'
+        }
+    }
+  }
+}
